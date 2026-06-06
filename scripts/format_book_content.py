@@ -4,24 +4,19 @@ import re
 from pathlib import Path
 
 
-BOOK_PAGE_OFFSET = 4
-TOC_PDF_PAGES = {5, 6, 7}
-BOOK_HEADER = "Addawlatul Makkiya"
-
-
 def slugify(value: str) -> str:
     value = value.casefold()
     value = re.sub(r"[^a-z0-9]+", "-", value)
     return value.strip("-") or "section"
 
 
-def clean_page_text(text: str) -> str:
+def clean_page_text(text: str, book_header: str) -> str:
     lines = [line.strip() for line in text.splitlines()]
 
     while lines and not lines[0]:
       lines.pop(0)
 
-    if lines and lines[0].casefold() == BOOK_HEADER.casefold():
+    if lines and lines[0].casefold() == book_header.casefold():
         lines.pop(0)
 
     while lines and not lines[0]:
@@ -60,21 +55,52 @@ def text_to_paragraphs(text: str) -> list[str]:
     return [paragraph for paragraph in paragraphs if paragraph]
 
 
-def parse_table_of_contents(pages: list[dict]) -> list[dict]:
+def parse_page_set(value: str) -> set[int]:
+    pages = set()
+
+    for part in value.split(","):
+        part = part.strip()
+        if "-" in part:
+            start, end = part.split("-", 1)
+            pages.update(range(int(start), int(end) + 1))
+        elif part:
+            pages.add(int(part))
+
+    return pages
+
+
+def parse_table_of_contents(
+    pages: list[dict], toc_pdf_pages: set[int], page_offset: int, book_header: str
+) -> list[dict]:
     entries = []
+    pending_title = ""
 
     for page in pages:
-        if page["pageNumber"] not in TOC_PDF_PAGES:
+        if page["pageNumber"] not in toc_pdf_pages:
             continue
 
         for line in page["text"].splitlines():
             stripped = line.strip()
-            match = re.match(r"^(?P<title>.+?)\s*\.{3,}\s*(?P<page>\d+)\s*$", stripped)
-            if not match:
+            if not stripped:
                 continue
 
-            title = re.sub(r"\s+", " ", match.group("title")).strip(" .")
-            if not title or title.casefold() in {"contents", BOOK_HEADER.casefold()}:
+            if stripped.casefold() in {"contents", book_header.casefold()}:
+                pending_title = ""
+                continue
+
+            if re.fullmatch(r"\d+", stripped):
+                pending_title = ""
+                continue
+
+            match = re.match(r"^(?P<title>.+?)\s*\.{3,}\s*(?P<page>\d+)\s*$", stripped)
+            if not match:
+                if not re.search(r"\.{3,}", stripped):
+                    pending_title = f"{pending_title} {stripped}".strip()
+                continue
+
+            title = re.sub(r"\s+", " ", f"{pending_title} {match.group('title')}").strip(" .")
+            pending_title = ""
+            if not title or title.casefold() in {"contents", book_header.casefold()}:
                 continue
 
             printed_page = int(match.group("page"))
@@ -82,7 +108,7 @@ def parse_table_of_contents(pages: list[dict]) -> list[dict]:
                 {
                     "title": title.title(),
                     "printedPageNumber": printed_page,
-                    "pdfPageNumber": printed_page + BOOK_PAGE_OFFSET,
+                    "pdfPageNumber": printed_page + page_offset,
                 }
             )
 
@@ -98,7 +124,7 @@ def parse_table_of_contents(pages: list[dict]) -> list[dict]:
     return deduped
 
 
-def format_sections(book: dict, toc: list[dict]) -> list[dict]:
+def format_sections(book: dict, toc: list[dict], page_offset: int, book_header: str) -> list[dict]:
     pages_by_number = {page["pageNumber"]: page for page in book["pages"]}
     sections = []
     slug_counts = {}
@@ -117,12 +143,12 @@ def format_sections(book: dict, toc: list[dict]) -> list[dict]:
             if not source_page:
                 continue
 
-            cleaned_text = clean_page_text(source_page["text"])
+            cleaned_text = clean_page_text(source_page["text"], book_header)
             paragraphs = text_to_paragraphs(cleaned_text)
             section_pages.append(
                 {
                     "pageNumber": page_number,
-                    "printedPageNumber": page_number - BOOK_PAGE_OFFSET,
+                    "printedPageNumber": page_number - page_offset,
                     "text": cleaned_text,
                     "paragraphs": paragraphs,
                 }
@@ -152,12 +178,17 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Format extracted book JSON into sections.")
     parser.add_argument("--input", required=True, type=Path)
     parser.add_argument("--output", required=True, type=Path)
+    parser.add_argument("--book-header", required=True)
+    parser.add_argument("--toc-pages", required=True, help="Comma-separated pages or ranges, e.g. 5-7,10")
+    parser.add_argument("--page-offset", default=0, type=int)
     args = parser.parse_args()
 
     book = json.loads(args.input.read_text(encoding="utf-8"))
-    toc = parse_table_of_contents(book["pages"])
+    toc = parse_table_of_contents(
+        book["pages"], parse_page_set(args.toc_pages), args.page_offset, args.book_header
+    )
     book["tableOfContents"] = toc
-    book["sections"] = format_sections(book, toc)
+    book["sections"] = format_sections(book, toc, args.page_offset, args.book_header)
 
     args.output.write_text(json.dumps(book, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Formatted {len(book['sections'])} sections from {len(toc)} contents entries")
