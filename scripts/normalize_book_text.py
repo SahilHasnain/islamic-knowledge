@@ -20,6 +20,11 @@ SPLIT_WAW_SALAWAT_PATTERN = re.compile(
     r"(?:مَ\s*ی\s*)?صَلَّ[\s\S]{0,180}?وَ[\s\S]{0,30}?سَ\s*لَّ(?:\s*مَ\s*ی)?"
 )
 
+ROMAN_SALAWAT_PATTERN = re.compile(
+    r"\bsall?all[aā]h[uo]?\s+al[aiy]+h[ie]?\s+wa\s*sal+am\b",
+    re.IGNORECASE,
+)
+
 BURDA_COUPLET_PATTERN = re.compile(
     r"وضرتھا\s+الدنیا\s+وجودک\s+من\s+فان\s+ومن علومك علم اللوح والقلم"
 )
@@ -92,6 +97,7 @@ def normalize_text(value: str) -> str:
     value = STRICT_SALAWAT_PATTERN.sub("ﷺ", value)
     value = BROAD_SALAWAT_PATTERN.sub("ﷺ", value)
     value = SPLIT_WAW_SALAWAT_PATTERN.sub("ﷺ", value)
+    value = ROMAN_SALAWAT_PATTERN.sub("ﷺ", value)
     value = BURDA_COUPLET_PATTERN.sub(
         "فإن من جودك الدنيا وضرتها ومن علومك علم اللوح والقلم", value
     )
@@ -103,6 +109,9 @@ def normalize_text(value: str) -> str:
         value = value.replace(incorrect, correct)
 
     value = re.sub(r"^وَسَ\s*لَّ\s+", "Huzoor ﷺ ", value)
+    value = re.sub(r"(^|\s)[یي]\s+ﷺ", r"\1ﷺ", value)
+    value = re.sub(r"ﷺ\s+مَ\s*[یي]\s+", "ﷺ ", value)
+    value = re.sub(r"ﷺ\s+[یي]\s+", "ﷺ ", value)
     value = re.sub(r"\s+ﷺ", " ﷺ", value)
     value = re.sub(r"ﷺ\s+", "ﷺ ", value)
     return value
@@ -132,6 +141,8 @@ def main() -> None:
         BROAD_SALAWAT_PATTERN.findall(original)
     ) + len(
         SPLIT_WAW_SALAWAT_PATTERN.findall(original)
+    ) + len(
+        ROMAN_SALAWAT_PATTERN.findall(original)
     )
     book = normalize_item(json.loads(original))
     args.output.write_text(json.dumps(book, ensure_ascii=False, indent=2), encoding="utf-8")
