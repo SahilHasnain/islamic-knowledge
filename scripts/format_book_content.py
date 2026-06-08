@@ -10,6 +10,14 @@ def slugify(value: str) -> str:
     return value.strip("-") or "section"
 
 
+def format_title(value: str) -> str:
+    value = re.sub(r"^[•\s]+", "", value).strip()
+    value = value.title()
+    value = value.replace("'S", "'s")
+    value = value.replace("-E-", "-e-")
+    return value
+
+
 def clean_page_text(text: str, book_header: str) -> str:
     lines = [line.strip() for line in text.splitlines()]
 
@@ -17,6 +25,13 @@ def clean_page_text(text: str, book_header: str) -> str:
       lines.pop(0)
 
     if lines and lines[0].casefold() == book_header.casefold():
+        lines.pop(0)
+
+    while lines and not lines[0]:
+        lines.pop(0)
+
+    if len(lines) >= 2 and len(lines[0]) <= 40 and re.fullmatch(r"\d+", lines[1]):
+        lines.pop(0)
         lines.pop(0)
 
     while lines and not lines[0]:
@@ -106,7 +121,7 @@ def parse_table_of_contents(
             printed_page = int(match.group("page"))
             entries.append(
                 {
-                    "title": title.title(),
+                    "title": format_title(title),
                     "printedPageNumber": printed_page,
                     "pdfPageNumber": printed_page + page_offset,
                 }
@@ -127,7 +142,7 @@ def parse_table_of_contents(
 def format_sections(book: dict, toc: list[dict], page_offset: int, book_header: str) -> list[dict]:
     pages_by_number = {page["pageNumber"]: page for page in book["pages"]}
     sections = []
-    slug_counts = {}
+    used_slugs = set()
 
     for index, entry in enumerate(toc):
         next_entry = toc[index + 1] if index + 1 < len(toc) else None
@@ -156,8 +171,12 @@ def format_sections(book: dict, toc: list[dict], page_offset: int, book_header: 
             section_paragraphs.extend(paragraphs)
 
         base_slug = slugify(entry["title"])
-        slug_counts[base_slug] = slug_counts.get(base_slug, 0) + 1
-        slug = base_slug if slug_counts[base_slug] == 1 else f"{base_slug}-{slug_counts[base_slug]}"
+        slug = base_slug
+        suffix = 2
+        while slug in used_slugs:
+            slug = f"{base_slug}-{suffix}"
+            suffix += 1
+        used_slugs.add(slug)
 
         sections.append(
             {
