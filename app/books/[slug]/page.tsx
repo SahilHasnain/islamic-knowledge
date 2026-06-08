@@ -14,6 +14,8 @@ type BookPageProps = {
   }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getBooks().map((book) => ({ slug: book.slug }));
 }

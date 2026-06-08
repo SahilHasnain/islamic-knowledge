@@ -13,6 +13,8 @@ type AuthorPageProps = {
   }>;
 };
 
+export const dynamicParams = false;
+
 function getAuthorBySlug(slug: string) {
   return getAuthors().find((author) => getAuthorSlug(author.name) === slug) ?? null;
 }

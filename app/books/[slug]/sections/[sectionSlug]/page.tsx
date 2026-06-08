@@ -14,6 +14,8 @@ type SectionPageProps = {
   }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getBooks().flatMap((book) =>
     (book.sections ?? []).map((section) => ({

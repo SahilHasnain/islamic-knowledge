@@ -1,6 +1,8 @@
 export function slugify(value: string) {
-  return value
+  const slug = value
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "") || "item";
+    .replace(/^-+|-+$/g, "");
+
+  return slug.slice(0, 96).replace(/-+$/g, "") || "item";
 }
