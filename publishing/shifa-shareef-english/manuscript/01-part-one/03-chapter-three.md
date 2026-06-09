@@ -185,3 +185,37 @@ Third, do not give such superiority among the Prophets that it leads to diminish
 Fourth, the prohibition relates to giving superiority in the reality of Prophethood and Messengership, because the Prophets are all upon one rank in Prophethood and Messengership. Prophethood itself is one reality, and in that reality there is no mutual superiority. Superiority is in additional states, special distinctions, and miracles. In Prophethood itself there is no superiority; rather, superiority is due to further matters after Prophethood. Allah <sup>عز وجل</sup> says that He gave some of them excellence over others.
 
 The statement of Huzoor <sup>عليه السلام</sup> was so that no other Prophet would be diminished, no one's rank would be considered low, and no disrespect would occur. This is a great expression of the compassion of Huzoor <sup>عليه السلام</sup>.
+
+## Thirteenth Section: The Blessed Names And Virtues Of Huzoor
+
+Huzoor <sup>عليه السلام</sup> said: "I have five names. I am Muhammad. I am Ahmad. I am Mahi, through whom Allah removes disbelief. I am Hashir, at whose footsteps people will be raised. And I am Aqib, the one who comes last." Allah <sup>عز وجل</sup> named him Muhammad and Ahmad in His Book.
+
+The name Ahmad is an intensive form regarding his quality of praise, and Muhammad is an intensive form regarding the abundance of praise. Thus Huzoor <sup>عليه السلام</sup> is the greatest among those who praise, and he is the most excellent of all those who are praised. He is the one who is praised most, and he is the one who praises his Lord most.
+
+In the plain of resurrection, he will be renowned through praise, and he will be granted the Praiseworthy Station.
+
+There are great virtues in both of these names. Before him, no one had been named with them. Allah <sup>عز وجل</sup> protected these names in this way. The name Ahmad appeared in the previous scriptures, and glad tidings were given with it. Shortly before his blessed birth, when it became well-known that a Prophet would come whose name would be Muhammad, some people named their children Muhammad.
+
+In one narration, it is mentioned: "I have ten names." Among them are `Taha` and `Ya-Sin`. His titles appear frequently in the Qur'an, such as `Siraj`, `Munir`, `Nadhir`, `Mubashshir`, `Ra'uf`, `Rahim`, and others.
+
+## Fourteenth Section: The Names Of Huzoor Along With The Names Of Allah
+
+Allah <sup>عز وجل</sup> granted him honor and virtue by naming him with names connected to His beautiful names and attributes.
+
+Qadi Iyad Maliki <sup>رحمة الله تعالى عليه</sup> says: Now understand that Allah <sup>عز وجل</sup> gave many Prophets a special honor by clothing them with one of His names. For example, Hazrat Ishaq <sup>عليه السلام</sup> and Hazrat Ismail <sup>عليه السلام</sup> were named `Alim` and `Halim`; Hazrat Ibrahim <sup>عليه السلام</sup> was named `Alim`; Hazrat Nuh <sup>عليه السلام</sup> was named `Shakur`; Hazrat Isa <sup>عليه السلام</sup> and Hazrat Yahya <sup>عليه السلام</sup> were named `Barr`; Hazrat Musa <sup>عليه السلام</sup> was named `Karim` and `Qawi`; Hazrat Yusuf <sup>عليه السلام</sup> was named `Hafiz` and `Alim`; Hazrat Ayyub <sup>عليه السلام</sup> was named `Sabir`; and Hazrat Ismail <sup>عليه السلام</sup> was named `Sadiq`.
+
+Allah <sup>عز وجل</sup> gave our Prophet <sup>عليه السلام</sup> excellence in this manner: He clothed and adorned him with those names which are mentioned in His Noble Book and in countless earlier revealed books.
+
+Some of those names are mentioned in this section. Allah <sup>عز وجل</sup> derived his name Muhammad from His own name `Mahmud`. He called him `Ra'uf` and `Rahim`. He called him `Mubin`, `Nadhir`, `Haq`, `Nur`, `Siraj`, `Shahid`, `Karim`, and `Azim`. In the Zabur, his name was given as `Jabbar`. He was called `Khabir` and `Fatih`. Huzoor <sup>عليه السلام</sup> described himself with the name `Shakur`. He was called `Awwal` and `Akhir`. He was called `Qawi`. Huzoor <sup>عليه السلام</sup> called himself `Wali` and `Mawla`, meaning helper. He was called `Hadi`. Huzoor <sup>عليه السلام</sup> is also `Mu'min`, `Muhaymin`, and `Amin`.
+
+## Fifteenth Section: An Explanation Of A Subtle Point
+
+Qadi Iyad Maliki <sup>رحمة الله تعالى عليه</sup> says: Now I will conclude this chapter by mentioning a subtle point, and in it will come an explanation that removes doubts which may arise in some unhealthy minds.
+
+The point is that Allah <sup>عز وجل</sup>, in His attributes and His beautiful names, is so exalted that no created being can resemble Him in even the slightest degree, nor can anyone be compared to Him. Without doubt, in what the Shari'ah has mentioned, there is no real resemblance between the two meanings at all.
+
+This is because the attributes of Allah <sup>عز وجل</sup> are eternal, without beginning and without end. In contrast, the attributes of creation are originated, temporary, and granted. Creation has need in its attributes, while Allah <sup>عز وجل</sup> is pure and independent of all such need. He has always existed with His attributes and will always remain so.
+
+All of this is the creed of Ahl as-Sunnah wa'l-Jama'ah.
+
+Many senior scholars have explained this clearly: there is nothing like Allah <sup>عز وجل</sup>. He is unique in His attributes, His names, and His actions, and there is no resemblance between Him and creation.
