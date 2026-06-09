@@ -54,6 +54,25 @@ body {
   box-shadow: 0 18px 60px rgba(45, 30, 12, 0.16);
 }
 
+.cover-page {
+  align-items: center;
+  background: #0d1712;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  page-break-after: always;
+  break-after: page;
+}
+
+.cover-page img {
+  display: block;
+  height: auto;
+  max-height: 100vh;
+  max-width: 100%;
+  object-fit: contain;
+  width: auto;
+}
+
 .title-page {
   align-items: center;
   border-bottom: 1px solid var(--rule);
@@ -186,6 +205,16 @@ sup,
     padding: 0;
   }
 
+  .cover-page {
+    background: white;
+    min-height: 100vh;
+  }
+
+  .cover-page img {
+    max-height: 100vh;
+    max-width: 100%;
+  }
+
   .title-page {
     break-after: page;
     min-height: 90vh;
@@ -210,6 +239,10 @@ sup,
 </head>
 <body>
   <main class="book">
+    
+<section class="cover-page" aria-label="Book cover">
+  <img src="../../assets/cover.png" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover">
+</section>
     
 <section class="title-page">
   <h1>इख़्तियाराते मुस्तफ़ा <span class="arabic">ﷺ</span></h1>

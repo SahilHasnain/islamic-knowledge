@@ -10,6 +10,7 @@ const manuscriptPath = path.join(projectDir, "manuscript", "01-ikhteyarate-musta
 const titlePath = path.join(projectDir, "layout", "title-page.md");
 const notePath = path.join(projectDir, "layout", "publishing-note.md");
 const cssPath = path.join(projectDir, "layout", "book.css");
+const coverPath = path.join(projectDir, "assets", "cover.png");
 const outDir = path.join(projectDir, "exports", "html");
 const outPath = path.join(outDir, "ikhteyarate-mustafa-hindi.html");
 const pdfDir = path.join(projectDir, "exports", "pdf");
@@ -141,6 +142,11 @@ const manuscript = fs
 const css = fs.readFileSync(cssPath, "utf8");
 
 const titleLines = title.trim().split("\n").map((line) => line.trim()).filter(Boolean);
+const coverSrc = path.relative(outDir, coverPath).replaceAll(path.sep, "/");
+const coverHtml = `
+<section class="cover-page" aria-label="Book cover">
+  <img src="${coverSrc}" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover">
+</section>`;
 const titleHtml = `
 <section class="title-page">
   <h1>${inline(titleLines[0].replace(/^#\s+/, ""))}</h1>
@@ -163,6 +169,7 @@ const document = `<!doctype html>
 </head>
 <body>
   <main class="book">
+    ${coverHtml}
     ${titleHtml}
     ${noteHtml}
     ${manuscriptHtml}
@@ -217,11 +224,18 @@ function writeEpub() {
     .replaceAll("padding: 46px 56px 64px;", "padding: 0;");
 
   addText(zip, "OEBPS/styles/book.css", epubCss);
+  zip.addLocalFile(coverPath, "OEBPS/images", "cover.png");
   addText(zip, "OEBPS/nav.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="hi">
 <head><title>Contents</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
-<body><nav epub:type="toc"><h1>Contents</h1><ol><li><a href="book.xhtml">इख़्तियाराते मुस्तफ़ा ﷺ</a></li></ol></nav></body>
+<body><nav epub:type="toc"><h1>Contents</h1><ol><li><a href="cover.xhtml">Cover</a></li><li><a href="book.xhtml">इख़्तियाराते मुस्तफ़ा ﷺ</a></li></ol></nav></body>
+</html>`);
+  addText(zip, "OEBPS/cover.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="hi">
+<head><title>Cover</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
+<body><section class="cover-page"><img src="images/cover.png" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover"/></section></body>
 </html>`);
   addText(zip, "OEBPS/book.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
@@ -241,10 +255,13 @@ function writeEpub() {
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="cover-page" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="book" href="book.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="styles/book.css" media-type="text/css"/>
+    <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
   </manifest>
   <spine>
+    <itemref idref="cover-page"/>
     <itemref idref="book"/>
   </spine>
 </package>`);
