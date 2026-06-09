@@ -153,3 +153,253 @@ This Qur'an is truth, not play or amusement. Repeated recitation does not reduce
 It is narrated from Hazrat Ka'b that he said: Hold firmly to the Qur'an, for it is understanding for intellects and the light of wisdom.
 
 In reality, the aspects of the Noble Qur'an's inimitability are the four already mentioned. Everything else relates to the special qualities and wonders of the Qur'an, which will never come to an end.
+
+## Eleventh Section: The Miracle Of The Splitting Of The Moon And The Returning Of The Sun
+
+Allah <sup>عز وجل</sup> says:
+
+"The Hour drew near, and the moon was split." (`al-Qamar: 1`)
+
+And He says:
+
+"If they see a sign, they turn away and say: this is ongoing magic." (`al-Qamar: 2`)
+
+The commentators of Ahl as-Sunnah agree that this event occurred. Allah <sup>عز وجل</sup> informed of the splitting of the moon, and He also informed of the disbelievers denying it.
+
+It is narrated from Hazrat Ibn Mas'ud <sup>رضي الله تعالى عنه</sup> that during the blessed era of Huzoor <sup>عليه السلام</sup>, the moon split into two parts: one part was above the mountain and the other was behind the mountain. At that time, Huzoor <sup>عليه السلام</sup> said: "Bear witness," meaning: look and observe.
+
+This event occurred in Makkah. The disbelievers of Quraysh said that if this was magic, then it had affected only their eyes. If people outside also saw the same thing, then it was not magic. Later, when people arriving from other towns were asked, they also said that they had seen it.
+
+The number of narrators who transmitted this report is quite large, and its chains are also sound.
+
+Regarding the returning of the sun, Imam Tahawi narrated through two chains from Hazrat Asma bint Umays <sup>رضي الله تعالى عنها</sup> that Huzoor <sup>عليه السلام</sup> was resting with his blessed head in the lap of Hazrat Ali <sup>رضي الله تعالى عنه</sup>. Hazrat Ali <sup>رضي الله تعالى عنه</sup> had not yet performed Asr prayer, until the sun set. Huzoor <sup>عليه السلام</sup> asked: "Ali, have you prayed?" He replied: "No." Huzoor <sup>عليه السلام</sup> then supplicated: "O Allah, he was in Your obedience and the obedience of Your Messenger, so return the sun for him."
+
+Hazrat Asma <sup>رضي الله تعالى عنها</sup> says that she saw the sun rise again after setting, and it remained over the mountains and the earth. This event occurred at the place of Sahba on the route to Khaybar. Imam Tahawi said that both hadith are established and their narrators are reliable.
+
+In one narration, when Huzoor <sup>عليه السلام</sup>, after returning from Bayt al-Maqdis, informed the disbelievers of Quraysh about the condition of a caravan, they asked when that caravan would arrive. He said that it would arrive on Wednesday. It did not arrive on that day, so Huzoor <sup>عليه السلام</sup> supplicated, and one portion of the day was extended. The sun was held for Huzoor <sup>عليه السلام</sup>.
+
+## Twelfth Section: Water Flowing From His Fingers And Increasing
+
+Many hadith have been narrated regarding this, and a group of Companions described water flowing from the blessed fingers of Huzoor <sup>عليه السلام</sup>.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> narrates: "I saw Huzoor <sup>عليه السلام</sup> at a time when the time of prayer had arrived. The people were searching for water but could not find any. Huzoor <sup>عليه السلام</sup> placed his blessed hand into a small amount of water and said: 'Perform wudu from it.'" The narrator says: "I saw water springing from the fingers of Huzoor <sup>عليه السلام</sup>, and approximately three hundred people, or eighty people, performed wudu."
+
+On the day of Hudaybiyyah, the people were thirsty and could not find water. They submitted to Huzoor <sup>عليه السلام</sup> that there was no water. Huzoor <sup>عليه السلام</sup> placed his blessed hand into his vessel, and water began to spring forth until fifteen hundred people performed wudu. The narrator said that if they had been one hundred thousand, that water would have been enough for them.
+
+## Thirteenth Section: Further Miracles
+
+The Companions once descended near a spring in which there was water only like a shoelace. The Companions would scoop it with their hands and gather it. Then Huzoor <sup>عليه السلام</sup> washed his blessed face and blessed hands with that water and returned it to the spring. Thereafter, water flowed abundantly from it, and everyone drank.
+
+During Hudaybiyyah, another event occurred: Huzoor <sup>عليه السلام</sup> placed an arrow into a pit in which there was no water. Then all the people drank fully, to the extent that they gave water to the camels and made them sit again to drink more.
+
+At various places, people complained to Huzoor <sup>عليه السلام</sup> about lack of water, and through his miracle water came forth there. Likewise, rain falling many times through his supplication is also from this category.
+
+## Fourteenth Section: Increase In Food
+
+Among his miracles is that food would increase.
+
+It is narrated from Hazrat Jabir <sup>رضي الله تعالى عنه</sup> that a man asked Huzoor <sup>عليه السلام</sup> for something, so he gave him thirty sa' of dates. That man, his wife, and their guests continued eating from them until one day he measured them. He then informed Huzoor <sup>عليه السلام</sup>. Huzoor <sup>عليه السلام</sup> said: "If you had not measured them, you would have continued eating, and they would have continued increasing for you."
+
+In the famous hadith of Hazrat Abu Talhah <sup>رضي الله تعالى عنه</sup>, Huzoor <sup>عليه السلام</sup> broke a few barley loaves into pieces, recited whatever he willed over them, and then fed seventy or eighty people from them.
+
+In the hadith of Hazrat Jabir <sup>رضي الله تعالى عنه</sup>, on the day of Khandaq, Huzoor <sup>عليه السلام</sup> fed one thousand people from one sa' of barley and one goat. After everyone had eaten, the food still remained complete. This was through the blessing of the blessed saliva of Huzoor <sup>عليه السلام</sup>.
+
+Hazrat Abu Ayyub Ansari <sup>رضي الله تعالى عنه</sup> invited Huzoor <sup>عليه السلام</sup> and Hazrat Abu Bakr <sup>رضي الله تعالى عنه</sup>. The food was only enough for two people. Huzoor <sup>عليه السلام</sup> told him to call thirty men from the Ansar. They ate. Then he told him to call sixty people. They ate. Then he told him to call seventy people. They also ate. On that day, no one left without accepting Islam and pledging allegiance.
+
+In one narration, a large vessel of meat was brought, and people continued eating from it from morning until evening, but it did not finish.
+
+Hazrat Fatimah <sup>رضي الله تعالى عنها</sup> once cooked food and invited Huzoor <sup>عليه السلام</sup>. Huzoor <sup>عليه السلام</sup> sent a bowl from it to each of his noble wives. After that, many people ate from it, yet the pot still remained full.
+
+Through the supplication of Huzoor <sup>عليه السلام</sup>, a few dates increased many times, so that many people ate to their fill. Many hadith have been narrated regarding this.
+
+## Fifteenth Section: Trees Speaking, Bearing Witness, And Coming Running
+
+It is narrated from Hazrat Ibn Umar <sup>رضي الله تعالى عنهما</sup> that they were on a journey with Huzoor <sup>عليه السلام</sup> when a Bedouin met them. He was asked where he intended to go. He said that he was going home. Huzoor <sup>عليه السلام</sup> said: "Will you come toward goodness?" He asked what that was. Huzoor <sup>عليه السلام</sup> said: "That you bear witness that none is worthy of worship except Allah and that I am the Messenger of Allah." He asked: "Is there anyone who bears witness for you?" Huzoor <sup>عليه السلام</sup> said: "This acacia tree standing at the edge of the valley."
+
+The tree then came, tearing through the earth, and stood before Huzoor <sup>عليه السلام</sup>. He made it bear witness three times, and then it returned to its place.
+
+In another narration, a Bedouin asked him for a sign. Huzoor <sup>عليه السلام</sup> said: "Tell that tree before you that the Messenger of Allah calls it." When it was told this, it began to shake with its roots, came out, and arrived in his blessed presence. The Bedouin said: "Command it to return." Huzoor <sup>عليه السلام</sup> commanded it, so it returned and became as it had been in its place. The Bedouin said: "Allow me to prostrate to you." Huzoor <sup>عليه السلام</sup> said: "If I were to command anyone to prostrate to another, I would command a woman to prostrate to her husband." The Bedouin said: "Allow me to kiss your blessed hand and sacred feet." Permission was granted to him.
+
+In one narration, Huzoor <sup>عليه السلام</sup> took hold of two trees for privacy while relieving himself and led them as someone leads his camel. The trees walked with Huzoor <sup>عليه السلام</sup> and joined together. When he finished, they returned to their places.
+
+There are many other narrations of this kind in which trees walking and speaking are mentioned.
+
+## Sixteenth Section: The Weeping Of The Date-Palm Trunk
+
+The hadith of the weeping date-palm trunk strengthens these reports, because it is famous, well-known, and reaches the level of mass transmission. More than ten Companions narrated it.
+
+Huzoor <sup>عليه السلام</sup> used to deliver the sermon while leaning against a trunk. Later, a pulpit was made for him, and he left that trunk and delivered the sermon from the pulpit. A sound of weeping came from the trunk like the cry of a she-camel giving birth.
+
+Because of its weeping, commotion spread through the Masjid and the people began to weep. Then Huzoor <sup>عليه السلام</sup> went to it and placed his blessed hand upon it, and it became silent. In one narration, Huzoor <sup>عليه السلام</sup> said: "If I had not embraced it, it would have continued weeping in grief for me until the Day of Judgment." Then he ordered that it be buried beneath the pulpit.
+
+When Hasan al-Basri <sup>رحمة الله تعالى عليه</sup> would narrate this hadith, he would weep and say: "O servants of Allah, a piece of wood longed for Huzoor <sup>عليه السلام</sup> because of the nearness it had to him. You have even more right to long for meeting Huzoor <sup>عليه السلام</sup>."
+
+## Seventeenth Section: Miracles Related To Inanimate Things
+
+It is narrated from Hazrat Ibn Mas'ud <sup>رضي الله تعالى عنه</sup> that he said: "We used to hear the tasbih of food while it was being eaten."
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> said that Huzoor <sup>عليه السلام</sup> took some pebbles in his blessed hand, and they began reciting tasbih in the blessed hand of Huzoor <sup>عليه السلام</sup>, until they heard the tasbih. Then he gave them into the hand of Hazrat Abu Bakr <sup>رضي الله تعالى عنه</sup>, and they continued reciting tasbih. Then they were placed in their hands, and the tasbih stopped. Hazrat Abu Dharr <sup>رضي الله تعالى عنه</sup> narrated something similar and mentioned that the pebbles continued reciting tasbih in the hands of Hazrat Umar and Hazrat Uthman <sup>رضي الله تعالى عنهما</sup>.
+
+Hazrat Ali <sup>رضي الله تعالى عنه</sup> said: "We went with Huzoor <sup>عليه السلام</sup> to one part of Makkah. There was no tree or mountain except that it said to Huzoor <sup>عليه السلام</sup>: 'Assalamu alayka Ya RasoolAllah.'"
+
+It is narrated from Hazrat Jabir ibn Abdullah <sup>رضي الله تعالى عنهما</sup> that whichever tree or stone Huzoor <sup>عليه السلام</sup> passed by would prostrate to him.
+
+It is narrated from Hazrat Anas <sup>رضي الله تعالى عنه</sup> that when Huzoor <sup>عليه السلام</sup>, Hazrat Abu Bakr, Hazrat Umar, and Hazrat Uthman <sup>رضي الله تعالى عنهم</sup> climbed Mount Uhud, it began to shake. Huzoor <sup>عليه السلام</sup> said: "O Uhud, remain still. Do you not see that upon you are a Prophet, a Siddiq, and two martyrs?"
+
+It is narrated from Hazrat Ibn Abbas <sup>رضي الله تعالى عنهما</sup> that around the Ka'bah there were three hundred and sixty idols whose feet had been fastened into stones with lead. In the year of the conquest of Makkah, Huzoor <sup>عليه السلام</sup> entered Masjid al-Haram. He pointed with the stick in his blessed hand, without touching them, and said: "Truth has come, and falsehood has vanished." (`al-Isra: 81`) Whichever idol he pointed toward from the front fell backward, and whichever he pointed toward from behind fell forward, until not a single idol remained.
+
+From this same category is the hadith that when Huzoor <sup>عليه السلام</sup> travelled with his uncle for trade, a monk saw the stones and trees prostrating to him and recognized that he was the final Prophet.
+
+## Eighteenth Section: Miracles Related To Animals
+
+It is narrated from Hazrat Aishah <sup>رضي الله تعالى عنها</sup> that there was a goat in their home. When Huzoor <sup>عليه السلام</sup> came, it would not move around; it would remain calm and settled. But when Huzoor <sup>عليه السلام</sup> left, it would move about restlessly.
+
+It is narrated from Hazrat Umar <sup>رضي الله تعالى عنه</sup> that they were with Huzoor <sup>عليه السلام</sup> when a Bedouin brought a hunted lizard and asked who he was. They said: "He is the Prophet of Allah." The Bedouin said: "By Lat and Uzza, I will not believe until this lizard believes." He then threw the lizard down. Huzoor <sup>عليه السلام</sup> called it, and it came to life and bore witness to the Prophethood of Huzoor <sup>عليه السلام</sup>. Upon seeing this, the Bedouin became Muslim.
+
+From this category is also the narration of the wolf speaking to the shepherd. When the wolf spoke to the shepherd, he said: "How amazing that a wolf speaks!" The wolf replied: "Shall I not tell you something even more amazing? Huzoor <sup>عليه السلام</sup> has arrived, and he is giving news of the unseen." The shepherd then came to Huzoor <sup>عليه السلام</sup> and informed him of this. There are different narrations regarding the wolf, with some variation in wording.
+
+It is narrated from Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> that Huzoor <sup>عليه السلام</sup> entered a garden, and a camel prostrated to him. In one narration, the camel complained to Huzoor <sup>عليه السلام</sup> that people were taking too much work from it.
+
+Similarly, at the time of the Hijrah, when Huzoor <sup>عليه السلام</sup> was in the cave, trees blocked the path, and pigeons and a spider served him.
+
+In one narration, five, six, or seven camels were brought to Huzoor <sup>عليه السلام</sup> so that he could slaughter them on the day of Eid al-Adha. Each one tried to be the first for Huzoor <sup>عليه السلام</sup> to slaughter.
+
+It is also narrated in this chapter that Hazrat Safinah, the freed slave of Huzoor <sup>عليه السلام</sup>, was surrounded by a lion. He introduced himself before the lion and said: "I am the freed slave of Huzoor <sup>عليه السلام</sup>, and I have the letter of Huzoor <sup>عليه السلام</sup> with me." The lion moved its shoulders and showed him the way.
+
+Huzoor <sup>عليه السلام</sup> had a mount named Ya'fur. Wherever he sent it, it would go, and whichever Companion he told it to call, it would go to that person's door and strike its head there. After the passing of Huzoor <sup>عليه السلام</sup>, it cried out and fell into a well and died.
+
+In one narration, during a journey, a goat came. When Huzoor <sup>عليه السلام</sup> milked it, three hundred people drank its milk.
+
+On one journey, Huzoor <sup>عليه السلام</sup> placed a horse in front of him as a sutrah for prayer and said: "Do not go anywhere until we finish praying." The horse did not move at all until the prayer was completed.
+
+## Nineteenth Section: Reviving The Dead, Infants Speaking, And Their Testimony
+
+At Khaybar, the roasted goat informed Huzoor <sup>عليه السلام</sup> that poison had been mixed into it.
+
+A child who could not speak was brought into his blessed court. Huzoor <sup>عليه السلام</sup> asked: "Who am I?" The child replied: "You are the Messenger of Allah."
+
+It is narrated from Hazrat Hasan that a man came to the court of Huzoor <sup>عليه السلام</sup> and said that he had left his daughter in such-and-such wilderness. Huzoor <sup>عليه السلام</sup> went toward that wilderness and called her. She answered and came into the blessed presence of Huzoor <sup>عليه السلام</sup>. Huzoor <sup>عليه السلام</sup> said to her: "Your mother and father have become Muslim. If you wish, I will return you to them." She replied: "I have found my Lord better than them." It should be remembered here that in the age of ignorance, daughters were sometimes buried alive.
+
+It is narrated from Hazrat Anas <sup>رضي الله تعالى عنه</sup> that a young man from the Ansar passed away. His elderly mother complained, and her son came back to life.
+
+It is also narrated regarding some Companions that they spoke even after passing away.
+
+## Twentieth Section: Healing The Sick And Afflicted
+
+Hazrat Sa'd ibn Abi Waqqas <sup>رضي الله تعالى عنه</sup> said that Huzoor <sup>عليه السلام</sup> would give him arrows that had no iron tip and say: "Shoot them." They would then perform the function of arrows. This was his miracle.
+
+On that day, Huzoor <sup>عليه السلام</sup> shot so many arrows from his bow that it broke. On that same day, an arrow struck the eye of Qatadah ibn Nu'man <sup>رضي الله تعالى عنه</sup>, until the eye came out of its socket and fell onto his cheek. Huzoor <sup>عليه السلام</sup> returned it to its place, and that eye became even better than the other.
+
+A blind man submitted to Huzoor <sup>عليه السلام</sup>: "Pray to Allah to restore light to my eyes." Huzoor <sup>عليه السلام</sup> said: "Go, perform wudu, pray two rak'ahs of nafl, and then say this dua: O Allah, I ask You and turn toward You through Your Prophet Muhammad <sup>عليه السلام</sup>, the Prophet of mercy. O Muhammad <sup>عليه السلام</sup>, through you I turn toward your Lord, so that He may restore my sight. O Allah, accept his intercession regarding me."
+
+The narrator states that the man came back with his eyesight restored by Allah <sup>عز وجل</sup>.
+
+There are several other incidents of blind eyes being restored.
+
+On the day of Uhud, an arrow struck the throat of Kulthum ibn Husayn. Huzoor <sup>عليه السلام</sup> applied his blessed saliva to it, and he recovered immediately. Abdullah ibn Unays had a wound; Huzoor <sup>عليه السلام</sup> placed his blessed lips upon it, and the pus disappeared. Hazrat Ali <sup>رضي الله تعالى عنه</sup> had an eye ailment, so Huzoor <sup>عليه السلام</sup> applied his blessed saliva, and it was cured. Zayd ibn Mu'adh was struck in the foot by a sword; Huzoor <sup>عليه السلام</sup> applied his blessed saliva, and it healed. The shin of Ali ibn Hakam broke during the Battle of Khandaq; Huzoor <sup>عليه السلام</sup> applied his blessed saliva, and it healed.
+
+Mu'awwidh ibn Afra, who was a thirteen-year-old fighter, had his hand cut off by Abu Jahl. He came to the service of Huzoor <sup>عليه السلام</sup> carrying his hand. Huzoor <sup>عليه السلام</sup> applied his blessed saliva to it and joined it to its place, and it became attached.
+
+It is narrated from Hazrat Ibn Abbas <sup>رضي الله تعالى عنهما</sup> that a woman brought a child who was afflicted with madness. Huzoor <sup>عليه السلام</sup> rubbed his chest. The child coughed forcefully, and something came out from his stomach that resembled a black puppy and ran away.
+
+## Twenty-First Section: The Acceptance Of His Supplications
+
+The chapter of the acceptance of the supplications of Huzoor <sup>عليه السلام</sup> is very vast. His supplications for people, whether in matters of benefit or harm, are established by tawatur.
+
+It is narrated from Hazrat Hudhayfah <sup>رضي الله تعالى عنه</sup> that when Huzoor <sup>عليه السلام</sup> supplicated for someone, that supplication would be for him, his son, and his grandson.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> said that his mother requested Huzoor <sup>عليه السلام</sup> to supplicate for him. Huzoor <sup>عليه السلام</sup> supplicated: "O Allah, grant him abundance in wealth and children, and bless whatever You give him."
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> said: "I possess much wealth, and my sons and grandsons are close to one hundred until today."
+
+Huzoor <sup>عليه السلام</sup> supplicated for dominance through the Islam of either Abu Jahl or Hazrat Umar <sup>رضي الله تعالى عنه</sup>. That supplication was accepted regarding Hazrat Umar <sup>رضي الله تعالى عنه</sup>. Hazrat Ibn Mas'ud <sup>رضي الله تعالى عنه</sup> said: "We remained in honor from the day Hazrat Umar accepted Islam."
+
+Huzoor <sup>عليه السلام</sup> supplicated for Hazrat Abu Qatadah <sup>رضي الله تعالى عنه</sup>: "May your face be successful. O Allah, bless his hair and body." When he passed away, despite being seventy years old, he appeared like a fifteen-year-old young man.
+
+Huzoor <sup>عليه السلام</sup> supplicated for Hazrat Nabighah <sup>رضي الله تعالى عنه</sup>: "May Allah not break your mouth." Not a single tooth of his fell. In one narration, he was the most beautiful of people because of his teeth. Whenever a tooth fell, another would grow in its place, though he lived for one hundred and twenty years, and in one narration even longer.
+
+Huzoor <sup>عليه السلام</sup> supplicated for Hazrat Ibn Abbas <sup>رضي الله تعالى عنهما</sup>: "O Allah, grant him understanding of the religion and give him knowledge of tafsir." Thereafter, his title became known as the great scholar and the interpreter of the Qur'an.
+
+Huzoor <sup>عليه السلام</sup> supplicated for Abdullah ibn Ja'far <sup>رضي الله تعالى عنهما</sup> regarding buying and selling, so whatever he bought brought him profit.
+
+He supplicated for Hazrat Ali <sup>رضي الله تعالى عنه</sup> that he be protected from heat and cold. After that, Hazrat Ali <sup>رضي الله تعالى عنه</sup> would wear summer clothing in winter and winter clothing in summer, yet neither heat nor cold troubled him.
+
+He supplicated for his blessed daughter that she never remain hungry. Hazrat Fatimah <sup>رضي الله تعالى عنها</sup> said: "I never remained hungry."
+
+Huzoor <sup>عليه السلام</sup> supplicated against a tribe, and such severe famine came upon them that Quraysh requested mercy from Huzoor <sup>عليه السلام</sup>. Then he supplicated for them, and they received rain.
+
+He supplicated against the king of Persia when he tore his blessed letter, saying: "O Allah, tear his kingdom apart." His kingdom did not remain for him.
+
+A child once interrupted his prayer, so he supplicated against him, and the child became paralyzed and sat down.
+
+Huzoor <sup>عليه السلام</sup> supplicated against Utbah ibn Abi Lahab: "O Allah, set one of Your dogs upon him." A lion then ate him.
+
+Those who placed the entrails of a camel upon Huzoor <sup>عليه السلام</sup> while he was in prayer were supplicated against, and all of them were killed in the Battle of Badr.
+
+There are many narrations of this kind: he supplicated against people, and his supplication was accepted.
+
+## Twenty-Second Section: The Reality Of Whatever Touched Huzoor Being Changed
+
+It is narrated from Hazrat Anas ibn Malik <sup>رضي الله تعالى عنه</sup> that one night the people of Madinah became frightened by a terrifying sound. Huzoor <sup>عليه السلام</sup> rode the horse of Abu Talhah <sup>رضي الله تعالى عنه</sup> and went out. That horse was slow, and others said that it walked very gradually. When Huzoor <sup>عليه السلام</sup> returned, he said to Abu Talhah: "I found your horse like a river." Thereafter, that horse was never left behind by any other horse.
+
+Hazrat Jabir's camel was very slow and weak in movement. Huzoor <sup>عليه السلام</sup> struck its foot with a stick, and it became so fast that its reins could hardly be controlled.
+
+Hazrat Sa'd ibn Ubadah <sup>رضي الله تعالى عنه</sup> had a slow donkey. Huzoor <sup>عليه السلام</sup> rode it once and returned it, and it became so swift that none could compete with it.
+
+In the helmet of Hazrat Khalid ibn Walid <sup>رضي الله تعالى عنه</sup> were some blessed hairs of Huzoor <sup>عليه السلام</sup>. Whichever jihad or battle he engaged in, he was certainly granted victory.
+
+In a sound hadith, Hazrat Asma bint Abi Bakr Siddiq <sup>رضي الله تعالى عنهما</sup> brought out a silk cloak and said that Huzoor <sup>عليه السلام</sup> used to wear it. They would wash it and give its water to the sick to drink, and through its blessing they would be healed.
+
+Once, Huzoor <sup>عليه السلام</sup> placed his blessed saliva into the well of Hazrat Anas <sup>رضي الله تعالى عنه</sup> at his home, and it became the sweetest water in Madinah. Similarly, during a journey, he passed by water that was known to be salty. He spoke well of it, and its water became sweet.
+
+Whatever touched the blessed hand of Huzoor <sup>عليه السلام</sup> received blessing. He touched a stick, and it became illuminated. He gave it to the Companions, and it remained illuminated, such that narrations mention travelling by its light at night. He gave a date-palm branch, and it became a sword. Through the blessing of his blessed hand, the milk of goats increased. His blessed hand healed a person afflicted with leprosy. He healed many children, people affected by madness, and the sick.
+
+Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> complained to him of forgetfulness. Huzoor <sup>عليه السلام</sup> commanded him to spread out his garment. After that, he never again complained of forgetting.
+
+## Twenty-Third Section: Huzoor Being Informed Of The Unseen
+
+Among his miracles is that Allah <sup>عز وجل</sup> informed him of unseen matters, meaning He granted him knowledge of the unseen, and made him aware of future events. There are many hadith in this chapter, so many that no one can know their depth. This is established by tawatur, and all agree that Huzoor <sup>عليه السلام</sup> was informed of the unseen.
+
+Hazrat Hudhayfah <sup>رضي الله تعالى عنه</sup> said that Huzoor <sup>عليه السلام</sup> stood and delivered a sermon. He did not leave out anything that would occur in its place until the Day of Judgment except that he described it. Whoever remembered it remembered it, and whoever forgot it forgot it. He did not leave out any leader of fitnah who would arise until the Day of Judgment; their number reached more than three hundred. Huzoor <sup>عليه السلام</sup> mentioned their names, the names of their fathers, and the names of their tribes.
+
+Hazrat Abu Dharr <sup>رضي الله تعالى عنه</sup> said that Huzoor <sup>عليه السلام</sup> did not leave even a bird flapping its wings in the sky except that he explained it to them.
+
+Huzoor <sup>عليه السلام</sup> informed the Companions of dominance and victory. He informed them of the conquest of Bayt al-Maqdis, Syria, and Iraq; of the conquest of Khaybar at the hands of Hazrat Ali <sup>رضي الله تعالى عنه</sup>; of the distribution of the treasures of Kisra and Caesar; of tribulations and differences; of the seventy-three sects; of wars and the conditions of various lands; of the signs of the Day of Judgment; of the martyrdom of Companions; and regarding Hazrat Hanzalah <sup>رضي الله تعالى عنه</sup>, after he was martyred, he instructed that his wife be asked about him.
+
+He said that the caliphate would remain in Quraysh. He informed that Hazrat Fatimah <sup>رضي الله تعالى عنها</sup> would be the first of his household to pass away after him. He said that after him the caliphate would remain for thirty years. He described the condition of Hazrat Uways Qarani. He informed of thirty liars. He described the condition of the Khawarij. He informed of war at sea, of Imam al-A'zam Abu Hanifah, of the lost camel, of what was in people's hearts and warned them, of the reconciliation by Hazrat Hasan <sup>رضي الله تعالى عنه</sup>, of the killing of the people of Mu'tah, of the passing of King Najashi, of which of his wives would pass away first after him, of the martyrdom of Imam Husayn <sup>رضي الله تعالى عنه</sup> at Karbala, of Suraqah wearing the bracelets, and of the conquest of Constantinople.
+
+There are countless matters of this kind which were to occur after thousands of years, yet Huzoor <sup>عليه السلام</sup> described them beforehand.
+
+## Twenty-Fourth Section: The Protection Of The Prophet
+
+Allah <sup>عز وجل</sup> protected Huzoor <sup>عليه السلام</sup> from the evil of people. He says:
+
+"And Allah will protect you from the people." (`al-Ma'idah: 67`)
+
+And He says:
+
+"And O Beloved, remain firm upon the command of your Lord, for surely you are under Our watch." (`at-Tur: 48`)
+
+Hazrat Aishah <sup>رضي الله تعالى عنها</sup> said that Huzoor <sup>عليه السلام</sup> used to be guarded, until Allah <sup>عز وجل</sup> revealed this verse:
+
+"And Allah will protect you from the people." (`al-Ma'idah: 67`)
+
+In one narration, when Huzoor <sup>عليه السلام</sup> would stop at a place, the Companions would choose a tree for him so that he could rest beneath it. A Bedouin came to him, drew his sword, and said: "Who will save you now?" Huzoor <sup>عليه السلام</sup> replied: "Allah." The Bedouin's hand began to tremble, his sword fell, and he struck his head against the tree until blood flowed. At that time, this verse was revealed.
+
+Huzoor <sup>عليه السلام</sup> pardoned that person. When he returned to his people, he said: "I have come from the best of people." This incident is narrated regarding other occasions as well.
+
+When Surah Lahab was revealed, in which the wife of Abu Lahab was condemned, she heard of it and came with stones in her hands to throw at Huzoor <sup>عليه السلام</sup>. Allah <sup>عز وجل</sup> concealed Huzoor <sup>عليه السلام</sup> from her sight. Although he was before her, she spoke to Hazrat Abu Bakr Siddiq <sup>رضي الله تعالى عنه</sup> and returned.
+
+Many people plotted to kill Huzoor <sup>عليه السلام</sup>, but Allah <sup>عز وجل</sup> protected him. The incident of the cave is also part of this discussion, showing how he remained safe from the enemies.
+
+It is narrated from Fudalah ibn Amr that he said: "On the day of the conquest of Makkah, I intended to martyr Huzoor <sup>عليه السلام</sup>. He was performing tawaf, and I came near him. Huzoor <sup>عليه السلام</sup> said: 'Is it Fudalah?' I said: 'Yes.' He said: 'What are you saying within your heart?' I said: 'Nothing.' Huzoor <sup>عليه السلام</sup> smiled, sought forgiveness for me, and placed his blessed hand upon my chest. My heart became peaceful and settled. By Allah, before he had lifted his blessed hand, nothing in all creation was more beloved to me than him."
+
+## Twenty-Fifth Section: The Clear Miracles Of Huzoor
+
+Among the clear miracles of Huzoor <sup>عليه السلام</sup> is that Allah <sup>عز وجل</sup> made him a gatherer of sciences and forms of knowledge. He specifically informed him of all religious and worldly benefits, gave him knowledge of the matters of Shari'ah, the laws of religion, and religious governance, and informed him of the earlier nations that had passed.
+
+He informed him of the stories of Prophets and kings, and of all the ages that passed from Hazrat Adam <sup>عليه السلام</sup> until his own time. He made him aware of their Shari'ahs and books, their lives, their reports, the days of Allah among them, the qualities of their people, their differing opinions, the lengths of their lives, the wisdoms of their wise ones, and the disputes each nation had with its disbelievers.
+
+He also informed him of every group's objections from their own books, the secrets and hidden sciences of those who possessed revealed books, the reports they concealed, the changes they had made in Arabic expressions, the rare words of different groups, the types of their eloquence, their proofs and arguments, their examples, wisdoms, poetry, and meanings. Allah <sup>عز وجل</sup> opened all of this to him.
+
+Allah <sup>عز وجل</sup> adorned the Shari'ah of Huzoor <sup>عليه السلام</sup> with pure character, excellent praise, and noble etiquette. Then, for Muslims, He made lawful those things that are pure and made unlawful those things that are impure.

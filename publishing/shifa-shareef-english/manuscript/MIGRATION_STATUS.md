@@ -11,13 +11,13 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `01-part-one/01-chapter-one.md`
 - `01-part-one/02-chapter-two.md`
 - `01-part-one/03-chapter-three.md` complete
-- `01-part-one/04-chapter-four.md` through the tenth section
+- `01-part-one/04-chapter-four.md` through the twenty-fifth section
 
 ## Current Translation Point
 
 The manuscript currently reaches:
 
-`Tenth Section: Various Aspects Of The Qur'an's Inimitability`
+`Twenty-Fifth Section: The Clear Miracles Of Huzoor`
 
 Continue translation in:
 
