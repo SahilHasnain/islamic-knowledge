@@ -10,13 +10,14 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `00-front-matter/05-introduction.md`
 - `01-part-one/01-chapter-one.md`
 - `01-part-one/02-chapter-two.md`
+- `01-part-one/03-chapter-three.md` through the twelfth section
 
 ## Current Translation Point
 
-The migrated manuscript currently reaches:
+The manuscript currently reaches:
 
-`Twenty-Sixth Section: On The Meanings Of Difficult Words In The Hadith`
+`Twelfth Section: The Hadith In Which Giving Huzoor Superiority Over Other Prophets Was Prohibited`
 
 Continue translation in:
 
-`manuscript/01-part-one/02-chapter-two.md`
+`manuscript/01-part-one/03-chapter-three.md`
