@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import AdmZip from "adm-zip";
+import { PDFDocument } from "pdf-lib";
 import { chromium } from "playwright";
 
 const root = process.cwd();
@@ -40,6 +41,12 @@ function inline(value) {
   return restoreInlineHtml(escapeHtml(value));
 }
 
+function imageDataUrl(filePath) {
+  const ext = path.extname(filePath).toLowerCase();
+  const mime = ext === ".jpg" || ext === ".jpeg" ? "image/jpeg" : "image/png";
+  return `data:${mime};base64,${fs.readFileSync(filePath).toString("base64")}`;
+}
+
 function isPoetryLine(line) {
   if (!line.trim()) return false;
   if (/^(#|[-*] |\d+\.)/.test(line.trim())) return false;
@@ -54,6 +61,7 @@ function markdownToHtml(markdown) {
   let paragraph = [];
   let poetry = [];
   let listOpen = false;
+  let inToc = false;
 
   function closeParagraph() {
     if (paragraph.length) {
@@ -93,7 +101,19 @@ function markdownToHtml(markdown) {
       closePoetry();
       closeList();
       const level = heading[1].length;
-      html.push(`<h${level}>${inline(heading[2])}</h${level}>`);
+      const headingText = heading[2].trim();
+      const startsAfterToc = inToc && headingText !== "फ़ेहरिस्त";
+      inToc = headingText === "फ़ेहरिस्त";
+      html.push(`<h${level}${startsAfterToc ? ' class="page-break"' : ""}>${inline(heading[2])}</h${level}>`);
+      continue;
+    }
+
+    const tocEntry = /^(.+?)\s*\.{3,}\s*(\d+)$/.exec(trimmed);
+    if (inToc && tocEntry) {
+      closeParagraph();
+      closePoetry();
+      closeList();
+      html.push(`<div class="toc-row"><span class="toc-title">${inline(tocEntry[1].trim())}</span><span class="toc-leader"></span><span class="toc-page">${tocEntry[2]}</span></div>`);
       continue;
     }
 
@@ -140,13 +160,14 @@ const manuscript = fs
   .readFileSync(manuscriptPath, "utf8")
   .replaceAll(/^Manual Hindi\/Devanagari transliteration draft\.\n+/gm, "");
 const css = fs.readFileSync(cssPath, "utf8");
+const coverDataUrl = imageDataUrl(coverPath);
 
-const titleLines = title.trim().split("\n").map((line) => line.trim()).filter(Boolean);
-const coverSrc = path.relative(outDir, coverPath).replaceAll(path.sep, "/");
 const coverHtml = `
 <section class="cover-page" aria-label="Book cover">
-  <img src="${coverSrc}" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover">
+  <img src="${coverDataUrl}" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover">
 </section>`;
+
+const titleLines = title.trim().split("\n").map((line) => line.trim()).filter(Boolean);
 const titleHtml = `
 <section class="title-page">
   <h1>${inline(titleLines[0].replace(/^#\s+/, ""))}</h1>
@@ -178,17 +199,58 @@ const document = `<!doctype html>
 </html>
 `;
 
+const contentDocument = `<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>इख़्तियाराते मुस्तफ़ा ﷺ</title>
+  <style>${css}</style>
+</head>
+<body>
+  <main class="book">
+    ${titleHtml}
+    ${noteHtml}
+    ${manuscriptHtml}
+  </main>
+</body>
+</html>
+`;
+
 fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(outPath, document, "utf8");
 console.log(`Wrote ${path.relative(root, outPath)}`);
 
 async function writePdf({ outputPath, headerTemplate, footerTemplate, margin }) {
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+  const tempDir = path.join(projectDir, "exports", ".tmp");
+  fs.mkdirSync(tempDir, { recursive: true });
+  const coverPdfPath = path.join(tempDir, "cover.pdf");
+  const contentHtmlPath = path.join(tempDir, "content.html");
+  const contentPdfPath = path.join(tempDir, "content.pdf");
+  fs.writeFileSync(contentHtmlPath, contentDocument, "utf8");
+
   const browser = await chromium.launch();
-  const page = await browser.newPage();
-  await page.goto(pathToFileURL(outPath).href, { waitUntil: "networkidle" });
-  await page.pdf({
-    path: outputPath,
+  const coverPage = await browser.newPage();
+  await coverPage.setContent(`<!doctype html><html lang="hi"><head><meta charset="utf-8"><style>
+    @page { size: A5; margin: 0; }
+    html, body { margin: 0; width: 100%; height: 100%; }
+    .cover-page { background: #0f3c2c; display: flex; height: 100vh; overflow: hidden; width: 100vw; }
+    .cover-page img { display: block; height: 100%; object-fit: cover; width: 100%; }
+  </style></head><body>${coverHtml}</body></html>`, { waitUntil: "networkidle" });
+  await coverPage.pdf({
+    path: coverPdfPath,
+    format: "A5",
+    margin: { top: 0, right: 0, bottom: 0, left: 0 },
+    printBackground: true,
+    preferCSSPageSize: true,
+  });
+  await coverPage.close();
+
+  const contentPage = await browser.newPage();
+  await contentPage.goto(pathToFileURL(contentHtmlPath).href, { waitUntil: "networkidle" });
+  await contentPage.pdf({
+    path: contentPdfPath,
     format: "A5",
     printBackground: true,
     preferCSSPageSize: true,
@@ -197,7 +259,17 @@ async function writePdf({ outputPath, headerTemplate, footerTemplate, margin }) 
     footerTemplate,
     margin,
   });
+  await contentPage.close();
   await browser.close();
+
+  const merged = await PDFDocument.create();
+  for (const pdfPath of [coverPdfPath, contentPdfPath]) {
+    const source = await PDFDocument.load(fs.readFileSync(pdfPath));
+    const pages = await merged.copyPages(source, source.getPageIndices());
+    for (const page of pages) merged.addPage(page);
+  }
+  fs.writeFileSync(outputPath, await merged.save());
+  fs.rmSync(tempDir, { recursive: true, force: true });
   console.log(`Wrote ${path.relative(root, outputPath)}`);
 }
 
@@ -224,7 +296,7 @@ function writeEpub() {
     .replaceAll("padding: 46px 56px 64px;", "padding: 0;");
 
   addText(zip, "OEBPS/styles/book.css", epubCss);
-  zip.addLocalFile(coverPath, "OEBPS/images", "cover.png");
+  zip.addFile("OEBPS/images/cover.png", fs.readFileSync(coverPath));
   addText(zip, "OEBPS/nav.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="hi">
@@ -251,17 +323,18 @@ function writeEpub() {
     <dc:language>hi</dc:language>
     <dc:creator>Imran Raza Attari</dc:creator>
     <dc:publisher>Islamic Knowledge</dc:publisher>
+    <meta name="cover" content="cover-image"/>
     <meta property="dcterms:modified">${new Date().toISOString().replace(/\.\d{3}Z$/, "Z")}</meta>
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="cover-page" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
     <item id="book" href="book.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="styles/book.css" media-type="text/css"/>
-    <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
   </manifest>
   <spine>
-    <itemref idref="cover-page"/>
+    <itemref idref="cover"/>
     <itemref idref="book"/>
   </spine>
 </package>`);
