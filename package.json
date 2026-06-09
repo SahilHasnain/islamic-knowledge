@@ -6,10 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs"
   },
   "dependencies": {
+    "adm-zip": "^0.5.17",
     "next": "16.2.7",
+    "playwright": "^1.60.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
