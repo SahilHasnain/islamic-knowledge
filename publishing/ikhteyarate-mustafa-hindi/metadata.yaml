@@ -1,0 +1,10 @@
+title: Ikhteyarate Mustafa
+script: Devanagari
+language: Hindi transliteration of Roman Urdu
+source_language: Roman Urdu
+author: Imran Raza Attari
+status: draft
+edition: 0.1
+source: ../../content/books/ikhteyarate-mustafa.json
+workflow: Manual batch transliteration; no automated transliteration script.
+notes: Preserve Urdu-Islamic vocabulary and honorifics.
