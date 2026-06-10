@@ -11,14 +11,17 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `01-part-one/01-chapter-one.md`
 - `01-part-one/02-chapter-two.md`
 - `01-part-one/03-chapter-three.md` complete
-- `01-part-one/04-chapter-four.md` through the twenty-fifth section
+- `01-part-one/04-chapter-four.md` complete
+- `02-part-two/01-chapter-one.md` complete
+- `02-part-two/02-chapter-two.md` complete
+- `02-part-two/03-chapter-three.md` complete
 
 ## Current Translation Point
 
 The manuscript currently reaches:
 
-`Twenty-Fifth Section: The Clear Miracles Of Huzoor`
+`Second Part, Chapter Three: The Command To Revere And Honor Huzoor, Fulfill His Rights, And Its Obligation`
 
 Continue translation in:
 
-`manuscript/01-part-one/04-chapter-four.md`
+`manuscript/02-part-two/04-chapter-four.md`

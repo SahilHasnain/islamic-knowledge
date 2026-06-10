@@ -403,3 +403,75 @@ He informed him of the stories of Prophets and kings, and of all the ages that p
 He also informed him of every group's objections from their own books, the secrets and hidden sciences of those who possessed revealed books, the reports they concealed, the changes they had made in Arabic expressions, the rare words of different groups, the types of their eloquence, their proofs and arguments, their examples, wisdoms, poetry, and meanings. Allah <sup>عز وجل</sup> opened all of this to him.
 
 Allah <sup>عز وجل</sup> adorned the Shari'ah of Huzoor <sup>عليه السلام</sup> with pure character, excellent praise, and noble etiquette. Then, for Muslims, He made lawful those things that are pure and made unlawful those things that are impure.
+
+## Twenty-Sixth Section: The Unseen Reports Told By Huzoor
+
+Among the special distinctions and miracles of Huzoor <sup>عليه السلام</sup> are those unseen reports connected with the angels and jinn; Allah <sup>عز وجل</sup> helping him through the angels; the jinn being made obedient to him; and many Companions seeing them.
+
+Allah <sup>عز وجل</sup> says:
+
+"When, O Beloved, your Lord was revealing to the angels: I am with you, so keep the Muslims firm." (`al-Anfal: 12`)
+
+And He says:
+
+"When you were crying out to your Lord, He answered you: I am going to help you." (`al-Anfal: 9`)
+
+Hazrat Abdullah ibn Mas'ud <sup>رضي الله تعالى عنه</sup> narrated regarding the verse, "He certainly saw the greatest signs of his Lord" (`an-Najm: 18`), that Huzoor <sup>عليه السلام</sup> saw Hazrat Jibreel <sup>عليه السلام</sup> in his original form, and he had six hundred wings.
+
+In hadith, the speaking of Huzoor <sup>عليه السلام</sup> with Hazrat Jibreel, Hazrat Israfil, and others is established. It is well-known that on the night of Mi'raj he witnessed them in great and small forms. The Companions also saw them in his gathering.
+
+Hazrat Ibn Abbas <sup>رضي الله تعالى عنهما</sup> saw Hazrat Jibreel <sup>عليه السلام</sup> in the form of Dihyah al-Kalbi. Hazrat Sa'd <sup>رضي الله تعالى عنه</sup> saw Hazrat Jibreel and Hazrat Mika'il <sup>عليهما السلام</sup> in the form of two men. Similar reports are narrated from others as well.
+
+On the day of Badr, the Companions saw heads flying, though the one striking them could not be seen. Imran ibn Husayn <sup>رضي الله تعالى عنه</sup> used to shake hands with the angels. Huzoor <sup>عليه السلام</sup> showed Hazrat Jibreel <sup>عليه السلام</sup> to Hazrat Hamzah <sup>رضي الله تعالى عنه</sup> in the Ka'bah, and he fell unconscious.
+
+Many authors narrated from Hazrat Umar <sup>رضي الله تعالى عنه</sup> that an old man came to Huzoor <sup>عليه السلام</sup> and said that he was a jinn: Hama, son of Lahim, son of Laqis, son of Iblis. He mentioned that he had met Hazrat Nuh <sup>عليه السلام</sup> and other Prophets after him. This is a lengthy hadith. After that, Huzoor <sup>عليه السلام</sup> taught him some Surahs.
+
+One day, Huzoor <sup>عليه السلام</sup> said: "Last night, Shaytan intended to interrupt my prayer. Allah gave me power over him, and I seized him. I intended to tie him to one of the pillars of the Masjid so that all of you could see him, but I remembered the dua of my brother Sulayman <sup>عليه السلام</sup>, when he submitted to Allah: 'O my Lord, forgive me and grant me a kingdom...' (`Sad: 35`) So Allah rejected Shaytan in failure." This chapter too is very vast.
+
+## Twenty-Seventh Section: Proofs And Signs Of Prophethood And Messengerhood
+
+Among the proofs of the Prophethood of Huzoor <sup>عليه السلام</sup> and the signs of his Messengerhood are those hadith narrated from monks, rabbis, and scholars of the People of the Book regarding the praise of Huzoor <sup>عليه السلام</sup> and his Ummah, his name and signs, and the Seal of Prophethood that was between his two blessed shoulders.
+
+In this matter there are reports from the earlier people of tawhid. The Torah and Injil contained descriptions and qualities of Huzoor <sup>عليه السلام</sup>. After accepting Islam, several people narrated and confirmed these descriptions, such as Hazrat Abdullah ibn Salam, Hazrat Ka'b, and others who were Jewish scholars and then became Muslim.
+
+Huzoor <sup>عليه السلام</sup> repeatedly challenged the Jews, but the Jews altered the Torah, concealed the praise of Huzoor <sup>عليه السلام</sup>, and remained far from the truth.
+
+## Twenty-Eighth Section: Miracles At The Time Of His Blessed Birth
+
+Among the miracles of Huzoor <sup>عليه السلام</sup> are two signs that appeared at the time of his blessed birth, which his noble mother described. One was that at the time of birth, his blessed head was raised and his gaze was toward the sky. The other was that his mother saw the light that emerged with him at his birth, and the women present at the birth also saw it.
+
+At that time, Umm Uthman ibn Abi al-As saw that the stars had come near, and that light emerged at the time of birth until light spread in every direction.
+
+Shifa, the mother of Abdur Rahman ibn Awf, said that when he was born and brought into her hands, Huzoor <sup>عليه السلام</sup> sneezed. At that time, someone answered the sneeze, and she saw light between the east and west, until she saw the palaces of Rome.
+
+Hazrat Halimah and her husband, the foster parents of Huzoor <sup>عليه السلام</sup>, described the blessings of Huzoor <sup>عليه السلام</sup>: the milk of their she-camel increased, their goats became healthy and full, and his growth was very rapid.
+
+Among the wonders of the night of his birth are that an earthquake occurred in the palace of Kisra and its battlements fell; the water of Lake Tiberias decreased; and the fire of Persia, which had been burning for a thousand years, went out.
+
+When Huzoor <sup>عليه السلام</sup> ate with the children of his uncle Abu Talib, they would all become full. But when they ate without Huzoor <sup>عليه السلام</sup>, they would not become full. When the children of Abu Talib woke in the morning, they would be disheveled, but Huzoor <sup>عليه السلام</sup> would wake cheerful and with eyes as though adorned.
+
+Umm Ayman, who cared for him, said that during the childhood of Huzoor <sup>عليه السلام</sup>, she never heard him complain of hunger or thirst, nor did she hear this from him after he grew older.
+
+From childhood, Huzoor <sup>عليه السلام</sup> disliked idols and avoided the practices of the age of ignorance. Allah <sup>عز وجل</sup> distinguished him with excellent character.
+
+When Huzoor <sup>عليه السلام</sup> travelled, clouds would shade him. The shadow of Huzoor <sup>عليه السلام</sup> did not fall upon the ground. Allah <sup>عز وجل</sup> gave Huzoor <sup>عليه السلام</sup> the choice at the time of passing. The angels sent prayers and salam upon his sacred body. The Angel of Death sought permission from him, though before him he had not sought permission from anyone. At the time of his ghusl, voices were heard saying not to remove the shirt.
+
+The miracles and blessings of Huzoor <sup>عليه السلام</sup> appeared abundantly upon the Companions during his life and after his passing. For example, Hazrat Umar <sup>رضي الله تعالى عنه</sup> supplicated for rain through the tawassul of his uncle, and many people obtained blessings through his descendants.
+
+## Twenty-Ninth Section: The Miracle Remaining Until The Day Of Judgment
+
+Qadi Iyad Maliki <sup>رحمة الله تعالى عليه</sup> says: In this chapter, we have mentioned only some indications from the manifest miracles of Huzoor <sup>عليه السلام</sup> and the most apparent signs of Prophethood that we found. We left out many and did not mention them. In most hadith, we sufficed with the main purpose and the desired pearl.
+
+The miracles of our Prophet <sup>عليه السلام</sup> are more manifest than those of the other Prophets from two angles.
+
+First, they are numerous. Whatever miracles were given to the Prophets were given to Huzoor <sup>عليه السلام</sup>, or more than that was granted to him. Reflect upon the miracles of Huzoor <sup>عليه السلام</sup>, then look at the miracles of the Prophets, and it will become clear to you that the miracles of Huzoor <sup>عليه السلام</sup> are more numerous.
+
+The Qur'an itself, in its entirety, is a miracle. Some said that every sentence of the Qur'an is a miracle, even if it consists of only a few words. The details of the aspects of its inimitability have already been mentioned.
+
+Second, the miracles of Huzoor <sup>عليه السلام</sup> are clear. The miracles of the other Prophets were according to the interests of the people of their time and according to the craft or field that was widespread in their age. In the time of Hazrat Musa <sup>عليه السلام</sup>, people had reached excellence in magic, so Hazrat Musa <sup>عليه السلام</sup> was given miracles resembling that field. Likewise, in the time of Hazrat Isa <sup>عليه السلام</sup>, the science of medicine had reached excellence, so he was given miracles resembling that field.
+
+When Huzoor <sup>عليه السلام</sup> was born, the Arabs possessed mastery over speech, and their collective knowledge and sciences were four: eloquence, poetry, reports, and soothsaying. Allah <sup>عز وجل</sup> revealed the Qur'an upon him, which was extraordinary and beyond custom in all four of these areas. Its arrangement was such that they had no familiarity with anything like it.
+
+We have already explained the aspects of the Qur'an's inimitability. This miracle will remain with him until the Day of Judgment.
+
+Here ends the First Part.
