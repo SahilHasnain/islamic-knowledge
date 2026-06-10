@@ -15,13 +15,15 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `02-part-two/01-chapter-one.md` complete
 - `02-part-two/02-chapter-two.md` complete
 - `02-part-two/03-chapter-three.md` complete
+- `02-part-two/04-chapter-four.md` complete
+- `03-part-three/01-chapter-one.md` through the seventh section
 
 ## Current Translation Point
 
 The manuscript currently reaches:
 
-`Second Part, Chapter Three: The Command To Revere And Honor Huzoor, Fulfill His Rights, And Its Obligation`
+`Third Part, Chapter One, Seventh Section: Truthfulness In Worldly Matters And Human States`
 
 Continue translation in:
 
-`manuscript/02-part-two/04-chapter-four.md`
+`manuscript/03-part-three/01-chapter-one.md`
