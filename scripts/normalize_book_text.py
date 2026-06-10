@@ -20,6 +20,30 @@ SPLIT_WAW_SALAWAT_PATTERN = re.compile(
     r"(?:مَ\s*ی\s*)?صَلَّ[\s\S]{0,180}?وَ[\s\S]{0,30}?سَ\s*لَّ(?:\s*مَ\s*ی)?"
 )
 
+URDU_OCR_SALAWAT_PATTERN = re.compile(
+    r"[َُِْٰ\s]*(?:مَ\s*)?صَّلََ[\s\S]{0,160}?وَ\s*سَ\s*لََ(?:\s*مَ)?"
+)
+
+URDU_OCR_LOOSE_SALAWAT_PATTERN = re.compile(
+    r"[َُِْٰ\s]*(?:مَ\s*)?صَّلََ[\s\S]{0,180}?و[\s\S]{0,35}?سَ\s*ل(?:ََ)?\s*(?:مَ|م)?"
+)
+
+URDU_OCR_FRAGMENTED_SALAWAT_PATTERN = re.compile(
+    r"[َُِْٰ\s]*(?:مَ\s*)?ص[\s\S]{0,14}?ل[َُِّْٰ\s]*(?:مَ?\s*)?ہللا[\s\S]{0,180}?و[\s\S]{0,35}?سَ\s*ل[َُِْٰ\s]*(?:مَ|م)?"
+)
+
+URDU_OCR_SPLIT_SALAWAT_REMAINDER_PATTERN = re.compile(
+    r"[َُِْٰ\s]*(?:مَ?\s*)?تَعَاٰلی\s+عَلَیْہِ\s+وَای\s+لِہٖ\s+وَسَ\s*ل[َُِْٰ\s]*(?:مَ|م)?"
+)
+
+URDU_OCR_ORPHANED_SALAWAT_TAIL_PATTERN = re.compile(
+    r"[َُِْٰ\s]*(?:مَ\s*)?وَای\s+لِہٖ\s+وَسَ\s*ل[َُِْٰ\s]*(?:مَ|م)?"
+)
+
+URDU_OCR_PARTIAL_SALAWAT_START_PATTERN = re.compile(
+    r"[َُِْٰ\s]*ص[َُِّْٰ\s]*ل[َُِْٰ\s]*ہللا(?:ُ)?"
+)
+
 ROMAN_SALAWAT_PATTERN = re.compile(
     r"\bsall?all[aā]h[uo]?\s+al[aiy]+h[ie]?\s+wa\s*sal+am\b",
     re.IGNORECASE,
@@ -97,6 +121,12 @@ def normalize_text(value: str) -> str:
     value = STRICT_SALAWAT_PATTERN.sub("ﷺ", value)
     value = BROAD_SALAWAT_PATTERN.sub("ﷺ", value)
     value = SPLIT_WAW_SALAWAT_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_SALAWAT_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_LOOSE_SALAWAT_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_FRAGMENTED_SALAWAT_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_SPLIT_SALAWAT_REMAINDER_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_ORPHANED_SALAWAT_TAIL_PATTERN.sub("ﷺ", value)
+    value = URDU_OCR_PARTIAL_SALAWAT_START_PATTERN.sub("ﷺ", value)
     value = ROMAN_SALAWAT_PATTERN.sub("ﷺ", value)
     value = BURDA_COUPLET_PATTERN.sub(
         "فإن من جودك الدنيا وضرتها ومن علومك علم اللوح والقلم", value
@@ -109,9 +139,15 @@ def normalize_text(value: str) -> str:
         value = value.replace(incorrect, correct)
 
     value = re.sub(r"^وَسَ\s*لَّ\s+", "Huzoor ﷺ ", value)
+    value = re.sub(r"[َُِْٰ\s]*ص[َُِّْٰ\s]*ل[َُِْٰ\s]*ہللا(?:ُ)?\s*ﷺ", " ﷺ", value)
+    value = re.sub(r"[َُِْٰ\s]*مَ?\s*ﷺ", " ﷺ", value)
+    value = re.sub(r"ﷺ[َُِْٰ\s]*(?:مَ|م)\b", "ﷺ", value)
+    value = re.sub(r"ﷺ\s*تَعَاٰلی\s+عَلَیْہ(?:ِ)?(?:\s+وَای\s+لِہٖ(?:\s+وَسَ\s*ل(?:ََ)?\s*(?:مَ|م)?)?)?", "ﷺ", value)
     value = re.sub(r"(^|\s)[یي]\s+ﷺ", r"\1ﷺ", value)
     value = re.sub(r"ﷺ\s+مَ\s*[یي]\s+", "ﷺ ", value)
     value = re.sub(r"ﷺ\s+[یي]\s+", "ﷺ ", value)
+    value = re.sub(r"(?<=[A-Za-z])ﷺ", " ﷺ", value)
+    value = re.sub(r"ﷺ(?=[A-Za-z])", "ﷺ ", value)
     value = re.sub(r"\s+ﷺ", " ﷺ", value)
     value = re.sub(r"ﷺ\s+", "ﷺ ", value)
     return value
@@ -141,6 +177,18 @@ def main() -> None:
         BROAD_SALAWAT_PATTERN.findall(original)
     ) + len(
         SPLIT_WAW_SALAWAT_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_SALAWAT_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_LOOSE_SALAWAT_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_FRAGMENTED_SALAWAT_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_SPLIT_SALAWAT_REMAINDER_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_ORPHANED_SALAWAT_TAIL_PATTERN.findall(original)
+    ) + len(
+        URDU_OCR_PARTIAL_SALAWAT_START_PATTERN.findall(original)
     ) + len(
         ROMAN_SALAWAT_PATTERN.findall(original)
     )
