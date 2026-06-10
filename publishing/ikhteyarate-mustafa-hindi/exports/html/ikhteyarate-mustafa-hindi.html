@@ -7,11 +7,13 @@
   <style>:root {
   color-scheme: light;
   --page-bg: #fbf8f1;
-  --paper: #fffdf8;
+  --paper: #fffefb;
   --ink: #17130f;
   --muted: #6f6252;
   --rule: #d8cbb8;
-  --accent: #6e2f18;
+  --accent: #0f5a3e;
+  --accent-warm: #7a3d22;
+  --gold: #b8944f;
 }
 
 @page {
@@ -81,17 +83,18 @@ body {
 
 .title-page {
   align-items: center;
-  border-bottom: 1px solid var(--rule);
+  border: 3px double #5f8b75;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  min-height: 72vh;
+  min-height: 78vh;
+  padding: 2.4rem 1.5rem;
   text-align: center;
 }
 
 .title-page h1 {
-  color: var(--accent);
-  font-size: 2.55rem;
+  color: var(--accent-warm);
+  font-size: 2.65rem;
   line-height: 1.25;
   margin: 0 0 1rem;
 }
@@ -132,14 +135,22 @@ h1 {
 }
 
 h2 {
-  border-top: 1px solid var(--rule);
-  font-size: 1.45rem;
-  margin: 2.8rem 0 1.2rem;
-  padding-top: 1.35rem;
+  font-size: 1.52rem;
+  margin: 2.7rem 0 1.15rem;
   text-align: center;
 }
 
+h2::before,
+h2::after {
+  color: var(--gold);
+  content: "◆";
+  font-size: 0.42em;
+  margin: 0 0.58rem;
+  vertical-align: middle;
+}
+
 h3 {
+  color: var(--accent-warm);
   font-size: 1.18rem;
   margin: 2rem 0 0.8rem;
 }
@@ -151,9 +162,10 @@ p {
 }
 
 .poetry {
-  color: #2e241d;
-  font-size: 1.02rem;
-  line-height: 1.85;
+  color: var(--accent);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.78;
   margin: 1.15rem auto 1.55rem;
   max-width: 27rem;
   text-align: center;
@@ -161,7 +173,8 @@ p {
 
 .reference {
   color: var(--muted);
-  font-size: 0.88rem;
+  font-size: 0.86rem;
+  font-style: italic;
   margin: 0.5rem 0 1.15rem;
   text-align: center;
 }
@@ -196,7 +209,7 @@ sup,
   align-items: baseline;
   display: flex;
   gap: 0.25rem;
-  margin: 0 0 1.25rem;
+  margin: 0 0 1.05rem;
   text-align: start;
 }
 
@@ -205,7 +218,7 @@ sup,
 }
 
 .toc-leader {
-  border-bottom: 1px dotted currentColor;
+  border-bottom: 1px dotted #0b4832;
   flex: 1 1 auto;
   min-width: 2rem;
   transform: translateY(-0.18em);
@@ -222,12 +235,18 @@ sup,
 }
 
 @media print {
+  html {
+    font-size: 16.2px;
+    line-height: 1.68;
+  }
+
   html,
   body {
     background: white;
   }
 
   .book {
+    background: white;
     box-shadow: none;
     margin: 0;
     max-width: none;
@@ -243,6 +262,10 @@ sup,
   .title-page {
     break-after: page;
     min-height: 90vh;
+  }
+
+  .title-page h1 {
+    color: var(--accent);
   }
 
   .publishing-note {

@@ -20,6 +20,10 @@ const printDir = path.join(projectDir, "exports", "print");
 const digitalPdfPath = path.join(pdfDir, "ikhteyarate-mustafa-hindi-digital.pdf");
 const printPdfPath = path.join(printDir, "ikhteyarate-mustafa-hindi-print.pdf");
 const epubPath = path.join(epubDir, "ikhteyarate-mustafa-hindi.epub");
+const pdfPageSize = {
+  width: "148mm",
+  height: "210mm",
+};
 
 function escapeHtml(value) {
   return value
@@ -39,6 +43,15 @@ function restoreInlineHtml(value) {
 
 function inline(value) {
   return restoreInlineHtml(escapeHtml(value));
+}
+
+function escapeXml(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
 }
 
 function imageDataUrl(filePath) {
@@ -154,8 +167,50 @@ function markdownToHtml(markdown) {
   return html.join("\n");
 }
 
+function getTocEntries(markdown) {
+  return markdown
+    .replaceAll("\r\n", "\n")
+    .split("\n")
+    .map((line) => /^(.+?)\s*\.{3,}\s*(\d+)$/.exec(line.trim()))
+    .filter(Boolean)
+    .map((match, index) => ({
+      title: match[1].trim(),
+      page: match[2],
+      file: `section-${String(index + 1).padStart(2, "0")}.xhtml`,
+    }));
+}
+
+function splitEpubSections(markdown, tocEntries) {
+  const lines = markdown.replaceAll("\r\n", "\n").split("\n");
+  const front = [];
+  const sections = [];
+  let current = null;
+  let sawToc = false;
+
+  for (const line of lines) {
+    const heading = /^##\s+(.+)$/.exec(line.trim());
+    if (heading?.[1].trim() === "फ़ेहरिस्त") sawToc = true;
+
+    if (heading && sawToc && heading[1].trim() !== "फ़ेहरिस्त") {
+      if (current) sections.push(current);
+      const entry = tocEntries[sections.length] ?? {
+        title: heading[1].trim(),
+        file: `section-${String(sections.length + 1).padStart(2, "0")}.xhtml`,
+      };
+      current = { ...entry, markdown: [line] };
+      continue;
+    }
+
+    if (current) current.markdown.push(line);
+    else front.push(line);
+  }
+
+  if (current) sections.push(current);
+  return { front: front.join("\n"), sections: sections.map((section) => ({ ...section, markdown: section.markdown.join("\n") })) };
+}
+
 const title = fs.readFileSync(titlePath, "utf8");
-const note = fs.readFileSync(notePath, "utf8");
+const note = fs.existsSync(notePath) ? fs.readFileSync(notePath, "utf8") : "";
 const manuscript = fs
   .readFileSync(manuscriptPath, "utf8")
   .replaceAll(/^Manual Hindi\/Devanagari transliteration draft\.\n+/gm, "");
@@ -179,6 +234,8 @@ const noteHtml = note.trim()
   ? `<section class="publishing-note">${markdownToHtml(note)}</section>`
   : "";
 const manuscriptHtml = markdownToHtml(manuscript);
+const tocEntries = getTocEntries(manuscript);
+const epubParts = splitEpubSections(manuscript, tocEntries);
 
 const document = `<!doctype html>
 <html lang="hi">
@@ -233,14 +290,14 @@ async function writePdf({ outputPath, headerTemplate, footerTemplate, margin }) 
   const browser = await chromium.launch();
   const coverPage = await browser.newPage();
   await coverPage.setContent(`<!doctype html><html lang="hi"><head><meta charset="utf-8"><style>
-    @page { size: A5; margin: 0; }
+    @page { size: ${pdfPageSize.width} ${pdfPageSize.height}; margin: 0; }
     html, body { margin: 0; width: 100%; height: 100%; }
     .cover-page { background: #0f3c2c; display: flex; height: 100vh; overflow: hidden; width: 100vw; }
     .cover-page img { display: block; height: 100%; object-fit: cover; width: 100%; }
   </style></head><body>${coverHtml}</body></html>`, { waitUntil: "networkidle" });
   await coverPage.pdf({
     path: coverPdfPath,
-    format: "A5",
+    ...pdfPageSize,
     margin: { top: 0, right: 0, bottom: 0, left: 0 },
     printBackground: true,
     preferCSSPageSize: true,
@@ -251,7 +308,7 @@ async function writePdf({ outputPath, headerTemplate, footerTemplate, margin }) 
   await contentPage.goto(pathToFileURL(contentHtmlPath).href, { waitUntil: "networkidle" });
   await contentPage.pdf({
     path: contentPdfPath,
-    format: "A5",
+    ...pdfPageSize,
     printBackground: true,
     preferCSSPageSize: true,
     displayHeaderFooter: true,
@@ -277,6 +334,13 @@ function addText(zip, filePath, text) {
   zip.addFile(filePath, Buffer.from(text, "utf8"));
 }
 
+function epubContentsHtml(entries) {
+  const rows = entries
+    .map((entry) => `<li><a href="${entry.file}">${inline(entry.title)}</a></li>`)
+    .join("\n");
+  return `<main class="book epub-contents"><h1>फ़ेहरिस्त</h1><ol class="epub-toc">${rows}</ol></main>`;
+}
+
 function writeEpub() {
   fs.mkdirSync(epubDir, { recursive: true });
   const zip = new AdmZip();
@@ -293,28 +357,129 @@ function writeEpub() {
     .replaceAll(/@media print[\s\S]*$/g, "")
     .replaceAll("box-shadow: 0 18px 60px rgba(45, 30, 12, 0.16);", "")
     .replaceAll("max-width: 760px;", "")
-    .replaceAll("padding: 46px 56px 64px;", "padding: 0;");
+    .replaceAll("padding: 46px 56px 64px;", "padding: 1.2rem 1.15rem 1.8rem;")
+    + `
+
+body {
+  background: var(--paper);
+  margin: 0;
+}
+
+.book {
+  box-shadow: none;
+  margin: 0;
+  max-width: none;
+  min-height: auto;
+}
+
+.section-book {
+  padding-top: 1.1rem;
+}
+
+.cover-page,
+.book > .cover-page {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.title-page {
+  border: 2px double #5f8b75;
+  min-height: 72vh;
+}
+
+.epub-contents h1,
+nav h1 {
+  color: var(--accent);
+  font-size: 1.7rem;
+  margin: 1rem 0 1.2rem;
+  text-align: center;
+}
+
+.epub-toc,
+nav ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.epub-toc li,
+nav li {
+  border-bottom: 1px dotted #8aa897;
+  margin: 0;
+  padding: 0.45rem 0;
+}
+
+.epub-toc a,
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 0.85rem;
+}
+`;
 
   addText(zip, "OEBPS/styles/book.css", epubCss);
   zip.addFile("OEBPS/images/cover.png", fs.readFileSync(coverPath));
+  const navItems = epubParts.sections
+    .map((section) => `<li><a href="${section.file}">${escapeXml(section.title)}</a></li>`)
+    .join("");
+  const manifestSections = epubParts.sections
+    .map((section, index) => `    <item id="section-${index + 1}" href="${section.file}" media-type="application/xhtml+xml"/>`)
+    .join("\n");
+  const spineSections = epubParts.sections
+    .map((_, index) => `    <itemref idref="section-${index + 1}"/>`)
+    .join("\n");
+  const ncxItems = epubParts.sections
+    .map((section, index) => `    <navPoint class="chapter" id="nav-${index + 1}" playOrder="${index + 1}">
+      <navLabel><text>${escapeXml(section.title)}</text></navLabel>
+      <content src="${section.file}"/>
+    </navPoint>`)
+    .join("\n");
+
   addText(zip, "OEBPS/nav.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="hi">
 <head><title>Contents</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
-<body><nav epub:type="toc"><h1>Contents</h1><ol><li><a href="cover.xhtml">Cover</a></li><li><a href="book.xhtml">इख़्तियाराते मुस्तफ़ा ﷺ</a></li></ol></nav></body>
+<body><main class="book epub-contents"><nav epub:type="toc"><h1>फ़ेहरिस्त</h1><ol>${navItems}</ol></nav><nav epub:type="landmarks" hidden="hidden"><ol><li><a epub:type="cover" href="cover.xhtml">Cover</a></li><li><a epub:type="toc" href="contents.xhtml">फ़ेहरिस्त</a></li></ol></nav></main></body>
 </html>`);
+  addText(zip, "OEBPS/toc.ncx", `<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="hi">
+  <head>
+    <meta name="dtb:uid" content="urn:islamic-knowledge:ikhteyarate-mustafa-hindi"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>इख़्तियाराते मुस्तफ़ा ﷺ</text></docTitle>
+  <navMap>
+${ncxItems}
+  </navMap>
+</ncx>`);
   addText(zip, "OEBPS/cover.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hi">
 <head><title>Cover</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
 <body><section class="cover-page"><img src="images/cover.png" alt="इख़्तियाराते मुस्तफ़ा ﷺ cover"/></section></body>
 </html>`);
-  addText(zip, "OEBPS/book.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
+  addText(zip, "OEBPS/contents.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hi">
 <head><title>इख़्तियाराते मुस्तफ़ा ﷺ</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
-<body><main class="book">${titleHtml}${noteHtml}${manuscriptHtml}</main></body>
+<body>${epubContentsHtml(epubParts.sections)}</body>
 </html>`);
+
+  for (const section of epubParts.sections) {
+    addText(zip, `OEBPS/${section.file}`, `<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="hi">
+<head><title>${escapeXml(section.title)}</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
+<body><main class="book section-book">${markdownToHtml(section.markdown)}</main></body>
+</html>`);
+  }
+
   addText(zip, "OEBPS/package.opf", `<?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="hi">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -328,15 +493,22 @@ function writeEpub() {
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
-    <item id="book" href="book.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+${manifestSections}
     <item id="css" href="styles/book.css" media-type="text/css"/>
   </manifest>
-  <spine>
+  <spine toc="ncx">
     <itemref idref="cover"/>
-    <itemref idref="book"/>
+    <itemref idref="contents"/>
+${spineSections}
   </spine>
+  <guide>
+    <reference href="cover.xhtml" title="Cover" type="cover"/>
+    <reference href="contents.xhtml" title="फ़ेहरिस्त" type="toc"/>
+  </guide>
 </package>`);
   zip.writeZip(epubPath);
   console.log(`Wrote ${path.relative(root, epubPath)}`);
@@ -344,8 +516,8 @@ function writeEpub() {
 
 await writePdf({
   outputPath: digitalPdfPath,
-  headerTemplate: `<div style="font-family: serif; font-size: 8px; color: #8a7a66; width: 100%; text-align: center;">इख़्तियाराते मुस्तफ़ा ﷺ</div>`,
-  footerTemplate: `<div style="font-family: serif; font-size: 8px; color: #8a7a66; width: 100%; text-align: center;"><span class="pageNumber"></span></div>`,
+  headerTemplate: `<div style="box-sizing: border-box; color: #0f5a3e; font-family: serif; font-size: 8px; padding: 0 16mm; text-align: left; width: 100%;">इख़्तियाराते मुस्तफ़ा ﷺ</div>`,
+  footerTemplate: `<div style="color: #4f463a; font-family: serif; font-size: 8px; text-align: center; width: 100%;"><span class="pageNumber"></span></div>`,
   margin: {
     top: "18mm",
     right: "16mm",
@@ -356,7 +528,7 @@ await writePdf({
 await writePdf({
   outputPath: printPdfPath,
   headerTemplate: `<div></div>`,
-  footerTemplate: `<div style="font-family: serif; font-size: 8px; color: #8a7a66; width: 100%; text-align: center;"><span class="pageNumber"></span></div>`,
+  footerTemplate: `<div style="color: #4f463a; font-family: serif; font-size: 8px; text-align: center; width: 100%;"><span class="pageNumber"></span></div>`,
   margin: {
     top: "16mm",
     right: "18mm",
