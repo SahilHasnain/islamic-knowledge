@@ -165,3 +165,137 @@ Hazrat Umar <sup>رضي الله تعالى عنه</sup> expelled a Jew from Kha
 Another point here is that when someone's statement turns out contrary to reality, doubt enters his speech. In hadith terminology, such a person may become regarded as unreliable in narration. His statement will not settle in people's hearts. Therefore, even if a person is trustworthy, if he has abundant confusion, heedlessness, and mistakes, narrating hadith from him is left.
 
 Therefore, the correct position is that Prophethood must be kept pure and transcendent beyond such things, because the purpose of Prophethood is conveying, informing, and confirming. Reflect on the questions and statements of the disbelievers of Quraysh, and it will become clear how much they acknowledged his truthfulness.
+
+## Eighth Section: Forgetfulness In Hadith
+
+If someone says: what is the meaning of the hadith in which Huzoor <sup>عليه السلام</sup> prayed Asr and gave salam after two rak'ahs, then a Companion submitted, "Was the prayer shortened, or did forgetfulness occur?" He replied, "Neither of these happened."
+
+Here Huzoor <sup>عليه السلام</sup> negated both states: neither forgetfulness occurred, nor was the prayer shortened, even though one of the two matters apparently had to be true. You should know that scholars gave several answers to this event. Some of them are fair, while others are extremely harsh and biased.
+
+The correct answer is that such actions occurred so that the Sunnah regarding forgetfulness could be taught. Therefore, he was truthful in his statement: neither forgetfulness occurred from him, nor did he shorten the prayer. Rather, it was instruction of the Sunnah: what should be done when such a matter occurs.
+
+Another answer is that Huzoor <sup>عليه السلام</sup> informed according to his belief and inner awareness: "I did not forget, nor did I shorten." In one narration, it is mentioned: "I do not forget; rather, I am made to forget." When Huzoor <sup>عليه السلام</sup> negated it, he negated it from his own self. It is known that he was made to forget so that it would become Sunnah. From this too, it is clear that the statement of Huzoor <sup>عليه السلام</sup> was true: neither forgetfulness occurred from him, nor did he shorten the prayer.
+
+If the story of Hazrat Ibrahim <sup>عليه السلام</sup> is mentioned, that he said three "untruths": "I am ill," "The largest of them did it," and that he called his wife his sister, then you should know that these statements are outside the category of falsehood.
+
+The meaning of "I am ill" is: I am one who may become ill, meaning every created being is subject to illness. He used this as an excuse to his people for not going to the festival. Other explanations have also been given, all showing that it was not falsehood.
+
+As for the statement, "The largest of them did it," this was to reprimand his people.
+
+As for calling his wife his sister, the meaning was that she was his sister in Islam. This too is true, because every believing man and believing woman are brother and sister. Besides this, such situations occurred in order to protect his intention from the enemy. Therefore, it was not falsehood.
+
+## Ninth Section: The Infallibility Of The Limbs And Bodily Actions Of Huzoor
+
+All Muslims agree that the noble Prophets are pure and transcendent beyond every form of indecency and major sin. The proof of the majority in this matter is the consensus that we have mentioned, and scholars have also established it through rational proofs.
+
+There is no disagreement among the scholars that the noble Prophets are protected from concealing the message and from falling short in conveying it, because infallibility itself requires this.
+
+As for minor sins, one group of the righteous predecessors and others considered them possible for the Prophets <sup>عليهم السلام</sup>. Another group held that, just as they are protected from major sins, they are also protected from minor sins.
+
+This disagreement also exists because people differ in defining major and minor sins. Several statements are found regarding the definition of major and minor sins. Some scholars held that the Prophets are protected from intentionally entering disliked matters, and the majority position is that they are protected from minor sins as well.
+
+One proof for this is that we have been commanded to follow the Prophets absolutely. When Huzoor <sup>عليه السلام</sup> saw someone doing something and did not forbid it, this became proof that the act was permissible. Since this is the rank of Huzoor <sup>عليه السلام</sup>, how can it be possible to allow the occurrence of something objectionable from him?
+
+Once Huzoor <sup>عليه السلام</sup> removed his ring, and all the Companions removed their rings. When he removed his blessed sandals, all the Companions removed their sandals. There are many hadith and reports in this matter which cannot be encompassed, but taken together they make it decisively known that the Companions would follow and imitate the actions of Huzoor <sup>عليه السلام</sup>.
+
+However, permissible matters may occur from the Prophets, because no blame comes upon them for these. Rather, they are allowed in permissible matters. Yet they do not turn toward permissible matters except to the extent needed: to fulfill necessity, gain strength to walk the path, reform the religion, and fulfill worldly needs.
+
+## Tenth Section: Infallibility Before The Manifestation Of Prophethood
+
+Scholars differed over whether the Prophets are protected before Prophethood as well. Some regarded this as impossible, while others considered it possible. The correct position is that by the will of Allah <sup>عز وجل</sup>, they are pure and transcendent beyond every defect and deficiency, and beyond every evil that could create doubt.
+
+How could it be otherwise, when even conceiving this issue is impossible? Sins and prohibited matters exist only after the establishment of Shari'ah. Regarding the state of Huzoor <sup>عليه السلام</sup> before revelation, people differed over whether he followed a previous Shari'ah or not.
+
+A group said that he did not follow any specific Shari'ah, and this is the statement of the majority. Based on this statement, disobedience did not exist at all in that period, and such matters were not applicable to him, because all of them follow after the establishment of Shari'ah. There are other statements as well. One group held silence. The most apparent school in this matter is that of Qadi Abu Bakr <sup>رحمة الله تعالى عليه</sup>: that Huzoor <sup>عليه السلام</sup> did not act upon any specified Shari'ah.
+
+## Eleventh Section: Actions That Occurred Without Intention Or Choice
+
+As for those Shari'ah matters which, if they occur from ordinary people without intention, they are not held accountable for them, then it is even more necessary that the Prophets not be held accountable for them and that they not be considered disobedience. In this matter, they share the same ruling as their Ummahs.
+
+This has two categories. The first is a matter connected to the method of conveying, explaining the Shari'ah, rulings, and teaching the Ummah through that action, so that it may be used as proof and followed. The second is an action outside this and specific only to the personal state of the Prophets.
+
+According to a group of scholars, the first category of action has the same ruling as forgetfulness in speech, though we have already explained that, by agreement, this is impossible for Huzoor <sup>عليه السلام</sup>, and that he is protected from this being attributed to him intentionally or forgetfully.
+
+For this reason, scholars say that the actions of Huzoor <sup>عليه السلام</sup> that fall in this category are like speech, in which no contradiction is permissible in any way, whether intentionally or through forgetfulness, because his actions, from the perspective of conveying the message, carry the meaning of speech. There are further scholarly discussions in this matter.
+
+## Twelfth Section: A Complete Discussion On Hadith Of Forgetfulness
+
+The hadith of forgetfulness narrated regarding Huzoor <sup>عليه السلام</sup> in prayer are three. One is the incident in which he gave salam after two rak'ahs. Another is the hadith in which, after two rak'ahs, he stood for the third without sitting. The third is that he prayed five rak'ahs of Zuhr.
+
+These three hadith are based on forgetfulness that occurred in actions. In this was the wisdom of Allah <sup>عز وجل</sup>: that the Sunnah would be taught in such matters. Conveying through actions is clearer than conveying through speech and removes more possibilities. This does not contradict the miracle of Huzoor <sup>عليه السلام</sup>.
+
+Huzoor <sup>عليه السلام</sup> said: "I am human in outward form; I forget as you forget. So when forgetfulness occurs, remind me."
+
+He also said: "May Allah have mercy on the person who reminded me of such-and-such verse which I had left out forgetfully." It is also narrated that it had been made forgotten to him. He also said: "I am made to forget so that I may establish the Sunnah."
+
+Huzoor <sup>عليه السلام</sup> said: "How evil is the person among you who says, 'I forgot such-and-such verse.' Rather, he should say, 'I was made to forget.'"
+
+There is further scholarly detail in this matter.
+
+## Thirteenth Section: The Prophets Are Protected Even From Committing Minor Sins
+
+This section refutes those who consider minor sins possible for the Prophets.
+
+Those who considered this possible used several explicit texts of the Qur'an and hadith as evidence. If they held to the outward meanings of those texts, it would lead to allowing major sins and breaking consensus, which no Muslim can accept.
+
+The commentators differed regarding the meanings of the texts they use as evidence, and many statements of the righteous predecessors have been narrated against the conclusion they try to impose. Since there is no consensus upon their school, and since old disagreement exists regarding their evidences, and since proofs exist showing the error and incorrectness of their statement and the correctness of the other statement, it is wajib to leave it and turn toward the correct position.
+
+Now we look at the proofs.
+
+## Fourteenth Section: Removing The Difficulty Regarding Sin Being Attributed To The Prophets
+
+In several verses and hadith, words occur which outwardly describe the slips of the Prophets with terms such as "sin" and "wrongdoing." However, these have been interpreted.
+
+Regarding the forgiving of the earlier and later "errors" of Huzoor <sup>عليه السلام</sup>, several statements exist. For example, some said that the intended meaning is his Ummah; others said that Hazrat Adam <sup>عليه السلام</sup> is intended. Some scholars took the meaning here as purification from every defect and deficiency. Another statement is that it refers to slips before Prophethood. There are many statements and detailed discussions in this matter.
+
+The explanation of the verse in Surah Tawbah, "Allah forgive you; why did you give them permission?" has already passed in the first part.
+
+Hazrat Adam <sup>عليه السلام</sup> did not eat the fruit with the intention of deliberate opposition, and this was not disobedience. Rather, he forgot. Likewise, there is no disobedience in the story of Hazrat Yunus <sup>عليه السلام</sup>.
+
+The slips that occurred from the noble Prophets were due to forgetfulness, and there is no blame in that.
+
+If someone says: what is the meaning of the repeated mention in the Qur'an and hadith of sins, repentance, seeking forgiveness, crying, and humility from the Prophets, while they acknowledged these matters and feared them? Does one without sin also fear?
+
+Then know the answer, and may Allah <sup>عز وجل</sup> grant us and you ability. The lofty rank of the Prophets, their elevated recognition of Allah <sup>عز وجل</sup>, their standing upon the way of the servants of Allah, and their recognition of the awe, greatness, firm grasp, and power of Allah, all moved them toward fear of Allah, awe of Him, and concern over His grasp. These matters may have been such that ordinary people would not be held accountable for them.
+
+The state of the Prophets was that they feared even in matters where there was no prohibition and no command. This is because of their high rank. Their slips are such that, like the good deeds of the righteous, in relation to their exalted rank they resemble sins; not that they are sins like our sins.
+
+Some scholars said that the Prophets were taken to account even for the slightest slip because of their great rank in the court of Allah. Others, despite committing many times more discourtesy, are overlooked because their matter is not given the same weight. Allah <sup>عز وجل</sup> taking them to account in this world is so that their degrees may rise even higher.
+
+Some theologians said that the slips of the Prophets are outwardly slips, but in reality they are their miracles and nearness, as we have explained earlier.
+
+Regarding the Prophets seeking forgiveness, one statement is that their abundant repentance was for constant humility and expression of servanthood, not because of acknowledging fault. It was gratitude for the blessing of Allah <sup>عز وجل</sup>. Huzoor <sup>عليه السلام</sup> said: "I am protected from being held accountable for what is earlier and later, but should I not be a grateful servant of Allah?" He also said: "I have more fear of Allah than you and know taqwa more than you."
+
+There is also a subtle meaning in repentance and seeking forgiveness: it is a desire for the love of Allah <sup>عز وجل</sup>.
+
+## Fifteenth Section: Warnings Regarding The Rights Of Messengerhood And Prophethood
+
+From this discussion, it will have become clear that Huzoor <sup>عليه السلام</sup> is completely protected from being unaware of the Divine Being. He is also protected from falsehood and speaking contrary to reality. Its occurrence from him is impossible according to Shari'ah, reason, and consensus. His protection from minor and major sins is also established, and he is pure from such matters in every state: happiness, grief, and anger.
+
+It is now wajib and necessary upon you to hold firmly with full strength to the statements and actions of Huzoor <sup>عليه السلام</sup>, and to act upon them with complete firmness, as a miser holds tightly to something. You should value these accounts greatly, gain knowledge from their immense benefits, and know the rights of Huzoor <sup>عليه السلام</sup>: which rights are wajib and which are permissible, so that you remain protected from opposing them. This cannot happen without knowledge.
+
+Whoever holds a belief regarding Huzoor <sup>عليه السلام</sup> that is not correct to believe about him deserves Hell.
+
+## Sixteenth Section: The Infallibility Of The Angels
+
+There is consensus that all angels are believers and possess rank. In the matter of infallibility, they are equal to the Prophets.
+
+One group held that all angels are protected from sins. The proof is that Allah <sup>عز وجل</sup> says:
+
+"They do not disobey Allah in what He commands them, and they do what they are commanded." (`at-Tahrim: 6`)
+
+Verses of this kind, in which the angels fulfilling the command is mentioned, are proof.
+
+Another group held that this is specific to those angels who are Messengers and near ones. They mentioned evidences from biography, history, tafsir, and other sources. The correct school in this matter is that all angels are protected and pure from every evil.
+
+Those who say that all angels are not protected use the story of Harut and Marut as evidence. You should know that whether those narrations are weak or sound, none of them is narrated from Huzoor <sup>عليه السلام</sup>, nor is this something that can be known by analogy. As for what is mentioned in the Qur'an, the commentators differed over its meaning, and all such reports came from the books and falsehoods of the Jews.
+
+First, there is disagreement regarding Harut and Marut themselves: whether they were angels or human beings, and whether the verse refers to angels or not. According to most commentators, two angels tested the people by teaching them magic, informing them, and saying: "This is an act of disbelief; whoever learns it will become a disbeliever, and whoever refrains from it will remain a believer."
+
+The Qur'an says:
+
+"We are only a trial, so do not lose your iman." (`al-Baqarah: 102`)
+
+Here, the action of these two angels was obedience to Allah <sup>عز وجل</sup>. Where, then, is the sin? They were only for testing others.
+
+There are many reports in this chapter that have no reality. Sound narrations reject them. We do not occupy ourselves with such useless matters.

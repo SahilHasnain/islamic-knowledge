@@ -16,14 +16,15 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `02-part-two/02-chapter-two.md` complete
 - `02-part-two/03-chapter-three.md` complete
 - `02-part-two/04-chapter-four.md` complete
-- `03-part-three/01-chapter-one.md` through the seventh section
+- `03-part-three/01-chapter-one.md` complete
+- `03-part-three/02-chapter-two.md` through the sixth section
 
 ## Current Translation Point
 
 The manuscript currently reaches:
 
-`Third Part, Chapter One, Seventh Section: Truthfulness In Worldly Matters And Human States`
+`Third Part, Chapter Two, Sixth Section: Explanations Of Words Of Supplication Against Others`
 
 Continue translation in:
 
-`manuscript/03-part-three/01-chapter-one.md`
+`manuscript/03-part-three/02-chapter-two.md`
