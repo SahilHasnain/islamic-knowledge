@@ -141,3 +141,107 @@ Even then, out of compassion for his Ummah, Huzoor <sup>عليه السلام</s
 Sometimes, Huzoor <sup>عليه السلام</sup> would say this out of compassion and love for the person against whom such words had been said, so that he would not become frightened of the Prophet's curse, think himself truly deserving of it, regard it among accepted supplications, and fall into despair.
 
 At times, Huzoor <sup>عليه السلام</sup> asking his Lord regarding the one whom he had struck with a whip or spoken harshly to was proper and sound, so that it would become an expiation for him, or so that the hurt he experienced would erase his offense. It is possible that receiving punishment in this world becomes a cause of forgiveness and pardon for him in the Hereafter, as mentioned in another hadith: whoever commits such an offense and is punished in this world, that punishment becomes his expiation.
+
+## Seventh Section: The Worldly Actions Of Huzoor
+
+As for the worldly actions of Huzoor <sup>عليه السلام</sup>, their ruling is the same: even in worldly actions, he is protected from sins and disliked matters, as we have already explained. As for forgetfulness or mistake in some action in the manner already described, that is possible, and these matters do not harm his Prophethood. Rather, their occurrence is also from rare matters, because his general actions were correct. In fact, most of them, or all of them, stood in the place of worship and nearness to Allah <sup>عز وجل</sup>, as we have explained.
+
+This is because the Prophet <sup>عليه السلام</sup> would choose worldly actions only to the extent needed: enough to fulfill necessity and preserve bodily life. In this there is benefit and wisdom, because his noble being was one that worshipped his Lord, established His Shari'ah, and fulfilled the political and communal affairs of his Ummah.
+
+The actions that occurred between him and his Ummah were carried out in such a way that he treated them well, expanded goodness for them, spoke good words, listened to them, won over the rebellious, overcame the stubborn enemy, and dealt gently with the envious. All these actions and matters are true, along with his righteous deeds and sacred practices.
+
+At times, the worldly actions of Huzoor <sup>عليه السلام</sup> differed according to different circumstances, and he would prepare means for matters resembling worldly actions. When he went to someone nearby, he would generally ride a donkey. In travel, he would ride a camel. In the battlefield of jihad, for firmness he would ride a mule, and he would also ride a horse. He kept a horse for sudden needs and for assistance when cries for help came.
+
+For the benefit of the Ummah and for personal interests, he would also change his clothing and states. He would choose for his Ummah those worldly matters that circumstances required, and he would dislike the opposite, even if in his own view goodness appeared in something else.
+
+For example, he would leave some things because of some actions, though he considered doing them better than not doing them. At times, even in religious matters, he would do something in which he had the choice to do or not do.
+
+For example, he went out from Madinah toward Uhud, though his usual method at the time of jihad was to remain fortified in Madinah. Likewise, despite knowing with certainty the condition of the hypocrites, he left killing them for the sake of winning over others and out of regard for their Muslim relatives. He also disliked that people should say, "Muhammad <sup>عليه السلام</sup> kills his own companions," as mentioned in hadith.
+
+Similarly, he did not choose to rebuild the Ka'bah upon the foundations of Hazrat Ibrahim <sup>عليه السلام</sup>. He left this out of consideration for the hearts of Quraysh, and out of fear that if its foundation were changed, their hearts might become averse and their previous hostility toward Islam and Muslims might return. Therefore, he left it as it was. He said to Umm al-Mu'minin Hazrat Aishah <sup>رضي الله تعالى عنها</sup>: "If your people had not been close to the time of disbelief, I would certainly have completed the Ka'bah upon the foundations of Ibrahim <sup>عليه السلام</sup>."
+
+Likewise, he would do something and then leave it because goodness lay in something else, such as camping near the wells at the Battle of Badr. Or like his statement during the Farewell Hajj: "If I had known earlier what I know now regarding my matter, I would not have brought the sacrificial animal."
+
+He would meet enemies with a cheerful face to win their hearts, and he would show patience over the harm of the ignorant. He said that very evil are the people from whose evil others keep away. Yet he would grant fine things to such people so that they would come to love him, his Shari'ah, and the religion of his Lord.
+
+In his sacred home, he would also do work that servants and attendants do. At the same time, he possessed such awe that nothing appeared from any side around it. Those present in his gathering would sit as though birds were perched upon their heads.
+
+He would speak with those who sat with him as though they were already familiar. He would express wonder as they expressed wonder, and he would smile and laugh as they smiled and laughed. Through this openness of face, people became devoted to him. He kept no rancor in his heart toward those who sat with him.
+
+Huzoor <sup>عليه السلام</sup> said: "It is not suitable for a Prophet that his eye be treacherous."
+
+If you ask: what is the meaning of the incident in which a young man came, and Huzoor <sup>عليه السلام</sup> said, "He is the elder son of the household," and treated him with kindness and affection; then after he left, he said to Hazrat Aishah <sup>رضي الله تعالى عنها</sup>: "He is the worst of people, from whose evil people protect themselves." How can it be permissible that the outward be contrary to the inward from him, and that he say such things behind him?
+
+The answer is that his action was to please that person's heart, so that his iman might remain firm and his companions might enter Islam because of it. When they saw him being treated in that way, they would be drawn toward Islam. Such conduct from him was so that, through worldly gentle dealings, they would incline toward religious governance, meaning they would accept Islam. Huzoor <sup>عليه السلام</sup> would also make hearts happy by giving the wealth of Allah <sup>عز وجل</sup>; so how much more could gentle speech have an effect?
+
+Hazrat Safwan said that when Huzoor <sup>عليه السلام</sup> was the most disliked of creation to him, he gave him much wealth. He continued giving until Huzoor <sup>عليه السلام</sup> became the most beloved of creation to him.
+
+The statement of Huzoor <sup>عليه السلام</sup>, "He is the elder son of the household," is in reality the opposite of backbiting. Rather, it is to warn one who does not know his condition, so that he may be cautious of him and not rely completely upon him, especially when he is the leader of a people. When such disclosure is due to necessity and the aim is to remove harm, it does not remain backbiting. Rather, at times it becomes wajib, just as the hadith scholars mention the deficiencies of narrators when investigating them.
+
+If an objection is raised that Hazrat Yusuf <sup>عليه السلام</sup> placed the cup in his brother's belongings, then declared him a thief and kept him back, then it should be known that this plan was from Allah <sup>عز وجل</sup>. When it is from Allah <sup>عز وجل</sup>, no objection can be made against it.
+
+It is not permissible for us to attribute to the Prophets matters they did not say. Rather, such things should be kept far from them. As for explaining the slips of those besides the Prophets, that is not necessary, because non-Prophets are not infallible.
+
+## Eighth Section: The Wisdom In The Prophets And Messengers Being Tested
+
+If someone says: what is the wisdom in illnesses coming upon the Prophets, and Allah <sup>عز وجل</sup> testing them, as occurred with Hazrat Ayyub, Hazrat Ya'qub, Hazrat Daniyal, Hazrat Yahya, Hazrat Zakariyya, Hazrat Isa, Hazrat Ibrahim, Hazrat Yusuf <sup>عليهم السلام</sup>, and others, even though they were the chosen, beloved, and selected ones of Allah among His creation?
+
+Then know, and may Allah <sup>عز وجل</sup> grant ability to us and you, that all the actions of Allah are just, and all His words are true and cannot be changed. He tests His servants. He says:
+
+"So that We may see how you act." (`Yunus: 14`)
+
+And He says:
+
+"So that He may test which of them is best in action." (`al-Kahf: 7`)
+
+And He says:
+
+"And so that Allah may make known the believers." (`Aal Imran: 140`)
+
+And He says:
+
+"And Allah has not yet tested your warriors, nor tested the patient." (`Aal Imran: 141`, explanatory rendering)
+
+And He says:
+
+"We shall certainly test you until We make known those who strive among you and the patient, and We test your reports." (`Muhammad: 31`)
+
+Thus Allah <sup>عز وجل</sup> placing them in different kinds of tests is for the elevation of their ranks. It is also to manifest their states and causes of patience, contentment, gratitude, obedience, reliance, surrender, dua, crying, and humility. Those who are tested may see mercy toward the afflicted and compassion toward those in suffering and pains, increasing their insight. These become a remembrance for others and counsel for those besides them, so that they may follow them in trials and calamities, console themselves by remembering what passed over them, and imitate them in patience.
+
+It is also so that the slips and moments of heedlessness that occurred from them may be erased, so that they may appear in the court of Allah purified and cleansed, and receive complete reward.
+
+It is narrated from the father of Hazrat Mus'ab ibn Sa'd <sup>رضي الله تعالى عنهما</sup> that he said: "I submitted to Huzoor <sup>عليه السلام</sup>: who are those upon whom the severest calamities and trials descend?" He replied: "The Prophets <sup>عليهم السلام</sup>. A person's affliction is according to his religion. Trials do not leave the special servants until they make him such that he walks upon the earth with no burden of error upon him."
+
+Allah <sup>عز وجل</sup> says:
+
+"And how many Prophets fought, with many men of Allah alongside them." (`Aal Imran: 146`)
+
+It is narrated from Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> that a Muslim will continue to be tested in his life, children, and wealth until he meets Allah <sup>عز وجل</sup> with no burden of error upon him.
+
+It is narrated from Hazrat Anas <sup>رضي الله تعالى عنه</sup> that Huzoor <sup>عليه السلام</sup> said: "When Allah <sup>عز وجل</sup> intends good for one of His special servants, He hastens hardships for him in this world. And when Allah intends evil for a soul, He leaves him in his sins until He gives him his full punishment on the Day of Judgment."
+
+In another hadith, it is mentioned: "When Allah <sup>عز وجل</sup> makes a servant beloved, He afflicts him with pains so that he may cry and humble himself."
+
+Samarqandi <sup>رحمة الله تعالى عليه</sup> and others mention that whoever is honored in the court of Allah <sup>عز وجل</sup> receives severe trials, so that his virtue becomes manifest and he becomes deserving of complete reward.
+
+It is transmitted from Hazrat Luqman <sup>رحمة الله تعالى عليه</sup> that he said: "O my son, fire purifies gold and silver, and trials purify the Muslim."
+
+It is transmitted that the reason Hazrat Ya'qub <sup>عليه السلام</sup> was tested regarding Hazrat Yusuf <sup>عليه السلام</sup> was that, due to love for him, he looked toward him during prayer while Hazrat Yusuf <sup>عليه السلام</sup> was absorbed in sleep.
+
+Another narration says that he and his son Hazrat Yusuf <sup>عليه السلام</sup> were eating a roasted goat and laughing. In their neighborhood, an orphan smelled it, desired it, and began to cry. Because of the child's crying, his elderly mother also began to cry, though only a wall stood between them. Hazrat Ya'qub <sup>عليه السلام</sup> and his son were unaware of this. Thus Hazrat Ya'qub <sup>عليه السلام</sup> was reproached with grief and weeping over Hazrat Yusuf <sup>عليه السلام</sup>. He wept so much that the sockets of both eyes sank, and his eyes became white with sorrow.
+
+When he later learned of this, he spent the rest of his life having it announced at his house that whoever did not have provision for the day should come and take from the family of Ya'qub. As for Hazrat Yusuf <sup>عليه السلام</sup>, Allah <sup>عز وجل</sup> has described the trials through which he was reproached.
+
+It is narrated from Hazrat Layth <sup>رحمة الله تعالى عليه</sup> that the reason Hazrat Ayyub <sup>عليه السلام</sup> was afflicted with pains was that he went with the people of his town to the king there to complain of his oppression. The people of the town spoke harshly to the king, but Hazrat Ayyub <sup>عليه السلام</sup> spoke gently to him in order to protect his fields. Because of this, Allah <sup>عز وجل</sup> afflicted him with trial and hardship.
+
+With these same benefits in view, illness and pain became severe upon Huzoor <sup>عليه السلام</sup>. Hazrat Aishah <sup>رضي الله تعالى عنها</sup> said: "I never saw anyone experience pain as severe as Huzoor <sup>عليه السلام</sup>."
+
+It is narrated from Hazrat Abdullah <sup>رضي الله تعالى عنه</sup>: "I saw Huzoor <sup>عليه السلام</sup> during his illness, and he had a severe fever. I submitted: 'You have a very severe and intense fever.' He said: 'Yes, I experience the intensity of fever equal to two men among you.' It was asked: 'Is this so that you receive double reward?' He said: 'Yes, it is for that.'"
+
+In the hadith of Hazrat Abu Sa'id <sup>رضي الله تعالى عنه</sup>, a man placed his hand upon Huzoor <sup>عليه السلام</sup> and said: "By Allah, I cannot keep my hand upon you because of the intensity of your fever." Huzoor <sup>عليه السلام</sup> said: "We, the group of Prophets, have double hardship. Some Prophets were martyred, and some were tested with poverty. These noble ones rejoiced over these trials just as someone rejoices over abundance."
+
+It is narrated from Hazrat Anas <sup>رضي الله تعالى عنه</sup> that Huzoor <sup>عليه السلام</sup> said: "Immense reward is connected to immense trial." (`Tirmidhi`) When Allah <sup>عز وجل</sup> loves a people, He afflicts them with trials. Whoever is pleased with this, for him is the pleasure of Allah <sup>عز وجل</sup>; and whoever is displeased with it, for him is the displeasure of Allah <sup>عز وجل</sup>.
+
+The commentators said that the statement of Allah <sup>عز وجل</sup>, "Whoever does evil will receive its recompense" (`an-Nisa: 123`), means that a Muslim is recompensed in the world through calamities, and they become an expiation for his sins.
+
+Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> narrated that Huzoor <sup>عليه السلام</sup> said: "When Allah <sup>عز وجل</sup> intends good for someone, He places him in trial." He also said: "Whatever calamity reaches a Muslim, Allah <sup>عز وجل</sup> makes it an expiation for him, even if a thorn pierces him." There are many other narrations of this kind.

@@ -17,13 +17,13 @@ Migrated from `content/drafts/shifa-shareef-english.md`.
 - `02-part-two/03-chapter-three.md` complete
 - `02-part-two/04-chapter-four.md` complete
 - `03-part-three/01-chapter-one.md` complete
-- `03-part-three/02-chapter-two.md` through the sixth section
+- `03-part-three/02-chapter-two.md` through the first wisdom of the eighth section
 
 ## Current Translation Point
 
 The manuscript currently reaches:
 
-`Third Part, Chapter Two, Sixth Section: Explanations Of Words Of Supplication Against Others`
+`Third Part, Chapter Two, Eighth Section: The Wisdom In The Prophets And Messengers Being Tested`
 
 Continue translation in:
 
