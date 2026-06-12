@@ -245,3 +245,29 @@ It is narrated from Hazrat Anas <sup>رضي الله تعالى عنه</sup> tha
 The commentators said that the statement of Allah <sup>عز وجل</sup>, "Whoever does evil will receive its recompense" (`an-Nisa: 123`), means that a Muslim is recompensed in the world through calamities, and they become an expiation for his sins.
 
 Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> narrated that Huzoor <sup>عليه السلام</sup> said: "When Allah <sup>عز وجل</sup> intends good for someone, He places him in trial." He also said: "Whatever calamity reaches a Muslim, Allah <sup>عز وجل</sup> makes it an expiation for him, even if a thorn pierces him." There are many other narrations of this kind.
+
+The second wisdom is that through these trials, the powers of the lower self become weakened, so that at the time of death the departure of the soul becomes easier. When the body becomes weak because of illness, the intensity of the final moments and the agony of death become lighter. This is unlike the person upon whom death comes suddenly and seizes him. It is observed that the states of the dying differ: upon some, hardship appears, and upon others, ease appears.
+
+Huzoor <sup>عليه السلام</sup> said that the example of the believer is like the stalk of a crop, which the wind bends from side to side. In the narration of Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup>, the believer is like a soft stalk that the wind bends; when the wind becomes still, the stalk returns to balance. This is the state of the Muslim: trials bend him.
+
+The disbeliever is like a tree standing straight until Allah <sup>عز وجل</sup> breaks its neck. The meaning is that the Muslim, afflicted by calamity, struck by hardship, touched by illness, remains pleased with the Divine decrees, obedient to them, and bends his neck for the pleasure of Allah <sup>عز وجل</sup>. His not becoming displeased at these trials is like the soft stalk of crops that obeys, bends, then returns to balance. He turns back toward gratitude to his Lord and awaits mercy and reward.
+
+When a servant reaches this state, neither the illness of death troubles him nor do trials make him displeased. The departure of the soul becomes easier for him, because he has already become accustomed to bearing hardships and pains, and he knows the reward that Allah <sup>عز وجل</sup> has stored for him. His heart is completely at peace.
+
+This is unlike the disbeliever, whose affairs are mostly left loose and whose body remains healthy and sound like a tree, until when Allah <sup>عز وجل</sup> intends to destroy him, He breaks his neck suddenly and he does not even realize. Death seizes him without softness or ease; because of this, his death is very severe, and in the Hereafter their matter will be even harder.
+
+For this reason, the righteous predecessors disliked sudden death. In this connection, there is the hadith of Ibrahim <sup>عليه السلام</sup> that he disliked a sorrowful death, meaning sudden death.
+
+The third wisdom is that illnesses are messages of death. The more severe the illness, the greater the fear of death, and the more prepared one remains for death, with the opportunity for seeking forgiveness and other acts. He knows that he will meet his Lord, and these illnesses are informing him. Becoming unconcerned with this worldly home, which contains many corruptions, his heart becomes attached to the Hereafter.
+
+He then fears the evil consequences of everything that makes him heedless of Allah <sup>عز وجل</sup>. He fulfills the rights of the servants. When he looks toward those dependent upon him, he makes a will for them among those he leaves behind, or commands that they be looked after.
+
+Regarding a person who died suddenly, Huzoor <sup>عليه السلام</sup> said, "Subhan Allah," as though something displeasing had become known to him. He said: "Deprived is the one who was deprived of making a will."
+
+He also said: "Sudden death is comfort for Muslims, but it is a sorrowful seizure for the disbeliever and sinner."
+
+This is because when death comes to a believer, he is usually prepared for it, since he is always acting upon the command of Allah <sup>عز وجل</sup>. So why should it not be mercy for him? Its coming upon such a person is easy in every way, however he dies, because he moves from the pains of the world toward the comfort of the Hereafter. This is like the statement of Huzoor <sup>عليه السلام</sup> that the Muslim is one who receives comfort and also gives comfort to others.
+
+As for the disbeliever, he dies while unprepared for it, and sudden death surrounds him. Death then appears to him as the most severe thing, and separation from the world becomes a painful shock. This is extremely hard upon him.
+
+Toward this meaning is the statement of Huzoor <sup>عليه السلام</sup>: "Whoever loves meeting Allah, Allah loves meeting him; and whoever dislikes meeting Allah, Allah dislikes meeting him."
