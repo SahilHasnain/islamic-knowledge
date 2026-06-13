@@ -410,7 +410,7 @@ Meaning that the pledge was by His command and will. In one narration, the hand 
 
 Similar to this is the statement of Allah:
 
-"You did not kill them, but Allah killed them; and O Beloved, when you threw, it was not you who threw, but Allah threw." (`al-Anfal: 17`)
+"You did not kill them, but Allah killed them; and O Beloved, that dust which you threw — you did not throw, but Allah threw." (`al-Anfal: 17`)
 
 ## Tenth Section: The Blessed Mention Of Huzoor In The Noble Book
 
