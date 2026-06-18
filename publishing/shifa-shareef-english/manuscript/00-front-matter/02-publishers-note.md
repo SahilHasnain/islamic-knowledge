@@ -12,4 +12,3 @@ Likewise, where there were highly scholarly and difficult discussions, such that
 
 We hope that this English translation of `Shifa Shareef` will prove beneficial for the general public.
 
-Mustafawi Publishing

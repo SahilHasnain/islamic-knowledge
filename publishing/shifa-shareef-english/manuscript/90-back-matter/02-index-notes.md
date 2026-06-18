@@ -1,8 +1,4 @@
-# Index Notes
-
-## Scope
-
-The published index should cover **key subjects, persons, places, hadith narrators, Qur'anic verses cited, and sectarian or legal topics** discussed in the book. It should serve an English reader navigating a dense work of `'Aqa'id`, `Usul`, and `Fiqh`.
+# Index
 
 ## Persons
 
@@ -48,7 +44,7 @@ The published index should cover **key subjects, persons, places, hadith narrato
 - The Prophet's ﷺ infallibility (*'Ismah*)
 - Love of the Prophet ﷺ — its obligation, its signs
 
-## Legal Topics (Part Four)
+## Legal Topics
 
 - Insulting the Prophet ﷺ — forms of words that constitute insult
 - Punishment of the blasphemer — capital punishment, repentance, inheritance
@@ -83,12 +79,5 @@ Major clusters:
 - Badr — the battle, the miracle of throwing dust
 - Khandaq (Trench) — the miracle of the sa' of barley
 - Ta'if — the Prophet's ﷺ journey, his treatment there
-- Ghari Thawr (Cave of Thawr) — the Hijrah, Abu Bakr's ﷺ service
+- Ghari Thawr (Cave of Thawr) — the Hijrah, Abu Bakr's خدمة there
 - Jerusalem — the Night Journey
-
-## Notes For Typesetting
-
-- The index should use the **section number** (Fasl number within each chapter) as the primary locator, with **page ranges** for longer discussions.
-- Use *passim* for topics that recur throughout the book (e.g. the Prophet's ﷺ miraculous signs).
-- Bold page numbers for the main discussion of a topic.
-- The author's name is indexed as **Iyad, Qadi** (not Qadi Iyad).
