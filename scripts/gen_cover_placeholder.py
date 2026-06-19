@@ -24,7 +24,7 @@ if not title_font:
     sub_font = ImageFont.load_default()
     small_font = ImageFont.load_default()
 
-title = "Shifa Shareef"
+title = "Asshifa"
 bbox = draw.textbbox((0, 0), title, font=title_font)
 tx = (w - (bbox[2] - bbox[0])) // 2
 ty = h // 2 - 120

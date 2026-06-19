@@ -4,7 +4,7 @@
 
 Qadi Iyad Maliki <sup>رحمة الله تعالى عليه</sup> says that he divided this Second Part into four chapters. The summary of all of them is that it is obligatory to affirm Huzoor <sup>عليه السلام</sup>, to follow and obey his Sunnah, to love him and be sincere toward him, to honor and revere him, to behave well with him, to send durood upon him, and to visit his luminous grave. These are necessary upon every Muslim.
 
-## Chapter One
+## Chapter One: Believing In Huzoor, Obeying Him, And Following His Sunnah
 
 Believing in Huzoor <sup>عليه السلام</sup> is obligatory, and obeying him and following his Sunnah is wajib. It is wajib to affirm the Shari'ah that Huzoor <sup>عليه السلام</sup> brought.
 
