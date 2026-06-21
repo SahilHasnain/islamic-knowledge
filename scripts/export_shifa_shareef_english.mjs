@@ -4,6 +4,7 @@ import { pathToFileURL } from "node:url";
 import AdmZip from "adm-zip";
 import { PDFDocument } from "pdf-lib";
 import { chromium } from "playwright";
+import htmlToDocx from "html-to-docx";
 
 const root = process.cwd();
 const projectDir = path.join(root, "publishing", "shifa-shareef-english");
@@ -15,6 +16,7 @@ const outDir = path.join(projectDir, "exports", "html");
 const outPath = path.join(outDir, "shifa-shareef-english.html");
 const pdfDir = path.join(projectDir, "exports", "pdf");
 const epubDir = path.join(projectDir, "exports", "epub");
+const docxDir = path.join(projectDir, "exports", "docx");
 const printDir = path.join(projectDir, "exports", "print");
 const digitalPdfPath = path.join(pdfDir, "shifa-shareef-english-digital.pdf");
 const printPdfPath = path.join(printDir, "shifa-shareef-english-print.pdf");
@@ -729,6 +731,15 @@ ${spineSections}
   console.log(`Wrote ${path.relative(root, epubPath)}`);
 }
 
+async function writeDocx() {
+  fs.mkdirSync(docxDir, { recursive: true });
+  const html = fs.readFileSync(outPath, "utf8");
+  const buffer = await htmlToDocx(html);
+  const docxPath = path.join(docxDir, "shifa-shareef-english.docx");
+  fs.writeFileSync(docxPath, buffer);
+  console.log(`Wrote ${path.relative(root, docxPath)}`);
+}
+
 await writePdf({
   outputPath: digitalPdfPath,
   headerTemplate: `<div style="box-sizing: border-box; color: #0f5a3e; font-family: Georgia, 'Times New Roman', serif; font-size: 9px; padding: 6px 16mm 0; text-align: left; width: 100%;">Asshifa</div>`,
@@ -752,3 +763,4 @@ await writePdf({
   },
 });
 writeEpub();
+await writeDocx();
