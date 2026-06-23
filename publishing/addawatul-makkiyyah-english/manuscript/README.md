@@ -15,11 +15,13 @@ The book is translated in batches from Roman Urdu to English.
 - `00-front-matter/01-title-page.md`
 - `00-front-matter/02-hamd.md`
 - `00-front-matter/03-arze-nashir.md`
-- `01-nazre-awwal.md`
-- `02-nazre-duwum.md`
-- `03-nazre-siwum.md`
-- `04-nazre-chaharum.md`
-- `05-nazre-panjum.md`
-- `06-nazre-shashum.md`
-- `07-dosra-hissa.md`
-- ... (to be expanded)
+- `00-front-matter/04-background.md`
+- `01-nazre-awwal.md` (pages 16–28)
+- `02-nazre-duwum.md` (pages 29–30)
+- `03-nazre-siwum.md` (pages 31–37)
+- `04-nazre-chaharum.md` (pages 38–44)
+- `05-nazre-panjum.md` (pages 45–62)
+- `06-nazre-shashum.md` (pages 63–98)
+- `07-dosra-hissa.md` (pages 99–134)
+
+**Status:** All 134 pages of source text have been translated into English.
