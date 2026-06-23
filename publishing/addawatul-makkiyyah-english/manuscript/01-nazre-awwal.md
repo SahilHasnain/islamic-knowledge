@@ -178,7 +178,7 @@ Whether it is absolute summary knowledge (*mutlaq ijmali*) or absolute detailed 
 >
 > (2) "Indeed, by Our giving him knowledge, Yaqub was surely a man of knowledge." (Yusuf: 68)
 >
-> (3) "We bestowed upon Khizr <sup>عليه السلام</sup> knowledge from Our presence." (al-Kahf: 18)
+> (3) "We bestowed upon Khizr <sup>عليه السلام</sup> knowledge from Our presence." (al-Kahf: 65)
 >
 > (4) "O Prophet! Allah has taught you that which you did not know." (an-Nisa: 113)
 
