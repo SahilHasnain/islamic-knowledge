@@ -28,6 +28,6 @@ When the Wahhabis read the books of the Imams of Deen and their followers, and s
 
 These judges are extremely misguided and wrong-thinking people. They themselves fall into pits of *kufr* and *shirk*. These people have made limited and finite knowledge the equal of Allah's unlimited and infinite knowledge. They bear witness that the knowledge of Allah and of creation is equal (Astaghfirullah).
 
-If they possessed infinite knowledge, or knowledge beyond measure, how could they consider the knowledge of the Beloved ﷺ — which is limited and bestowed — as equal? They would not fall into equating the knowledge of the Creator and the creation.
+If truly infinite, immeasurable knowledge existed in their understanding, how could they consider the knowledge of the Beloved ﷺ — which is limited and bestowed — as equal? They would not fall into equating the knowledge of the Creator and the creation.
 
 When they display their ignorance-laced intellect, they mock the infinite knowledge of Allah and consider it deficient. May Allah drown such people and protect us from their trials.
