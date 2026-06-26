@@ -7,7 +7,7 @@
 
 Eighty-one senior scholars of the Two Noble Sanctuaries wrote endorsements (*taqareez*) for this book (p. 178).
 
-There was a need to publish this book in Roman Urdu as well, so that those who do not know how to read Urdu script could also benefit from it. By the grace of Allah, this task came to our share.
+There was a need to translate this book into English as well, so that those who cannot read Urdu could also benefit from it. By the grace of Allah, this task came to our share.
 
 Before reading this book, keep in mind that it is an academic and research-oriented work. Understanding it is not easy, so we humbly request the readers to study it with patience and deep contemplation. To gauge the scholarly weight of this book, it is enough to know that on the subject of *Ilme Ghaib* (Knowledge of the Unseen), this book is called the "Decisive Book" (*Faisla Kun Kitab*), and indeed it is worthy of being called so.
 
@@ -21,12 +21,9 @@ I now feel that if I continue writing an introduction and summary of this book, 
 
 At the end, I consider it necessary to mention a few more points:
 
-- While transliterating into Roman Urdu, care was taken to use "Easy Roman Urdu" so that it is easy for everyone to read.
-- Only the original content of the book has been transliterated into Roman Urdu. The eighty-one endorsements and the biographies of those who wrote them have not been included. Those who wish to see them may refer to the Urdu edition.
+- While translating into English, care was taken to use clear and accessible language so that it is easy for everyone to read.
+- Only the original content of the book has been translated into English. The eighty-one endorsements and the biographies of those who wrote them have not been included. Those who wish to see them may refer to the Urdu edition.
 - We tried our utmost from our side, yet errors may still be found. Wherever readers find them, kindly inform us.
 
 May Allah grant our efforts acceptance in His court and bless us with further ability so that we may continue serving the Deen.
 
-**Abde Mustafa** — Muhammad Sabir Qadri
-Founder, Abde Mustafa Organisation
-September 2023 (12 Rabiul Awwal)
