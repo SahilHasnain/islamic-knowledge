@@ -1,20 +1,20 @@
-# Dusra Hissa — Second Part
+# Second Part
 
-In this part, responses are given to the objections raised against the epithets of the Master of the Prophets Muhammad ﷺ — "Al-Awwal wal-Aakhir waz-Zaahir wal-Baatin" — from the treatise *I'lam al-Adhkiya'* by Maulana Salamatullah, <sup>رحمة الله تعالى عليه</sup>.
+In this part, responses are given to the objections raised against the epithets of the Master of the Prophets Muhammad ﷺ — "الأول والآخر والظاهر والباطن" (Al-Awwal wal-Aakhir waz-Zaahir wal-Baatin) — from the treatise *"إعلام الأذكياء" (I'lam al-Adhkiya')* by Maulana Salamatullah, <sup>رحمة الله تعالى عليه</sup>.
 
 ---
 
 ## One Question, One Answer
 
-*Huwa al-Awwalu wal-Aakhiru waz-Zaahiru wal-Baatin. Al-hamdu lillah!*
+*هو الأول والآخر والظاهر والباطن. الحمد لله!*
 
 (From the preceding pages) The truth has become manifest, the correct state of affairs has become clear, the sun of guidance has shone forth without any veil. All of this is Allah's grace upon us and His favour upon others, but most people do not give thanks for it.
 
 Whoever carefully studies the writings of this humblest of servants will surely benefit. Whoever ponders over these writings with heart and sight will find answers to all the objections of these obstinate people. But remember, clear exposition on these matters is more beneficial, so we shall try to write separate answers to these objections.
 
-The objectors present a passage from the treatise *I'lam al-Adhkiya'* by the eminent scholar Abuz Zaka Maulana Salamatullah, <sup>رحمة الله تعالى عليه</sup>, published in India, found on its final page. He wrote:
+The objectors present a passage from the treatise *"إعلام الأذكياء" (I'lam al-Adhkiya')* by the eminent scholar Abuz Zaka Maulana Salamatullah, <sup>رحمة الله تعالى عليه</sup>, published in India, found on its final page. He wrote:
 
-> *Wa sallallahu 'ala man huwa al-awwal wal-aakhir waz-zaahir wal-baatin wa huwa bi kulli shay'in 'aleem*
+> *وصلى الله على من هو الأول والآخر والظاهر والباطن وهو بكل شيء عليم*
 
 **Translation:** May Allah send blessings upon him who is the First and the Last, the Manifest and the Hidden, and he is the knower of all things.
 
@@ -138,7 +138,7 @@ This imam of great status and eminence began his book *Madarij an-Nubuwwah* with
 
 The Noble Prophet ﷺ has been favoured by Allah Almighty with many stations and ranks, including the knowledge of all things — the rulings of the attributes of Truth, the names, acts, and effects. The Master of the Prophets ﷺ has encompassed all the knowledge of the former and latter, the manifest and the hidden. He is the perfect embodiment of this noble verse: "And above every possessor of knowledge is the One All-Knowing."
 
-*May the most excellent of blessings and most complete of salutations be upon him.*
+*عليه من الصلوات أفضلها ومن التحيات أكملها* — May the most excellent of blessings and most complete of salutations be upon him.
 
 If expressing these noble attributes of the Master of the Prophets ﷺ is a crime in the Shari'ah, then I would say that the sin of Hazrat Muhaddith Dehlawi would be greater than that of our Mujeeb — even though the eminent Mujeeb considers him his imam and his leader. Would you, sirs, dare to pass a verdict against Hazrat Muhaddith as well? God forbid, would he also fall within the scope of your edict and be called a disbeliever? Would he be called misguided? Is he not the great scholar, the pillar of the faith, and the inheritor of the knowledge of the Master of the Prophets ﷺ? If no answer is given to this, we will remove the veils from the faces of these masked ones.
 
@@ -154,9 +154,9 @@ Every light paled before his light. Every radiance was lost in his illuminations
 
 ## Ayat al-Kursi Is a Eulogy of the Master of the Prophets
 
-Allama Nizamuddin Naishapuri, <sup>رحمة الله تعالى عليه</sup>, wrote in his commentary *Ghara'ib al-Bayan wa Ghayat al-Furqan*, while explaining Ayat al-Kursi, that "*Ya'lamu ma bayna aydihim*" (He knows what is before them) is presented as evidence of the knowledge of the Master of the Prophets. He attributed "*Man dha al-ladhi yashfa'u 'indahu illa bi-idhnih*" (Who is it that can intercede with Him except by His permission) to the Master of the Prophets ﷺ. He says: Who will intercede before Allah Almighty on the Day of Judgement? Only the servant of Allah, the Beloved of Allah, who has been granted permission for intercession. According to this promise of Allah Almighty, this glad tiding will be fulfilled for him when he graces the Praiseworthy Station (*Maqam Mahmood*).
+Allama Nizamuddin Naishapuri, <sup>رحمة الله تعالى عليه</sup>, wrote in his commentary *Ghara'ib al-Bayan wa Ghayat al-Furqan*, while explaining Ayat al-Kursi, that "*يعلم ما بين أيديهم*" (He knows what is before them) is presented as evidence of the knowledge of the Master of the Prophets. He attributed "*من ذا الذي يشفع عنده إلا بإذنه*" (Who is it that can intercede with Him except by His permission) to the Master of the Prophets ﷺ. He says: Who will intercede before Allah Almighty on the Day of Judgement? Only the servant of Allah, the Beloved of Allah, who has been granted permission for intercession. According to this promise of Allah Almighty, this glad tiding will be fulfilled for him when he graces the Praiseworthy Station (*Maqam Mahmood*).
 
-"*Ya'lamu*" — Muhammad, the Messenger of Allah ﷺ knows all the states that are before him — matters before the beginning and before the creation of creation. "*Ma khalfahum*" — the conditions that will manifest after him until the Day of Judgement — he knows, through his God-given knowledge, the joys, affairs, and narratives of people. He will relate the conditions and tidings of all the noble prophets. He is the one who knows all the matters of the Hereafter. The states of Paradise and Hell are before him. Ordinary people know nothing of these conditions except what the Noble Prophet ﷺ wills — the knowledge and states that reach the Ummah through his grace. "*Wasi'a kursiyyuhu as-samawati wal-ard*" — his throne is vast. The heavens and the earth, the Throne and the Footstool, with all their vastness, are like a ring thrown beneath the sky. "The preservation of them does not weary Him." The preservation of the secrets of the heavens and the earth is not burdensome for the human spirit. Allah taught Hazrat Adam<sup>عليه السلام</sup>, all the names.
+"*يعلم*" — Muhammad, the Messenger of Allah ﷺ knows all the states that are before him — matters before the beginning and before the creation of creation. "*ما خلفهم*" — the conditions that will manifest after him until the Day of Judgement — he knows, through his God-given knowledge, the joys, affairs, and narratives of people. He will relate the conditions and tidings of all the noble prophets. He is the one who knows all the matters of the Hereafter. The states of Paradise and Hell are before him. Ordinary people know nothing of these conditions, except that which He wills — "*إلا بما يشاء*" — as much as the Noble Prophet ﷺ wills, the knowledge and states that reach the Ummah through his grace. "*وسع كرسيه السماوات والأرض*" — his throne is vast. The heavens and the earth, the Throne and the Footstool, with all their vastness, are like a ring thrown beneath the sky. "*ولا يؤوده حفظهما*" — "The preservation of them does not weary Him." The preservation of the secrets of the heavens and the earth is not burdensome for the human spirit. Allah taught Hazrat Adam<sup>عليه السلام</sup>, all the names.
 
 Now we ask those who object: Is this commentary and explanation of Hazrat Allama Naishapuri also heretical? (God forbid.)
 
@@ -164,7 +164,7 @@ Now we ask those who object: Is this commentary and explanation of Hazrat Allama
 
 ## My Impressions
 
-When I read this passage in the commentary of Naishapuri — <sup>قدس سره</sup> — it occurred to my heart that the meaning of his elucidation is that Allah Almighty, in His words "*Man dha al-ladhi yashfa'u 'indahu illa bi-idhnih*", has indicated the noble person of the Master of the Prophets ﷺ. He alone has been granted permission for intercession. He alone has been favoured with the authority of the door of intercession. He will open the door of intercession. No other is worthy of "*bi-idhnih*" except him.
+When I read this passage in the commentary of Naishapuri — <sup>قدس سره</sup> — it occurred to my heart that the meaning of his elucidation is that Allah Almighty, in His words "*من ذا الذي يشفع عنده إلا بإذنه*", has indicated the noble person of the Master of the Prophets ﷺ. He alone has been granted permission for intercession. He alone has been favoured with the authority of the door of intercession. He will open the door of intercession. No other is worthy of "*بإذنه*" except him.
 
 The questioner finds no difficulty in understanding that, for the intercessor in the Divine Court, there is no alternative except that he first be fully acquainted with the state of the person whose intercession is intended. Whomever he is to intercede for, he will have complete knowledge of their ranks of faith and their inward and outward deeds. Only the one worthy of the Prophet's intercession will receive his intercession. Moreover, the Master of the Prophets will also know who requires intercession for a lapse, what kind of intercession is necessary for him, to what extent he deserves intercession, and what kind of intercession he is entitled to, and which intercession can become the cause of his salvation in the Divine Court. For there are thousands of types of intercession, and they have different occasions and stations. If the intercessor does not have knowledge, how can he intercede?
 
@@ -176,9 +176,9 @@ This permission has been granted only to Hazrat Muhammad ﷺ.
 
 ## He Encompasses the Knowledge of All Worlds
 
-The Noble Prophet ﷺ alone encompasses the knowledge of all worlds. He alone, without doubt, knows all the worlds. He alone recognizes every thing in every moment. "*Ya'lamu ma bayna aydihim*" — he knows all the things that are before him. "*Ma kana*" — what was before him; "*ma yakun*" — what will be until the end of time. All of this knowledge was given to him by the Lord Who bestows knowledge. We have already established in the preceding pages, through prophetic hadith, that Allah Almighty has made everything clear to him — whatever was necessary to clarify — just as Allah had made things clear to His previous noble prophets.
+The Noble Prophet ﷺ alone encompasses the knowledge of all worlds. He alone, without doubt, knows all the worlds. He alone recognizes every thing in every moment. "*يعلم ما بين أيديهم*" — he knows all the things that are before him. "*ما كان*" — what was before him; "*ما يكون*" — what will be until the end of time. All of this knowledge was given to him by the Lord Who bestows knowledge. We have already established in the preceding pages, through prophetic hadith, that Allah Almighty has made everything clear to him — whatever was necessary to clarify — just as Allah had made things clear to His previous noble prophets.
 
-The Master of the Prophets ﷺ came to know everything; he came to know through Allah's grant, and the Master of the Prophets ﷺ attained that comprehension of all things which others did not attain. "*Wa la yuhituna bi shay'in min 'ilmihi*" — they do not attain anything of His knowledge unless He teaches them, and only to the extent that He wills.
+The Master of the Prophets ﷺ came to know everything; he came to know through Allah's grant, and the Master of the Prophets ﷺ attained that comprehension of all things which others did not attain. "*ولا يحيطون بشيء من علمه*" — they do not attain anything of His knowledge unless He teaches them, and only to the extent that He wills.
 
 He ﷺ is the sun of eminence; all others are stars that continue to spread their lights upon people, but all this light is obtained only from the fountain of light of the Master of the Prophets ﷺ.
 
@@ -186,13 +186,13 @@ He ﷺ is the sun of eminence; all others are stars that continue to spread thei
 
 ## The Expanses of the Intercession of the Master of the Prophets
 
-The numbers of the former and latter among those for whom the Master of the Prophets ﷺ will intercede are so vast that they cannot be counted or enumerated. He alone is the intercessor for all of them — a single personality. His breast is never constrained, nor does he tire of interceding. How can the breast of the Master of the Prophets ﷺ be constrained? He has received the glad tiding of "*Wasi'a kursiyyuhu as-samawati wal-ard*" — before him even the vastness of the heavens and the earth are negligible. Can the most wretched of wretched people imagine that the heart of the Master of the Prophets ﷺ, before which the vastness of the Throne is as limited as a mosquito before the heavens, cannot be the intercessor of the multitude of the gathering?
+The numbers of the former and latter among those for whom the Master of the Prophets ﷺ will intercede are so vast that they cannot be counted or enumerated. He alone is the intercessor for all of them — a single personality. His heart is never constrained, nor does he tire of interceding. How can the heart of the Master of the Prophets ﷺ be constrained? He has received the glad tiding of "*وسع كرسيه السماوات والأرض*" — before him even the vastness of the heavens and the earth are negligible. Can the most wretched of wretched people imagine that the heart of the Master of the Prophets ﷺ, before which the vastness of the Throne is as limited as a mosquito before the heavens, cannot be the intercessor of the multitude of the gathering?
 
 We may feel that perhaps, among such a vast creation, someone might forget him. But the Quran gives this answer: How can this be, when the preservation of these two heavens and the earth and the supervision of all the creation dwelling between them is his responsibility? Moreover, Allah Almighty has granted him the power of intercession through His grace. No one except Allah can gauge the expanse of his intercession.
 
 The foregoing discussion has been presented in summary from the book *Izalat al-Awhaam*. We hope that every person connected to the cloak of knowledge of the Master of the Prophets ﷺ will be pleased with this writing and obtain heartily and intellectual delight.
 
-*Wa sallallahu 'alayhi wa 'ala aalihi wa baraka wa sallam.*
+*وصلى الله عليه وعلى آله وبارك وسلم*
 
 ---
 
@@ -210,19 +210,19 @@ It has been written in commentaries:
 
 **Translation:** "Worship Allah as if you see Him; if you cannot achieve this, then feel that He sees you."
 
-Some insightful ones of this Ummah paused at "*ra'aytahu*" (you see Him). They thought: "If you cannot do this" — that is, if you become annihilated from your self, then you will see Him. You will then reach the station of witness, for your self is your veil, due to which you remain deprived of witnessing the Truth.
+Some insightful ones of this Ummah paused at "*رتاہ*" (you see Him). They thought: "If you cannot do this" — that is, if you become annihilated from your self, then you will see Him. You will then reach the station of witness, for your self is your veil, due to which you remain deprived of witnessing the Truth.
 
-Allama Ibn Hajar Asqalani objected at this point, saying: If the interpretation and meanings of these great religious figures are considered correct, then "*ra'aytahu*" would not have an *alif*, and it would have been "*fa innahu yaraaka*" (for indeed He sees you), because there would be no connection with what precedes it. Then he brought successive narrations of the hadith's wording that do not support this interpretation — that if you do not see Him, then He sees you.
+Allama Ibn Hajar Asqalani objected at this point, saying: If the interpretation and meanings of these great religious figures are considered correct, then "*رتاہ*" would not have an *alif*, and it would have been "*فإنه يراك*" (for indeed He sees you), because there would be no connection with what precedes it. Then he brought successive narrations of the hadith's wording that do not support this interpretation — that if you do not see Him, then He sees you.
 
-Hazrat Muhaddith Dehlawi, Allama Abdul Haq — <sup>رحمة الله تعالى عليه</sup> — answered this discussion in *Lam'at* as follows, and on this basis, in the narration of Ibn Kathir, the divine statement "*Arsilhu ma'ana ghadan yarta' wa yal'ab*" (Send him with us tomorrow to enjoy himself and play) and the divine statement "*Wa man yattaqi wa yasbir*" (And whoever fears Allah and is patient) are also similar. A poet's verse also expresses this matter.
+Hazrat Muhaddith Dehlawi, Allama Abdul Haq — <sup>رحمة الله تعالى عليه</sup> — answered this discussion in *Lam'at* as follows, and on this basis, in the narration of Ibn Kathir, the divine statement "*أرسله معنا غداً يرتع ويلعب*" (Send him with us tomorrow to enjoy himself and play) and the divine statement "*ومن يتق ويصبر*" (And whoever fears Allah and is patient) are also similar. A poet's verse also expresses this matter.
 
-Grammarians know that when a conditional clause is in the past tense, *jazm* and *jarr* are not obligatory, even if the meaning is as it is here. "*Fa innahu yaraaka*" indicates the possibility of vision, and the possibility of seeing Allah is also established — that is, we can see Allah Almighty without direction, place, emergence from direction, etc. But Arab scholars have viewed these meanings from different angles; this is a matter that becomes apparent to their inner senses. This state is a condition of the overwhelming of a state, of effacement and annihilation, that descends upon their hearts.
+Grammarians know that when a conditional clause is in the past tense, *jazm* and *jarr* are not obligatory, even if the meaning is as it is here. "*فإنه يراك*" indicates the possibility of vision, and the possibility of seeing Allah is also established — that is, we can see Allah Almighty without direction, place, emergence from direction, etc. But Arab scholars have viewed these meanings from different angles; this is a matter that becomes apparent to their inner senses. This state is a condition of the overwhelming of a state, of effacement and annihilation, that descends upon their hearts.
 
-We may summarise this discussion briefly. Just as Allama Mulla Ali Qari — <sup>رحمة الله تعالى عليه</sup> — refuted in his famous book *Miqat*, he discussed in detail in the first and third sections and did not argue about his second answer. He only did this: what was said is not in accordance with it. "*Fa innahu yaraaka*" relates to the preceding discourse, although its relation to the following is also possible. I cannot agree with some commentators on this point.
+We may summarise this discussion briefly. Just as Allama Mulla Ali Qari — <sup>رحمة الله تعالى عليه</sup> — refuted in his famous book *Miqat*, he discussed in detail in the first and third sections and did not argue about his second answer. He only did this: what was said is not in accordance with it. "*فإنه يراك*" relates to the preceding discourse, although its relation to the following is also possible. I cannot agree with some commentators on this point.
 
-In some narrations, it is: "If you do not see Him, then He sees you." In my view, several other aspects of connection also present themselves. "*Fa innahu yaraaka*" — I hope this point is more subtle and precious. Just as we say "*Fa in lam takun*" — if you are not and become annihilated, desiring His witness, "*ra'aytahu*" — you will see Him and attain your goal. "*Fa innahu yaraaka*" — indeed, He sees you and is not unaware of you for a single moment. So when He has seen you, you have annihilated your self for Him. He does not disappoint anyone, for you have reached the station of excellence (*ihsan*), and Allah Almighty does not waste the reward of those who do good.
+In some narrations, it is: "If you do not see Him, then He sees you." In my view, several other aspects of connection also present themselves. "*فإنه يراك*" — I hope this point is more subtle and precious. Just as we say "*فإن لم تكن*" — if you are not and become annihilated, desiring His witness, "*رتاہ*" — you will see Him and attain your goal. "*فإنه يراك*" — indeed, He sees you and is not unaware of you for a single moment. So when He has seen you, you have annihilated your self for Him. He does not disappoint anyone, for you have reached the station of excellence (*ihsan*), and Allah Almighty does not waste the reward of those who do good.
 
-Present another point thus: "*Fa in lam takun*" — if you are not, then indeed you are seeing Him, for you have become annihilated and only He remains. Now He alone is the one beholding His own essence. And how would He not see, for He sees you, and you have certainly been annihilated. When you become annihilated, only then can you see Him. In Sahih al-Bukhari, it is stated that his eye has no veil. "*Fa innahu yaraaka*" — so indeed He sees you, and you are, through a form appearing in an imaginary dream, from the manifestation of reflection and shadow — how then could you not see the True Beauty and the Real Countenance?
+Present another point thus: "*فإن لم تكن*" — if you are not, then indeed you are seeing Him, for you have become annihilated and only He remains. Now He alone is the one beholding His own essence. And how would He not see, for He sees you, and you have certainly been annihilated. When you become annihilated, only then can you see Him. In Sahih al-Bukhari, it is stated that his eye has no veil. "*فإنه يراك*" — so indeed He sees you, and you are, through a form appearing in an imaginary dream, from the manifestation of reflection and shadow — how then could you not see the True Beauty and the Real Countenance?
 
 Imam Qushayri<sup>رحمة الله تعالى عليه</sup> wrote in his treatise on the authority of Hazrat Yahya bin Razi Ali that Hazrat Abu Suleman Dimashqi, while circumambulating the Ka'bah, heard the call of "Saatar Bari" and fell unconscious. When he regained consciousness, his friends inquired, and he informed them that he realized a voice was coming. "Saatar Bari" means "Coverer of the Creator" — that is, goodness and grace — although the circumambulators read it with *fatha* on the *ba'*. The eminent author Abdul Khaliq bin Muhammad bin Ahmad bin Abdul Qadir (the grandson of Sayyid Muhammad Sharqi) wrote that a man in the streets of Egypt, carrying a basket on his head, would call out "Saatar Bari". Three servants of Allah heard this call and derived different meanings from it.
 
@@ -230,22 +230,22 @@ One who was among the people of guidance understood "Saatar Bari" to mean: striv
 
 In *Ihya al-Ulum*, Hazrat Imam Ghazali wrote that sometimes even a non-Arab is moved by an Arabic couplet and experiences ecstasy, because some Arabic letters have a non-Arabic style and meter, even if the meaning is different. The non-Arab delights merely in the melodious sound. Consider this couplet:
 
-> *Ma zarani fi an-nawmi illa khayaluhu, fa qultu lahu ahlan wa sahlan wa marhaba*
+> *ما زارني في النوم إلا خياله، فقلت له أهلاً وسهلاً ومرحبا*
 > "I saw him in my sleep only as an imagined form, so I said to him: welcome and greetings."
 
 Upon this couplet, a person unfamiliar with Arabic fell into ecstasy. People asked him: What did you understand? He replied: It means that I am near the death of the scholar of the world. He imagined that we have all reached the brink of death, and so he clothed it in his own meanings and derived the sense.
 
-We are not explaining the noble verse in the foregoing pages; rather, we are clarifying that commentators and exegetes occasionally state various meanings according to their own perspective. In reality, we wish to make it clear that those who are veiled from and unaware of the essence of Mustafa ﷺ do not have even the familiarity with his knowledge and person that an ordinary literate person possesses — so how can they attain the station of Mustafa?
+We are not explaining the noble verse in the foregoing pages; rather, we are clarifying that commentators and exegetes occasionally state various meanings according to their own perspective. In reality, we wish to make it clear that those who are veiled from and unaware of the essence of Mustafa ﷺ do not have even the familiarity with his knowledge and person that an ordinary literate person possesses — so how can they understand the station of Mustafa?
 
 The externalist scholars have their place, but how can such externalist scholars comprehend the secrets that are granted to the saints from Allah Almighty? These people do not fear declaring Muslims disbelievers, and in their ignorance they continue to deny their faith, and then persist in this denial. Allah Almighty does not guide such people to the path of guidance. What knowledge can those deprived of Allah's light possess? They cannot attain the light of insight.
 
-*Nas'alullah al-'afwa wal-'afiyah.* (We ask Allah for pardon and well-being.)
+*نسأل الله العفو والعافية.* (We ask Allah for pardon and well-being.)
 
 ---
 
 ## Second Question
 
-Mujeeb's statement that the Master of the Prophets Muhammad ﷺ knows everything that has happened and will happen from pre-eternity to post-eternity is astonishing and objectionable to the opponents. In my opinion, when translating Mujeeb's words, the error of the subject has been employed. In their view, the Master of the Prophets has no connection with pre-eternity (*azal*). When the term *azal* is examined in light of the science of *kalam* (scholastic theology), these would be the meanings: that the Noble Prophet ﷺ has existed from pre-eternity, which has no beginning — and this is clear disbelief, because it would entail that the Noble Prophet, the Possessor of Kawthar and Tasneem ﷺ, is eternal (*qadeem*). However, Mujeeb's statements do not say this. His text is: "Indeed, the entirety of 'what you did not know' is included — all those unseen things that have passed from pre-eternity and that will happen until post-eternity."
+Mujeeb's statement that the Master of the Prophets Muhammad ﷺ knows everything that has happened and will happen from pre-eternity to post-eternity is astonishing and objectionable to the opponents. In my opinion, when translating Mujeeb's words, the error of the subject has been employed. In their view, the Master of the Prophets has no connection with pre-eternity (*azal*). When the term *azal* is examined in light of the science of *kalam* (scholastic theology), these would be the meanings: that the Noble Prophet ﷺ has existed from pre-eternity, which has no beginning — and this is clear disbelief, because it would entail that the Noble Prophet, the Possessor of Kawthar and Tasneem ﷺ, is eternal (*qadeem*). However, Mujeeb's statements do not say this. His text is: "Indeed, the entirety of '*ما لم تكن تعلم*' — what you did not know is included — all those unseen things that have passed from pre-eternity and that will happen until post-eternity."
 
 ---
 
@@ -300,7 +300,7 @@ This eminent commentator has clearly explained the meanings of our Allama Mujeeb
 
 ## Third Question
 
-Mujeeb's claim that the knowledge of the Master of the Prophets ﷺ encompasses all hidden things has also not pleased the objectors. If by "all" is meant the comprehensive encompassment, in detail, of all divine knowledge and lordly information, then we have already written earlier that such a perspective is impossible for any creature, both rationally and according to sacred law. However, if it is said that the knowledge of the Master of the Prophets ﷺ, encompasses everything that happened from pre-eternity and will happen until post-eternity, then there is no doubt or ambiguity in this. The knowledge of the Master of the Prophets ﷺ encompasses all affairs of pre-eternity and post-eternity; this is the truth and is correct. This is established by the words of Allah and His Messenger. If only these people would reflect! When Allah Almighty says: "*Tibyanan li kulli shay'in*" (a clear exposition of all things), the Master of the Prophets ﷺ said: "Everything was made clear to me."
+Mujeeb's claim that the knowledge of the Master of the Prophets ﷺ encompasses all hidden things has also not pleased the objectors. If by "all" is meant the comprehensive encompassment, in detail, of all divine knowledge and lordly information, then we have already written earlier that such a perspective is impossible for any creature, both rationally and according to Shariah. However, if it is said that the knowledge of the Master of the Prophets ﷺ, encompasses everything that happened from pre-eternity and will happen until post-eternity, then there is no doubt or ambiguity in this. The knowledge of the Master of the Prophets ﷺ encompasses all affairs of pre-eternity and post-eternity; this is the truth and is correct. This is established by the words of Allah and His Messenger. If only these people would reflect! When Allah Almighty says: "*تبياناً لكل شيء*" (a clear exposition of all things), the Master of the Prophets ﷺ said: "Everything was made clear to me."
 
 The view of the honourable scholars is that the Master of the Prophets ﷺ had attained all particular and universal knowledge, and that he had encompassed all the knowledge of the universe. So what room remains to doubt the knowledge of the Master of the Prophets ﷺ? When the Noble Prophet ﷺ explained everything, the knowledge of the Noble Prophet ﷺ encompassed the entire universe. The Noble Prophet ﷺ knew all that had passed and all that will be. The Master of the Prophets ﷺ sees the events of the entire universe as if they are happening before his eyes. He is the knower of all created things. He has encompassed all knowledge — the first and the last, the manifest and the hidden. Moreover, it is also a reality that everything becomes manifest to the gnostic.
 
@@ -338,7 +338,7 @@ I warn such attacking gentlemen that they will always remain in loss. It is bett
 
 O my friends! Avoid all these defects. Allah Almighty is responsible for our and your guidance.
 
-*Al-hamdu lillah, thumma al-jawabu wa zahara as-sawab.* (All praise is for Allah; then, the answer has come and the truth has become manifest.)
+*الحمد لله، ثم الجواب وظهر الصواب.* (All praise is for Allah; then, the answer has come and the truth has become manifest.)
 
 ---
 

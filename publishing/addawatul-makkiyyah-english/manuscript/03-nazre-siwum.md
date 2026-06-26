@@ -64,7 +64,7 @@ Ultimately, he became the target of the king's wrath. Instead of receiving a sha
 
 ---
 
-In this example, we consider the noble Being of Allah as the King. The Beloved ﷺ is the Supreme Caliph. The nobles, commanders, and chiefs are the Prophets and saints <sup>عليهم السلام</sup>. And we are the beggars and needy — those who receive from him, live by his bestowal, and seek his mercies.
+In this example, we consider the noble Being of Allah as the King. The Beloved ﷺ is the Supreme Caliph. The nobles, commanders, and chiefs are the Prophets <sup>عليهم السلام</sup> and saints <sup>رحمة الله تعالى عليهم</sup>. And we are the beggars and needy — those who receive from him, live by his bestowal, and seek his mercies.
 
 The ungrateful, stubborn, and rebellious one is the one turned away from the court, who considers himself an equal partner in the treasures of Allah.
 

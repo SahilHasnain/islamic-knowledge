@@ -91,7 +91,7 @@ By the second aspect, knowledge is of two types:
 
 **1. Mutlaqul Ilm** — This is what is meant in the terminology of Usul. To prove such knowledge, the existence of a single individual is necessary. However, by denying it, all individuals are denied.
 
-> (The author notes that this discussion and investigation has been beautifully explained by Khatimul Muhaqqiqeen, Walide Majide <sup>قدس سره</sup> in *"Ar-Rashad Li Qam'i Mabani al-Fasad"* in the discussion of *Qadhiyya Mujiba*.)
+> (The author notes that this discussion and investigation has been beautifully explained by Khatimul Muhaqqiqeen, Walide Majide <sup>قدس سره</sup> in *"الرشاد لقمع مبانی الفساد"* in the discussion of *Qadhiyya Mujiba*.)
 
 **2. Ilme Mutlaq** — By this I mean that which conveys the meaning of generality and true comprehensiveness. Proof of this type is not established until all individuals are present. It is negated by the negation of a single individual. Here, the affirmative will be universal and the negative will be particular.
 
@@ -194,7 +194,7 @@ The one who denies the knowledges of the unseen that Allah bestowed upon the Nob
 
 In 1318 Hijri, these people sent me such a questionnaire in Delhi. In response, I wrote a book titled:
 
-> **"Anba'ul Mustafa bi Hal Sirri wa Akhfa"**
+> **"انباء المصطفى بحال سر و اخفى"**
 
 That book brought down a calamity upon the Wahhabis. These people are denying that which Allah has stated in the Quran, even though their claims negated their own faith and were the speaking proof of their loss. Through these blasphemous words, they became disbelievers and apostates.
 
@@ -212,7 +212,7 @@ Then the Wahhabis committed a tremendous blasphemy by saying regarding Sayyidul 
 >
 > (6) "That Allah may admit the believing men and believing women to gardens beneath which rivers flow, wherein they will abide forever, and He will remove from them their sins. And that is, with Allah, a great attainment." (al-Fath: 5)
 >
-> (7) "Indeed, We have granted you a clear victory, that Allah may forgive you your sins — those past and those to come — and complete His favor upon you and guide you to a straight path, and that Allah may help you with a mighty help." (al-Fath: 1–3)
+> (7) "Indeed, We have granted you a clear victory, so that Allah may forgive, through you, the sins of those before and those after [you], and complete His favor upon you and guide you to a straight path, and that Allah may help you with a mighty help." (al-Fath: 1–3)
 >
 > (8) "Blessed is He who, if He wills, can give you better than that — gardens beneath which rivers flow, and can make for you palaces." (al-Furqan: 10)
 

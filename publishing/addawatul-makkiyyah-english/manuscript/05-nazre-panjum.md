@@ -10,13 +10,13 @@ We have presented before the noble readers, besides the preceding discussions, t
 
 I have said everything that reason and wisdom can accept. If you wish to see the surging oceans and shining moons on this subject, then study my books:
 
-> ***Ma lil Habib bi Uloomil Ghaib*** (What the Beloved Possesses of the Knowledges of the Unseen)
+> ***"ما للحبيب بعلوم الغيب"*** (What the Beloved Possesses of the Knowledges of the Unseen)
 
-> ***Al-Lu'lu al-Maknun fi Ilmil Bashir Ma Kana wa Ma Yakun*** (The Hidden Pearl Regarding the Knowledge of the Bringer of Glad Tidings of What Has Been and What Will Be)
+> ***"اللؤلؤ المكنون في علم البشير ما كان وما يكون"*** (The Hidden Pearl Regarding the Knowledge of the Bringer of Glad Tidings of What Has Been and What Will Be)
 
 And also keep in view my book:
 
-> ***Anba'ul Mustafa bi Hal Sirri wa Akhfa*** (The Prophet's News of the Hidden and the More Hidden)
+> ***"انباء المصطفى بحال سر و اخفى"*** (The Prophet's News of the Hidden and the More Hidden)
 
 I am confident that your heart's desire will be fulfilled and your faith will be renewed.
 

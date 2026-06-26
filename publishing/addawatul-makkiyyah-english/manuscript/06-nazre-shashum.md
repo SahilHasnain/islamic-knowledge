@@ -46,7 +46,7 @@ Yet the Master of the Prophets ﷺ, was favoured with countless grants — grant
 
 Do these two hadith contradict each other? Never. In enumerating excellences, the two hadith mention different numbers. We see that many authentic hadith, accepted by the imams, negate each other in their counts. I have collected several such hadith in my book:
 
-> *Al-Bahth al-Faahis 'an Turuqi Ahadith al-Khasa'is*
+> *"البحث الفاحص عن طرق أحاديث الخصائص"*
 
 Among them, variation in number is found, and one hadith does not correspond to the count of another. Yet the special qualities mentioned in these hadith number more than thirty — let alone five and six! Similarly, in *Jami' as-Saghir* and its appendices and comprehensive collections, numbers of three, four, and five are recorded. These numbers are not definitive, but you will agree that setting aside these hadith, there must be some Quranic purpose or wisdom in mentioning these five things under discussion. I wish to shed light on this wisdom and point.
 
@@ -142,7 +142,7 @@ Hazrat Abdul Aziz Dabbagh <sup>رحمة الله تعالى عليه</sup>, stat
 
 ---
 
-## Bestowals of the Unseen upon the Prophet's Nation
+## Bestowals of the Unseen upon the Prophet's Ummah
 
 The Master of the Prophets ﷺ is the master of the realm of all that was and all that will be. Among his Ummah, seven global poles (*aqtaab*) also know these five hidden things — although these poles are under the seven *ghawth* (succours). Where are the *ghawth* and where are those personages who have been informed of these five knowledges? And where is the Master of the Prophets ﷺ who is apprised of the knowledges of the past and the future?
 
@@ -162,7 +162,7 @@ Hazrat Umm al-Fadl <sup>رضي الله تعالى عنها</sup>, says: After s
 
 I mentioned this to my husband, Hazrat Abbas <sup>رضي الله تعالى عنه</sup>. He also presented himself in the service of the Master of the Prophets and submitted: "Umm al-Fadl has told me such-and-such." He said: "What I said is true. This child is the father of caliphs. Among them will be a caliph named Saffah and one named Mahdi."
 
-The Master of the Prophets ﷺ knew what was in the womb of Umm al-Fadl — nay, he knew his life, named the caliphs who would come from his progeny generations later, knew the children who would come generation after generation, and declared: "Take this father of the caliphs." Then he said: "There will be a Saffah and there will be a Mahdi."
+The Master of the Prophets ﷺ knew what was in the womb of Umm al-Fadl — rather, he knew his life, named the caliphs who would come from his progeny generations later, knew the children who would come generation after generation, and declared: "Take this father of the caliphs." Then he said: "There will be a Saffah and there will be a Mahdi."
 
 ---
 
@@ -292,7 +292,7 @@ Undoubtedly, both these sayings and viewpoints are found among the noble scholar
 
 Allama Muhammad bin Sayyid Allama Abdur Rasool Barzanji Madani <sup>رحمة الله تعالى عليه</sup>, has mentioned both viewpoints. He said: Since the knowledge of the Hour (knowledge of Qiyamat) was extremely weighty, Allah kept this knowledge exclusively for Himself and did not inform anyone among creation. He only taught it to the Noble Prophet ﷺ, and along with that, prohibited him from informing others so that the awe and grandeur of Qiyamat may remain established. He said:
 
-> "And He taught it to the Prophet."
+> > **"وعلمها النبي"** — "And He taught it to the Prophet."
 
 — meaning it was indeed taught to the Holy Prophet. Allama preferred this view.
 
@@ -312,7 +312,7 @@ Shah Abdul Aziz Dehelvi <sup>رحمة الله تعالى عليه</sup>, has me
 
 Imam Shatnofi and other noble imams have narrated with a sound chain from the son of the Noble Messenger, the Ghaus of both worlds, Sayyiduna Ghaus al-A'zam <sup>رضي الله تعالى عنه</sup>, that Hazrat Ghaus al-Pak used to say:
 
-> **"My eye is always upon the Preserved Tablet."**
+> **"عيني في اللوح المحفوظ"** — "My eye is always upon the Preserved Tablet."
 
 That is, my gaze is constantly fixed upon the Preserved Tablet.
 
