@@ -4,7 +4,7 @@ import { pathToFileURL } from "node:url";
 import AdmZip from "adm-zip";
 import { PDFDocument } from "pdf-lib";
 import { chromium } from "playwright";
-import htmlToDocx from "html-to-docx";
+import htmlToDocx from "./html-to-docx.mjs";
 
 const root = process.cwd();
 const projectDir = path.join(root, "publishing", "shifa-shareef-english");
@@ -734,7 +734,10 @@ ${spineSections}
 async function writeDocx() {
   fs.mkdirSync(docxDir, { recursive: true });
   const html = fs.readFileSync(outPath, "utf8");
-  const buffer = await htmlToDocx(html);
+  const buffer = await htmlToDocx(html, {
+    accent: "0F5A3E", accentWarm: "7A3D22", ink: "17130F",
+    muted: "6F6252", gold: "B8944F",
+  });
   const docxPath = path.join(docxDir, "shifa-shareef-english.docx");
   fs.writeFileSync(docxPath, buffer);
   console.log(`Wrote ${path.relative(root, docxPath)}`);

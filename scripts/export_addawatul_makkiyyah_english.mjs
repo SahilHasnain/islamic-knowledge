@@ -4,7 +4,7 @@ import { pathToFileURL } from "node:url";
 import AdmZip from "adm-zip";
 import { PDFDocument } from "pdf-lib";
 import { chromium } from "playwright";
-import htmlToDocx from "html-to-docx";
+import htmlToDocx from "./html-to-docx.mjs";
 
 const root = process.cwd();
 const projectDir = path.join(root, "publishing", "addawatul-makkiyyah-english");
@@ -383,8 +383,6 @@ const document = `<!doctype html>
 </body>
 </html>`;
 
-const digitalCss = css.replaceAll(/@page[\s\S]*?}\n\n/g, "@page { size: A5; margin: 14mm 14mm 16mm 14mm; }\n\n") + `\nhtml { font-size: 18px !important; line-height: 1.7 !important; }\n.book { padding: 0 !important; max-width: none !important; box-shadow: none !important; }\n`;
-
 const contentDocument = `<!doctype html>
 <html lang="en">
 <head>
@@ -402,6 +400,9 @@ const contentDocument = `<!doctype html>
 </body>
 </html>`;
 
+const digitalTocHtml = generateTocHtml(tocEntries, null);
+const digitalCss = css.replaceAll(/@page[\s\S]*?}\n\n/g, "@page { size: A5; margin: 14mm 14mm 16mm 14mm; }\n\n") + `\nhtml { font-size: 18px !important; line-height: 1.7 !important; }\n.book { padding: 0 !important; max-width: none !important; box-shadow: none !important; }\n`;
+
 const digitalContentDocument = `<!doctype html>
 <html lang="en">
 <head>
@@ -413,7 +414,7 @@ const digitalContentDocument = `<!doctype html>
 <body>
   <main class="book">
     ${titleHtml}
-    ${tocHtml}
+    ${digitalTocHtml}
     ${manuscriptHtml}
   </main>
 </body>
@@ -701,7 +702,10 @@ ${spineSections}
 async function writeDocx() {
   fs.mkdirSync(docxDir, { recursive: true });
   const html = fs.readFileSync(outPath, "utf8");
-  const buffer = await htmlToDocx(html);
+  const buffer = await htmlToDocx(html, {
+    accent: "1A4C7A", accentWarm: "8B3A2A", ink: "17130F",
+    muted: "6F6252", gold: "B8944F",
+  });
   const docxPath = path.join(docxDir, "addawatul-makkiyyah-english.docx");
   fs.writeFileSync(docxPath, buffer);
   console.log(`Wrote ${path.relative(root, docxPath)}`);
