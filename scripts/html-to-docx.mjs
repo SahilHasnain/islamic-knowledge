@@ -38,12 +38,12 @@ export default async function htmlToDocx(html, theme) {
           for (const r of collectRuns(node)) runs.push({ ...r, italics: true });
         } else if (tag === "sup") {
           for (const r of collectRuns(node)) {
-            runs.push({ ...r, superScript: true, font: t.arabicFont, size: Math.round((r.size || t.bodySize) * 0.72) });
+            runs.push({ ...r, superScript: true, font: t.arabicFont, size: Math.round((r.size || t.bodySize) * 0.72), rightToLeft: true });
           }
         } else if (tag === "span") {
           const cls = $n.attr("class") || "";
           for (const r of collectRuns(node)) {
-            if (cls.includes("arabic")) runs.push({ ...r, font: t.arabicFont });
+            if (cls.includes("arabic")) runs.push({ ...r, font: t.arabicFont, rightToLeft: true });
             else if (cls.includes("reference")) runs.push({ ...r, color: hex(t.muted), italics: true, size: t.referenceSize });
             else runs.push(r);
           }
@@ -55,13 +55,22 @@ export default async function htmlToDocx(html, theme) {
     return runs;
   }
 
+  function isArabic(text) {
+    return /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/.test(text);
+  }
+
   function hex(c) {
     if (typeof c === "object") return ((c[0] << 16) | (c[1] << 8) | c[2]).toString(16).padStart(6, "0");
     return c;
   }
 
   function toRuns(arr) {
-    return arr.map(r => new TextRun(r));
+    return arr.map(r => {
+      if (r.text && isArabic(r.text) && !r.rightToLeft) {
+        return new TextRun({ ...r, rightToLeft: true });
+      }
+      return new TextRun(r);
+    });
   }
 
   function mkHeading(level, hp, color, runs) {
