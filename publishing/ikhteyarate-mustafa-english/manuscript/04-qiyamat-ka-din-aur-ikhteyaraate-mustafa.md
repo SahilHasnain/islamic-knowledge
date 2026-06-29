@@ -1,0 +1,23 @@
+# The Day of Resurrection and the Authority of Mustafa
+
+In the famous and renowned book of noble hadith, Sahih Bukhari, the Master of both worlds, the Owner of the universe ﷺ says:
+
+When the Day of Resurrection comes, the people will gather and approach Hadrat Sayyiduna Adam <sup>عليه السلام</sup>, saying: "Intercede for us with your Pure Lord." He will say: "I am not for this. Go to Hadrat Sayyiduna Ibrahim <sup>عليه السلام</sup>, for he is the Khalil of Allah." They will go to Hadrat Sayyiduna Ibrahim <sup>عليه السلام</sup>, but he too will say: "I am not for this. Go to Hadrat Sayyiduna Moosa <sup>عليه السلام</sup>, for he is the Kaleem of Allah." They will go to Hadrat Moosa <sup>عليه السلام</sup>, and he too will say: "I am not for this. Go to Hadrat Eisa <sup>عليه السلام</sup>, for he is the Roohullah and Kalimatullah." They will go to Hadrat Eisa <sup>عليه السلام</sup>, and he too will say: "I am not for this. But go to the service of Hadrat Sayyiduna Muhammad Mustafa ﷺ."
+
+When they come to me, I will say: "I am the one for intercession." Then I will seek permission from my Lord, and permission will be granted. Allah the Exalted will place in my heart such words of praise —
+
+— words that are not present in my knowledge right now. I will praise Him with those words of praise and fall into prostration before my Lord. It will be said: "O Muhammad ﷺ! Raise your head. Speak, and you will be heard. Ask, and it will be granted. Intercede, and your intercession will be accepted." I will say: "O Lord! My ummah, my ummah! O Lord! My ummah, my ummah!" He will say: "Go and bring out from Hell every person from your ummah who has even a grain's weight of faith in their heart."
+
+I will go and bring them out. Then I will return and praise my Lord with those same words of praise, and again fall into prostration before Allah the Exalted. It will again be said: "O Muhammad ﷺ! Raise your head. Speak, and you will be heard. Ask, and it will be granted. Intercede, and your intercession will be accepted." I will say: "O Lord! My ummah, my ummah! O Lord! My ummah!" It will be said: "Go and bring out every person from your ummah who has even a mustard seed's weight of faith in their heart." So I will go and bring them out.
+
+Then I will return and praise my Lord with those same words of praise, and again fall into prostration. It will be said: "O Muhammad ﷺ! Raise your head. Speak, and you will be heard. Ask, and it will be granted. Intercede, and your intercession will be accepted." I will say: "O Lord! My ummah, my ummah! O my Lord! My ummah!" Allah the Exalted will say: "Go and bring out from the Fire even those who have less than a mustard seed's weight of faith." So I will go and do so.
+
+The hadith continues: Then I will return a fourth time and praise my Lord with those same words of praise, and fall into prostration before Him. It will be said: "O Muhammad ﷺ! Raise your head. Speak, and you will be heard. Ask, and it will be granted. Intercede, and your intercession will be accepted." I will say: "O my Lord! Grant me permission to bring out every person who has said 'La ilaha illallah.'" Allah the Pure will say: "By My honour, majesty, pride, and greatness — I will bring out from Hell those who said 'La ilaha illallah'!"
+
+Dear and respected brothers in Islam! Reflect on this blessed hadith given in Sahih Bukhari, Vol. 9, p. 146, Hadith 7510. Today, we all know that on the Day of Resurrection, the one who will come to our aid is the Messenger of Allah ﷺ. But why will the entire ummah forget this on that day? What is the reason? And if the task is destined for the Holy Prophet ﷺ anyway, then what is the meaning of sending people to the other noble prophets?
+
+The reason is this: Today, from Hadrat Adam <sup>عليه السلام</sup> to Hadrat Muhammad Mustafa ﷺ, all the communities are gathered. Today it must be made known — the authority that Muhammad ﷺ possesses, no one else possesses it. The authorities given to Hadrat Adam <sup>عليه السلام</sup>, the authorities given to Hadrat Ibrahim <sup>عليه السلام</sup>, the authorities given to Hadrat Moosa <sup>عليه السلام</sup>, the authorities given to Hadrat Eisa <sup>عليه السلام</sup> — in short, the authority and power that Muhammad ﷺ holds today, no one in all creation holds it. This is the day when all the former and latter peoples must be told: if anyone in Allah's creation has the greatest authority, it is Muhammad Mustafa ﷺ.
+
+The Imam of Ahlus Sunnah, Imam Ahmad Raza Khan <sup>رحمة الله تعالى عليه</sup> says:
+
+> The Friend, the Confidant, the Messiah, the Chosen — none compare to him anywhere

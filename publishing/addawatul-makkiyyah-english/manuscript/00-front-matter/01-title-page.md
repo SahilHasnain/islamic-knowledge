@@ -1,4 +1,4 @@
-# Addawatul Makkiyyah
+# Addawlatul Makkiyyah
 
 ## English Translation
 

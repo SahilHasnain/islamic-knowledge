@@ -1,9 +1,9 @@
 ## Publisher's Note
 
-*Addawatul Makkiyyah* is an extremely famous book. When Imam Ahmad Raza Khan <sup>رحمة الله تعالى عليه</sup> wrote it, its fame spread far and wide even at the time of its writing.
+*Addawlatul Makkiyyah* is an extremely famous book. When Imam Ahmad Raza Khan <sup>رحمة الله تعالى عليه</sup> wrote it, its fame spread far and wide even at the time of its writing.
 
 > "Many copies were taken by the esteemed scholars of Makkah Muazzamah, and the book became famous throughout Makkah Muazzamah."
-> *(Addawatul Makkiyyah — Urdu, p. 240)*
+> *(Addawlatul Makkiyyah — Urdu, p. 240)*
 
 Eighty-one senior scholars of the Two Noble Sanctuaries wrote endorsements (*taqareez*) for this book (p. 178).
 

@@ -317,14 +317,14 @@ const titleHtml = `
 
 // --- Pass 1: count pages per section ---
 function sectionHtml(md) {
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Addawatul Makkiyyah</title><style>${css}</style></head><body><main class="book">${markdownToHtml(md, tocRawHeadings)}</main></body></html>`;
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Addawlatul Makkiyyah</title><style>${css}</style></head><body><main class="book">${markdownToHtml(md, tocRawHeadings)}</main></body></html>`;
 }
 
 const pageCounts = await countSectionPages(tocEntries, manuscript, sectionHtml);
 
 // Count front matter (title + toc) pages to determine content offset
 const tempTocHtml = generateTocHtml(tocEntries, null);
-const frontMatterHtml = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Addawatul Makkiyyah</title><style>${css}</style></head><body><main class="book">${titleHtml}${tempTocHtml}</main></body></html>`;
+const frontMatterHtml = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Addawlatul Makkiyyah</title><style>${css}</style></head><body><main class="book">${titleHtml}${tempTocHtml}</main></body></html>`;
 const frontBrowser = await chromium.launch();
 const frontPage = await frontBrowser.newPage();
 await frontPage.setContent(frontMatterHtml, { waitUntil: "networkidle" });
@@ -371,7 +371,7 @@ const document = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Addawatul Makkiyyah</title>
+  <title>Addawlatul Makkiyyah</title>
   <style>${css}</style>
 </head>
 <body>
@@ -388,7 +388,7 @@ const contentDocument = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Addawatul Makkiyyah</title>
+  <title>Addawlatul Makkiyyah</title>
   <style>${css}</style>
 </head>
 <body>
@@ -408,7 +408,7 @@ const digitalContentDocument = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Addawatul Makkiyyah</title>
+  <title>Addawlatul Makkiyyah</title>
   <style>${digitalCss}</style>
 </head>
 <body>
@@ -629,7 +629,7 @@ p {
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Addawatul Makkiyyah</text></docTitle>
+  <docTitle><text>Addawlatul Makkiyyah</text></docTitle>
   <navMap>
 ${ncxItems}
   </navMap>
@@ -638,12 +638,12 @@ ${ncxItems}
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head><title>Cover</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
-<body><section class="cover-page" style="background:#0b2a3a;height:100vh;"><p style="color:white;text-align:center;padding-top:45vh;font-size:1.8rem;">Addawatul Makkiyyah</p></section></body>
+<body><section class="cover-page" style="background:#0b2a3a;height:100vh;"><p style="color:white;text-align:center;padding-top:45vh;font-size:1.8rem;">Addawlatul Makkiyyah</p></section></body>
 </html>`);
   addText(zip, "OEBPS/contents.xhtml", `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-<head><title>Addawatul Makkiyyah — English Translation</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
+<head><title>Addawlatul Makkiyyah — English Translation</title><link rel="stylesheet" href="styles/book.css" type="text/css"/></head>
 <body>${epubContentsHtml(epubSections)}</body>
 </html>`);
 
@@ -668,7 +668,7 @@ ${ncxItems}
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="en">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="bookid">urn:islamic-knowledge:addawatul-makkiyyah-english</dc:identifier>
-    <dc:title>Addawatul Makkiyyah</dc:title>
+    <dc:title>Addawlatul Makkiyyah</dc:title>
     <dc:language>en</dc:language>
     <dc:creator>Imam Ahmad Raza Khan Barelvi</dc:creator>
     <dc:publisher>Abde Mustafa Publications</dc:publisher>
@@ -713,7 +713,7 @@ async function writeDocx() {
 
 await writePdf({
   outputPath: digitalPdfPath,
-  headerTemplate: `<div style="box-sizing: border-box; color: #1a4c7a; font-family: Georgia, 'Times New Roman', serif; font-size: 9px; padding: 6px 16mm 0; text-align: left; width: 100%;">Addawatul Makkiyyah</div>`,
+  headerTemplate: `<div style="box-sizing: border-box; color: #1a4c7a; font-family: Georgia, 'Times New Roman', serif; font-size: 9px; padding: 6px 16mm 0; text-align: left; width: 100%;">Addawlatul Makkiyyah</div>`,
   footerTemplate: `<div style="color: #4f463a; font-family: Georgia, 'Times New Roman', serif; font-size: 9px; padding: 0 0 6px; text-align: center; width: 100%;"><span class="pageNumber"></span></div>`,
   margin: { top: 0, right: 0, bottom: 0, left: 0 },
   document: digitalContentDocument,
