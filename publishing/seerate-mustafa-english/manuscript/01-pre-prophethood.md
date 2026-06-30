@@ -501,3 +501,69 @@ When Abu Talib finished his soul-stirring sermon, Hazrat Bibi Khadija's cousin, 
 > "Praise be to Allah, who has made us as He has made us..."
 
 This marriage was happily concluded. The union of the Master of the Prophets ﷺ and Hazrat Khadija <sup>رضي الله تعالى عنها</sup> was a marriage of the most exalted blessings. It fulfilled the will of Allah that His Beloved should have a companion whose wealth and devotion would support the mission of Islam in its earliest and most vulnerable days.
+
+### The Reconstruction of the Kaaba
+
+When the age of the Beloved ﷺ reached thirty-five years, a heavy flood struck the Haram of the Kaaba. The building was completely destroyed. The Kaaba built by Hazrat Ibrahim and Hazrat Ismail <sup>عليهما السلام</sup> had become very old. The tribes of Imalqa, Jarham, and Qussa had carried out repairs in their respective times. But since the building was in a low-lying area, the strong flow of rainwater from the mountains would pass through the valley of Makkah, and floods would often enter the Haram of the Kaaba.
+
+To protect the Kaaba, the Quraish had built several dams in the upper area, but those dams kept breaking. So the Quraish decided to demolish the building and construct a strong Kaaba with a raised door and a roof. The Quraish started the construction work together. In this construction, the Beloved ﷺ also participated, carrying stones on his blessed shoulders alongside the chieftains of the Quraish.
+
+The different tribes divided the various parts of the construction among themselves. When the building reached the level of the Black Stone, a severe dispute broke out among the tribes. Every tribe wanted the honor of lifting the Black Stone and placing it in the wall, so that it would become a source of pride and prestige for their tribe. Four days passed in this conflict. The situation escalated to the point where swords were drawn. The tribes of Banu Abdud Dar and Banu Adi even staked their lives on it. Following the custom of the Jahiliyyah, they filled a bowl with blood, dipped their fingers in it, and licked it to strengthen their oaths.
+
+On the fifth day, all the Arab tribes gathered in the Haram of the Kaaba. An elderly person proposed a solution: "The person who enters the Haram of the Kaaba first tomorrow morning — make him the arbitrator. Whatever decision he gives, accept it." Everyone agreed.
+
+By the grace of God, the first person to enter the Haram of the Kaaba the next morning was the Master of the Prophets ﷺ. Seeing him, everyone cried out: "By Allah, this is the Trustworthy (Amin)! We are all pleased with his decision."
+
+The Beloved ﷺ resolved the dispute in this manner: first, he ordered that one chieftain be selected from each tribe that claimed the right to place the Black Stone. Then the Beloved ﷺ spread his blessed cloak on the ground, placed the Black Stone on it, and ordered all the chieftains to lift the cloak together. All the chieftains lifted the cloak. When the Black Stone reached its position, the Beloved ﷺ himself lifted it with his blessed hands and placed it in its spot. In this way, a bloody battle was averted, the consequences of which no one could have imagined. (`Seerat Ibn Hisham, Volume 1, Pages 194-197`)
+
+The building of the Kaaba was completed, but the materials fell short, so a portion on one side was left outside the new foundation, and a smaller Kaaba was built. This part that the Quraish left outside the building is called "Hateem," where the drainpipe of the Kaaba's roof empties.
+
+### How Many Times Was the Kaaba Built?
+
+Allama Jalaluddin Suyuti has written in *Tarikh Makka* that the Kaaba was built ten times:
+
+(1) First, the angels built the Kaaba on earth directly opposite the Baitul Mamour.
+(2) Then Hazrat Adam <sup>عليه السلام</sup> built it.
+(3) After him, the sons of Hazrat Adam <sup>عليه السلام</sup> built it.
+(4) Then Hazrat Ibrahim and his noble son Hazrat Ismail <sup>عليهما السلام</sup> built this sacred house, which is mentioned in the Qur'an.
+(5) The tribe of Imalqa built it.
+(6) Then the tribe of Jarham had it built.
+(7) The Quraish's forefather, Qussa bin Kilab, built it.
+(8) The Quraish built it, and the Beloved ﷺ himself participated in this construction, carrying stones on his blessed shoulders alongside the Quraish.
+(9) During his caliphate, Hazrat Abdullah bin Zubair <sup>رضي الله تعالى عنه</sup> had it built according to the plan proposed by the Beloved ﷺ — that is, he included the land of Hateem inside the Kaaba, lowered the door to ground level, and made one door on the eastern side and one on the western side.
+(10) Abdul Malik bin Marwan's oppressive governor, Hajjaj bin Yusuf Saqafi, martyred Hazrat Abdullah bin Zubair and demolished the Kaaba he had built, then rebuilt it according to the Jahiliyyah plan, which remains to this day.
+
+However, Allama Halabi has written in his Seerah that the Kaaba was newly constructed only three times:
+(1) The construction of Hazrat Ibrahim.
+(2) The construction of the Quraish in the Jahiliyyah period (with a gap of 2735 years between these two).
+(3) The construction of Hazrat Abdullah bin Zubair, 82 years after the Quraish's construction.
+
+Regarding the constructions by the angels, Hazrat Adam, and his sons, Allama Halabi said that these are not established through authentic narrations. As for the other constructions, he wrote that they were ordinary repairs or maintenance of damage, not new construction. (`Hashiya Bukhari, Volume 1, Page 215`)
+
+### Special Friends Before Prophethood
+
+The people who were the special friends and companions of the Beloved ﷺ before the announcement of prophethood were all of extremely noble character, high rank, intelligent, and dignified. Among them, the closest was Hazrat Abu Bakr <sup>رضي الله تعالى عنه</sup>, who remained with the Beloved ﷺ for years in both homeland and travel, and was always his partner and confidant in trade and other business dealings.
+
+Similarly, Hazrat Khadija's cousin, Hazrat Hakim bin Hizam <sup>رضي الله تعالى عنه</sup> — who was a highly respected chieftain of the Quraish and whose special honor is that he was born inside the Kaaba — was also among the special friends of the Beloved ﷺ.
+
+Hazrat Zamaad bin Salba, who practiced medicine and surgery in the Jahiliyyah period, was also among the close friends. After the Beloved's announcement of prophethood, he came from his village to Makkah and heard the propaganda of the Quraish that Muhammad had gone mad. Then he saw the Beloved ﷺ walking on the road with a group of boys making noise behind him. Seeing this, Hazrat Zamaad felt some doubt and was deeply distressed due to their old friendship. So he came to the Beloved ﷺ and said: "O Muhammad! I am a physician. I treat madness."
+
+Hearing this, the Beloved ﷺ praised Allah and said a few sentences that had such a deep effect on Hazrat Zamaad's heart that he immediately accepted Islam. (`Mishkaat, Volume 1, Page 285`)
+
+Hazrat Qais bin Saaib Makhzoomi was a business partner of the Beloved ﷺ and among his close friends. He would say: "The dealings of the Master of the Prophets ﷺ with his business partners were always extremely fair, and no dispute ever arose." (`Isti'aab, 2/537`)
+
+### The Monotheists of Arabia
+
+Although polytheism had spread everywhere in Arabia and idol worship was common in every home, there were still some people who were followers of monotheism and averse to polytheism and idol worship. Among these fortunate ones was Zaid bin Amr bin Nufail. He openly rejected polytheism and idol worship and expressed disgust at the polytheistic customs of the Jahiliyyah. He was the cousin of Hazrat Umar <sup>رضي الله تعالى عنه</sup>.
+
+Because of his condemnation of polytheism and idol worship, his uncle, Khattab bin Nufail, would give him great trouble. He even exiled him from Makkah and would not allow him to enter. But despite thousands of torments, Zaid stood firm on the creed of monotheism like a mountain.
+
+Two of his couplets became very famous, which he would recite aloud in the gatherings of the polytheists:
+
+> "Should I worship one Lord, or a thousand lords, when the religious affairs of people have been divided? I have abandoned Lat and Uzza, and every person of insight does the same."
+
+Zaid bin Amr bin Nufail, disgusted with the religion of the polytheists, went to Syria in search of the true religion. There he met a Jewish scholar and then a Christian monk. When he did not accept the Jewish or Christian faith, both guided him toward the religion of Haneef — the religion of Hazrat Ibrahim <sup>عليه السلام</sup>. They also told him that Hazrat Ibrahim was neither Jewish nor Christian, and he worshipped none but the One God. Hearing this, Zaid bin Amr bin Nufail returned from Syria to Makkah and would raise his hands and declare loudly: "O people! Bear witness that I am upon the religion of Hazrat Ibrahim <sup>عليه السلام</sup>."
+
+Before the announcement of prophethood, Zaid bin Amr bin Nufail had a special connection with the Beloved ﷺ, and he would occasionally meet with him. Hazrat Abdullah bin Umar <sup>رضي الله تعالى عنهما</sup> narrates: "Once, before revelation began, the Beloved ﷺ met Zaid bin Amr bin Nufail in the valley of Baladah. Zaid presented food before the Beloved ﷺ. When the Beloved ﷺ declined to eat, Zaid said: 'I do not eat the meat of animals slaughtered in the name of idols. I only eat that which is slaughtered in the name of Allah.' Then he spoke about the evil of the Quraish's slaughtering practices. Addressing the Quraish, he said: 'Allah created the goat, sent down rain from the sky, and grew grass from the earth. Then, O Quraish, you slaughter it in the name of someone other than Allah?'"
+
+Hazrat Asma bint Abu Bakr <sup>رضي الله تعالى عنهما</sup> says: "I saw Zaid bin Amr bin Nufail leaning against the Kaaba, saying: 'O assembly of Quraish! By Allah, not one among you is upon the religion of Hazrat Ibrahim <sup>عليه السلام</sup> except me.'" (`Seerat Ibn Hisham, 1/226`)

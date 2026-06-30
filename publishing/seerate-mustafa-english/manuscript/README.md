@@ -1,13 +1,14 @@
 # Manuscript Map
 
-Manuscript files organized by chapter (Baab). Each file represents a chapter from the original book.
+Manuscript files organized by chapter. Each file represents one or more chapters from the original book.
 
-## Structure
+## Naming Convention
 
-Each Baab (chapter) is a single flat file directly under `manuscript/`.
+- `01-pre-prophethood.md` — Combined volume covering Chapters 1–3 (Pre-Prophethood)
+- `04-chapter-4.md` onward — One file per chapter, matching the original book numbering
 
-## Suggested Order
+## Files
 
-- `01-pehla-baab.md` - First Chapter: Family Background
-- `02-dusra-baab.md` - Second Chapter: Childhood
-- `03-teesra-baab.md` - Third Chapter: Deeds Before the Announcement of Prophethood
+- `01-pre-prophethood.md` — Family Background, Childhood, and Deeds Before Prophethood
+- `04-chapter-4.md` — From the Announcement of Prophethood to the Allegiance of Aqaba
+- (more to follow)
