@@ -122,7 +122,7 @@ Faqeeh Abullais Samarqandi <sup>رحمه الله تعالى</sup> stated that a
 
 Hazrat Ali <sup>رضي الله تعالى عنه</sup> stated that religious knowledge is superior to wealth in seven ways:
 
-1. Knowledge is the inheritance of the prophets, while wealth is the inheritance of Pharaoh, Haman, Shaddad, and Nimrod.
+1. Knowledge is the inheritance of the prophets, while wealth is the inheritance of Pharaoh (Firaun), Haman, Shaddad, and Nimrod.
 2. Wealth decreases when spent, but knowledge increases.
 3. Wealth must be guarded by a person, but knowledge guards the person.
 4. After death, wealth remains in the world, while religious knowledge accompanies one in the grave.
