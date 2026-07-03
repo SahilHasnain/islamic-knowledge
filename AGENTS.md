@@ -71,3 +71,11 @@ Only `export:ikhteyarate:hindi` is wired into `package.json`. Run other scripts 
 - Publishing directories (`publishing/`) are separate from the website content (`content/books/`). The website reads only from `content/books/*.json`.
 - `TextWithSalawat` component is used throughout — wrap any rendered title/heading that may contain the ﷺ character.
 - The repo has both `.mjs` (Node) and `.py` (Python) scripts. Python scripts need local Python setup with PyMuPDF etc.
+
+## Translation rules
+
+Preserve Arabic script from the source exactly as-is. Do NOT romanize/transliterate Arabic terms, Quranic phrases, or Islamic terms. Keep them in the original Arabic script (e.g., المُوتَفِکَة, not al-Mu'tafika).
+
+## Batch translation workflow
+
+When a book chapter is too large for a single batch file, split into sequential sub-batches (`01-batch.md`, `02-batch.md`, etc.). Each sub-batch should cover a logically self-contained portion of the narrative (e.g., "introduction through first major event", "second major event", "remaining story"). Always check the last sub-batch's end point before starting the next one to ensure continuity. Keep each batch focused and complete enough to verify independently.
