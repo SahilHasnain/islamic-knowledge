@@ -54,7 +54,7 @@ After this, the revelation stopped for some days. The Beloved ﷺ became restles
 
 While he lay covered with the blanket, the opening verses of Surah Al-Muddassir were revealed. The command of the Lord came down:
 
-> *O you who are wrapped in garments! Arise and warn. And glorify your Lord. And purify your garments. And shun idols.* (Surah Al-Muddassir, 74:1-5)
+> *O you who are enveloped in a cloak! Arise and warn. And glorify your Lord. And purify your garments. And shun idols.* (Surah Al-Muddassir, 74:1-5)
 
 After the revelation of these verses, the Master of the Prophets ﷺ was appointed to the station of calling to Islam. In accordance with the command of Allah, he girded his loins for the call to truth and the propagation of Islam.
 
