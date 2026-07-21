@@ -28,7 +28,7 @@ Allah <sup>عز وجل</sup> says:
 
 "Say: if there were angels walking peacefully on the earth, We would have sent down an angel to them." (`al-Isra: 95`)
 
-The outward limbs, bodies, and human creation of the Prophets are described with human qualities. Those matters that specifically occur to human conditions, such as illness, death, passing away, and similar things, occur to them. However, their sacred souls and inner states stand upon the highest human qualities, connected to the highest assembly. These qualities resemble those of the angels and are protected and purified from every kind of change and calamity.
+The outward limbs, bodies, and human creation of the Prophets are described with human qualities. Those matters that specifically occur to human conditions, such as illness, departure (from this world), passing away, and similar things, occur to them. However, their sacred souls and inner states stand upon the highest human qualities, connected to the highest assembly. These qualities resemble those of the angels and are protected and purified from every kind of change and calamity.
 
 If their inner states were like their outward states, they would be unable to receive revelation from the angels or have familiarity with them.
 

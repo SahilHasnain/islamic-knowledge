@@ -16,7 +16,7 @@ This change of Qibla is called "Tahweel-e-Qibla". The change of Qibla caused gre
 
 Similarly, the group of hypocrites also began to find all sorts of faults and raise all kinds of objections. To silence both these groups and shut their mouths, Allah the Generous revealed these verses:
 
-*"The foolish among the people will say, 'What has turned them away from their Qibla, which they used to face?' Say, 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'"* (Al-Baqarah: 142)
+*"The foolish among the people will say, 'What has turned them away from their Qibla, which they used to face?' Say (O Beloved): 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'"* (Al-Baqarah: 142)
 
 *"And thus We have made you a middle nation that you may be witnesses over the people and the Messenger may be a witness over you. And We did not make the Qibla which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allah has guided. And Allah would never let your faith be lost. Indeed, Allah is, to the people, Kind and Merciful."* (Al-Baqarah: 143)
 

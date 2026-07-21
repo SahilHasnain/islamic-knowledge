@@ -26,7 +26,7 @@ The Beloved ﷺ gave the same answer: "I am not one who reads."
 
 A third time, the angel pressed him to his chest with great force and then said:
 
-> *Read in the name of your Lord who created.* (Surah Al-Alaq, 96:1)
+> *Read (O Beloved) in the name of your Lord who created.* (Surah Al-Alaq, 96:1)
 
 This was the very first revelation sent down to the Beloved ﷺ. After memorising these verses, the Master of the Prophets ﷺ returned home. But this incident had come upon him so unexpectedly that a tremor had fallen upon his blessed heart. He said to his household: "Cover me with a cloak! Cover me with a cloak!"
 
@@ -54,7 +54,7 @@ After this, the revelation stopped for some days. The Beloved ﷺ became restles
 
 While he lay covered with the blanket, the opening verses of Surah Al-Muddassir were revealed. The command of the Lord came down:
 
-> *O you who are enveloped in a cloak! Arise and warn. And glorify your Lord. And purify your garments. And shun idols.* (Surah Al-Muddassir, 74:1-5)
+> *O Beloved, enveloped in a cloak! Arise and warn. And glorify your Lord. And purify your garments. And shun idols.* (Surah Al-Muddassir, 74:1-5)
 
 After the revelation of these verses, the Master of the Prophets ﷺ was appointed to the station of calling to Islam. In accordance with the command of Allah, he girded his loins for the call to truth and the propagation of Islam.
 
@@ -66,7 +66,7 @@ For three years, the Master of the Prophets ﷺ carried out the duty of preachin
 
 Then, through the invitation and preaching of Hazrat Abu Bakr Siddique, Hazrat Usman, Hazrat Zubair bin Al Awwam, Hazrat Abdur Rahman bin Auf, Hazrat Saad bin Abi Waqqas, and Hazrat Talha bin Ubaidullah <sup>رضي الله تعالى عنهم</sup> soon entered the fold of Islam. After a few days, Hazrat Abu Ubaida bin Al Jarrah, Hazrat Abu Salma Abdullah bin Abdul Asad, Hazrat Arqam bin Abu Arqam, Hazrat Usman bin Mazoon, and his two brothers, Hazrat Qudama and Hazrat Abdullah <sup>رضي الله تعالى عنهم</sup>, also accepted Islam.
 
-After some time, Hazrat Abuzar Ghifari, Hazrat Suhaib Roomi, Hazrat Ubaida bin Al Haaris bin Abdul Muttalib, Sayeed bin Zaid bin Amr bin Nufail, and his wife Fatima bint Al Khattab (the sister of Hazrat Umar) also accepted Islam. The Beloved's aunt, Hazrat Ummul Fazl (the wife of Hazrat Abbas bin Abdul Muttalib), and Hazrat Asma bint Abu Bakr Siddique also became Muslims. Besides them, many other men and women were honoured with accepting Islam.
+After some time, Hazrat Abuzar Ghifari, Hazrat Suhaib Roomi, Hazrat Ubaida bin Al Haaris bin Abdul Muttalib, Hazrat Sayeed bin Zaid bin Amr bin Nufail, and his wife Hazrat Fatima bint Al Khattab (the sister of Hazrat Umar) <sup>رضي الله تعالى عنهم</sup> also accepted Islam. The Beloved's aunt, Hazrat Ummul Fazl (the wife of Hazrat Abbas bin Abdul Muttalib), and Hazrat Asma bint Abu Bakr Siddique also became Muslims. Besides them, many other men and women were honoured with accepting Islam.
 
 It is worth noting that those who accepted Islam first — the ones honoured with the title of *Sabiqeen-e-Awwaleen* (the first and foremost) — were precisely those people who were naturally of good disposition and were already searching for the true religion. They were disgusted and fed up with the polytheism and idol-worship of the Quraish of Makkah and the polytheistic customs of the Jahiliyyah. So when they saw the manifestation of the true religion in the company of the truthful Prophet ﷺ, these fortunate people began to sacrifice themselves like moths around the lamp of prophethood and were honoured with Islam.
 
@@ -338,7 +338,7 @@ Hazrat Khadija passed away in Ramadan of the 10th year of prophethood. At the ti
 
 ### The Journey to Taif and Beyond
 
-Seeing the stubbornness and obstinacy of the people of Makka, when the Beloved, the Mercy to the Worlds ﷺ lost hope of their accepting faith, he turned towards the settlements near Makka for the propagation of Islam. In this connection, the Beloved ﷺ also travelled to Taif. In this journey, the Beloved ﷺ's slave Hazrat Zaid bin Haarisa was also with him.
+Seeing the stubbornness and obstinacy of the people of Makka, when the Beloved, the Mercy to the Worlds ﷺ lost hope of their accepting faith, he turned towards the settlements near Makka for the propagation of Islam. In this connection, the Beloved ﷺ also travelled to Taif. In this journey, Hazrat Zaid bin Haarisa, the slave of the Beloved ﷺ, was also with him.
 
 Wealthy nobles and chieftains lived in Taif. Among these chiefs, the family of Amr was considered the leader of all the tribes. These were three brothers: Abde Yaalil, Masood, and Habeeb. The Beloved ﷺ went to each of them and presented the invitation of Islam. None of the three accepted Islam. Instead, they gave extremely obscene and insolent replies. Not only this, these ill-fated men incited the hooligans of Taif to mistreat the Beloved ﷺ .
 

@@ -1,7 +1,7 @@
 ## Makkan Life
 
-*Muhammad — the inscription upon the Book of the Universe,*
-*Muhammad — the candle of the Sacred Sanctuary's chandelier,*
+*Muhammad ﷺ — the inscription upon the Book of the Universe,*
+*Muhammad ﷺ — the candle of the Sacred Sanctuary's chandelier,*
 *Mubashshir, whose advent heralds the emergence of Hazrat Isa <sup>عليه السلام</sup>,*
 *Musaddiq, whose greatness was witnessed at the valley of Hazrat Musa <sup>عليه السلام</sup>.*
 <sup>عليه الصلوة والسلام</sup>
@@ -60,7 +60,7 @@ However, all historians agree that "Adnan" is from the progeny of Hazrat Ismail 
 
 The family and lineage of the Master of the Prophets ﷺ is the noblest and highest of all the families of the world in honor and nobility. This is such a truth that even the worst enemies of the Beloved ﷺ, the disbelievers of Makkah, could never deny it. Thus when Abu Sufyan was still in a state of disbelief, in the court of the Roman emperor Heraclius, he acknowledged this truth — that the Noble Prophet ﷺ is of a noble family. (`Sahih Bukhari, Volume 1, Page 4`)
 
-At that time, Abu Sufyan was among the worst enemies of the Beloved ﷺ. He would have seized any chance to find some flaw in the Beloved ﷺ and lower his rank in the eyes of the Roman emperor. Yet despite this, he could not deny the nobility of the Beloved ﷺ's lineage.
+At that time, Abu Sufyan was among the worst enemies of the Beloved ﷺ. He would have seized any chance to find some flaw in the Beloved ﷺ and lower his rank in the eyes of the Roman emperor. Yet despite this, he could not deny the nobility of the lineage of the Beloved ﷺ.
 
 There is a narration in Sahih Muslim that Allah <sup>عز وجل</sup> chose Kinana from the progeny of Hazrat Ismail <sup>عليه السلام</sup>, then from Kinana He chose Quraish, then from Quraish He chose Bani Hashim, and from Bani Hashim He chose me. (`Mishkat, Faza'il-e-Sayyid al-Mursaleen`)
 
@@ -139,7 +139,7 @@ Regarding this incident, Allah <sup>عز وجل</sup> says in Surah al-Fil of th
 > **تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ**
 > **فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ**
 
-"Have you not seen how your Lord dealt with the People of the Elephant? Did He not cause their plan to go astray? And He sent against them flocks of birds, striking them with stones of baked clay, and made them like consumed stubble."
+"O Beloved, have you not seen how your Lord dealt with the People of the Elephant? Did He not cause their plan to go astray? And He sent against them flocks of birds, striking them with stones of baked clay, and made them like consumed stubble."
 
 When Abraha and his army met this end, Abdul Muttalib descended from the mountain and gave thanks to Allah. This miracle of his spread far and wide. All the people of Arabia began to regard him as a God-guided saint worthy of respect.
 
@@ -311,7 +311,7 @@ She said: "They go to graze the goats."
 
 Hearing this, he said: "Kind mother! Please send me as well with my brothers and sisters."
 
-Compelled by the Beloved ﷺ's insistence, Hazrat Halima allowed him to go to the pasture with her children. Every day he would go to where Hazrat Halima grazed the goats and tend to their care. This is the practice of all the Prophets and Messengers. Even in childhood, through his action, the Beloved ﷺ manifested one of his characteristics of prophethood.
+Compelled by the insistence of the Beloved ﷺ, Hazrat Halima allowed him to go to the pasture with her children. Every day he would go to where Hazrat Halima grazed the goats and tend to their care. This is the practice of all the Prophets and Messengers. Even in childhood, through his action, the Beloved ﷺ manifested one of his characteristics of prophethood.
 
 ### The Splitting of the Chest (Shaqq-e-Sadr)
 
@@ -341,7 +341,7 @@ Hazrat Maulana Shah Abdul Aziz Muhaddith Dehlawi <sup>رحمة الله تعال
 
 **Second:** At the age of ten years, so that the Beloved ﷺ might become secure from the dangerous temptations of youthful passions.
 
-**Third:** The *Shaqq-e-Sadr* in the Cave of Hira, when the light of tranquility (*sakinah*) was filled in the Beloved ﷺ's heart. So that he might bear the great and heavy burden of Divine Revelation.
+**Third:** The *Shaqq-e-Sadr* in the Cave of Hira, when the light of tranquility (*sakinah*) was filled in the heart of the Beloved ﷺ. So that he might bear the great and heavy burden of Divine Revelation.
 
 **Fourth:** On the Night of Ascension (*Miraj*), the blessed chest of the Beloved ﷺ was split open and filled with the treasures of light and wisdom. So that such vastness and capacity might be created in his blessed heart that he could bear the manifestations of the Divine Vision and the awe and majesty of the Divine Word.
 
@@ -351,17 +351,17 @@ When the Master of the Prophets ﷺ arrived in Makkah Mukarrama from Hazrat Hali
 
 ### Childhood Traits
 
-Hazrat Halima relates: "The cradle of the Beloved ﷺ would move by the swinging of angels. In childhood, he would raise his finger and point toward the moon. The moon would move according to the gesture of the Beloved ﷺ's finger. When his tongue opened, the very first words that came from his blessed lips were:
+Hazrat Halima relates: "The cradle of the Beloved ﷺ would move by the swinging of angels. In childhood, he would raise his finger and point toward the moon. The moon would move according to the gesture of the finger of the Beloved ﷺ. When his tongue opened, the very first words that came from his blessed lips were:
 
 > *All praise belongs to Allah, the Lord of all the worlds.*
 
-"Unlike the habit of children, he never relieved himself in his clothes. Rather, he would always excrete at a fixed time. If ever the Beloved ﷺ's private parts became exposed, he would weep and cry out. Until the private parts were covered, he would find no peace or rest. If I delayed in covering his private parts, someone from the unseen would cover them.
+"Unlike the habit of children, he never relieved himself in his clothes. Rather, he would always excrete at a fixed time. If ever the private parts of the Beloved ﷺ became exposed, he would weep and cry out. Until the private parts were covered, he would find no peace or rest. If I delayed in covering his private parts, someone from the unseen would cover them.
 
 "When he became able to walk on his feet, he would go outside and watch the children playing. But he himself would not join in the games. The boys would call him to play. He would say: 'I have not been created for play.'"
 
 ### The Passing of Hazrat Aamina <sup>رضي الله تعالى عنها</sup>
 
-When the blessed age of the Master of the Prophets ﷺ reached six years, his revered mother took him to Madinah Munawwarah. She went to visit her relatives in Bani Adi bin Najjar, her maternal uncles, or to visit the grave of her husband. Hazrat Umm Ayman, the slave-girl of the Beloved ﷺ's revered father, also accompanied them on this journey. On the return journey, at a village called Abwa, Hazrat Bibi Amina passed away. She was buried there.
+When the blessed age of the Master of the Prophets ﷺ reached six years, his revered mother took him to Madinah Munawwarah. She went to visit her relatives in Bani Adi bin Najjar, her maternal uncles, or to visit the grave of her husband. Hazrat Umm Ayman, the slave-girl of the revered father of the Beloved ﷺ, also accompanied them on this journey. On the return journey, at a village called Abwa, Hazrat Bibi Amina passed away. She was buried there.
 
 The shade of the revered father had been removed even before birth. Now the nurturing lap of the revered mother had also come to an end. But this orphan pearl — who is to be nurtured in the lap of mercy that makes him reach his goal — is independent of all these apparent means of upbringing.
 
@@ -369,7 +369,7 @@ After the passing of Hazrat Bibi Amina, Hazrat Umm Ayman brought the Beloved ﷺ
 
 ### In the Care of Abu Talib
 
-After the death of Abdul Muttalib, the Beloved ﷺ's uncle, Abu Talib, took him into his nurturing lap. The Beloved ﷺ's beautiful qualities and the lovely, heart-capturing traits of his childhood so captivated Abu Talib that he kept the Beloved ﷺ with him at all times, inside and outside the house. He would feed him with his own food, give him to drink, spread his bedding near himself. He never let him be out of his sight for even a moment.
+After the death of Abdul Muttalib, the uncle of the Beloved ﷺ, Abu Talib, took him into his nurturing lap. The beautiful qualities of the Beloved ﷺ and the lovely, heart-capturing traits of his childhood so captivated Abu Talib that he kept the Beloved ﷺ with him at all times, inside and outside the house. He would feed him with his own food, give him to drink, spread his bedding near himself. He never let him be out of his sight for even a moment.
 
 Abu Talib relates: "I never saw the Beloved ﷺ tell a lie at any time. I never saw him deceive anyone. I never saw him cause anyone any harm. I never saw him go to worthless boys to play with them. I never saw him say anything contrary to good manners. He was always extremely good-natured, of noble habits, high character, and of the highest degree of piety and abstinence."
 
@@ -406,7 +406,7 @@ A'la Hazrat, Fazil Barelvi <sup>رحمة الله تعالى عليه</sup>, sai
 > *Why should such an Ummi be obligated to any teacher?*
 > *Is "Read! Your Lord is the Most Generous" not sufficient?*
 
-What is the real secret behind the Beloved ﷺ's title of "Ummi"? Only the Knower of the Unseen can tell. But outwardly, a few wisdoms and benefits can be understood:
+What is the real secret behind the title of the Beloved ﷺ of "Ummi"? Only the Knower of the Unseen can tell. But outwardly, a few wisdoms and benefits can be understood:
 
 **First:** The one who is to teach knowledge and wisdom to the entire world is the Master of the Prophets ﷺ himself. His Teacher should be no one but the Lord of the Universe. So that no one can ever say, "The Prophet was my student whom I taught."
 
@@ -422,7 +422,7 @@ What is the real secret behind the Beloved ﷺ's title of "Ummi"? Only the Knowe
 
 When the age of the Beloved ﷺ reached twelve years, Abu Talib undertook a journey to Syria for trade. Since Abu Talib had an exceedingly intense love for the Beloved ﷺ, he took him along on this journey as well. The Beloved ﷺ made three trading journeys before the announcement of prophethood. Twice to Syria and once to Yemen. This is the first journey to Syria.
 
-During this journey, the Beloved ﷺ stayed with the monk Bahira (a Christian ascetic) in Busra. Seeing the Beloved ﷺ, he immediately recognized him from the signs of the Final Prophet mentioned in the Torah and the Gospel. With great devotion and respect, he invited the Beloved ﷺ's caravan. He said to Abu Talib:
+During this journey, the Beloved ﷺ stayed with the monk Bahira (a Christian ascetic) in Busra. Seeing the Beloved ﷺ, he immediately recognized him from the signs of the Final Prophet mentioned in the Torah and the Gospel. With great devotion and respect, he invited the caravan of the Beloved ﷺ. He said to Abu Talib:
 
 "This child is the Leader of the entire world and the Messenger of the Lord of the Worlds. Allah has sent him as Mercy to the Worlds. I have seen that the trees and stones prostrate to him. The Seal of Prophethood is between his two shoulders. Therefore, it is best for you not to take him further ahead. Sell your merchandise here and return to Makkah quickly. Because the Jews in Syria are his great enemies. As soon as he reaches there, they will kill him."
 
@@ -434,7 +434,7 @@ Upon Bahira's warning, Abu Talib began to feel the danger. So he sold his mercha
 
 Before Islam, a long series of wars continued among the Arabs. Among these battles, one famous battle is known as "Harb al-Fujjar" (the Battle of the Transgressors). The Arabs considered it sinful to fight in the months of Dhul Qa'dah, Dhul Hijjah, Muharram, and Rajab. People would generally keep their swords sheathed and remove the spearheads from their lances during these months. But despite this, sometimes such emergency situations arose that they were compelled to fight even in these months. So the Arabs called these battles "Huroob al-Fujjar" (Wars of Transgression).
 
-The last Harb al-Fujjar, which occurred between the tribes of Quraish and Qais, took place when the Beloved ﷺ's blessed age was twenty years. Since the Quraish were on the right side in this battle, the Beloved ﷺ, along with Abu Talib and his other uncles, also participated in this battle. However, he did not raise a weapon against anyone. He only did this much: he kept picking up arrows and handing them to his uncles.
+The last Harb al-Fujjar, which occurred between the tribes of Quraish and Qais, took place when the blessed age of the Beloved ﷺ was twenty years. Since the Quraish were on the right side in this battle, the Beloved ﷺ, along with Abu Talib and his other uncles, also participated in this battle. However, he did not raise a weapon against anyone. He only did this much: he kept picking up arrows and handing them to his uncles.
 
 In this battle, first Qais and then Quraish emerged victorious. Finally, the battle ended with a peace settlement.
 
@@ -442,7 +442,7 @@ In this battle, first Qais and then Quraish emerged victorious. Finally, the bat
 
 Due to the daily battles, hundreds of Arab households had been ruined. Lawlessness and daily plunder had destroyed the peace and tranquility of the land. No one considered their life or property safe. There was no peace in the day, no rest at night. Tired of this dreadful situation, some peace-loving people launched a reform movement after the end of Harb al-Fujjar.
 
-Thus, the great chieftains of Bani Hashim, Bani Zahra, Bani Asad, and other Quraish tribes gathered at the house of Abdullah bin Jad'an. The Beloved ﷺ's uncle, Zubair bin Abdul Muttalib, proposed that a treaty should be made to improve the current situation.
+Thus, the great chieftains of Bani Hashim, Bani Zahra, Bani Asad, and other Quraish tribes gathered at the house of Abdullah bin Jad'an. The uncle of the Beloved ﷺ, Zubair bin Abdul Muttalib, proposed that a treaty should be made to improve the current situation.
 
 Accordingly, the chieftains of the Quraish families made a treaty based on the principle of coexistence. They swore an oath that they would:
 
@@ -458,9 +458,9 @@ This historic treaty is called "Hilf al-Fudool" because long before this treaty 
 
 ### The Second Journey to Syria
 
-When the Beloved ﷺ's blessed age reached approximately twenty-five years, his trustworthiness and truthfulness had become renowned far and wide. Hazrat Khadija <sup>رضي الله تعالى عنها</sup> was a very wealthy woman of Makkah. Her husband had passed away. She needed a trustworthy person with whom she could send her trade goods to Syria. Her discerning eye selected the Beloved ﷺ for this task. She sent word: "You take my merchandise to Syria. I will give you double what I give to others, based on your trustworthiness and honesty."
+When the blessed age of the Beloved ﷺ reached approximately twenty-five years, his trustworthiness and truthfulness had become renowned far and wide. Hazrat Khadija <sup>رضي الله تعالى عنها</sup> was a very wealthy woman of Makkah. Her husband had passed away. She needed a trustworthy person with whom she could send her trade goods to Syria. Her discerning eye selected the Beloved ﷺ for this task. She sent word: "You take my merchandise to Syria. I will give you double what I give to others, based on your trustworthiness and honesty."
 
-The Beloved ﷺ accepted her request and departed for Syria with the trade goods. On this journey, Hazrat Khadija also sent her trusted slave, Maisarah, with the Beloved ﷺ to serve him. When the Beloved ﷺ reached the city of Busra in Syria, he stayed near the monastery of a monk named Nastura. Nastura had known Maisarah for a long time. Seeing the Beloved ﷺ's face, Nastura came to Maisarah and asked: "O Maisarah! Who is this person who has alighted under this tree?"
+The Beloved ﷺ accepted her request and departed for Syria with the trade goods. On this journey, Hazrat Khadija also sent her trusted slave, Maisarah, with the Beloved ﷺ to serve him. When the Beloved ﷺ reached the city of Busra in Syria, he stayed near the monastery of a monk named Nastura. Nastura had known Maisarah for a long time. Seeing the blessed face of the Beloved ﷺ, Nastura came to Maisarah and asked: "O Maisarah! Who is this person who has alighted under this tree?"
 
 Maisarah replied: "He is from Makkah. He is the light of the eyes of the Banu Hashim family. His name is Muhammad and his title is 'Amin' (the Trustworthy)."
 
@@ -474,7 +474,7 @@ After several days, she spoke of this to her slave Maisarah. Maisarah told her: 
 
 Hazrat Bibi Khadija <sup>رضي الله تعالى عنها</sup> was an extremely noble and chaste lady, along with being wealthy. The people of Makkah used to call her "Tahira" (the Pure) because of her purity and piety. Her age was forty years. She had first married Abu Hala bin Zararah Tamimi. From him, two sons, Hind bin Abu Hala and Hala bin Abu Hala, were born. After Abu Hala's passing, Hazrat Khadija married Ateeq bin Aabid Makhzumi. From him also, two children were born — a son, Abdullah bin Ateeq, and a daughter, Hind bint Ateeq. Hazrat Khadija's second husband, Ateeq, had also passed away.
 
-The great chieftains of the Quraish were desirous of marrying her. But she rejected all proposals. However, after seeing the Prophetic morals and habits of the Master of the Prophets ﷺ and hearing of his amazing circumstances, her heart inclined toward him. She spontaneously developed a desire for marriage in her heart. She had rejected the proposals of the great wealthy men and chieftains of Makkah. She had decided that at the age of forty she would not marry a third time. Yet now she herself sent for the Beloved ﷺ's paternal aunt, Hazrat Safiyya, who was the wife of her brother Awwam bin Khuwailid. She obtained more information about the Beloved's personal circumstances. Then, through Nafisa bint Umayya, she herself sent the proposal of marriage to the Beloved ﷺ.
+The great chieftains of the Quraish were desirous of marrying her. But she rejected all proposals. However, after seeing the Prophetic morals and habits of the Master of the Prophets ﷺ and hearing of his amazing circumstances, her heart inclined toward him. She spontaneously developed a desire for marriage in her heart. She had rejected the proposals of the great wealthy men and chieftains of Makkah. She had decided that at the age of forty she would not marry a third time. Yet now she herself sent for the paternal aunt of the Beloved ﷺ, Hazrat Safiyya, who was the wife of her brother Awwam bin Khuwailid. She obtained more information about the Beloved's personal circumstances. Then, through Nafisa bint Umayya, she herself sent the proposal of marriage to the Beloved ﷺ.
 
 The famous Imam of Seerah, Muhammad bin Ishaq, has written that the reason Hazrat Khadija herself stated for liking this match was, in her own words:
 

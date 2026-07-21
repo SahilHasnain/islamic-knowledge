@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manuscript Reader</title>
+<style>
+  :root {
+    --bg: #f7f2e8;
+    --fg: #173326;
+    --emerald-50: #ecfdf5;
+    --emerald-100: #d1fae5;
+    --emerald-900: #065f46;
+    --emerald-950: #022c22;
+    --gold: #d6b15f;
+    --gold-light: rgba(214,177,95,0.15);
+    --gold-border: rgba(214,177,95,0.6);
+    --stone-400: #a8a29e;
+    --stone-500: #78716c;
+    --stone-700: #44403c;
+    --stone-800: #292524;
+    --white: #ffffff;
+    --radius: 1.25rem;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg); color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh;
+  }
+  button { cursor: pointer; font-family: inherit; }
+  select, input[type=range] { font-family: inherit; }
+
+  /* ── Top Bar ─────────────────────────────────────────── */
+  .topbar {
+    background: var(--emerald-950); color: var(--white);
+    padding: 1rem 1.5rem; display: flex; flex-wrap: wrap;
+    align-items: center; gap: 1rem;
+  }
+  .topbar h1 { font-size: 1.1rem; font-weight: 700; white-space: nowrap; }
+  .topbar label { font-size: 0.8rem; color: var(--emerald-100); opacity: 0.7; display: block; margin-bottom: 2px; }
+  .topbar select, .topbar input[type=range] { background: var(--emerald-900); color: var(--white); border: 1px solid rgba(255,255,255,0.15); border-radius: 0.5rem; padding: 0.35rem 0.5rem; font-size: 0.85rem; }
+  .topbar select { min-width: 140px; }
+  .speed-group { display: flex; align-items: center; gap: 0.5rem; }
+  .speed-val { font-size: 0.8rem; color: var(--gold); min-width: 2.5rem; text-align: center; }
+  .btn {
+    border: none; border-radius: 0.5rem; padding: 0.45rem 1rem;
+    font-size: 0.85rem; font-weight: 600; transition: background 0.15s;
+  }
+  .btn-primary { background: var(--gold); color: var(--fg); }
+  .btn-primary:hover { background: #c9a24e; }
+  .btn-primary:disabled { opacity: 0.4; cursor: default; }
+  .btn-secondary { background: rgba(255,255,255,0.1); color: var(--white); }
+  .btn-secondary:hover { background: rgba(255,255,255,0.2); }
+  .btn-stop { background: #ef4444; color: var(--white); }
+  .btn-stop:hover { background: #dc2626; }
+  .spacer { flex: 1; }
+
+  /* ── Progress ────────────────────────────────────────── */
+  .progress-bar {
+    padding: 0.6rem 1.5rem; display: flex; align-items: center; gap: 1rem;
+    border-bottom: 1px solid rgba(0,0,0,0.06); font-size: 0.82rem; color: var(--stone-500);
+  }
+  .progress-bar .file-info { white-space: nowrap; }
+  .progress-bar .file-info strong { color: var(--stone-800); }
+  .bar-track {
+    flex: 1; height: 8px; background: rgba(0,0,0,0.06);
+    border-radius: 99px; overflow: hidden;
+  }
+  .bar-fill { height: 100%; background: var(--gold); border-radius: 99px; transition: width 0.3s; }
+  .bar-pct { min-width: 3rem; text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* ── Content ─────────────────────────────────────────── */
+  .content {
+    flex: 1; overflow-y: auto; padding: 2rem 1.5rem 6rem;
+    max-width: 52rem; margin: 0 auto; width: 100%;
+  }
+  .file-header {
+    font-size: 0.85rem; font-weight: 700; color: var(--emerald-900);
+    text-transform: uppercase; letter-spacing: 0.1em;
+    padding: 0.5rem 0; margin: 2rem 0 0.75rem;
+    border-bottom: 2px solid var(--emerald-900);
+  }
+  .file-header:first-child { margin-top: 0; }
+  .para {
+    padding: 0.55rem 0.85rem; border-radius: 0.5rem;
+    line-height: 1.75; font-size: 1.05rem; color: var(--stone-800);
+    transition: background 0.2s, border-color 0.2s;
+    border-left: 3px solid transparent; cursor: pointer;
+  }
+  .para:hover { background: rgba(0,0,0,0.025); }
+  .para.active {
+    background: var(--gold-light); border-left-color: var(--gold-border);
+    color: var(--fg);
+  }
+  .para.active .para-num { color: var(--gold); }
+  .para-num {
+    display: inline-block; width: 1.5rem; color: var(--stone-400);
+    font-size: 0.75rem; text-align: right; margin-right: 0.5rem;
+    user-select: none; vertical-align: top; padding-top: 3px;
+  }
+  .para-spoken { color: var(--stone-400); }
+
+  /* ── Empty / loading states ──────────────────────────── */
+  .empty {
+    text-align: center; padding: 4rem 1rem; color: var(--stone-500);
+  }
+  .empty h2 { font-size: 1.3rem; margin-bottom: 0.5rem; color: var(--stone-700); }
+  .loading { text-align: center; padding: 2rem; color: var(--stone-500); }
+
+  /* ── Bottom Controls ─────────────────────────────────── */
+  .controls {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    background: var(--white); border-top: 1px solid rgba(0,0,0,0.08);
+    padding: 0.75rem 1.5rem; display: flex; justify-content: center;
+    align-items: center; gap: 0.75rem; box-shadow: 0 -2px 12px rgba(0,0,0,0.04);
+  }
+  .ctrl-btn {
+    border: none; border-radius: 0.75rem; padding: 0.6rem 1.2rem;
+    font-size: 0.9rem; font-weight: 600; transition: all 0.15s;
+    display: flex; align-items: center; gap: 0.4rem;
+  }
+  .ctrl-play { background: var(--emerald-950); color: var(--white); min-width: 7rem; justify-content: center; }
+  .ctrl-play:hover { background: var(--emerald-900); }
+  .ctrl-play.playing { background: var(--gold); color: var(--fg); }
+  .ctrl-nav { background: var(--emerald-50); color: var(--emerald-900); border: 1px solid rgba(6,95,70,0.12); }
+  .ctrl-nav:hover { background: var(--emerald-100); }
+  .ctrl-nav:disabled { opacity: 0.3; cursor: default; }
+  .ctrl-status { font-size: 0.8rem; color: var(--stone-500); margin: 0 0.5rem; }
+</style>
+</head>
+<body>
+
+<!-- ── Top Bar ──────────────────────────────────────── -->
+<div class="topbar">
+  <h1>&#x1f4d6; Manuscript Reader</h1>
+
+  <div>
+    <label>Book</label>
+    <select id="bookSelect"><option value="">Loading books...</option></select>
+  </div>
+  <div>
+    <label>Voice</label>
+    <select id="voiceSelect"></select>
+  </div>
+  <div class="speed-group">
+    <div>
+      <label>Speed</label>
+      <input type="range" id="speedRange" min="0.5" max="2" step="0.1" value="1" style="width:90px">
+    </div>
+    <span class="speed-val" id="speedVal">1.0x</span>
+  </div>
+
+  <div class="spacer"></div>
+  <button class="btn btn-primary" id="loadBtn" disabled>Load Book</button>
+</div>
+
+<!-- ── Progress ─────────────────────────────────────── -->
+<div class="progress-bar" id="progressBar" style="display:none">
+  <span class="file-info" id="fileInfo"></span>
+  <div class="bar-track"><div class="bar-fill" id="barFill" style="width:0%"></div></div>
+  <span class="bar-pct" id="barPct">0%</span>
+</div>
+
+<!-- ── Content ──────────────────────────────────────── -->
+<div class="content" id="content">
+  <div class="empty">
+    <h2>Select a book and click Load Book</h2>
+    <p>The manuscript will appear here, read aloud paragraph by paragraph.</p>
+  </div>
+</div>
+
+<!-- ── Controls ─────────────────────────────────────── -->
+<div class="controls" id="controls" style="display:none">
+  <button class="ctrl-btn ctrl-nav" id="prevFileBtn" disabled>&#x25c0; Prev File</button>
+  <button class="ctrl-btn ctrl-play" id="playBtn" disabled>&#x25b6; Play</button>
+  <span class="ctrl-status" id="ctrlStatus"></span>
+  <button class="ctrl-btn ctrl-nav" id="nextFileBtn" disabled>Next File &#x25b6;</button>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════════════════════
+// State
+// ═══════════════════════════════════════════════════════════════════════════
+let books = [];
+let files = [];           // [{path, name}]
+let fileIndex = 0;
+let paragraphs = [];      // [{text, el, fileIndex}]
+let paraIndex = 0;
+let speaking = false;
+let paused = false;
+let cancelled = false;
+let currentFileContent = "";
+
+const synth = window.speechSynthesis;
+let selectedVoice = null;
+let rate = 1.0;
+
+// ═══════════════════════════════════════════════════════════════════════════
+// DOM refs
+// ═══════════════════════════════════════════════════════════════════════════
+const $book     = document.getElementById("bookSelect");
+const $voice    = document.getElementById("voiceSelect");
+const $speed    = document.getElementById("speedRange");
+const $speedVal = document.getElementById("speedVal");
+const $loadBtn  = document.getElementById("loadBtn");
+const $content  = document.getElementById("content");
+const $progress = document.getElementById("progressBar");
+const $fileInfo = document.getElementById("fileInfo");
+const $barFill  = document.getElementById("barFill");
+const $barPct   = document.getElementById("barPct");
+const $controls = document.getElementById("controls");
+const $playBtn  = document.getElementById("playBtn");
+const $prevBtn  = document.getElementById("prevFileBtn");
+const $nextBtn  = document.getElementById("nextFileBtn");
+const $ctrlStat = document.getElementById("ctrlStatus");
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Init
+// ═══════════════════════════════════════════════════════════════════════════
+async function init() {
+  const res = await fetch("/api/books");
+  books = await res.json();
+  $book.innerHTML = books.map((b, i) =>
+    `<option value="${b.slug}">${b.slug.replace(/-/g, " ")} (${b.file_count} files)</option>`
+  ).join("");
+  $book.disabled = false;
+  $loadBtn.disabled = false;
+  populateVoices();
+  // Some browsers load voices async
+  if (synth.onvoiceschanged !== undefined) synth.onvoiceschanged = populateVoices;
+}
+
+function populateVoices() {
+  const voices = synth.getVoices();
+  const prev = $voice.value;
+  $voice.innerHTML = voices.map((v, i) =>
+    `<option value="${i}" ${v.name === prev ? "selected" : ""}>${v.name}</option>`
+  ).join("");
+  // Prefer an English voice
+  if (!prev) {
+    const enIdx = voices.findIndex(v => v.lang.startsWith("en"));
+    if (enIdx >= 0) $voice.selectedIndex = enIdx;
+  }
+  selectedVoice = voices[$voice.selectedIndex] || null;
+}
+
+$voice.addEventListener("change", () => {
+  selectedVoice = synth.getVoices()[$voice.selectedIndex] || null;
+});
+
+$speed.addEventListener("input", () => {
+  rate = parseFloat($speed.value);
+  $speedVal.textContent = rate.toFixed(1) + "x";
+});
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Load book
+// ═══════════════════════════════════════════════════════════════════════════
+$loadBtn.addEventListener("click", loadBook);
+
+async function loadBook() {
+  stop();
+  const slug = $book.value;
+  if (!slug) return;
+
+  $loadBtn.disabled = true;
+  $loadBtn.textContent = "Loading...";
+  $content.innerHTML = '<div class="loading">Loading manuscript...</div>';
+  $progress.style.display = "none";
+  $controls.style.display = "none";
+
+  // Single request — all files with content
+  const res = await fetch(`/api/books/${slug}/all`);
+  const allFiles = await res.json();
+  files = allFiles.map(f => ({ path: f.path, name: f.name }));
+  fileIndex = 0;
+
+  // Build content
+  paragraphs = [];
+  $content.innerHTML = "";
+
+  for (let fi = 0; fi < allFiles.length; fi++) {
+    const f = allFiles[fi];
+    const paras = parseMarkdown(f.content);
+
+    // File header
+    const displayName = f.path.replace(/\//g, " / ");
+    const header = document.createElement("div");
+    header.className = "file-header";
+    header.textContent = displayName;
+    header.dataset.fileIndex = fi;
+    $content.appendChild(header);
+
+    // Paragraphs
+    paras.forEach((text, pi) => {
+      const p = document.createElement("div");
+      p.className = "para";
+      p.dataset.paraIndex = paragraphs.length;
+      p.dataset.fileIndex = fi;
+      p.innerHTML = `<span class="para-num">${pi + 1}</span>${escHtml(text)}`;
+      p.addEventListener("click", () => jumpToPara(parseInt(p.dataset.paraIndex)));
+      $content.appendChild(p);
+      paragraphs.push({ text, el: p, fileIndex: fi });
+    });
+  }
+
+  paraIndex = 0;
+  $loadBtn.disabled = false;
+  $loadBtn.textContent = "Load Book";
+  $progress.style.display = "flex";
+  $controls.style.display = "flex";
+  $playBtn.disabled = false;
+  updateProgress();
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Markdown parser (subset)
+// ═══════════════════════════════════════════════════════════════════════════
+function parseMarkdown(text) {
+  // Strip HTML sup tags (footnotes) and other tags
+  text = text.replace(/<sup>.*?<\/sup>/gs, "");
+  text = text.replace(/<[^>]+>/g, "");
+  // Strip markdown formatting
+  text = text.replace(/^#{1,6}\s+/gm, "");
+  text = text.replace(/^>\s+/gm, "");
+  text = text.replace(/\*\*(.+?)\*\*/g, "$1");
+  text = text.replace(/\*(.+?)\*/g, "$1");
+  text = text.replace(/~~(.+?)~~/g, "$1");
+  text = text.replace(/`(.+?)`/g, "$1");
+  text = text.replace(/!\[.*?\]\(.*?\)/g, "");
+  text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+  text = text.replace(/^---+$/gm, "");
+  // Replace ornamental salawat with spoken form
+  text = text.replace(/\uFD3A/g, "sallallahu alaihi wasallam");
+  // Split into paragraphs
+  return text.split(/\n\s*\n/).map(p => p.replace(/\s+/g, " ").trim()).filter(Boolean);
+}
+
+function escHtml(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Speech
+// ═══════════════════════════════════════════════════════════════════════════
+function speakPara(idx) {
+  if (idx < 0 || idx >= paragraphs.length) {
+    stop();
+    return;
+  }
+  cancelled = false;
+  paraIndex = idx;
+  highlightPara(idx);
+  updateProgress();
+
+  const text = paragraphs[idx].text;
+  const utt = new SpeechSynthesisUtterance(text);
+  if (selectedVoice) utt.voice = selectedVoice;
+  utt.rate = rate;
+
+  utt.onend = () => {
+    if (!cancelled && !paused) {
+      speakPara(paraIndex + 1);
+    }
+  };
+  utt.onerror = (e) => {
+    // 'interrupted' and 'canceled' are expected during pause/skip
+    if (e.error !== "interrupted" && e.error !== "canceled" && !cancelled) {
+      speakPara(paraIndex + 1);
+    }
+  };
+
+  speaking = true;
+  paused = false;
+  synth.speak(utt);
+  updatePlayBtn();
+}
+
+function play() {
+  if (paused) {
+    paused = false;
+    synth.cancel();
+    speakPara(paraIndex);
+    return;
+  }
+  speakPara(paraIndex);
+}
+
+function pause() {
+  if (!speaking) return;
+  paused = true;
+  synth.cancel();    // cancel current utterance
+  speaking = false;
+  updatePlayBtn();
+}
+
+function stop() {
+  cancelled = true;
+  speaking = false;
+  paused = false;
+  synth.cancel();
+  paraIndex = 0;
+  highlightPara(-1);
+  updatePlayBtn();
+  updateProgress();
+}
+
+function jumpToPara(idx) {
+  const wasPlaying = speaking && !paused;
+  cancelled = true;
+  synth.cancel();
+  speaking = false;
+  paused = false;
+  paraIndex = idx;
+  highlightPara(idx);
+  updateProgress();
+  if (wasPlaying) {
+    speakPara(idx);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Navigation
+// ═══════════════════════════════════════════════════════════════════════════
+$playBtn.addEventListener("click", () => {
+  if (speaking && !paused) {
+    pause();
+  } else {
+    play();
+  }
+});
+
+$prevBtn.addEventListener("click", () => {
+  // Find first paragraph of previous file
+  const curFi = paragraphs[paraIndex]?.fileIndex ?? fileIndex;
+  if (curFi <= 0) return;
+  const firstOfPrev = paragraphs.findIndex(p => p.fileIndex === curFi - 1);
+  if (firstOfPrev >= 0) jumpToPara(firstOfPrev);
+});
+
+$nextBtn.addEventListener("click", () => {
+  // Find first paragraph of next file
+  const curFi = paragraphs[paraIndex]?.fileIndex ?? fileIndex;
+  if (curFi >= files.length - 1) return;
+  const firstOfNext = paragraphs.findIndex(p => p.fileIndex === curFi + 1);
+  if (firstOfNext >= 0) jumpToPara(firstOfNext);
+});
+
+// ═══════════════════════════════════════════════════════════════════════════
+// UI updates
+// ═══════════════════════════════════════════════════════════════════════════
+function highlightPara(idx) {
+  document.querySelectorAll(".para.active").forEach(el => el.classList.remove("active"));
+  if (idx >= 0 && paragraphs[idx]) {
+    const el = paragraphs[idx].el;
+    el.classList.add("active");
+    // Mark previously spoken paragraphs
+    document.querySelectorAll(".para.spoken").forEach(e => e.classList.remove("spoken"));
+    for (let i = 0; i < idx; i++) paragraphs[i].el.classList.add("spoken");
+    // Scroll into view
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+
+function updateProgress() {
+  if (!paragraphs.length) return;
+  const fi = paragraphs[paraIndex]?.fileIndex ?? 0;
+  const f = files[fi];
+  if (f) {
+    $fileInfo.innerHTML = `<strong>${f.name}</strong> &nbsp;(${fi + 1}/${files.length} files)`;
+  }
+  const pct = Math.round((paraIndex / paragraphs.length) * 100);
+  $barFill.style.width = pct + "%";
+  $barPct.textContent = pct + "%";
+
+  $prevBtn.disabled = (paragraphs[paraIndex]?.fileIndex ?? 0) <= 0;
+  $nextBtn.disabled = (paragraphs[paraIndex]?.fileIndex ?? 0) >= files.length - 1;
+}
+
+function updatePlayBtn() {
+  if (speaking && !paused) {
+    $playBtn.innerHTML = "&#x23f8; Pause";
+    $playBtn.classList.add("playing");
+  } else {
+    $playBtn.innerHTML = "&#x25b6; Play";
+    $playBtn.classList.remove("playing");
+  }
+  $ctrlStat.textContent = paused ? "Paused" : speaking ? "Reading..." : "";
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Keyboard shortcuts
+// ═══════════════════════════════════════════════════════════════════════════
+document.addEventListener("keydown", (e) => {
+  // Don't capture if user is typing in a select or input
+  if (e.target.tagName === "SELECT" || e.target.tagName === "INPUT") return;
+  if (e.code === "Space") { e.preventDefault(); $playBtn.click(); }
+  else if (e.key === "n") $nextBtn.click();
+  else if (e.key === "b") $prevBtn.click();
+  else if (e.key === "q") stop();
+});
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Boot
+// ═══════════════════════════════════════════════════════════════════════════
+init();
+</script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-# Raising the Dead and the Authority of Mustafa
+# Raising the Dead and the Authority of Mustafa ﷺ
 
 The Emperor of both worlds ﷺ has raised the dead to life on numerous occasions. The biographers among the noble scholars have recorded these events in order in their books. Imam Qadi Iyad Maliki <sup>رحمة الله تعالى عليه</sup> devoted a chapter in "Shifa Shareef" titled "Concerning the Prophet ﷺ raising the dead and speaking with them," and therein narrated the incidents of the Prophet's ﷺ raising the dead and speaking with them. Similarly, Imam Bayhaqi <sup>رحمة الله تعالى عليه</sup> devoted a chapter in "Dalail an-Nubuwwah" titled "The dead coming alive through the Prophet's prayer." Imam Yusuf Salihi Shami <sup>رحمة الله تعالى عليه</sup> devoted a chapter in his renowned work "Sabalul Huda war Rashad" titled "The first chapter concerning the miracles of the Prophet ﷺ in raising the dead and hearing their speech."
 
@@ -83,7 +83,7 @@ A poet has said:
 > He seized and turned him toward Paradise  
 > To him was granted authority  
 >   
-> The miracle in the Prophet's fist, that  
+> The miracle in the Prophet's ﷺ fist, that  
 > God said "You did not throw when you threw"  
 >   
 > The eyes that shatter disbelief  

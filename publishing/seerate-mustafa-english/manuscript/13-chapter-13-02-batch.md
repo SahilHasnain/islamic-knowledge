@@ -24,7 +24,7 @@ Inside the Kaaba, the walls were covered with pictures. He ordered them all eras
 
 ### The General Amnesty
 
-All the oppressors and criminals stood before him — those who had laid thorns in his path, who had pelted him with stones, who had attacked him repeatedly, who had bloodied his blessed face and broken his blessed tooth at Uhud, who had tried to strangle him with a sheet, who had caused his daughter Zainab to miscarry by spearing her camel, who had tortured Bilal, Suhaib, Ammar, Khabbab, and other Companions on burning sands, who had killed his beloved uncle Hamza and mutilated his body, who had chewed his liver.
+All the oppressors and criminals stood before him — those who had laid thorns in his path, who had pelted him with stones, who had attacked him repeatedly, who had bloodied his blessed face and broken his blessed tooth at Uhud, who had tried to strangle him with a sheet, who had caused his daughter Zainab to miscarry by spearing her camel, who had tortured Hazrat Bilal, Hazrat Suhaib, Hazrat Ammar, Hazrat Khabbab, and other Companions on burning sands, who had killed his beloved uncle Hamza and mutilated his body, who had chewed his liver.
 
 Now these criminals stood trembling, expecting execution. But the King of the Prophets looked at them with eyes of mercy and asked:
 

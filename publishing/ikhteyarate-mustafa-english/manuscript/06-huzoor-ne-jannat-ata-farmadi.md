@@ -14,7 +14,7 @@ Hadrat Sayyiduna Rabia bin Kaab asked for the companionship of Paradise and show
 
 `(Muslim Sharif, Vol. 1, p. 354)`
 
-Where are those people now who say the Prophet has no authority? Our Prophet is the one who is the absolute authority, the Owner of Paradise and Kausar! And look at the belief of the Companion — he knew he was asking for Paradise from the One who could grant it. He was not asking some helpless being — he was asking the Master of the universe! From this court, no one returns empty-handed. My Imam has said:
+Where are those people now who say the Prophet has no authority? Our Prophet ﷺ is the one who is the absolute authority, the Owner of Paradise and Kausar! And look at the belief of the Companion — he knew he was asking for Paradise from the One who could grant it. He was not asking some helpless being — he was asking the Master of the universe! From this court, no one returns empty-handed. My Imam has said:
 
 > What generosity and kindness is yours, O King of Batha  
 > Your beggar does not know how to hear a 'no'
@@ -31,4 +31,4 @@ Imam Nawawi <sup>رحمة الله تعالى عليه</sup> says: "The Shariah 
 Huzoor Tajush Shariah Allama Akhtar Raza Khan <sup>رحمة الله عليه</sup> expressed this thus:
 
 > Wherever He builds, He grants, He bestows abundant Paradise  
-> The Prophet is the absolute authority — whatever He wishes, He grants to whomever He wishes
+> The Prophet ﷺ is the absolute authority — whatever He wishes, He grants to whomever He wishes

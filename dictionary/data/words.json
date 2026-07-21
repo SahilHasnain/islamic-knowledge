@@ -1,0 +1,250 @@
+{
+  "books": [
+    {
+      "slug": "tazkiratul-ambiya-english",
+      "title": "Tazkiratul Ambiya",
+      "words": [
+        {
+          "word": "idolatry",
+          "meaning": "Worship of idols or false gods; the practice of worshipping images or objects as deities.",
+          "example": "The people of Noah were deeply involved in idolatry, worshipping statues instead of the One God.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "monasticism",
+          "meaning": "The practice of living in a religious community separated from the world, often involving self-denial.",
+          "example": "Christian monks adopted monasticism, withdrawing from society to devote themselves to prayer.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "transgression",
+          "meaning": "A violation of a law, command, or moral code; a sin or offence.",
+          "example": "Noah warned his people repeatedly about their transgressions, but they refused to listen.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "deluge",
+          "meaning": "A severe flood; an overwhelming quantity of anything.",
+          "example": "The deluge that Noah warned of would cover the entire earth and destroy all living things.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "covenant",
+          "meaning": "A solemn agreement or promise between God and a person or group.",
+          "example": "God made a covenant with Ibrahim that his descendants would be blessed as a righteous nation.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "omnipotent",
+          "meaning": "Having unlimited power; all-powerful.",
+          "example": "The Prophet reminded his people that the omnipotent God could see all their deeds.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "repentance",
+          "meaning": "The action of regretting or feeling sorry for past misdeeds and resolving to change.",
+          "example": "The door of repentance remains open for those who sincerely turn back to God.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "resurrection",
+          "meaning": "The act of rising from the dead; revival after death on the Day of Judgement.",
+          "example": "The Prophet taught that every soul will face resurrection and be held accountable for its deeds.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "steadfast",
+          "meaning": "Firmly determined and unwavering in purpose or belief.",
+          "example": "Ibrahim remained steadfast in his faith despite the hostility of his entire nation.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "miraculous",
+          "meaning": "Involving or resembling a miracle; extraordinary and seemingly impossible.",
+          "example": "The miraculous splitting of the moon was shown to the disbelievers as a sign.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "succour",
+          "meaning": "Assistance and support in times of hardship and distress.",
+          "example": "The believers called upon God for succour when they were persecuted in Makkah.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "abhorrent",
+          "meaning": "Causing or deserving strong dislike or hatred; morally repugnant.",
+          "example": "The practices of the idolaters were abhorrent to the monotheistic prophets.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "vicissitude",
+          "meaning": "A change of circumstances or fortune, typically one that is unwelcome.",
+          "example": "The vicissitudes of life tested the patience and faith of every prophet.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "benign",
+          "meaning": "Gentle, kindly, and harmless in nature or effect.",
+          "example": "The benign countenance of the Prophet brought comfort to all who stood before him.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "subjugation",
+          "meaning": "The act of bringing under domination or control; the state of being forced to obey.",
+          "example": "Pharaoh sought the subjugation of the Children of Israel through tyranny and oppression.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "forbearance",
+          "meaning": "Patient self-control; restraint and tolerance.",
+          "example": "The Prophet showed great forbearance towards his enemies, never seeking revenge.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "revelation",
+          "meaning": "A divine communication or message revealed by God to His prophets.",
+          "example": "The first revelation came to the Prophet in the Cave of Hira through the angel Jibreel.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "perdition",
+          "meaning": "Eternal damnation or ruin; complete loss or destruction.",
+          "example": "Those who rejected the prophets were warned of perdition in the Hereafter.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "soliloquy",
+          "meaning": "An act of speaking one's thoughts aloud when alone, especially in a play.",
+          "example": "The Prophet would often engage in soliloquy during his nightly prayers in the mosque.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "obeisance",
+          "meaning": "A gesture or act of deep respect or submission; a bow or prostration.",
+          "example": "The companions made obeisance to the Prophet as a mark of their reverence and love.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "slug": "seerate-mustafa-english",
+      "title": "Seerat-ul-Mustafa",
+      "words": [
+        {
+          "word": "tribulation",
+          "meaning": "A cause of great trouble or suffering; a trial or hardship.",
+          "example": "The early Muslims endured severe tribulations before their migration to Madinah.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "auspicious",
+          "meaning": "Conducive to success; favourable and promising.",
+          "example": "The Prophet was born on an auspicious night that the Arabs considered sacred.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "meander",
+          "meaning": "To follow a winding course; to wander aimlessly.",
+          "example": "The caravan meandered through the desert, following the ancient trade route to Sham.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "intrepid",
+          "meaning": "Fearless and adventurous.",
+          "example": "The intrepid companions feared no enemy and faced every battle with unwavering courage.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "abrogate",
+          "meaning": "To formally abolish a law, right, or treaty.",
+          "example": "The new revelation did not abrogate the earlier commandments but completed them.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "eloquent",
+          "meaning": "Fluent or persuasive in speaking or writing; clearly expressing or indicating something.",
+          "example": "The eloquent words of the Prophet moved even his bitterest enemies to tears.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "fortitude",
+          "meaning": "Courage and strength in the face of pain or adversity.",
+          "example": "The companions showed remarkable fortitude during the years of persecution in Makkah.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "venerate",
+          "meaning": "To regard with great respect or reverence.",
+          "example": "The Muslims venerated the Prophet above all other human beings.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "magnanimous",
+          "meaning": "Very generous or forgiving, especially towards a rival or less powerful person.",
+          "example": "The magnanimous character of the Prophet was shown when he forgave the people of Makkah.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "perpetuate",
+          "meaning": "To make something continue indefinitely; to preserve from extinction.",
+          "example": "The Prophet instructed his companions to perpetuate the teachings of Islam for all generations.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "slug": "shifa-shareef-english",
+      "title": "Shifa Shareef",
+      "words": [
+        {
+          "word": "exalted",
+          "meaning": "Raised to a position of great power or honour; of high rank or status.",
+          "example": "The exalted status of the Prophet is recognised by Muslims throughout the world.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "benevolent",
+          "meaning": "Well-meaning and kindly; generous and charitable.",
+          "example": "The benevolent nature of the Prophet was evident in his care for the poor and orphaned.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "sagacious",
+          "meaning": "Having keen mental discernment and good judgement; wise and shrewd.",
+          "example": "The sagacious counsel of the Prophet guided the companions through every difficulty.",
+          "difficulty": "hard"
+        },
+        {
+          "word": "unfathomable",
+          "meaning": "Impossible to understand or comprehend fully.",
+          "example": "The unfathomable love of the Prophet for his Ummah surpassed all human understanding.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "impeccable",
+          "meaning": "In accordance with the highest standards of propriety; faultless.",
+          "example": "The impeccable character of the Prophet left no room for any criticism.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "venerate",
+          "meaning": "To regard with great respect or reverence.",
+          "example": "The scholars venerated the Prophet's teachings and transmitted them with utmost care.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "endearing",
+          "meaning": "Causing affection or warm regard; lovable.",
+          "example": "The endearing habits of the Prophet endeared him to all who knew him.",
+          "difficulty": "medium"
+        },
+        {
+          "word": "magnanimity",
+          "meaning": "The quality of being very generous or forgiving.",
+          "example": "The magnanimity of the Prophet was legendary — he forgave even those who harmed him.",
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}

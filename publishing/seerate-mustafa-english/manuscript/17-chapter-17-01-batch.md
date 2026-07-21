@@ -17,7 +17,7 @@ The Companion of the Prophet and his court poet, Sayyidina Hassan bin Thabit (Ra
 *"You are created free from every flaw and defect,*
 *As if you were created exactly as you yourself wished to be."*
 
-Allama Busairi (Radi Allahu Ta'ala Anhu) said in his Qasida-e-Burda:
+Allama Busairi (Rahimahullah) said in his Qasida-e-Burda:
 
 *"His beauties have no partner in their excellence,*
 *The beauty within him is indivisible."*

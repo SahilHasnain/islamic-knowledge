@@ -1,4 +1,4 @@
-# The Obligation of Hajj and the Authority of Mustafa
+# The Obligation of Hajj and the Authority of Mustafa ﷺ
 
 Hadrat Abu Huraira <sup>رضي الله تعالى عنه</sup> narrates that the Messenger of Allah ﷺ addressed us: "O people! Allah the Exalted has made Hajj obligatory upon you, so perform it." A man said: "O Messenger of Allah ﷺ! Every year?" The Holy Prophet ﷺ remained silent until the man said this three times. Then he said: "If I said yes, it would become obligatory every year, and you would not be able to do it." Then he said: "Leave me with what I have left for you. Those before you were destroyed only because of excessive questioning and disagreement with their prophets. So when I command you something, do it as much as you are able, and when I forbid you something, abstain from it."
 

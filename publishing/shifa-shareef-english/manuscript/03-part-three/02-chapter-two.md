@@ -256,7 +256,7 @@ When a servant reaches this state, neither the illness of death troubles him nor
 
 This is unlike the disbeliever, whose affairs are mostly left loose and whose body remains healthy and sound like a tree, until when Allah <sup>عز وجل</sup> intends to destroy him, He breaks his neck suddenly and he does not even realize. Death seizes him without softness or ease; because of this, his death is very severe, and in the Hereafter their matter will be even harder.
 
-For this reason, the righteous predecessors disliked sudden death. In this connection, there is the hadith of Ibrahim <sup>عليه السلام</sup> that he disliked a sorrowful death, meaning sudden death.
+For this reason, the righteous predecessors disliked sudden death. In this connection, there is the hadith of Ibrahim <sup>عليه السلام</sup> that he disliked a sorrowful departure, meaning sudden departure.
 
 The third wisdom is that illnesses are messages of death. The more severe the illness, the greater the fear of death, and the more prepared one remains for death, with the opportunity for seeking forgiveness and other acts. He knows that he will meet his Lord, and these illnesses are informing him. Becoming unconcerned with this worldly home, which contains many corruptions, his heart becomes attached to the Hereafter.
 

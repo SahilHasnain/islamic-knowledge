@@ -8,7 +8,7 @@ Compiled from the manuscript. Each entry lists the file, the sura and verse(s), 
 
 **Surah Al-Fil (105:1-5)** — Arabic + English
    > أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ / أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ / وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ / تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ / فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ
-   "Have you not seen how your Lord dealt with the People of the Elephant? Did He not cause their plan to go astray? And He sent against them flocks of birds, striking them with stones of baked clay, and made them like consumed stubble." (L134–142)
+   "O Beloved, have you not seen how your Lord dealt with the People of the Elephant? Did He not cause their plan to go astray? And He sent against them flocks of birds, striking them with stones of baked clay, and made them like consumed stubble." (L134–142)
 
 **Al-Ahzab: 57** — English only
    "Indeed, those who cause hurt to Allah and His Messenger — Allah has cursed them in this world and the Hereafter, and has prepared for them a humiliating punishment." (L200–202)
@@ -18,10 +18,10 @@ Compiled from the manuscript. Each entry lists the file, the sura and verse(s), 
 ## 04-chapter-4.md
 
 **Surah Al-Alaq (96:1)** — English only
-   "Read in the name of your Lord who created." (L29)
+   "Read (O Beloved) in the name of your Lord who created." (L29)
 
 **Surah Al-Muddassir (74:1-5)** — English only
-    "O you who are enveloped in a cloak! Arise and warn. And glorify your Lord. And purify your garments. And shun idols." (L57)
+    "O Beloved, enveloped in a cloak! Arise and warn. And glorify your Lord. And purify your garments. And shun idols." (L57)
 
 ---
 
@@ -45,7 +45,7 @@ Compiled from the manuscript. Each entry lists the file, the sura and verse(s), 
    "We see the turning of your face to the heaven. So We shall surely turn you to a Qibla with which you shall be pleased. So turn your face towards the Sacred Mosque." (L11)
 
 **Al-Baqarah: 142** — English only
-   "The foolish among the people will say, 'What has turned them away from their Qibla, which they used to face?' Say, 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'" (L19)
+   "The foolish among the people will say, 'What has turned them away from their Qibla, which they used to face?' Say (O Beloved): 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'" (L19)
 
 **Al-Baqarah: 143** — English only
    "And thus We have made you a middle nation that you may be witnesses over the people and the Messenger may be a witness over you. And We did not make the Qibla which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels..." (L21)
@@ -269,7 +269,7 @@ Compiled from the manuscript. Each entry lists the file, the sura and verse(s), 
 
 **An-Nasr: 1-2** — Arabic + English
     > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ (1) وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
-    "When the help of Allah and the victory (of Makka) comes, and you see people entering the religion of Allah in multitudes." (L207–209)
+    "O Beloved, when the help of Allah and the victory (of Makka) comes, and you see people entering the religion of Allah in multitudes." (L207–209)
 
 **Al-Qamar: 45** — Arabic + English
     > سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ

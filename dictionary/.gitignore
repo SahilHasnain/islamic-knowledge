@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/transcript
 /.pnp
 .pnp.*
 .yarn/*
@@ -37,11 +36,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# local publishing references and analysis artifacts
-/publishing/references/
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-.vercel

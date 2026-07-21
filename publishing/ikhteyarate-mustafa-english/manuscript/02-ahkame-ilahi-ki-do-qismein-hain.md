@@ -31,4 +31,4 @@ So Allah the Exalted has granted His most noble Beloved ﷺ complete authority i
 Ameer-e-Ahlus Sunnah, Hazrat Allama Maulana Ilyas Attar Qadiri <sup>حفظه الله تعالى</sup> says:
 
 > Your sovereignty is on the Throne, your sovereignty is on the earth  
-> Over both worlds is your command, O Messenger of Allah
+> Over both worlds is your command, O Messenger of Allah ﷺ

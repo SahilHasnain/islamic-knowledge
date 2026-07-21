@@ -68,4 +68,4 @@ In Muslim Sharif: Hadrat Umm Atiya <sup>رضي الله تعالى عنها</sup
 
 In Sunan Nasai, there is this addition: He said: "Go and join them." Hadrat Umm Atiya says: "I went and performed lamentation, and then I returned and pledged allegiance to the Messenger of Allah ﷺ."
 
-Allama Manawi <sup>رحمة الله تعالى عليه</sup> says under this noble hadith: ...
+Allama Manawi <sup>رحمة الله تعالى عليه</sup> also expounds on this noble hadith in his commentary, confirming the same principle of the Prophet's ﷺ authority to make exceptions.

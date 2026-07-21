@@ -58,7 +58,7 @@ Similarly, Sayyidina Abu Zar Ghifari (Radi Allahu Ta'ala Anhu) said in his comme
 
 Muhaddis Abdurrazzaq reports that Imam Hasan Basri swore that Muhammad indeed saw his Lord. Some historians narrate that Sayyidina Abdullah bin Mas'ood held the same view. Ibn Ishaq reports that Marwan, the governor of Madina, asked Sayyidina Abu Huraira: "Did Muhammad see his Lord?" He replied: "Yes."
 
-Naqqash mentioned about Imam Ahmad bin Hambal (Radi Allahu Ta'ala Anhu) that he said: "I follow the view of Abdullah bin Abbas that the Holy Prophet saw Allah — he saw, he saw, he saw..." — he continued saying "saw" until his breath ran out. (Shifa, Vol. 1, pp. 119-120)
+Naqqash mentioned about Imam Ahmad bin Hambal (Rahimahullah) that he said: "I follow the view of Abdullah bin Abbas that the Holy Prophet saw Allah — he saw, he saw, he saw..." — he continued saying "saw" until his breath ran out. (Shifa, Vol. 1, pp. 119-120)
 
 In Sahih Bukhari, at the end of the Me'raj narration from Sayyidina Anas (Radi Allahu Ta'ala Anhu) related by Shareek bin Abdullah, it states: "The Holy Prophet reached Sidratul Muntaha, and the Honorable Almighty (Allah) drew near and came close until there remained a distance of two bows or even less." (Bukhari, Vol. 2, p. 220)
 
@@ -86,7 +86,7 @@ Then Jibreel took him up to the heavens:
 
 Then he was shown Paradise. Then he reached Sidratul Muntaha. When the light of divine splendor fell upon this tree, its form changed instantly and such diverse lights appeared in it that words cannot describe. Here Jibreel stopped, saying: "I cannot go beyond this."
 
-Then Allah Almighty called him to the Throne — indeed beyond the Throne, wherever He willed — granted him audience, and in the chamber of secrets, those intimacies were exchanged whose delicacy and subtlety words cannot bear. In the Holy Quran, Allah has expressed this reality through the hint of "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ" (Then He revealed to His servant what He revealed).
+Then Allah Almighty called him to the Throne — indeed beyond the Throne, wherever He willed — granted him audience, and in the chamber of secrets, those intimacies were exchanged whose delicacy and subtlety words cannot bear. In the Holy Quran, Allah has expressed this reality through the hint of "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ" (Then He revealed to His bondsman what He revealed).
 
 At the divine court, besides countless gifts, three special favors were granted:
 
@@ -206,7 +206,7 @@ The Holy Prophet migrated from Makka in the darkness of night, with his companio
 
 > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ (1) وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
 
-**Translation:** "When the help of Allah and the victory (of Makka) comes, and you see people entering the religion of Allah in multitudes." (An-Nasr: 1-2)
+**Translation:** "O Beloved, when the help of Allah and the victory (of Makka) comes, and you see people entering the religion of Allah in multitudes." (An-Nasr: 1-2)
 
 This prophecy was fulfilled verbatim. In 8 AH, Makka was conquered, and the Prophet entered Makka with divine armies, with grandeur and majesty. He performed two rak'ats in the Kaaba, and the people of Arabia began entering Islam in multitudes.
 

@@ -74,7 +74,7 @@ Similarly, the Prophet told Fatima: "O Fatima! You will be the first among my fa
 
 ### Prophecy: Umar and Usman Will Be Martyred
 
-Anas narrates that once the Prophet climbed Mount Uhud with Abu Bakr, Umar, and Usman. The mountain shook, and the Prophet said: "Be still, O Uhud! For upon you are a Prophet, a Siddique, and two martyrs (Umar and Usman)." This prophecy was fulfilled exactly as foretold.
+Sayyidina Anas (Radi Allahu Ta'ala Anhu) narrates that once the Prophet climbed Mount Uhud with Sayyidina Abu Bakr, Sayyidina Umar, and Sayyidina Usman (Radi Allahu Ta'ala Anhum). The mountain shook, and the Prophet said: "Be still, O Uhud! For upon you are a Prophet, a Siddique, and two martyrs (Umar and Usman)." This prophecy was fulfilled exactly as foretold.
 
 ### Prophecy: The Cursed Man Who Will Kill Ali
 
@@ -116,7 +116,7 @@ These five authentic accounts testify that the sovereignty of the Prophet's mira
 
 ### The Tree Came Walking
 
-Abdullah bin Umar narrates: "We were with the Prophet on a journey. A Bedouin came to him, and the Prophet invited him to Islam. The Bedouin asked: 'Is there any witness to your prophethood?' The Prophet replied: 'Yes, that tree at the edge of the field will bear witness to my prophethood.' He called the tree, and it began plowing through the earth, tearing the ground, and came before the Prophet. It testified three times with a loud voice that he was the Messenger of Allah. Then the Prophet gestured, and the tree returned to its place, walking back through the earth."
+Sayyidina Abdullah bin Umar (Radi Allahu Ta'ala Anhu) narrates: "We were with the Prophet on a journey. A Bedouin came to him, and the Prophet invited him to Islam. The Bedouin asked: 'Is there any witness to your prophethood?' The Prophet replied: 'Yes, that tree at the edge of the field will bear witness to my prophethood.' He called the tree, and it began plowing through the earth, tearing the ground, and came before the Prophet. It testified three times with a loud voice that he was the Messenger of Allah. Then the Prophet gestured, and the tree returned to its place, walking back through the earth."
 
 Muhaddis Bazzar, Imam Behaqi, and Imam Baghawi also recorded: "The Prophet took hold of a branch and commanded it to walk. The tree walked alongside him like a camel led by its halter. Then the Prophet took hold of another tree's branch, and it too walked. The two trees met together, and the Prophet relieved himself behind them. Then he commanded them, and they walked back, plowing the earth, and stood at their original places." (Zurqani)
 
@@ -131,7 +131,7 @@ Imam Ahmad narrates from Abu Saeed Khudri that once Qatada bin Noman prayed Isha
 
 ### The Swords of the Companions
 
-On the day of Badr, the Prophet held a sword and said: "Who will take this sword with its due?" Many Companions sought it, but the Prophet did not give it to them. Then Ukkasha bin Mihsan stood and took it. The Prophet said: "You have taken it — may you fulfill its due and fight with it until your neck is cut." Ukkasha indeed fought valiantly and was martyred in the Battle of Yamama during Abu Bakr's caliphate.
+On the day of Badr, the Prophet held a sword and said: "Who will take this sword with its due?" Many Companions sought it, but the Prophet did not give it to them. Then Sayyidina Ukkasha bin Mihsan (Radi Allahu Ta'ala Anhu) stood and took it. The Prophet said: "You have taken it — may you fulfill its due and fight with it until your neck is cut." Ukkasha indeed fought valiantly and was martyred in the Battle of Yamama during Abu Bakr's caliphate.
 
 Similarly, the Prophet gave his sword "Zulfiqar" to Ali on the day of Uhud. Another sword, "Qale'a," remained in the Prophet's possession and later came to the caliphs. During Abbasid rule, Caliph Mutasim Billah purchased it from a governor for 200 dinars. Ukkasha's sword was named "Aun." Both swords remained as memorials of the Prophet's miracles. (Zurqani)
 

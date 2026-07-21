@@ -15,13 +15,13 @@ The noble Shariah has made the testimony of two witnesses necessary and obligato
 
 But the Chosen Messenger ﷺ exercised his perfect authority in this matter as well — he could make the testimony of a single person equivalent to that of two.
 
-The Noble Prophet ﷺ purchased a horse from an Arab and took him along to pay the price. The Prophet ﷺ walked briskly while the Arab walked slowly. Meanwhile, some people came to the Arab and asked about the horse's price — they did not know that the Messenger of Allah ﷺ had already bought it. The Arab called out to the Messenger of Allah ﷺ and said: "Will you buy it? Otherwise I'll sell it to someone else." When Hadrat Ali <sup>رضي الله تعالى عنه</sup> heard this, he stood up and said: "Did the Messenger of Allah ﷺ not buy this horse from you?" The Arab said: "No, by Allah, I have not sold it to you." The Noble Prophet ﷺ said: "Yes, I have bought this horse." The Arab asked him for a witness. Hadrat Khuzaima <sup>رضي الله تعالى عنه</sup> said: "I bear witness that you have sold it to the Holy Prophet ﷺ."
+The Noble Prophet ﷺ purchased a horse from a Bedouin and took him along to pay the price. The Prophet ﷺ walked briskly while the Bedouin walked slowly. Meanwhile, some people came to the Bedouin and asked about the horse's price — they did not know that the Messenger of Allah ﷺ had already bought it. The Bedouin called out to the Messenger of Allah ﷺ and said: "Will you buy it? Otherwise I'll sell it to someone else." When Hadrat Ali <sup>رضي الله تعالى عنه</sup> heard this, he stood up and said: "Did the Messenger of Allah ﷺ not buy this horse from you?" The Bedouin said: "No, by Allah, I have not sold it to you." The Noble Prophet ﷺ said: "Yes, I have bought this horse." The Bedouin asked him for a witness. Hadrat Khuzaima <sup>رضي الله تعالى عنه</sup> said: "I bear witness that you have sold it to the Holy Prophet ﷺ."
 
 Later, the Messenger of Allah ﷺ asked: "How can you bear witness when you were not present at the time?" He said: "O Messenger of Allah! I bear witness based on my conviction that you only speak the truth." So the Holy Prophet ﷺ made the solitary testimony of Hadrat Khuzaima <sup>رضي الله تعالى عنه</sup> equivalent to that of two witnesses.
 
 `(Sunan Abi Dawood, Vol. 3, p. 308)`
 
-In Mujam Kabeer: Hadrat Khuzaima <sup>رضي الله تعالى عنه</sup> said: "I have brought faith in the religion you have brought. I am certain that the Holy Prophet ﷺ only speaks the truth — I affirm him in matters of the heavens and the earth. Should I not affirm him against this Arab?"
+In Mujam Kabeer: Hadrat Khuzaima <sup>رضي الله تعالى عنه</sup> said: "I have brought faith in the religion you have brought. I am certain that the Holy Prophet ﷺ only speaks the truth — I affirm him in matters of the heavens and the earth. Should I not affirm him against this Bedouin?"
 
 As a reward for this, the Holy Prophet ﷺ permanently made his testimony equal to that of two men, saying: "Khuzaima's testimony, whether for or against someone, is sufficient by itself."
 

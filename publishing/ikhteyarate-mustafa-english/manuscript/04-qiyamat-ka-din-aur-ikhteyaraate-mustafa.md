@@ -1,4 +1,4 @@
-# The Day of Resurrection and the Authority of Mustafa
+# The Day of Resurrection and the Authority of Mustafa ﷺ
 
 In the famous and renowned book of noble hadith, Sahih Bukhari, the Master of both worlds, the Owner of the universe ﷺ says:
 
