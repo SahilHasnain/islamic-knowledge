@@ -1,4 +1,4 @@
-# Ikhteyarate Mustafa ﷺ
+# The Power of the Last Prophet ﷺ
 
 English Translation
 
