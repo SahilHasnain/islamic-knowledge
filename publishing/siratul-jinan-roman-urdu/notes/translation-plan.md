@@ -75,7 +75,7 @@ publishing/siratul-jinan-roman-urdu/
   exports/
 ```
 
-Within each jild, every surah gets its own folder named `<NN>-surah-<roman-name>/` (e.g., `02-surah-al-baqarah/`). The batch files keep their global batch-sequence prefix and surah in the filename (e.g., `02-surah-al-baqarah/11-surah-al-baqarah-aayaat-33-34-roman.md`); the batch number is the volume-wide sequence, the folder is the surah grouping.
+Within each jild, every surah gets its own folder named `<NN>-surah-<roman-name>/` (e.g., `02-surah-al-baqarah/`). Since 2026-08-22, each surah holds a single append-only manuscript file (`<NN>-surah-<name>-roman.md`, e.g. `02-surah-al-baqarah-roman.md`) built by `scripts/consolidate_siratul_jinan_batches.py` from reviewed batches plus `_inserts/` splices. Superseded per-ayat batch files are archived under the surah folder's `_archive/` directory; originals remain traceable there.
 
 Within each volume, content should be ordered by para, surah, and ayat.
 
@@ -203,6 +203,7 @@ The batch register should be the authoritative progress tracker. A volume is com
 
 - `scripts/build_siratul_jinan_db.py`: regenerate the focused SQLite source.
 - `scripts/extract_siratul_jinan_batch.py`: generate transliteration batches by volume, para, surah, ayat, or source ID.
+- `scripts/consolidate_siratul_jinan_batches.py`: merge reviewed batches into the single per-surah manuscript; verifies ayat ordering and every `(ayat → tafseerId)` pair against the DB; splices `_inserts/` entries.
 - `scripts/validate_siratul_jinan_translation.py`: validate coverage, identifiers, Arabic preservation, and formatting.
 - `scripts/export_siratul_jinan_roman_urdu.mjs`: generate HTML, digital PDF, print PDF, EPUB, and DOCX after approval.
 
@@ -258,7 +259,7 @@ The batch register should be the authoritative progress tracker. A volume is com
 - Complete a volume-level consistency review.
 - Export a review copy only after all Jild 1 batches are approved.
 
-Progress: Batches 1–10 (Al-Baqarah 2:1, 2:3, 2:4–2:7, 2:8–2:10, 2:11–2:13, 2:14–2:17, 2:18–2:22, 2:23–2:25, 2:26–2:29, 2:30–2:32) approved. Batches 11–13 (Al-Baqarah 2:33–2:34, 2:35, 2:37–2:38) approved. Batches 14–16 (Al-Baqarah 2:40, 2:41, 2:42–2:43) approved. Batches 17–19 (Al-Baqarah 2:44, 2:45, 2:47) approved. Batches 20–24 (Al-Baqarah 2:48, 2:49, 2:50, 2:51, 2:52) approved. Batches 25–29 (Al-Baqarah 2:53, 2:54, 2:55, 2:56, 2:57) approved. Batches 30–34 (Al-Baqarah 2:58, 2:59, 2:60, 2:61, 2:62) approved. Batches 35–39 (Al-Baqarah 2:63, 2:64, 2:65, 2:66, 2:67) approved. Batches 40–44 (Al-Baqarah 2:68, 2:69, 2:70, 2:71, 2:72) approved. Batches 45–49 (Al-Baqarah 2:73, 2:74, 2:75, 2:76, 2:77) approved. Batches 50–56 (Al-Baqarah 2:78, 2:79, 2:80, 2:81, 2:82, 2:83, 2:84) approved. Subsequent batches are processed in sets (seven per session). Batches 57–63 (Al-Baqarah 2:85, 2:86, 2:87, 2:88, 2:89, 2:90, 2:91) approved. Batches 64–70 (Al-Baqarah 2:92, 2:93, 2:94, 2:95, 2:96, 2:97, 2:98) self-reviewed; pending approval. Batches 71–77 (Al-Baqarah 2:99, 2:100, 2:101, 2:102, 2:103, 2:104, 2:105) transliterated and self-reviewed; pending approval. Next: Al-Baqarah 2:106 onward, seven batches per session. (Note: no tafseer entries exist for 2:36, 2:39, 2:46 in this para/volume.)
+Progress: Batches 1–82 (Al-Baqarah 2:1 through 2:113, excluding the three late-added cross-reference entries) are transliterated and consolidated into the single surah manuscript `02-surah-al-baqarah/02-surah-al-baqarah-roman.md` (112 entries; passes `validate_siratul_jinan_translation.py`). The three DB rows skipped by early extraction — 2:36 (tafseerId 54507), 2:39 (54508), and 2:46 (54509), all one-line "covered under previous ayat" cross-references — were transliterated with the Batch 24 precedent wording and spliced in via `_inserts/`. Ayat 2:2 has no source tafseer row. Coverage is complete for ayats 1–113 (112/112 DB rows matched). Originals archived under `_archive/batches-01-82/`. Next: Al-Baqarah 2:114 onward (next tafseerId 50245). Note: tafseerIds are non-monotonic — verify ordering by ayat number via the `aayaat` join, never by tafseerId.
 
 ### Milestone 4 — Jilds 2–5
 

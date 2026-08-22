@@ -46,6 +46,38 @@ Arabic must be preserved exactly as it appears in the source, even where the sou
 
 The DB's quote encoding is internally unbalanced (82 doubled `’‘` open marks vs 70 doubled `‘«` close marks across the pilot rows — several hadith quotes lack a close mark). The roman manuscript therefore normalizes every quote to balanced doubled apostrophes (`''...''`), and the validator checks only that no Urdu quote characters remain rather than requiring count parity.
 
+## Single-Surah Manuscript Convention (2026-08-22)
+
+Per-batch roman files are superseded by one append-only manuscript file per surah
+(e.g., `02-surah-al-baqarah/02-surah-al-baqarah-roman.md`). `scripts/consolidate_siratul_jinan_batches.py`
+rebuilds the surah file from archived batches plus `_inserts/insert-ayat-*.md` files,
+splits multi-entry batch blocks into per-entry blocks, sorts by ayat number, and verifies
+every `(ayat number, tafseerId)` pair against the DB via the `aayaat` join (`surahId=2`)
+before writing. The consolidated filename ends in `surah-al-baqarah-roman.md` and is
+excluded from batch ingestion to keep re-runs idempotent.
+
+## Non-Monotonic tafseerIds
+
+`tafseerId` values are NOT globally ordered by ayat: rows 54501–54522 are genuine
+Al-Baqarah entries appended late at the end of the ID space (e.g., ayat 2:12 →
+tafseerId 54504). Ordering must be verified by **ayat number** (via `ayatId` →
+`aayaat`), never by tafseerId. The batch-register's "Source batch (tafseerIds …)"
+notes reflect this interleaving; the extractor emits them in DB order within each
+batch, and the consolidator restores Quranic order.
+
+## Cross-Reference Entries (2:36, 2:39, 2:46)
+
+Ayats 2:36 (tafseerId 54507), 2:39 (54508), and 2:46 (54509) have real DB rows that
+were skipped during batch extraction because they fall between approved ranges. All
+three are one-line cross-references stating the tafseer was covered under the previous
+ayat. They are transliterated with the exact Batch 24 (2:52) precedent wording —
+"Is aayat ki tafseer guzishtah aayat ki tafseer ke zimn mein bayaan ho chuki hai." —
+and staged as `_inserts/insert-ayat-{36,39,46}.md` for the consolidator to splice.
+Their Arabic is byte-exact from the DB, including the standalone U+065B combining
+mark surrounded by spaces before `(46)` in 2:46 and four trailing spaces before `(39)`
+in 2:39. Ayat 2:2 has no tafseer row in the DB at all and is legitimately absent
+(the only gap in 1–113).
+
 ## Corrections Log
 
 - Batch 1 (Al-Baqarah 2:1): the Al Imran 3:102 verse quote was initially written `مُسْلِمُوْنَ` (missing the shadda); corrected to `مُّسْلِمُوْنَ` to match the source.
