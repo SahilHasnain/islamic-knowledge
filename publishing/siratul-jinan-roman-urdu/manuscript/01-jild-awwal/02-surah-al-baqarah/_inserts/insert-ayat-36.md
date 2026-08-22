@@ -1,0 +1,9 @@
+## Al-Baqarah — Ayat 2:36
+
+`Source: tafseerId=54507; ayatId=45; para=1; volume=1`
+
+**Arabic:** فَاَزَلَّهُمَا الشَّیْطٰنُ عَنْهَا فَاَخْرَجَهُمَا مِمَّا كَانَا فِیْهِ۪-وَ قُلْنَا اهْبِطُوْا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۚ-وَ لَكُمْ فِی الْاَرْضِ مُسْتَقَرٌّ وَّ مَتَاعٌ اِلٰى حِیْنٍ(36)
+
+**Roman Urdu:**
+
+Is aayat ki tafseer guzishtah aayat ki tafseer ke zimn mein bayaan ho chuki hai.
