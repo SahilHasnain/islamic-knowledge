@@ -19,6 +19,27 @@ When a book chapter is too large for a single batch file, split into sequential 
 
 When translating a book, always read the book's own rule files in its `notes/` directory (`publishing/<book>/notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`) before starting — these book-level rules take precedence over the generic rules in this file. Create/update them as translation decisions are made.
 
+### Sirat-ul-Jinan SQLite workflow
+
+The Sirat-ul-Jinan Roman Urdu project uses `publishing/siratul-jinan-roman-urdu/source/siratul-jinan.db` as its source of truth. The database contains the `surah`, `para`, `aayaat`, and Sirat-ul-Jinan-only `tafseer` tables. Do not edit the source database manually or replace it with generated JSON as the authoritative source.
+
+**Method: transliteration, not translation.** This project converts the Urdu script into Roman script. The Urdu vocabulary, grammar, sentence order, and meaning are preserved exactly; only the script changes. Do NOT paraphrase, reword into English, or "translate" the meaning. Quranic Arabic, Arabic duas, hadith quotations, Islamic phrases, and Arabic honorifics are never romanized — they stay in Arabic script exactly as in the source.
+
+The database-backed workflow is:
+
+1. Query source entries by volume, para, surah, ayat range, or `tafseerId`.
+2. Generate a traceable transliteration batch containing source identifiers and cleaned Urdu text.
+3. Transliterate the Urdu script into Roman script without summarizing or omitting content.
+4. Preserve Arabic Quranic text, Arabic duas, hadith quotations, Islamic phrases, ﷺ, and honorifics exactly as required by the source and book rules.
+5. Validate source coverage, ordering, identifiers, Arabic preservation, and accidental Urdu or HTML leftovers before approval.
+6. Record romanization decisions in the book's `notes/` files.
+
+The project plan is `publishing/siratul-jinan-roman-urdu/notes/translation-plan.md`. Read it before beginning Sirat-ul-Jinan transliteration work. Start with the Surah Al-Fatihah pilot; do not begin full-volume transliteration until the pilot's style and review conventions are approved.
+
+Every transliterated entry must remain traceable to its `tafseerId`, `ayatId`, surah, ayat number, para, and volume. Use semantic boundaries and approximately 2,000–4,000 Urdu characters per batch, adjusting for quotations, numbered discussions, and citations. Never split a sentence, quotation, or citation unnecessarily across batches.
+
+The source extraction must preserve `{Arabic phrase: Urdu meaning}` blocks and numbered references such as `(1)…`. Validate extraction output for literal replacement artifacts such as `($1)` before using it for transliteration.
+
 
 ## Quick start
 
@@ -80,6 +101,9 @@ Each publishable book has a directory with:
 | `extract_pdf_book.py` / `extract_pdf_ocr.py` | PDF text extraction (Python) |
 | `format_book_content.py` / `normalize_book_text.py` | Text cleanup (Python) |
 | `gen_cover_placeholder.py` | Auto-generate cover images |
+| `build_siratul_jinan_db.py` | Build the focused Sirat-ul-Jinan SQLite source from the live-quran reference DB |
+| `extract_siratul_jinan_batch.py` | Generate traceable Sirat-ul-Jinan transliteration batches from SQLite |
+| `validate_siratul_jinan_translation.py` | Validate Sirat-ul-Jinan transliteration coverage and formatting |
 
 Only `export:ikhteyarate:hindi` is wired into `package.json`. Run other scripts directly: `node scripts/<script>.mjs` or `python scripts/<script>.py`.
 
@@ -91,4 +115,3 @@ Only `export:ikhteyarate:hindi` is wired into `package.json`. Run other scripts 
 - Publishing directories (`publishing/`) are separate from the website content (`content/books/`). The website reads only from `content/books/*.json`.
 - `TextWithSalawat` component is used throughout — wrap any rendered title/heading that may contain the ﷺ character.
 - The repo has both `.mjs` (Node) and `.py` (Python) scripts. Python scripts need local Python setup with PyMuPDF etc.
-

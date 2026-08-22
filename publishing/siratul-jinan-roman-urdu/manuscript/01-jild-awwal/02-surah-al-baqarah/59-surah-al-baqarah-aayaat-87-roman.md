@@ -1,0 +1,40 @@
+# Sirat-ul-Jinan fi Tafseer-il-Quran — Roman Urdu Transliteration
+
+## Surah Al-Baqarah (Jild 1 — Batch 59)
+
+> Surah Al-Baqarah — Para 1, Jild 1. Fifty-ninth Jild 1 transliteration batch (one entry: Ayat 2:87).
+>
+> Derived from the source batch `01-jild-awwal/02-surah-al-baqarah/59-surah-al-baqarah-aayaat-87.md`. Urdu script converted to Roman script; Quranic Arabic, Arabic duas, hadith quotations, Islamic phrases, citations, and honorifics preserved in Arabic script exactly as in the source.
+>
+> Status: approved.
+> Source entries: 1 (tafseerId 50218; ayatId 96)
+
+---
+
+## Al-Baqarah — Ayat 2:87
+
+`Source: tafseerId=50218; ayatId=96; para=1; volume=1`
+
+**Arabic:** وَ لَقَدْ اٰتَیْنَا مُوْسَى الْكِتٰبَ وَ قَفَّیْنَا مِنْۢ بَعْدِهٖ بِالرُّسُلِ٘-وَ اٰتَیْنَا عِیْسَى ابْنَ مَرْیَمَ الْبَیِّنٰتِ وَ اَیَّدْنٰهُ بِرُوْحِ الْقُدُسِؕ-اَفَكُلَّمَا جَآءَكُمْ رَسُوْلٌۢ بِمَا لَا تَهْوٰۤى اَنْفُسُكُمُ اسْتَكْبَرْتُمْۚ-فَفَرِیْقًا كَذَّبْتُمْ٘-وَ فَرِیْقًا تَقْتُلُوْنَ(87)
+
+**Roman Urdu:**
+
+{وَ لَقَدْ اٰتَیْنَا مُوْسَى الْكِتٰبَ: Hum ne Moosa ko kitaab di.} Yahan se Bani Israeel ko di gayi mazeed n'amatein bayaan ki ja rahi hain, is aayat mein kitaab se Tauraat muraad hai jis mein Allah Ta'ala ke tamaam ahd mazkoor thay. In mein sab se aham ahd yeh thay ke har zamaane ke paighambaron ki ita'at karna, un par imaan laana aur un ki ta'zeem o tauqeer karna jaisa ke Surah Ma'idah aayat 21 mein mazkoor hai.
+
+{وَ قَفَّیْنَا مِنْۢ بَعْدِهٖ بِالرُّسُلِ: Aur is ke baad pay dar pay Rasool bheje.} Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke zamaane se Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام tak mutawaatir Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aate rahe, un ki ta'dad chaar hazaar bayaan ki gayi hai, yeh sab hazraat Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki shari'at ke muhafiz aur us ke ahkaam jaari karne waale thay aur chunke humaare Aaqa, Khaatam-ul-Anbiya صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke ba'd nabuwwat kisi ko nahin mil sakti is liye shari'at-e-Muhammadiyyah ki hifaazat o ishaa'at ki khidmat Ulama Rabbani aur mujaddideen ko ata hui.
+
+{وَ اٰتَیْنَا عِیْسَى ابْنَ مَرْیَمَ الْبَیِّنٰتِ: Isa bin Maryam ko hum ne nishaniyaan dein.} Un nishaniyon se muraad Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke mo'jizaat hain jaise murdon ko zindah karna, andhon aur baras waalon ko sehat dena, parindon ki sooraton mein jaan daal dena, ghaib ki khabrein dena waghairah jaisa ke Surah Aal-e-Imran aayat 49 mein hai.
+
+{وَ اَیَّدْنٰهُ بِرُوْحِ الْقُدُسِ: Aur paak rooh ke zariye is ki madad ki.} Rooh-ul-Qudus se Hazrat Jibraeel عَلَیْہِ السَّلَام muraad hain ke woh roohani hain aur aisi wahi laate hain jis se dilon ko hayaat yani zindagi milti hai. Hazrat Jibraeel عَلَیْہِ السَّلَام ko Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke saath rehne ka hukm tha. Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke aasmaan par uthaaye jaane tak Hazrat Jibraeel عَلَیْہِ السَّلَام safar o hadar mein kabhi Aap se judaa na hue aur Hazrat Jibraeel Ameen عَلَیْہِ السَّلَام ki ta'eed Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki bahut badi fazilat hai. Huzoor Sayyid-ul-Mursaleen صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke sadqay mein Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke ba'z ummati hon ko bhi Rooh-ul-Qudus ki ta'eed mayassar hui chunancha Bukhari, Abu Dawood aur Mujam Kabeer ki hadees hai ke Hazrat Hassaan رَضِیَ اللہُ تَعَالٰی عَنْہُ ke liye mimbar bichhaaya jaata aur woh na't-e-shareef parhte thay. Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ un ke liye dua farmaate ''اَللّٰھُمَّ اَیِّدْہُ بِرُوْحِ الْقُدُس'' Ae Allah! Rooh-ul-Qudus ke zariye Hassaan ki madad farma. (بخاری، کتاب الصلاۃ، باب الشعر فی المسجد، ۱ / ۱۷۲، الحدیث: ۴۵۳، ابو داؤد، کتاب الادب، باب ماجاء فی الشعر، ۴ / ۳۹۴-۳۹۵، الحدیث: ۵۰۱۵، معجم الکبیر، ۴ / ۳۷، الحدیث: ۳۵۸۰، واللفظ للمعجم)
+
+Ghair khuda ka madad karna shirk nahin:
+
+Is tafseer se yeh bhi maloom hua ke ghair-e-khuda ki madad shirk nahin, Allah Ta'ala ne Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki madad Hazrat Jibraeel عَلَیْہِ السَّلَام ke zariye farmaai aur jab Hazrat Jibraeel عَلَیْہِ السَّلَام madad kar sakte hain to Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ bhi Allah Ta'ala ki ata ki hui taaqat o qudrat se yaqeenan madad farma sakte hain, Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ka apni zaahiri hayaat-e-mubarakah mein madad farmaane ka to kaseer ahaadees mein zikr hai, albatta hum yahan 2 aise waqiaat zikr karte hain jin se yeh saabit hota hai ke Sarkar-e-Do-Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne apne wisaal-e-zaahiri ke ba'd apni baargaah mein haazir ho kar faryaad karne waalon ki madad farmaai.
+
+(1)… Mashhoor muhaddiseen Imam Abu Bakr bin Muqri, Abul-Qasim Sulaiman bin Ahmad Tabrani aur Imam Abu Sheikh رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِمْ ne mazaar pur anwaar par haazir ho kar bhookh ki faryaad ki to Rasool-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne ek Alawi ke zariye unhein khaana bhejwaya aur us Alawi ne kaha: Aap logon ne baargaah-e-risaalat mein faryaad ki thi to mujhe khwaab mein Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki ziyaarat hui aur Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne mujhe hukm farmaaya ke mein Aap logon tak khaana pahuncha doon. (وفاء الوفاء، الباب الثامن فی زیارۃ النبی صلی اللہ علیہ وسلم، الفصل الثالث، ۲ / ۱۳۸۰، الجزء الرابع)
+
+(2)… Abu Qasim Saabit bin Ahmad Baghdadi رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmate hain: mein ne Tajdaar-e-Risaalat صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke shahr-e-aqdas Madinah Munawwarah mein ek shakhs ko dekha ke us ne Sarkar-e-Do-Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke roza-e-anwar ke qareeb subah ki adhaan di aur jab us ne ''اَلصَّلٰوۃُ خَیْرٌ مِّنَ النَّوْمْ'' kaha to yeh sun kar Masjid Nabawi ke khaadimon mein se ek khaadim aaya aur is ne use thappad maar diya. Woh shakhs rone laga aur us ne faryaad ki: Ya Rasool Allah! صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ, Aap ki maujoodgi mein is shakhs ne mere saath aisa kiya hai. (us ki faryaad jaise hi khatam hui) to us khaadim par faalij gira aur log use utha kar us ke ghar le gaye, teen din ba'd woh khaadim mar gaya. (ابن عساکر، حرف الثاء، ذکر من اسمہ ثابت، ۱۱ / ۱۰۴)
+
+Yaad rahe ke Allama Nooruddin Ali bin Ahmad Samhudi رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ ne apni mashhoor kitaab ''وَفَاء الْوَفَاء بِاَخْبَارِ دَارِ الْمُصْطَفٰی'' ke chauthay hissay mein Sahaba Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم aur Awliya-e-Izaam رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِمْ ke aise kai waqiaat bayaan farmaaye hain jin mein yeh zikr hai ke unhon ne Sayyid-ul-Mursaleen صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke roza-e-anwar par haazir ho kar apni haajat bayaan ki aur Rasool-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne un ki madad karte hue un ki haajat poori farma di aur Imam Muhammad bin Moosa bin Nu'man رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ ne to is mauzoo par ''مِصْبَاحُ الظَّلَامْ فِی الْمُسْتَغِیْثِیْنَ بِخَیْرِ الْاَنَامْ'' ke naam se ba-qaa'idah ek kitaab bhi likhi hai.
+
+{لَا تَهْوٰۤى اَنْفُسُكُمْ: Tumhaare dil pasand nahin karte.} Yahoodi log, paighambaron ke ahkaam apni khwaahishon ke khilaaf pa kar unhein jhutlaate aur mouqa paate to Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ko qatal kar daalte thay jaisa ke unhon ne Hazrat Zakariyaa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام, Hazrat Yahyaa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام aur un ke ilaawah bahut se Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ko shaheed kiya, hatta ke humaare Aaqa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke bhi darpe rahe, kabhi Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ par jaadu kiya, kabhi zehar diya aur un ke ilaawah Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko shaheed karne ke liye taraah taraah ke fareb karte rahe. Aayat se yeh bhi maloom hua ke ahkaam-e-ilaahi par apni khwaahishon ko tarjeeh dena Yahoodiyon jabke hukm-e-ilaahi ke saamne apne nafs ko kuchal dena Kaamil-ul-Imaan logon ki nishani hai.

@@ -1,0 +1,11 @@
+title: Shifa Shareef
+script: Devanagari
+language: Hindi transliteration of Roman Urdu
+source_language: Roman Urdu
+author: Imam Qadi Iyad
+urdu_translator: Sadr al-Afazil
+status: draft
+edition: 0.1
+source: ../../content/books/shifa-shareef.json
+workflow: Manual batch transliteration; no automated transliteration script.
+notes: Preserve Urdu-Islamic vocabulary and honorifics.

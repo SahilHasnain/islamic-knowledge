@@ -1,0 +1,11 @@
+title: Sirat-ul-Jinan fi Tafseer-il-Quran
+subtitle: Roman Urdu Transliteration
+author: Shaykh Muhammad Qasim Attari
+source_language: Urdu
+language: Roman Urdu
+status: pilot-approved
+edition: 0.2
+source: source/siratul-jinan.db
+publisher: Mustafawi Publishing
+honorific_policy: Preserve Quranic Arabic, Arabic honorifics, and ﷺ exactly as required by the source and project rules.
+notes: Database-backed Roman Urdu transliteration project (Urdu script to Roman script; not a meaning-based translation). Surah Al-Fatihah pilot approved on review; full-volume transliteration may begin (Milestone 3 — Jild 1, Paras 1-3).
