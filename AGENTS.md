@@ -15,6 +15,14 @@ Preserve Arabic script from the source exactly as-is. Do NOT romanize/transliter
 
 ## Batch translation workflow
 
+### File size limit
+
+All newly created or substantially changed files should contain at most 2,000 lines.
+When a file would exceed this limit, split it at a logical boundary without splitting
+sentences, quotations, citations, or traceable transliteration entries. Existing files
+that already exceed 2,000 lines are grandfathered and do not need to be rewritten solely
+to satisfy this rule.
+
 When a book chapter is too large for a single batch file, split into sequential sub-batches (`01-batch.md`, `02-batch.md`, etc.). Each sub-batch should cover a logically self-contained portion of the narrative (e.g., "introduction through first major event", "second major event", "remaining story"). Always check the last sub-batch's end point before starting the next one to ensure continuity. Keep each batch focused and complete enough to verify independently. Never summarize the source. Always preserve the tone of the author.
 
 When translating a book, always read the book's own rule files in its `notes/` directory (`publishing/<book>/notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`) before starting — these book-level rules take precedence over the generic rules in this file. Create/update them as translation decisions are made.

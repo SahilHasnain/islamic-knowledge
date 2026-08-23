@@ -20,6 +20,14 @@ Arabic phrases inside `{...}` blocks remain in Arabic script. Their Urdu meaning
 
 Each working transliteration entry remains traceable to `tafseerId`, `ayatId`, surah, ayat number, para, and volume. Reader-facing exports may hide implementation identifiers only after validation is complete.
 
+## File Size Limit
+
+New or substantially changed files must contain at most 2,000 lines. If a file would exceed
+that limit, split it at a logical entry or section boundary without splitting sentences,
+quotations, citations, or traceable transliteration entries. Existing files that already
+exceed 2,000 lines are grandfathered and may remain unchanged unless they are otherwise
+being edited.
+
 ## Open Decisions
 
 - Final reader-facing heading format for ayat entries.
