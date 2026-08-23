@@ -216,3 +216,7 @@ Arabic titles and citations stay in Arabic script; these titles are romanized wh
 | حضرت عزیر | Hazrat Uzair | Prophet mentioned in 2:116 |
 | امت محمدیہ | Ummat-e-Muhammadiyah | The Prophet's Ummah (2:120) |
 | سیدالانبیاء | Sayyid-ul-Anbiya | Epithet of the Prophet ﷺ (2:120); cf. `Sayyid-ul-Mursaleen` (2:87) |
+| حضرت جعفر بن ابی طالب | Hazrat Ja'far bin Abi Talib | Companion present at the court of the Prophet ﷺ (2:121) |
+| بحیرا راہب | Bahiraa raahib | Christian monk mentioned in the account of the delegation (2:121) |
+| اہل حبشہ | Ahle Habshah | People of Abyssinia (2:121) |
+| شامی راہب | Shaami raahib | Syrian monk (2:121) |
