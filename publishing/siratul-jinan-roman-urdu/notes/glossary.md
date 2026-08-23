@@ -31,9 +31,11 @@ Arabic titles and citations stay in Arabic script; these titles are romanized wh
 | Urdu / source title | Roman script (approved) | Notes |
 |---|---|---|
 | ترجمۂ کنز الایمان | Tarjuma-e-Kanzul-Irfan | A'la Hazrat's Urdu rendering; corrected from an earlier "Kanzul-Iman" |
-| فتاویٰ رضویہ | Fatawa Razviya | Cited as `Fatawa Razviya ki XXvein jild` |
+| فتاویٰ رضویہ | Fatawa Razviya | Cited as `Fatawa Razviya ki XXvein jild`; also `Fatawa Razviya Shareef` (2:114) |
 | فیضانِ بِسْمِ اللّٰهِ | Faizan-e-Bismillah | Ameer-e-Ahl-e-Sunnat's treatise |
 | سورۂ نمل / سورۂ توبہ | Surah Naml / Surah Taubah | In-prose surah references |
+| بہارِ شریعت | Bahar-e-Shariat | Cited with part number: `Bahar-e-Shariat hissa 3` (2:114) |
+| کتاب الوقف | Kitab-ul-Waqf | Chapter of `Fatawa Razviya Shareef` (2:114) |
 
 ## Personal and Proper Names
 
@@ -205,3 +207,12 @@ Arabic titles and citations stay in Arabic script; these titles are romanized wh
 | یہود و نصاریٰ | Yahud o Nasara | Prose rendering; adjective `Yahoodi` (2:113) |
 | حضرت زیاد بن لبید | Hazrat Ziyaad bin Labeed | Companion quoted in 2:113 |
 | قیامت | qiyaamat | Day of Judgement; normalized from an early `qayaamat` (batches 81–82) |
+| خانہ کعبہ | Khanah Ka'bah | The Ka'bah; bare `Ka'bah` also used (2:114) |
+| قبلہ | Qiblah | Direction of prayer (2:114) |
+| صلح حدیبیہ | Sulah Hudaibiyah | Treaty of Hudaibiyah; extends `Hudaibiyah` (2:60) (2:114) |
+| خلافت فاروقی و عثمانی | Khilafat-e-Farooqi o Usmani | Eras of Hazrat Umar and Hazrat Usman رَضِیَ اللہُ تَعَالٰی عَنْہُمَا (2:114) |
+| حضرت عبد اللہ بن عمر | Hazrat Abdullah bin Umar | Companion quoted in 2:115 |
+| آیتِ دعا | Aayat-e-Dua | اُدْعُوْنِیْۤ اَسْتَجِبْ لَكُمْ (پ۲۴، المؤمن: ۶۰) — ayah label stays Arabic (2:115) |
+| حضرت عزیر | Hazrat Uzair | Prophet mentioned in 2:116 |
+| امت محمدیہ | Ummat-e-Muhammadiyah | The Prophet's Ummah (2:120) |
+| سیدالانبیاء | Sayyid-ul-Anbiya | Epithet of the Prophet ﷺ (2:120); cf. `Sayyid-ul-Mursaleen` (2:87) |

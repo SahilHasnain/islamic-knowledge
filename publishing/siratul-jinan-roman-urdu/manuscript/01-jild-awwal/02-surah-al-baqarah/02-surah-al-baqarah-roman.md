@@ -7,10 +7,11 @@
 > ayat order and earlier entries are never rewritten. Corrections target one entry
 > via its unique `Source:` anchor line.
 >
-> Coverage: Ayat 2:1 – 2:113 (112 entries).
-> Next pending: Ayat 2:114 (tafseerId 50245).
-> Consolidated from transliteration batches 01–82 on 2026-08-22; verified against
-> siratul-jinan.db (every ayat→tafseerId pair matched, none missing or duplicated).
+> Coverage: Ayat 2:1 – 2:120 (119 entries).
+> Next pending: Ayat 2:121 (tafseerId 50252).
+> Consolidated from transliteration batches (initial consolidation 2026-08-22);
+> verified against siratul-jinan.db (every ayat→tafseerId pair matched, none
+> missing or duplicated).
 >
 > Urdu script converted to Roman script; Quranic Arabic, Arabic duas, hadith
 > quotations, Islamic phrases, citations, and honorifics preserved in Arabic script
@@ -2222,3 +2223,122 @@ Yahoodiyon aur Isaiyon ki is rawish ke bayan mein Sayyid-ul-Mursaleen صَلَّ
 Hazrat Ziyaad bin Labeed رَضِیَ اللہُ تَعَالٰی عَنْہُ farmaate hain ''Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne kisi baat ka tazkirah farmaaya aur irshad farmaaya ''Yeh is waqt hoga jab ke ilm uth jaye ga.'' Maine arz ki: Ya Rasool Allah! صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ, ilm kaise uth jaye ga haalaanke hum Quran parhte hain aur apni aulaad ko parhate hain aur woh apni aulaad ko parhayenge, isi tarah yeh silsilah qiyaamat tak chalta rahe ga. Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne irshad farmaaya ''Aey Ziyaad! Tumhari maa tumhein gum paye, main tumhein Madinah ke faheem logon mein shumaar karta tha kya Yahoodi aur Isai Tauraat aur Injeel nahin parhte lekin in mein se koi bhi is par amal nahin karta.'' (Isi tarah Musalman Quran to parhenge lekin is par amal nahin karenge aur jo apne ilm par amal na kare woh aur jaahil dono baraabar hain.) (ابن ماجہ، کتاب الفتن، باب ذہاب القرآن والعلم، ۴ / ۳۸۳، الحدیث: ۴۰۴۸) Allah Ta'ala Musalmanon ko Quran Majeed ki tilaawat karne, usay samajhne aur us ke ahkaam o taaleemaat par amal karne ki taufeeq ata farmaye. Aameen.
 
 {كَذٰلِكَ قَالَ: Isi tarah kaha.} Ahle Kitaab ke ulama ki tarah jaahil but-paraston o aatish-paraston ne har deen ko jhuthlana shuru kar diya aur kehne lage ke deen kuchh nahin. Un mein jaahilon mein se mushrikeen-e-Arab bhi hain jinhon ne Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ aur aap ke deen ke baare mein aise hi kalimaat kahe.
+---
+
+## Al-Baqarah — Ayat 2:114
+
+`Source: tafseerId=50245; ayatId=123; para=1; volume=1`
+
+**Arabic:** وَ مَنْ اَظْلَمُ مِمَّنْ مَّنَعَ مَسٰجِدَ اللّٰهِ اَنْ یُّذْكَرَ فِیْهَا اسْمُهٗ وَ سَعٰى فِیْ خَرَابِهَاؕ-اُولٰٓىٕكَ مَا كَانَ لَهُمْ اَنْ یَّدْخُلُوْهَاۤ اِلَّا خَآىٕفِیْنَ۬ؕ-لَهُمْ فِی الدُّنْیَا خِزْیٌ وَّ لَهُمْ فِی الْاٰخِرَةِ عَذَابٌ عَظِیْمٌ(114)
+
+**Roman Urdu:**
+
+{وَ مَنْ اَظْلَمُ مِمَّنْ: Aur is se barh kar zaalim kaun.} Yeh aayat Bait-ul-Muqaddas ki be-hurmati ke muta'alliq naazil hui jis ka mukhtasar waqiyah yeh hai ke Room ke Isaiyon ne Yahoodiyon par hamla kar ke un ke jangjuon ko qatl kar diya, un ke biwi bachchon ko qaid kar liya, Tauraat ko jala diya, Bait-ul-Muqaddas ko weraan kar diya, is mein najaisain daaleen, khinzair zabah kiye, yoon Bait-ul-Muqaddas Khilafat-e-Farooqi tak isi werani mein raha. Aap رَضِیَ اللہُ تَعَالٰی عَنْہُ ke ahd-e-mubarak mein Musalmanon ne isay banaya. Aik qaul yeh bhi hai ke yeh aayat mushrikeen-e-Makkah ke haq mein naazil hui jinhon ne ibtida-e-Islaam mein Huzoor Sayyid-e-Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ aur aap ke Ashab رَضِیَ اللہُ تَعَالٰی عنہم ko Ka'bah mein namaz parhne se roka tha aur Sulah Hudaibiyah ke waqt is mein namaz o hajj se mana' kiya tha. (خازن، البقرۃ، تحت الآیۃ: ۱۱۴، ۱ / ۸۱)
+
+{اَنْ یُّذْكَرَ: Ke zikr kiya jaye.} Zikr mein namaz, khutbah, tasbeeh, wa'az, Na't Shareef aur Saaliheen ke halaat ka bayan sab daakhil hain. Zikrullah ko mana' karna har jagah hi bura hai lekin masjidon mein khususan zyada bura hai ke woh to isi kaam ke liye banai jaati hain. Masjid ko kisi bhi tarah weraan karne wala zaalim hai. Bila wajah logon ko masjid mein aane ya masjid ki ta'meer se rokne wala, masjid ya is ke kisi hissay par qabza karne wala, masjid ko zaati istemaal mein le lene wala, masjid ke kisi hissay ko masjid se kharij karne wala, yeh sab log is aayat ki wa'eed mein daakhil hain. Tafseel ke liye Fatawa Razviya Shareef ke Kitab-ul-Waqf ka muta'ala karein. Al-battah yeh yaad rahe ke janbi (yani jis par ghusl farz ho), munh ki badbu walay, lehsun piyaaz ghairah badbudar cheezon ki boo jis ke munh se aa rahi ho usay rokna is mein daakhil nahin ke yeh haqeeqat mein masjid se takleef-deh ya naamunasib cheezon ko door karne ke hukm mein aata hai. Yeh bhi yaad rahe ke masjid ke nazdeek doosri masjid iss niyyat se banana ke pehli masjid weraan ho jaye haraam hai ke yeh bhi masjid ki werani mein koshish karna hai, al-battah agar koi masjid banaye to is ki niyyat par hum hukm nahin laga sakte ke us ne buri niyyat se hi masjid banai hai.
+
+{اِلَّا خَآىٕفِیْنَ: Magar darte hue.} Masjid mein adab o tazeem aur khauf-e-Khuda ke saath daakhil hona chahiye, nadir o bebak ho kar aur aadaab-e-Masjid ko paamaal karte hue daakhil hona Musalman ka kaam nahin.
+
+{فِی الدُّنْیَا خِزْیٌ: Duniya mein ruswai.} Bait-ul-Muqaddas weraan karne walon ko duniya mein yeh ruswai pohnchi ke qatl kiye gaye, giraftaar hue, jila-watan kiye gaye. Khilafat-e-Farooqi o Usmani mein mulk-e-Shaam un ke qabze se nikal gaya aur Bait-ul-Muqaddas se zillat ke saath nikaale gaye. Masjidon aur masjidon se taalluq rakhne walon se nafrat karne walon ko yeh wa'eed apne pesh-nazar rakhni chahiye.
+---
+
+## Al-Baqarah — Ayat 2:115
+
+`Source: tafseerId=50246; ayatId=124; para=1; volume=1`
+
+**Arabic:** وَ لِلّٰهِ الْمَشْرِقُ وَ الْمَغْرِبُۗ-فَاَیْنَمَا تُوَلُّوْا فَثَمَّ وَجْهُ اللّٰهِؕ-اِنَّ اللّٰهَ وَاسِعٌ عَلِیْمٌ(115)
+
+**Roman Urdu:**
+
+{وَ لِلّٰهِ : Aur Allah hi ke liye hai.} Is aayat ke bohat se Shaan-e-Nuzool bayan kiye gaye hain.
+
+(1)… Aik martabah Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم taareek raat mein safar mein thay, Qiblah ki simt maloom nahin ho saki, har shakhs jis taraf is ka dil jama, namaz parh li, subah ko baargaah-e-Risaalat mein haal arz kiya to yeh aayat naazil hui. (ترمذی، کتاب تفسیر القرآن، باب ومن سورۃ البقرۃ، ۴ / ۴۴۵، الحدیث: ۲۹۶۸)
+
+
+
+(2) … Hazrat Abdullah bin Umar رَضِیَ اللہُ تَعَالٰی عَنْہُ farmaate hain yeh us musafir ke haq mein naazil hui jo sawari par nafl ada kare, is ki sawari jis taraf mutawajjah ho jaye (us taraf is ki namaz durust hai). (خازن، البقرۃ، تحت الآیۃ: ۱۱۵، ۱ / ۸۲)
+
+(3)… Jab Khanah Ka'bah ko Qiblah banaya gaya to Yahoodiyon ne Musalmanon par i'trazaat kiye. Un ke rad mein yeh aayat naazil hui aur bataya gaya ke Mashriq o Maghrib sab Allah Ta'ala ka hai, jis taraf chahe Qiblah mu'ain farmaaye, kisi ko i'tiraaz ka kya haq hai. (خازن، البقرۃ، تحت الآیۃ: ۱۱۵، ۱ / ۸۲)
+
+(4)… Jab Aayat-e-Dua اُدْعُوْنِیْۤ اَسْتَجِبْ لَكُمْ (پ۲۴، المؤمن: ۶۰) naazil hui to Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ se daryaft kiya gaya ke kis taraf munh kar ke dua ki jaye? Is ke jawab mein yeh aayat naazil hui. (الطبری، البقرۃ، تحت الآیۃ: ۱۱۵، ۱ / ۵۵۳، رقم: ۱۸۴۹)
+
+
+
+Shaan-e-Nuzool ke muta'alliq in ke ilawa aur bhi kai aqwaal hain.
+
+{فَاَیْنَمَا تُوَلُّوْا: To tum jidhar munh phero.} Maloom hua ke Qiblah ki simt maloom nahin ho sake to jis taraf dil jame ke Khanah Ka'bah isi simt hoga to isi taraf munh kar ke namaz parhe. Is baare mein tafseeli ahkaam jaanne ke liye Bahar-e-Shariat hissa 3 ka muta'ala farmaiyein. Yeh yaad rahe ke Khanah Ka'bah hi Qiblah hai, yahan jo ijazat hai woh makhsus sooraton mein hai.
+---
+
+## Al-Baqarah — Ayat 2:116
+
+`Source: tafseerId=50247; ayatId=125; para=1; volume=1`
+
+**Arabic:** وَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًاۙ-سُبْحٰنَهٗؕ-بَلْ لَّهٗ مَا فِی السَّمٰوٰتِ وَ الْاَرْضِؕ-كُلٌّ لَّهٗ قٰنِتُوْنَ(116)
+
+**Roman Urdu:**
+
+{سُبْحٰنَهٗ: Allah Paak hai.} Yahoodiyon ne Hazrat Uzair عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko aur Isaiyon ne Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko khuda ka beta maana jabke mushrikeen-e-Arab ne farishton ko khuda ki betiyan qaraar diya jaisa ke teeno cheezein Quran-e-Paak mein mazkoor hain. In sab ke rad mein yeh aayat naazil hui.
+
+{لَهٗ مَا فِی السَّمٰوٰتِ: Isi ka hai jo aasmanon mein hai.} Kisi ki aulaad is ki milkiyat nahin ho sakti aur jab aasmanon aur zameen ki har cheez Allah Ta'ala ki milkiyat hai to is ki aulaad kaise ho sakti hai? Neez aulaad haqeeqat mein maa baap ka juz hoti hai aur insaan apne juz ka maalik nahin hota.
+---
+
+## Al-Baqarah — Ayat 2:117
+
+`Source: tafseerId=50248; ayatId=126; para=1; volume=1`
+
+**Arabic:** بَدِیْعُ السَّمٰوٰتِ وَ الْاَرْضِؕ-وَ اِذَا قَضٰۤى اَمْرًا فَاِنَّمَا یَقُوْلُ لَهٗ كُنْ فَیَكُوْنُ(117)
+
+**Roman Urdu:**
+
+{بَدِیْعُ: Baghair misaal ke banane wala.} Badi' ka ma'ni hai kisi cheez ko baghair kisi saabiqa misaal ke naye taur par banane wala. Allah Ta'ala ke aasmanon aur zameen ko paida karne se pehle na koi aasmaan tha aur na zameen, to Allah Ta'ala naye taur par isay adam se wujood mein laaya. Allah Ta'ala tamam makhlooq ke i'tibaar se hi Badi' hai kyunke Allah Ta'ala ne har cheez ko khud hi wujood bakhsha hai, pehle kisi shay ki misaal maujood na thi.
+
+{وَ اِذَا قَضٰى: Aur jab faisla farmata hai.} Faisla farmaane se murad iradah karna hai jaisa ke aik aur maqaam par Allah Ta'ala irshad farmata hai:
+
+''اِنَّمَاۤ اَمْرُهٗۤ اِذَاۤ اَرَادَ شَیْــٴًـا اَنْ یَّقُوْلَ لَهٗ كُنْ فَیَكُوْنُ''( یس: ۸۲)
+
+Tarjumah-e-Kanz-ul-Irfan: Is ka kaam to yehi hai ke jab kisi cheez ka iradah farmata hai to is se farmata hai ''hoo ja'' to woh foran ho jaati hai.
+
+
+
+Aur is aayat se asal murad yeh hai ke aisa hona mumkin nahin ke Allah Ta'ala kisi shay ka iradah farmaaye aur woh nah ho, balke Allah Ta'ala ka iradah qat'i taur par naafiz hota hai aur kisi shay ko wujood mein laane ke liye Allah Ta'ala ko insaanon ki tarah mehnat o mushaqqat ki koi zaroorat nahin, balke Allah Ta'ala ka is cheez ke wujood ka iradah farma lena hi kaafi hai. Yaad rahe ke Allah Ta'ala kisi bhi kaam mein kisi ka mohtaaj nahin aur Allah Ta'ala ka mukhtalif kaamon ke liye farishton ko muqarrar karna hikmat hai, haajat nahin.
+---
+
+## Al-Baqarah — Ayat 2:118
+
+`Source: tafseerId=50249; ayatId=127; para=1; volume=1`
+
+**Arabic:** وَ قَالَ الَّذِیْنَ لَا یَعْلَمُوْنَ لَوْ لَا یُكَلِّمُنَا اللّٰهُ اَوْ تَاْتِیْنَاۤ اٰیَةٌؕ-كَذٰلِكَ قَالَ الَّذِیْنَ مِنْ قَبْلِهِمْ مِّثْلَ قَوْلِهِمْؕ-تَشَابَهَتْ قُلُوْبُهُمْؕ-قَدْ بَیَّنَّا الْاٰیٰتِ لِقَوْمٍ یُّوْقِنُوْنَ(118)
+
+**Roman Urdu:**
+
+{اَلَّذِیْنَ لَا یَعْلَمُوْنَ: Jo nahin jaante.} Is aayat ki aik tafseer yeh hai ke Yahoodiyon ne Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ se kaha ke agar aap apne qaul ke mutabiq Allah Ta'ala ke Rasool hain to Allah Ta'ala se farmaayein ke woh hum se kalaam kare taake hum khud is ka farmaan sun lein. Is par Allah Ta'ala ne irshad farmaya ke in se pehle Yahoodiyon ne bhi Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se aisi hi baat keh thi. Doosri tafseer yeh hai ke mushrikeen-e-Makkah ne Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ se kaha ke Allah Ta'ala jis tarah farishton aur Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام se kalaam farmata hai is tarah khud in se aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki nubuwwat ke muta'alliq kyun kalaam nahin farmata taake humein yaqeen ho jaye ke aap nabi hain aur hum aap par imaan le aayein ya hamare paas koi aisi nishani kyun nahin aa jaati jis se humein aap ki sadaqat maloom ho jaye. Allah Ta'ala farmata hai ke in mushrikon se pehle kuffaar ne bhi apne Rasoolon se aisi hi baat keh thi. (در منثور، البقرۃ، تحت الآیۃ: ۱۱۸، ۱ / ۲۷۱، روح البیان، البقرۃ، تحت الآیۃ: ۱۱۸، ۱ / ۲۱۵، قرطبی، البقرۃ، تحت الآیۃ: ۱۱۸، ۱ / ۷۱، الجزء الثانی، ملتقطاً)
+
+
+
+Yeh in ka kamaal-e-takabbur aur nihayat sar-kashi thi ke unhon ne apne aap ko Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur malaikah ke barabar samjha.
+
+{تَشَابَهَتْ قُلُوْبُهُمْ: In ke dil aapas mein mil gaye.} Yahud o Nasara aur mushrikeen ke aqwaal ka guzashta munkireen ke aqwaal ke mutabiq hona in ke dilon ki sakhti aur kufr ke aik doosre se mushaabah hone ki alamaat hai. Is mein Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ko tasalli di gayi ke aap jaahilon ki sar-kashi aur mu'aandana inkar se ranjeedah na hon. Pichhle kuffaar bhi apne Anbiya عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ke saath aisa hi karte thay, jaise Yahoodiyon ne Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se kaha tha ke hum aap ki baat na maneinge jab tak Allah Ta'ala ko a'laniyah na dekh lein. Yaad rahe ke kuffaar se mu'asharat, libaas aur waza'-qat' mein bhi mushaabahat karna mana' hai ke zaahir baatin ki alamaat hota hai aur zaahir ka baatin par asar hota hai. Lihaza kuffaar ke taur-tareeqe se bilkul doori ikhtiyar ki jaye taake un ka zaahir Musalman ke baatin ko mutaassir na kare.
+---
+
+## Al-Baqarah — Ayat 2:119
+
+`Source: tafseerId=50250; ayatId=128; para=1; volume=1`
+
+**Arabic:** اِنَّاۤ اَرْسَلْنٰكَ بِالْحَقِّ بَشِیْرًا وَّ نَذِیْرًاۙ-وَّ لَا تُسْــٴَـلُ عَنْ اَصْحٰبِ الْجَحِیْمِ(119)
+
+**Roman Urdu:**
+
+{اَرْسَلْنٰكَ: Hum ne aap ko bheja.} Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ Jannat ki khushkhabri dene walay aur dozakh se darane ki khabrein dene walay hain. Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki tableegh ke bawajood agar koi Jahannum ki raah jaata hai to is ke muta'alliq aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ se sawaal nah hoga ke woh kyun imaan nah laaya, is liye ke aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne apna farz-e-tableegh poore taur par ada farma diya.
+---
+
+## Al-Baqarah — Ayat 2:120
+
+`Source: tafseerId=50251; ayatId=129; para=1; volume=1`
+
+**Arabic:** وَ لَنْ تَرْضٰى عَنْكَ الْیَهُوْدُ وَ لَا النَّصٰرٰى حَتّٰى تَتَّبِـعَ مِلَّتَهُمْؕ-قُلْ اِنَّ هُدَى اللّٰهِ هُوَ الْهُدٰىؕ-وَ لَىٕنِ اتَّبَعْتَ اَهْوَآءَهُمْ بَعْدَ الَّذِیْ جَآءَكَ مِنَ الْعِلْمِۙ-مَا لَكَ مِنَ اللّٰهِ مِنْ وَّلِیٍّ وَّ لَا نَصِیْرٍؔ   (120)
+
+**Roman Urdu:**
+
+{وَ لَنْ تَرْضٰى: Aur hargiz raazi nah honge.} Farmaaya ja raha hai ke Ae Habeeb! صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ, Yahudi aur Isai hargiz aap se raazi nah honge jab tak aap un ke deen ki pairwi nah kar lein aur yaqeenan yeh baat naamumkin hai ke aap un ke deen ki pairwi karein kyunke woh baatil hain. In ke muqable mein aap jawab dein ke Allah Ta'ala ki hidayat hi haqeeqi hidayat hai jo is ne mujhe ata farma rakhi hai. Is aayat se yeh bhi samajh aata hai ke kuffaar ba-haisiyat-e-majmooi Musalmanon se kabhi raazi nah ho sakte agarche zaahiri taur par kabhi haalaat mukhtalif ho jayein. Afsos ke hazaaron tajurbat ke baad bhi Musalman sabaq nahin seekhte.
+
+{وَ لَىٕنِ اتَّبَعْتَ: Aur agar tum ne pairwi ki.} Yeh khitaab Ummat-e-Muhammadiyah ko hai ke jab tum ne jaan liya ke Sayyid-ul-Anbiya صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ tumhare paas haq o hidayat laye to tum hargiz kuffaar ke khwaahishon ki pairwi na karna; agar aisa kiya to tumhein koi azaab-e-ilaahi se bachane wala nahin. (خازن، البقرۃ، تحت الآیۃ: ۱۲۰، ۱ / ۸۴)

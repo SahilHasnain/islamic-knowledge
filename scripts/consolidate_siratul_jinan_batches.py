@@ -51,11 +51,11 @@ def main():
 
     batch_files = sorted(
         (
-            p for p in args.surah_dir.iterdir()
+            p for p in args.surah_dir.rglob("*.md")  # includes _archive/ history
             if BATCH_FILE.match(p.name)
             and not p.name.endswith("surah-al-baqarah-roman.md")  # never re-ingest the consolidated manuscript
         ),
-        key=lambda p: int(BATCH_FILE.match(p.name).group(1)),
+        key=lambda p: (int(BATCH_FILE.match(p.name).group(1)), str(p)),
     )
     insert_files = sorted(
         p for p in (args.surah_dir / "_inserts").glob("insert-ayat-*.md")
@@ -148,8 +148,9 @@ def main():
         "> via its unique `Source:` anchor line.\n>\n"
         f"> Coverage: Ayat 2:{lo} – 2:{hi} ({len(blocks)} entries).\n"
         f"> Next pending: Ayat 2:{next_pending} (tafseerId {db_map[next_pending]}).\n"
-        "> Consolidated from transliteration batches 01–82 on 2026-08-22; verified against\n"
-        "> siratul-jinan.db (every ayat→tafseerId pair matched, none missing or duplicated).\n>\n"
+        "> Consolidated from transliteration batches (initial consolidation 2026-08-22);\n"
+        "> verified against siratul-jinan.db (every ayat→tafseerId pair matched, none\n"
+        "> missing or duplicated).\n>\n"
         "> Urdu script converted to Roman script; Quranic Arabic, Arabic duas, hadith\n"
         "> quotations, Islamic phrases, citations, and honorifics preserved in Arabic script\n"
         "> exactly as in the source.\n\n"
