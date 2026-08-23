@@ -1,7 +1,7 @@
 """Consolidate Sirat-ul-Jinan per-ayat transliteration batches into one surah manuscript file.
 
-Merges every ``NN-*-roman.md`` batch in a surah directory into a single append-only
-manuscript file. Entries from ``_inserts/insert-ayat-*.md`` are spliced in by ayat
+Merges every ``NN-*-roman.md`` batch in a surah directory into numbered append-only
+manuscript parts. Entries from ``_inserts/insert-ayat-*.md`` are spliced in by ayat
 number first. Verifies against the SQLite source that no tafseer entry is missing,
 duplicated, misordered, or anchored to the wrong DB row. Note: tafseerIds are
 NON-monotonic (late-added rows live at the end of the ID space), so ordering is
@@ -25,6 +25,7 @@ BATCH_FILE = re.compile(r"^(\d+)-surah-.*-roman\.md$")
 INSERT_FILE = re.compile(r"^insert-ayat-(\d+)\.md$")
 
 SURAH_ID = 2  # Al-Baqarah
+MAX_FILE_LINES = 2000
 
 
 def main():
@@ -53,7 +54,7 @@ def main():
         (
             p for p in args.surah_dir.rglob("*.md")  # includes _archive/ history
             if BATCH_FILE.match(p.name)
-            and not p.name.endswith("surah-al-baqarah-roman.md")  # never re-ingest the consolidated manuscript
+            and not p.name.endswith("surah-al-baqarah-roman.md")  # never re-ingest the legacy consolidated manuscript
         ),
         key=lambda p: (int(BATCH_FILE.match(p.name).group(1)), str(p)),
     )
@@ -139,33 +140,60 @@ def main():
             print(f"- {e}")
         sys.exit(1)
 
-    header = (
-        "# Sirat-ul-Jinan fi Tafseer-il-Quran — Roman Urdu Transliteration\n\n"
-        "## Surah Al-Baqarah — Jild 1\n\n"
-        f"> Surah Al-Baqarah — Para {', '.join(str(p) for p in sorted(paras))}, Jild 1.\n"
-        "> Single append-only manuscript file for this surah: entries are added strictly in\n"
-        "> ayat order and earlier entries are never rewritten. Corrections target one entry\n"
-        "> via its unique `Source:` anchor line.\n>\n"
-        f"> Coverage: Ayat 2:{lo} – 2:{hi} ({len(blocks)} entries).\n"
-        f"> Next pending: Ayat 2:{next_pending} (tafseerId {db_map[next_pending]}).\n"
-        "> Consolidated from transliteration batches (initial consolidation 2026-08-22);\n"
-        "> verified against siratul-jinan.db (every ayat→tafseerId pair matched, none\n"
-        "> missing or duplicated).\n>\n"
-        "> Urdu script converted to Roman script; Quranic Arabic, Arabic duas, hadith\n"
-        "> quotations, Islamic phrases, citations, and honorifics preserved in Arabic script\n"
-        "> exactly as in the source.\n\n"
-        "---\n\n"
-    )
+    def render_part(part_no, total_parts, part_blocks):
+        part_lo, part_hi = part_blocks[0][1], part_blocks[-1][1]
+        header = (
+            "# Sirat-ul-Jinan fi Tafseer-il-Quran — Roman Urdu Transliteration\n\n"
+            f"## Surah Al-Baqarah — Jild 1 (Part {part_no} of {total_parts})\n\n"
+            f"> Surah Al-Baqarah — Para {', '.join(str(p) for p in sorted(paras))}, Jild 1.\n"
+            "> This append-only surah manuscript is split into numbered parts of at most\n"
+            f"> {MAX_FILE_LINES} lines. Entries remain in ayat order and are never split\n"
+            "> between parts. Corrections target one entry via its unique `Source:` anchor line.\n>\n"
+            f"> Part coverage: Ayat 2:{part_lo} – 2:{part_hi} ({len(part_blocks)} entries).\n"
+            f"> Full coverage: Ayat 2:{lo} – 2:{hi} ({len(blocks)} entries).\n"
+            f"> Next pending: Ayat 2:{next_pending} (tafseerId {db_map[next_pending]}).\n"
+            "> Consolidated from transliteration batches (initial consolidation 2026-08-22);\n"
+            "> verified against siratul-jinan.db (every ayat→tafseerId pair matched, none\n"
+            "> missing or duplicated).\n>\n"
+            "> Urdu script converted to Roman script; Quranic Arabic, Arabic duas, hadith\n"
+            "> quotations, Islamic phrases, citations, and honorifics preserved in Arabic script\n"
+            "> exactly as in the source.\n\n"
+            "---\n\n"
+        )
+        return unicodedata.normalize(
+            "NFC", header + "\n---\n\n".join(b[2] for b in part_blocks) + "\n"
+        )
 
-    out_path = args.surah_dir / "02-surah-al-baqarah-roman.md"
-    combined = unicodedata.normalize(
-        "NFC", header + "\n---\n\n".join(b[2] for b in blocks) + "\n"
-    )
+    parts = []
+    current = []
+    for block in blocks:
+        candidate = current + [block]
+        if len(render_part(1, 1, candidate).splitlines()) > MAX_FILE_LINES:
+            if not current:
+                sys.exit(
+                    f"Entry Ayat 2:{block[1]} exceeds the {MAX_FILE_LINES}-line file limit"
+                )
+            parts.append(current)
+            current = [block]
+        else:
+            current = candidate
+    if current:
+        parts.append(current)
+
+    out_base = args.surah_dir / "02-surah-al-baqarah-roman"
     if not args.dry_run:
-        out_path.write_text(combined, encoding="utf-8")
-        print(f"Wrote          : {out_path} ({len(combined)} chars)")
+        old_path = args.surah_dir / "02-surah-al-baqarah-roman.md"
+        if old_path.exists():
+            old_path.unlink()
+        for stale_path in args.surah_dir.glob("02-surah-al-baqarah-roman-*.md"):
+            stale_path.unlink()
+        for index, part_blocks in enumerate(parts, start=1):
+            out_path = out_base.with_name(f"{out_base.name}-{index:02d}.md")
+            rendered = render_part(index, len(parts), part_blocks)
+            out_path.write_text(rendered, encoding="utf-8")
+            print(f"Wrote          : {out_path} ({len(rendered)} chars; {len(rendered.splitlines())} lines)")
     else:
-        print("Dry run only — nothing written")
+        print(f"Dry run only — {len(parts)} parts within {MAX_FILE_LINES} lines each")
 
 
 if __name__ == "__main__":

@@ -54,15 +54,17 @@ Arabic must be preserved exactly as it appears in the source, even where the sou
 
 The DB's quote encoding is internally unbalanced (82 doubled `’‘` open marks vs 70 doubled `‘«` close marks across the pilot rows — several hadith quotes lack a close mark). The roman manuscript therefore normalizes every quote to balanced doubled apostrophes (`''...''`), and the validator checks only that no Urdu quote characters remain rather than requiring count parity.
 
-## Single-Surah Manuscript Convention (2026-08-22)
+## Numbered Single-Surah Manuscript Convention (2026-08-22)
 
-Per-batch roman files are superseded by one append-only manuscript file per surah
-(e.g., `02-surah-al-baqarah/02-surah-al-baqarah-roman.md`). `scripts/consolidate_siratul_jinan_batches.py`
-rebuilds the surah file from archived batches plus `_inserts/insert-ayat-*.md` files,
+Per-batch roman files are superseded by numbered append-only manuscript parts per surah
+(e.g., `02-surah-al-baqarah/02-surah-al-baqarah-roman-01.md`).
+`scripts/consolidate_siratul_jinan_batches.py` rebuilds the parts from archived batches
+plus `_inserts/insert-ayat-*.md` files,
 splits multi-entry batch blocks into per-entry blocks, sorts by ayat number, and verifies
 every `(ayat number, tafseerId)` pair against the DB via the `aayaat` join (`surahId=2`)
-before writing. The consolidated filename ends in `surah-al-baqarah-roman.md` and is
-excluded from batch ingestion to keep re-runs idempotent.
+before writing. Each part is at most 2,000 lines and entries are never split between
+parts. The legacy `surah-al-baqarah-roman.md` file was grandfathered, then replaced by
+numbered parts when the file-size rule was applied.
 
 ## Non-Monotonic tafseerIds
 
@@ -167,3 +169,4 @@ in 2:39. Ayat 2:2 has no tafseer row in the DB at all and is legitimately absent
 - Batch 76 (Al-Baqarah 2:104): 3 block headings (`{لَا تَقُوْلُوْا رَاعِنَا: Raa'ina na kaho. }` with trailing space before `}` preserved, `{وَ اسْمَعُوْا: Aur ghaur se suno.}`, `{وَ لِلْكٰفِرِیْنَ: Aur kaafiron ke liye.}`) and heading `آیت ''یٰۤاَیُّهَا الَّذِیْنَ اٰمَنُوْا لَا تَقُوْلُوْا رَاعِنَا'' سے معلوم ہونے والے احکام:` → `Aayat ''...رَاعِنَا'' se maloom hone waale ahkaam:`. Balanced quotes `''رَاعِنَا یَارَسُوْلَ اللہْ''`, `''رَاعِنَا''`, `''اُنْظُرْنَا''` preserved. `سرکار ِ دو عالم` → `Sarkar-e-Do-Aalam`; `حضور پر نور` → `Huzoor Pur Noor`; `حضور پرنور` → `Huzoor Pur Noor`; `حضور اقدس` → `Huzoor-e-Aqdas`; `خدمت ِاقدس` → `khidmat-e-aqdas`; `حضرت سعد بن معاذ` → `Hazrat Sa'd bin Maaz`; `بے ادبی کامعنی` → `be-adabi ka ma'ni`; `ہمہ تن گوش` → `humah tan goosh`; `کلامِ اقدس` → `kalaam-e-aqdas`; `ربُّ العالَمین` → `Rabb-ul-Aalameen`; `سید المرسَلین` → `Sayyid-ul-Mursaleen`; `غور سے سنو` → `ghaur se suno`. Honorifics: 12 total (1 no-ٖ `صَلَّی...وَسَلَّمَ` on Huzoor-e-Aqdas; 7 with-ٖ on Ya Rasool Allah, Sarkar-e-Do-Aalam, Huzoor-e-Aqdas, Huzoor Pur Noor ×2, Huzoor, Sayyid-ul-Mursaleen; 2 × `عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام`; 1 × `رَضِیَ اللہُ تَعَالٰی عَنْہُم`; 1 × `رَضِیَ اللہُ تَعَالٰی عَنْہُ`). Citations `(قرطبی، البقرۃ، تحت الآیۃ: ۱۰۴، ۱ / ۴۴-۴۵، الجزء الثانی، تفسیر کبیر، البقرۃ، تحت الآیۃ: ۱۰۴، ۱ / ۶۳۴، تفسیر عزیزی(مترجم)۲ / ۶۶۹، ملتقطاً)` and `(روح البیان، البقرۃ، تحت الآیۃ: ۱۰۴، ۱ / ۹۷)` preserved. `ا س بات` → `is baat`. Closing `Yaad rahe ke is aayat mein is baat ki taraf ishaarah hai ke Anbiya Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ki janaab mein be-adabi kufr hai.`
 - Batch 77 (Al-Baqarah 2:105): block heading `{مَا یَوَدُّ : Kaafir nahin chahte. }` (space before `:` and trailing space before `}` preserved). Heading `شانِ نزول:` → `Shaan-e-Nuzool:`. `جمعیت` → `jama'at`; `خیر خواہی` → `khair khaahi`; `تکذیب` → `takzeeb`; `دعوے` → `da'we`; `کافر` → `kuffaar` (plural in the closing). No honorifics, quotes, or citation.
 - Batches 71–77 (Al-Baqarah 2:99–2:105) — byte-exact Arabic: as with batches 57–63/64–70, the validator's NFC normalization hides the source's non-canonical combining-mark order. Non-canonical Arabic runs were corrected to byte-match the source files, then re-validated; `**Arabic:**` lines confirmed byte-identical to source. Honorific occurrence counts per batch verified equal to the source by NFC-normalized regex (71:2, 72:6, 73:10, 74:20, 75:1, 76:12, 77:0). Urdu quote runes per source byte-dump (74: 20×`’`+8×`‘` → 10 opens/4 closes; 76: 8×`’`+8×`‘` → 4 balanced pairs; others 0) all converted to doubled ASCII `''`.
+- Batch 86 (Al-Baqarah 2:121): the long entry preserves the source's `{یَتْلُوْنَهٗ: ...}` heading, the six numbered outward recitation etiquettes, the six numbered inward etiquettes, and the full Arabic citation `(کیمیاء سعادت،کتاب ارکانِ مسلمانی، اصل ہشتم قرآن خواندن، آدابِ تلاوت، ۲۴۱-۲۴۷، ملخصاً)`. Source spacing artifacts such as `عَنْہُمانے`, `جوحضور`, `اورجو`, and `تلاوت ِ قرآن` were normalized only for readability; Arabic honorific forms were preserved verbatim and the batch passed transliteration validation.
