@@ -1,0 +1,6 @@
+title: "Sirat-ul-Jinan — Easy Roman Urdu"
+source_title: "Sirat-ul-Jinan fi Tafseer-il-Quran"
+language: "Easy Roman Urdu"
+project_type: "Easy-language adaptation"
+source_of_truth: "../siratul-jinan-roman-urdu/source/siratul-jinan.db"
+status: "Pilot setup"
