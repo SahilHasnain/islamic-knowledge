@@ -220,3 +220,8 @@ Arabic titles and citations stay in Arabic script; these titles are romanized wh
 | بحیرا راہب | Bahiraa raahib | Christian monk mentioned in the account of the delegation (2:121) |
 | اہل حبشہ | Ahle Habshah | People of Abyssinia (2:121) |
 | شامی راہب | Shaami raahib | Syrian monk (2:121) |
+| مقامِ ابراہیم | Maqaam-e-Ibraheem | Station of Ibraheem (2:125) |
+| بیت اللہ | Baitullah | The Sacred House (2:125) |
+| حرم شریف | Haram Shareef | The Sacred Sanctuary (2:125) |
+| خلیل اللہ | Khaleelullah | Epithet of Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام (2:124) |
+| تبرکات | tabarrukaat | Blessed relics and objects (2:125) |

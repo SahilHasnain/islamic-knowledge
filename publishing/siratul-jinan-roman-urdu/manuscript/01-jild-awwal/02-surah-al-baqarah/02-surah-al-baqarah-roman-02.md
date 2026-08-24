@@ -7,9 +7,9 @@
 > 2000 lines. Entries remain in ayat order and are never split
 > between parts. Corrections target one entry via its unique `Source:` anchor line.
 >
-> Part coverage: Ayat 2:102 – 2:121 (20 entries).
-> Full coverage: Ayat 2:1 – 2:121 (120 entries).
-> Next pending: Ayat 2:122 (tafseerId 50253).
+> Part coverage: Ayat 2:102 – 2:126 (25 entries).
+> Full coverage: Ayat 2:1 – 2:126 (125 entries).
+> Next pending: Ayat 2:127 (tafseerId 50258).
 > Consolidated from transliteration batches (initial consolidation 2026-08-22);
 > verified against siratul-jinan.db (every ayat→tafseerId pair matched, none
 > missing or duplicated).
@@ -428,3 +428,82 @@ Quran-e-Kareem ki tilaawat karne waale ko darj-e-zail 6 baatini cheezon ka bhi k
 (5)… Jis tarah aayaat ka mazmoon tabdeel hota rahe isi tarah mazmoon ke mutabiq dil ki kaifiyat bhi badalti rahe aur Quran ke rang mein rangti jaye.
 
 (6)… Quran-e-Majeed ki tilaawat is tarah kare ke goya yeh Quran Allah Ta'ala ki baargaah se sun raha hai aur khayaal kare ke abhi is zaat ki jaanib se sun raha hoon. (کیمیاء سعادت،کتاب ارکانِ مسلمانی، اصل ہشتم قرآن خواندن، آدابِ تلاوت، ۲۴۱-۲۴۷، ملخصاً)
+---
+
+## Al-Baqarah — Ayat 2:122
+
+`Source: tafseerId=50253; ayatId=131; para=1; volume=1`
+
+**Arabic:** یٰبَنِیْۤ اِسْرَآءِیْلَ اذْكُرُوْا نِعْمَتِیَ الَّتِیْۤ اَنْعَمْتُ عَلَیْكُمْ وَ اَنِّیْ فَضَّلْتُكُمْ عَلَى الْعٰلَمِیْنَ(122)
+
+**Roman Urdu:**
+
+{یٰبَنِیْۤ اِسْرَآءِیْلَ: Ae Bani Israeel.} Yahaan se aik baar phir Bani Israeel ko Allah Ta'ala ki ne'matein yaad dilaayi ja rahi hain taake un par qaayam ki gayi hujjat mazeed mazboot ho jaye. Is aayat se do masail maloom hue:
+
+(1)… Nabi ki aulaad hona baa'is-e-izzat hai aur Allah Ta'ala ki rahmat hai.
+
+(2)… Allah Ta'ala ki ne'maton ka charcha karna, zikr karna shukr ki aik qism hai. Lihaaza Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki wilaadat-e-mubaarakah ka tazkirah karna ya is ki mehfil karna isi qism mein daakhil hai.
+
+{اَنِّیْ فَضَّلْتُكُمْ: Be-shak main ne tumhein fazeelat di.} Bani Israeel apne zamaane mein tamaam logon se afzal thay kyunke yeh nabiyon ki aulaad thay aur in mein saaliheen bahut thay, ab Huzoor Akram صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ka inkaar kar ke aur sar-kashi kar ke zaleel ho gaye. Is se maloom hua ke izzat Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke qadam se wabastah hai, jo in ka ho gaya izzat paa gaya aur jo in se phir gaya zaleel ho gaya. A'la Hazrat Imam Ahmad Raza Khan رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmaate hain:
+
+Bakhuda Khuda ka yahi hai dar, nahin aur koi mafar maqar
+
+Jo wahaan se ho yehin aa ke ho jo yahaan nahin woh wahaan nahin
+---
+
+## Al-Baqarah — Ayat 2:123
+
+`Source: tafseerId=50254; ayatId=132; para=1; volume=1`
+
+**Arabic:** وَ اتَّقُوْا یَوْمًا لَّا تَجْزِیْ نَفْسٌ عَنْ نَّفْسٍ شَیْــٴًـا وَّ لَا یُقْبَلُ مِنْهَا عَدْلٌ وَّ لَا تَنْفَعُهَا شَفَاعَةٌ وَّ لَا هُمْ یُنْصَرُوْنَ(123)
+
+**Roman Urdu:**
+
+{لَا تَنْفَعُهَا شَفَاعَةٌ: Na kaafir ko sifaarish nafa degi.} Yahaan bunyaadi taur par un Yahoodiyon ka rad hai jo kehte thay hamare baap dada bare buzurg thay, woh hamaari shafaa'at kar ke humein chhura lenge. Unhein farmaaya ja raha hai ke shafaa'at kaafir ke liye nahin hai. Goya yahaan kaafir ka bayaan hai ke kaafir ki taraf se koi badla na banega aur na is se koi mu'aawazah le kar isay chhora jaye aur na koi is ki shafaa'at karega aur bil-farz agar koi kare to kaafir ke haq mein shafaa'at qubool nahin ki jaayegi aur na kaafiron ki madad ki jaayegi. Kaafiron ke muqaable mein Musalmanon ki shafaa'at bhi hogi jaise Quran mein beesiun jagah hai aur Musalmanon ki madad bhi hogi jaise Bukhari o Muslim ki hadeeson mein hai ke Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ qiyaamat mein jagah jagah apne ummatiyon ki madad farmaayenge.
+---
+
+## Al-Baqarah — Ayat 2:124
+
+`Source: tafseerId=50255; ayatId=133; para=1; volume=1`
+
+**Arabic:** وَ اِذِ ابْتَلٰۤى اِبْرٰهٖمَ رَبُّهٗ بِكَلِمٰتٍ فَاَتَمَّهُنَّؕ-قَالَ اِنِّیْ جَاعِلُكَ لِلنَّاسِ اِمَامًاؕ-قَالَ وَ مِنْ ذُرِّیَّتِیْؕ-قَالَ لَا یَنَالُ عَهْدِی الظّٰلِمِیْنَ(124)
+
+**Roman Urdu:**
+
+{وَ اِذِ ابْتَلٰى: Aur jab aazmaaya.} Yahud o Nasara aur mushrikeen-e-Arab sab Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke fazl o sharaf ke mu'tarif aur aap ki nasl mein hone par fakhr karte hain. Is aayat mein Allah Ta'ala ne aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke woh haalaat bayaan farmaaye hain jin se sab par Islam qubool karna laazim ho jaata hai kyunke jo cheezein Allah Ta'ala ne aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par waajib kiin woh Islam ki khususiyaat mein se hain. Ibtilaa aazmaish ko kehte hain, Khudai aazmaish yeh hai ke bande par koi paabandi laazim farma kar doosron par us ke khare khote hone ka izhaar kar diya jaye. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki aazmaish mein bahut se shar'i ahkaam bhi thay aur raah-e-Khuda mein aap ki hijrat, biwi bachon ko bayaabaan mein tanha chhorna, farzand ki qurbani wagherah sab shaamil hain. (خازن، البقرۃ، تحت الآیۃ: ۱۲۴، ۱ / ۸۵-۸۶)
+
+Aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام tamaam imtihaanon mein poore utre aur Allah Ta'ala ne aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko logon ka peswa bana diya, aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Khaleelullah qaraar paaye, Anbiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ke baap hue, tamaam deeno mein aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka tazkirah hua, sab ke nazdeek mehboob hue. Is se maloom hua ke shar'i ahkaam aur takaleef Allah Ta'ala ki taraf se aazmaish hoti hain aur jo in aazmaishon mein poora utarta hai woh duniya o aakhirat ke inaamaat ka mustahiq qaraar paata hai.
+
+{لِلنَّاسِ اِمَامًا: Logon ke liye peswa.} Yahaan imaamat se muraad nubuwwat nahin, kyunke nubuwwat to pehle hi mil chuki thi. Tab hi to aap ka imtihaan liya gaya, balke is imaamat se muraad deeni peswaai hai jaisa ke Jalaalain mein is ki tafseer ''قُدْوَۃً فِی الدِّینْ yani deen mein peswaai'' se ki gayi hai. (جلالین مع جمل، البقرۃ، تحت الآیۃ: ۱۲۴، ۱ / ۱۵۳)
+
+{وَ مِنْ ذُرِّیَّتِیْ: Aur meri aulaad mein se.} Jab Allah Ta'ala ne Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko imaamat ka maqam ata farmaaya to aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Allah Ta'ala se apni aulaad ke liye bhi arz kiya. Is par farmaaya gaya ke aap ki aulaad mein jo zaalim honge woh imaamat ka mansab na paayenge. Kaafir hue to deeni peswaai na milegi aur faasiq hue to nubuwwat na milegi aur qaabil hue to Allah Ta'ala apne karam se jisay jo chaahega ata farmaayega. Is se maloom hua ke kaafir Musalmanon ka peswa nahin ho sakta aur Musalmanon ko is ki pairwi jaa'iz nahin. Yeh bhi maloom hua ke apni aulaad ke liye du'a-e-khair karna sunnat-e-Anbiya hai, yeh bhi maloom hua ke Allah Ta'ala koi ne'mat ata farmaaye to aulaad ke liye bhi is ki khwahish karni chahiye.
+---
+
+## Al-Baqarah — Ayat 2:125
+
+`Source: tafseerId=50256; ayatId=134; para=1; volume=1`
+
+**Arabic:** وَ اِذْ جَعَلْنَا الْبَیْتَ مَثَابَةً لِّلنَّاسِ وَ اَمْنًاؕ-وَ اتَّخِذُوْا مِنْ مَّقَامِ اِبْرٰهٖمَ مُصَلًّىؕ-وَ عَهِدْنَاۤ اِلٰۤى اِبْرٰهٖمَ وَ اِسْمٰعِیْلَ اَنْ طَهِّرَا بَیْتِیَ لِلطَّآىٕفِیْنَ وَ الْعٰكِفِیْنَ وَ الرُّكَّعِ السُّجُوْدِ(125)
+
+**Roman Urdu:**
+
+{وَ اِذْ جَعَلْنَا الْبَیْتَ: Aur jab hum ne is ghar ko banaaya.} Bait se Ka'bah Shareef muraad hai aur is mein tamaam Haram Shareef daakhil hai. ''مَثَابَةً'' se muraad baar baar lautne ki jagah hai. Yahaan Musalman baar baar laut kar Hajj o Umrah o Ziyaarat ke liye jaate hain aur jo na ja sake woh is ki tamanna zaroor karte hain aur aman banaane se yeh muraad hai ke Haram-e-Ka'bah mein qatl o ghaarat haraam hai ya yeh ke wahaan shikaar tak ko aman hai yahaan tak ke Haram Shareef mein sher bheriye bhi shikaar ka peechha nahin karte balke chhor kar laut jaate hain. Aik qaul yeh hai ke mo'min is mein daakhil ho kar azaab se ma'moon ho jaata hai. Haram ko Haram is liye kaha jaata hai ke is mein qatl, zulm aur shikaar haraam o mamnoo' hai, agar koi mujrim bhi daakhil ho jaye to wahaan isay kuchh na kaha jaayega. (خازن، البقرۃ، تحت الآیۃ: ۱۲۵، ۱ / ۸۷، مدارک، البقرۃ، تحت الآیۃ: ۱۲۵، ص۷۷، ملتقطاً)
+
+{وَ اتَّخِذُوْا مِنْ مَّقَامِ اِبْرٰهٖمَ مُصَلًّى: Aur tum Ibraheem ke khare hone ki jagah ko namaaz ka maqam banaao.} Maqaam-e-Ibraheem woh pathar hai jis par khare ho kar Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Ka'bah Mu'azzamah ki ta'meer farmaayi aur is mein aap ke qadam mubaarak ka nishaan tha, isay namaaz ka maqam banaana mustahabb hai. Aik qaul yeh bhi hai ke is namaaz se tawaaf ke baad parhi jaane waali do waajib rak'atein muraad hain. (بیضاوی، البقرۃ، تحت الآیۃ: ۱۲۵، ۱ / ۳۹۸-۳۹۹)
+
+## Anbiya عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام se Nisbat ki Barkat
+
+Is se maloom hua ke jis pathar ko Nabi ki qadam-bosi haasil ho jaye woh azmat wala ho jaata hai. Yeh bhi maloom hua ke Nabi عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki ta'zeem Tauheed ke manaafi nahin kyunke Maqaam-e-Ibraheem ka ehteraam to ain namaaz mein hota hai, lihaaza ain namaaz mein Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki ta'zeem namaaz ko naaqis na karegi balke kaamil banaayegi. Yeh bhi maloom hua ke jab pathar Nabi عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke qadam lagne se azmat wala ho gaya to Huzoor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki azwaaj-e-mutahharaat, Ahle Bait aur Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم ki azmat ka kya kehna. Is se tabarrukaat ki ta'zeem ka bhi suboot milta hai. Buzurgaan-e-Deen ke aathaar o tabarrukaat ki ta'zeem aur in ki ziyaarat ke silsilay mein tafseel jaanne ke liye Fatawa Razviya ki 21veen jild mein maujood risaalah ''بَدْرُ الْاَنْوَارْ فِیْ آدَابِ الآثَارْ (tabarrukaat ke baare mein mufeed risaalah)'' ka muta'ala farmaiye.
+
+{اَنْ طَهِّرَا: Ke paak saaf rakho.} Hazrat Ibraheem aur Hazrat Ismaa'eel عَلَیْہِمَا الصَّلٰوۃُ وَالسَّلَام ko Baitullah Shareef ko paak o saaf rakhne ka hukm diya gaya. Is se maloom hua ke Khanah Ka'bah aur Masjid-e-Haraam Shareef ko Haajiyon, Umrah karne walon, tawaaf karne walon, i'tikaaf karne walon aur namaaziyon ke liye paak o saaf rakha jaye, yahi hukm masjidon ko paak o saaf rakhne ka hai, wahaan gandagi aur bad-boodaar cheez na laayi jaye, yeh sunnat-e-Anbiya hai, yeh bhi maloom hua ke i'tikaaf ibaadat hai aur guzishtah ummaton mein raa'ij tha neez pichhli ummaton ki namaazon mein rukoo' sujood dono thay. Yeh bhi maloom hua ke masjidon ka mutawalli hona chahiye aur mutawalli saalih insaan aur masjid ki saheeh khidmat karne wala ho.
+---
+
+## Al-Baqarah — Ayat 2:126
+
+`Source: tafseerId=50257; ayatId=135; para=1; volume=1`
+
+**Arabic:** وَ اِذْ قَالَ اِبْرٰهٖمُ رَبِّ اجْعَلْ هٰذَا بَلَدًا اٰمِنًا وَّ ارْزُقْ اَهْلَهٗ مِنَ الثَّمَرٰتِ مَنْ اٰمَنَ مِنْهُمْ بِاللّٰهِ وَ الْیَوْمِ الْاٰخِرِؕ-قَالَ وَ مَنْ كَفَرَ فَاُمَتِّعُهٗ قَلِیْلًا ثُمَّ اَضْطَرُّهٗۤ اِلٰى عَذَابِ النَّارِؕ-وَ بِئْسَ الْمَصِیْرُ(126)
+
+**Roman Urdu:**
+
+{وَ اِذْ قَالَ اِبْرٰهٖمُ: Aur jab Ibraheem ne kaha.} Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne ta'meer-e-Ka'bah ke baad muta'addid du'aein maangi. Is se maloom hua ke neki kar ke qubooliyat ki du'a karna sunnat-e-Khaleel hai. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne aulaad ke liye imaamat maangi thi to farmaaya gaya ke zaalimon ko nahin milegi, is liye Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne baad mein jab yeh du'a ki to is mein mo'mineen ko khaas farmaaya ke mo'minon ko rizq de aur yahi adab ka taqaaza tha. Allah Ta'ala ne karam kiya, du'a qubool farmaayi aur irshaad farmaaya ke rizq sab ko diya jaayega mo'min ko bhi aur kaafir ko bhi lekin kaafir ka rizq thora hai yani sirf dunyawi zindagi mein isay milega. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Khanah Ka'bah ke liye rizq ki faraawaani ki du'a maangi thi, us du'a ki qubooliyat har shakhs apni aankhon se dekh sakta hai ke duniya bhar ke phal aur khaane yahaan bakasrat milte hain.
