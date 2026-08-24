@@ -1,0 +1,11 @@
+title: Shifa Shareef
+script: Roman Urdu
+language: Easy Roman Urdu
+source_language: Roman Urdu
+author: Imam Qadi Iyad
+urdu_translator: Sadr al-Afazil
+status: draft
+edition: 0.1
+source: ../../content/books/shifa-shareef.json
+workflow: Manual easy-language retranslation in baab-level batches.
+notes: Preserve Arabic text, Quranic verses, duas, hadith quotations, honorifics, and ﷺ exactly as required.

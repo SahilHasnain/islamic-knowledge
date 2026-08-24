@@ -13,6 +13,7 @@ Honorifics: render common honorifics in Arabic superscript form, e.g. `<sup>عز
 - `01-frontmatter.md` — Nashir ka note + Musannif ke baare mein + Urdu tarjama karne waale (printed 12–20)
 - `02-muqaddima.md` — Muqaddima (printed 21–23)
 - `03-qism1-pehla-baab.md` — Pehli Qism opening + complete Pehla Baab, all 10 fasls pehli → duswi (printed 24–56)
+- `04-qism1-dusra-baab.md` — complete Dusra Baab, introduction + 26 fasls pehli → chhabbiswi (printed 57–97)
 - Future: `04-qism1-dusra-baab.md`, `05-qism1-teesra-baab.md`, `06-qism1-chautha-baab.md`, then Qism 2 files.
 
 Baab boundaries per TOC (printed pages): Pehli Qism — Pehla Baab 25–56, Dusra Baab 57–97, Teesra Baab 98–117, Chautha Baab 118–152; Dusri Qism starts 153.
@@ -35,8 +36,10 @@ Started. Manually transliterated:
   - Nawi'n Fasl (printed 50–53; Fateh:1-10 buzurgiya, faisle ilahi, haaziro naazir, Ibne Ataa, Hazrate Jafar bin Muhammad, bai'ate rizwan Fateh:10, Anfaal:17)
   - Duswi Fasl (printed 53–56; Meraj waqia Maaidah:67, Anfaal:30, Tauba:40, Kausar:1-3, Hijr:87 saat aayatein, Nehal:44, Saba:28, Aaraf:158 ammi ke liye rasool, Ibrahim:4 har qaum ki zubaan, Ahzaab:6 jaan se zyada maalik + bibiyan maaein, Nisa:113 fazle azeem, Waasti alaihirrehma)
 
+- `04-qism1-dusra-baab.md` — Dusra Baab of Pehli Qism (printed 57–97) — complete: introduction; Pehli through Chhabbiswi Fasl covering the Prophet's <sup>عليه السلام</sup> complete qualities, blessed appearance, purity, intelligence, eloquence, lineage, essential and acquired qualities, generosity, courage, modesty, conduct, mercy, loyalty, humility, justice, dignity, asceticism, worship, and the qualities of the Ambiya. Source numbering is preserved where the printed text labels both the joodo-karam and haya sections as `Pandrahwi fasl`.
+
 ## Continue In
 
-Next file: `manuscript/00-pilot/04-qism1-dusra-baab.md`
+Next file: `manuscript/00-pilot/05-qism1-teesra-baab.md`
 
-Next source point: Dusra Baab of Pehli Qism (printed page 57), section slug `dusra-baab-...` — pull with `d['pages'][56:N]`.
+Next source point: Teesra Baab of Pehli Qism (printed page 98), section slug `teesra-baab-huzoor-ki-qadro-manzilat-ahadees-ki-raushni-mein` — pull with `d['pages'][98:N]`.
