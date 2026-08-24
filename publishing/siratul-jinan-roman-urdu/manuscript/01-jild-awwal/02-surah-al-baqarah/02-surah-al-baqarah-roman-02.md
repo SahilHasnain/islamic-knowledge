@@ -7,9 +7,9 @@
 > 2000 lines. Entries remain in ayat order and are never split
 > between parts. Corrections target one entry via its unique `Source:` anchor line.
 >
-> Part coverage: Ayat 2:102 – 2:126 (25 entries).
-> Full coverage: Ayat 2:1 – 2:126 (125 entries).
-> Next pending: Ayat 2:127 (tafseerId 50258).
+> Part coverage: Ayat 2:102 – 2:131 (30 entries).
+> Full coverage: Ayat 2:1 – 2:131 (130 entries).
+> Next pending: Ayat 2:132 (tafseerId 54513).
 > Consolidated from transliteration batches (initial consolidation 2026-08-22);
 > verified against siratul-jinan.db (every ayat→tafseerId pair matched, none
 > missing or duplicated).
@@ -507,3 +507,104 @@ Is se maloom hua ke jis pathar ko Nabi ki qadam-bosi haasil ho jaye woh azmat wa
 **Roman Urdu:**
 
 {وَ اِذْ قَالَ اِبْرٰهٖمُ: Aur jab Ibraheem ne kaha.} Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne ta'meer-e-Ka'bah ke baad muta'addid du'aein maangi. Is se maloom hua ke neki kar ke qubooliyat ki du'a karna sunnat-e-Khaleel hai. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne aulaad ke liye imaamat maangi thi to farmaaya gaya ke zaalimon ko nahin milegi, is liye Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne baad mein jab yeh du'a ki to is mein mo'mineen ko khaas farmaaya ke mo'minon ko rizq de aur yahi adab ka taqaaza tha. Allah Ta'ala ne karam kiya, du'a qubool farmaayi aur irshaad farmaaya ke rizq sab ko diya jaayega mo'min ko bhi aur kaafir ko bhi lekin kaafir ka rizq thora hai yani sirf dunyawi zindagi mein isay milega. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Khanah Ka'bah ke liye rizq ki faraawaani ki du'a maangi thi, us du'a ki qubooliyat har shakhs apni aankhon se dekh sakta hai ke duniya bhar ke phal aur khaane yahaan bakasrat milte hain.
+---
+
+## Al-Baqarah — Ayat 2:127
+
+`Source: tafseerId=50258; ayatId=136; para=1; volume=1`
+
+**Arabic:** وَ اِذْ یَرْفَعُ اِبْرٰهٖمُ الْقَوَاعِدَ مِنَ الْبَیْتِ وَ اِسْمٰعِیْلُؕ  -رَبَّنَا تَقَبَّلْ مِنَّاؕ-اِنَّكَ اَنْتَ السَّمِیْعُ الْعَلِیْمُ(127)
+
+**Roman Urdu:**
+
+{وَ اِذْ یَرْفَعُ: Aur jab buland kar rahe thay.} Pehli martabah Khanah Ka'bah ki buniyaad Hazrat Adam عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne rakhi aur Toofaan-e-Nooh ke baad phir Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne isi buniyaad par ta'meer farmaayi. Yeh ta'meer khaas aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke dast-e-mubaarak se hui, is ke liye pathar utha kar laane ki khidmat o sa'aadat Hazrat Ismaa'eel عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko mayassar hui, dono hazraat ne us waqt yeh du'a ki ke Yaa Rabb! عَزَّوَجَلَّ, hamaari yeh taa'at o khidmat qubool farma. Allama Qastalaani رَحْمَۃُ اللہِ تَعَالٰی عَلَیْہِ ne Bukhari ki sharah mein tehreer farmaaya hai ke Khanah Ka'bah ki ta'meer das martabah ki gayi. (ارشاد الساری، کتاب الحج، باب فضل مکۃ وبنیانھا۔۔۔ الخ، ۴ / ۱۰۳، تحت الحدیث: ۱۵۸۲)
+
+Isay naql karne ke baad Allama Suleman Jaml رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmaate hain ke 1039 Hijri ke baad bhi baaz baadshaahon ne ta'meer-e-Ka'bah ki jaisa ke isay baaz tareekh-daanon ne naql kiya hai. (جمل، البقرۃ، تحت الآیۃ: ۱۲۷، ۱ / ۱۶۰)
+
+## Masjid Ta'meer Karna A'laa Ibaadat Hai
+
+Is aayat se maloom hua ke masjidon ki ta'meer nihayat a'laa ibaadat aur Anbiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ki sunnat hai. Saheeh Bukhari mein hai ke Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne Masjid-e-Nabawi Shareef ki ta'meer mein be-zaat-e-khud hissa liya tha. (بخاری، کتاب مناقب الانصار، باب ہجرۃ النبی صلی اللہ علیہ وسلم واصحابہ الی المدینۃ، ۲ / ۵۹۵، الحدیث: ۳۹۰۶)
+
+Masjid ta'meer karne ke fazaa'il Surah Taubah aayat number 18 ki tafseer mein mulaahizah farmaayein.
+---
+
+## Al-Baqarah — Ayat 2:128
+
+`Source: tafseerId=50259; ayatId=137; para=1; volume=1`
+
+**Arabic:** رَبَّنَا وَ اجْعَلْنَا مُسْلِمَیْنِ لَكَ وَ مِنْ ذُرِّیَّتِنَاۤ اُمَّةً مُّسْلِمَةً لَّكَ ۪-وَ اَرِنَا مَنَاسِكَنَا وَ تُبْ عَلَیْنَاۚ-اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِیْمُ(128)
+
+**Roman Urdu:**
+
+{وَ اجْعَلْنَا مُسْلِمَیْنِ: Aur humein farmaanbardaar rakh.} Subhan Allah, woh hazraat Allah Ta'ala ke muti' o mukhlis bande thay phir bhi yeh du'a is liye maang rahe hain ke mazeed itaa'at o ibaadat o ikhlaas aur kamaal naseeb ho. Hazrat Ibraheem aur Hazrat Ismaa'eel عَلَیْہِمَا الصَّلٰوۃُ وَالسَّلَام ma'soom hain, aap ki taraf se taubah tawaazu' yani aajizi hai aur Allah walon ke liye ta'leem hai. Khanah Ka'bah aur is ka qurb qubooliyat ka maqam hai, yahaan du'a aur taubah karna sunnat-e-Ibraheemi hai.
+
+{وَ اَرِنَا مَنَاسِكَنَا: Aur humein hamaari ibaadat ke tareeqe dikha.} Maloom hua ke ibaadat ke tareeqe seekhna Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki sunnat hai. Is ke liye du'a bhi karni chahiye aur koshish bhi. Baghair tareeqa seekhe ibaadat karna aksar ibaadat ko zaa'e karta hai. Hazrat Anas bin Malik رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwaayat hai, Rasool-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne irshaad farmaaya: ''Har Musalman par ilm seekhna farz hai.'' (ابن ماجہ، کتاب السنّۃ، باب فضل العلماء۔۔۔ الخ، ۱ / ۱۴۶، الحدیث: ۲۲۴) Farz ibaadat ka tareeqa o masail seekhna bhi isi mein daakhil hai.
+---
+
+## Al-Baqarah — Ayat 2:129
+
+`Source: tafseerId=50260; ayatId=138; para=1; volume=1`
+
+**Arabic:** رَبَّنَا وَ ابْعَثْ فِیْهِمْ رَسُوْلًا مِّنْهُمْ یَتْلُوْا عَلَیْهِمْ اٰیٰتِكَ وَ یُعَلِّمُهُمُ الْكِتٰبَ وَ الْحِكْمَةَ وَ یُزَكِّیْهِمْؕ-اِنَّكَ اَنْتَ الْعَزِیْزُ الْحَكِیْمُ۠   (129)
+
+**Roman Urdu:**
+
+{رَبَّنَا وَ ابْعَثْ: Ae hamaare Rabb! Aur bhej.} Hazrat Ibraheem aur Hazrat Ismaa'eel عَلَیْہِمَا الصَّلٰوۃُ وَالسَّلَام ki yeh du'a Sayyid-ul-Anbiya صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ke liye thi. Khanah Ka'bah ki ta'meer ki azeem khidmat baja laane aur taubah o istighfaar karne ke baad Hazrat Ibraheem aur Hazrat Ismaa'eel عَلَیْہِمَا الصَّلٰوۃُ وَالسَّلَام ne yeh du'a ki ke Yaa Rabb! عَزَّوَجَلَّ, apne Habeeb, Nabi Aakhir-uz-Zamaan صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ko hamaari nasl mein zaahir farma aur yeh sharaf humein inaayat farma. Yeh du'a qubool hui aur in dono buzurgon ki nasl mein Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki tashreef-aawari hui. Imam Baghawi ne aik hadees riwaayat ki ke Huzoor Akram صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne farmaaya: ''Main Allah Ta'ala ke nazdeek Khaatam-un-Nabiyyeen likha hua tha haalanke Hazrat Adam عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka khameer tayyar ho raha tha, main tumhein apne ibtida-e-haal ki khabar doon, main du'a-e-Ibraheem hoon, bashaarat-e-Isa hoon, apni waalidah ke us khwaab ki ta'beer hoon jo unhon ne meri wilaadat ke waqt dekha aur un ke liye aik buland noor zaahir hua jis se mulk-e-Shaam ke aiwaan aur mahaalaat un ke liye roshan ho gaye.'' (شرح السنۃ، کتاب الفضائل، باب فضائل سید الاولین والآخرین محمد صلی اللہ علیہ وسلم، ۷ / ۱۳، الحدیث: ۳۵۲۰)
+
+Is hadees mein du'a-e-Ibraheem se yahi du'a muraad hai jo is aayat mein mazkoor hai. Allah Ta'ala ne yeh du'a qubool farmaayi aur Aakhir Zamaanah mein Huzoor Sayyid-ul-Anbiya Muhammad Mustafa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko mab'oos farmaaya. (خازن، البقرۃ، تحت الآیۃ: ۱۲۹، ۱ / ۹۱) اَلْحَمْدُ لِلّٰہِ عَلٰی اِحْسَانِہٖ
+
+{وَ یُعَلِّمُهُمُ الْكِتٰبَ وَ الْحِكْمَةَ: Aur unhein Teri Kitaab aur pukhtah ilm sikhaaye.} Aayat mein Kitaab se muraad Quran Paak aur is ki ta'leem se is ke haqaa'iq o ma'ani ka sikhaana muraad hai. Aur hikmat mein sunnat, ahkaam-e-Shari'at aur asraar wagherah sab daakhil hain. Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke muta'alliq bahut si du'aein maangiin jo Rabb Ta'ala ne lafz-ba-lafz qubool farmaayiin. Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ mo'min jama'at mein, Makkah Mu'azzamah mein paida hue, Rasool hue, Saahib-e-Kitaab hue, aayaat ki tilaawat farmaayi, Ummat ko Kitaabullah sikhaayi, hikmat ata farmaayi, un ke nufoos ka tazkiyah kiya, asraar-e-Ilaahi par muttali' kiya.
+
+## Aayat ''وَ یُعَلِّمُهُمُ الْكِتٰبَ وَ الْحِكْمَةَ'' se Maloom Hone Waale Masaail
+
+Is aayat se Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم ki bhi shaan maloom hui ke Huzoor Akram صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne jinhein Kitaab o Hikmat sikhaayi aur jinhein paak o saaf kiya un ke awaleen misaaq Sahaba hi to thay. Nez yeh bhi maloom hua ke poora Quran aasaan nahin warna is ki ta'leem ke liye Huzoor-e-Anwar صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ na bheje jaate. Jo kahe ke Quran samajhna bahut aasaan hai usay kisi bare Aalim ke paas le jaayein, pandrah minute mein haal zaahir ho jaayega. Yeh bhi maloom hua ke Quran ke saath hadees ki bhi zaroorat hai. ''اَلْحِكْمَةَ'' ka aik ma'ni sunnat bhi kiya gaya hai jaisa ke mashhoor mufassir Hazrat Qataadah رَضِیَ اللہُ تَعَالٰی عَنْہُ ne farmaaya ke hikmat sunnat hi hai. (خازن، البقرۃ، تحت الآیۃ: ۱۲۹، ۱ / ۹۲)
+
+{وَ یُزَكِّیْهِمْ: Aur unhein khoob paakeezah farma de.} Sathra karne ke yeh ma'ni hain ke nafs ko gunaahon ki aaloodgiyon, shahwaat o khwaahishaat ki aalaishon aur arwaah ki kadooraton se paak o saaf kar ke aaina-e-dil ko tajalliyaat o anwaar-e-Ilaahiyah dekhne ke qaabil kar dein taake asraar-e-Ilaahi aur anwaar-e-Baari Ta'ala is mein jalwah-gar ho sakein. Tamaam Ghous, Qutb, Abdaal, Awliya, Asfiya, Sufiya, Fuqaha o Ulama ka tazkiyah isi muqaddas baargaah se hota hai. A'la Hazrat رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmaate hain:
+
+Aasmaan khwaan, zameen khwaan, zamaana mehmaan
+
+Saahib-e-Khaanah laqab kis ka hai tera tera
+---
+
+## Al-Baqarah — Ayat 2:130
+
+`Source: tafseerId=50261; ayatId=139; para=1; volume=1`
+
+**Arabic:** وَ مَنْ یَّرْغَبُ عَنْ مِّلَّةِ اِبْرٰهٖمَ اِلَّا مَنْ سَفِهَ نَفْسَهٗؕ-وَ لَقَدِ اصْطَفَیْنٰهُ فِی الدُّنْیَاۚ-وَ اِنَّهٗ فِی الْاٰخِرَةِ لَمِنَ الصّٰلِحِیْنَ(130)
+
+**Roman Urdu:**
+
+{وَ مَنْ یَّرْغَبُ: Aur jo munh phere.} Ulama-e-Yahood mein se Hazrat Abdullah bin Salaam رَضِیَ اللہُ تَعَالٰی عَنْہُ ne Islam laane ke baad apne do bhatijon Muhaajir o Salmah ko Islam ki da'wat di aur un se farmaaya ke tum ko maloom hai ke Allah Ta'ala ne Tauraat mein farmaaya hai ke main aulaad-e-Ismaa'eel se aik Nabi paida karunga jin ka naam Ahmad hoga, jo un par imaan laayega woh kaamyaab hai aur jo imaan na laayega woh mal'oon hai. Yeh sun kar Salmah imaan le aaye aur Muhaajir ne Islam qubool karne se inkaar kar diya. Is par Allah Ta'ala ne yeh aayat naazil farma kar zaahir kar diya ke jab Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne khud is Rasool-e-Mu'azzam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke mab'oos hone ki du'a farmaayi to jo un ke deen se phire woh Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke deen se phira. Is mein Yahud o Nasara aur mushrikeen-e-Arab par ishaaratan kalaam hai jo apne aap ko fakhr ke taur par Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki taraf mansoob karte thay ke jab yeh log deen-e-Ibraheemi se phir gaye to phir in ki azmat o sharaafat kahaan rahi. (جمل، البقرۃ، تحت الآیۃ: ۱۳۰، ۱ / ۱۶۱-۱۶۲)
+
+Yeh bhi maloom hua ke sache deen ki pehchaan yeh hai ke woh Salaf-e-Saaliheen ka deen ho, yeh hazraat hidaayat ki daleel hain, Allah Ta'ala ne haqqaniyat-e-Islam ki daleel yahaan di ke woh Millat-e-Ibraheemi hai.
+
+{اِصْطَفَیْنٰهُ: Hum ne isay chun liya.} Allah Ta'ala ne Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko risaalat o khillat ke liye chun liya yani aap ko apna Rasool aur Khaleel banaaya.
+---
+
+## Al-Baqarah — Ayat 2:131
+
+`Source: tafseerId=50262; ayatId=140; para=1; volume=1`
+
+**Arabic:** اِذْ قَالَ لَهٗ رَبُّهٗۤ اَسْلِمْۙ-قَالَ اَسْلَمْتُ لِرَبِّ الْعٰلَمِیْنَ(131)
+
+**Roman Urdu:**
+
+{وَ وَصّٰى: Aur wasiyyat ki.} Hazrat Ibraheem aur Hazrat Ya'qoob عَلَیْہِمَا الصَّلٰوۃُ وَالسَّلَام ne apni aulaad ko deen-e-haq par saabit-qadmi ki wasiyyat farmaayi.
+
+## Aulaad Ko Saheeh Aqaa'id Aur Nek A'maal Ki Wasiyyat Karni Chahiye
+
+Is se maloom hua ke waalidayn ko sirf maal ke muta'alliq hi wasiyyat nahin karni chahiye balke aulaad ko aqaa'id-e-saheehah, a'maal-e-saalehah, deen ki azmat, deen par isteqaamat, nekiyon par mudaawamat aur gunaahon se door rehne ki wasiyyat bhi karni chahiye. Aulaad ko deen sikhaana aur in ki saheeh tarbiyat karte rehna waalidayn ki zimmedaari hai. Jaisa ke Hazrat Anas رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwaayat hai, Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshaad farmaaya: ''Apni aulaad ke saath nek sulook karo aur unhein achhe adab sikhaane ki koshish karo.'' (ابن ماجہ، کتاب الادب، باب بر الوالد والاحسان الی البنات، ۴ / ۱۸۹-۱۹۰، الحدیث: ۳۶۷۱)
+
+Hazrat Abdullah bin Umar رَضِیَ اللہُ تَعَالٰی عَنْہُمَا ne aik shakhs se farmaaya: ''Apne bachche ki achhi tarbiyat karo kyunke tum se tumhaari aulaad ke baare mein poocha jaayega ke tum ne is ki kaisi tarbiyat ki aur tum ne isay kya sikhaaya.'' (شعب الایمان، الستون من شعب الایمان وہو باب فی حقوق الاولاد والاھلین، ۶ / ۴۰۰، الحدیث: ۸۶۶۲)
+
+Hazrat Ayyoob bin Moosa رَضِیَ اللہُ تَعَالٰی عَنْہُ apne waalid se aur woh apne dada se riwaayat karte hain ke Rasool Allah صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne irshaad farmaaya: ''Kisi baap ne apne bachche ko aisa atiyyah nahin diya jo achhe adab se behtar ho.'' (ترمذی، کتاب البر والصلۃ، باب ما جاء فی ادب الولد، ۳ / ۳۸۳، الحدیث: ۱۹۵۹)
+
+Mufti Ahmad Yaar Khan Na'eemi رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmaate hain: ''Achhe adab se muraad bachche ko deendar, muttaqi, parhezgaar banaana hai. Aulaad ke liye is se achha atiyyah kya ho sakta hai ke yeh cheez deen o duniya mein kaam aati hai. Maa baap ko chahiye ke aulaad ko sirf maaldaar bana kar duniya se na jaayein, unhein deendaar bana kar jaayein jo khud unhein bhi qabr mein kaam aawe ke zindah aulaad ki nekiyon ka sawaab murde ko qabr mein milta hai.'' (مراٰۃ المناجیح، باب الشفقۃ والرحمۃ علی الخلق، الفصل الثانی، ۶ / ۴۲۰، تحت الحدیث: ۴۷۵۶)
+
+Nez wafaat ke waqt apni aulaad ko saheeh aqaa'id aur nek a'maal ki wasiyyat karna hamaare buzurgaan-e-deen ka tareeqa raha hai, chunaanche Hazrat Ata رَضِیَ اللہُ تَعَالٰی عَنْہُ farmaate hain: ''Main Sahabi-e-Rasool Hazrat Waleed bin Ubaadah bin Saamit رَضِیَ اللہُ تَعَالٰی عَنْہُما se mila aur un se poocha ke aap ke waalid ne wisal ke waqt kya wasiyyat farmaayi? Hazrat Waleed رَضِیَ اللہُ تَعَالٰی عَنْہُ ne farmaaya:''
+
+''(Mere waalid ne) mujhe bula kar farmaaya: ''Ae bete! Allah Ta'ala se dar aur yeh baat jaan le ke tu Allah عَزَّوَجَلَّ se us waqt tak darne wala nahin banega jab tak Allah Ta'ala par aur har khair o shar ke Allah Ta'ala ki taraf se muqaddar hone par imaan na laayega. Agar tu is ke khilaaf par mar gaya to Jahannam mein daakhil hoga. Main ne Rasool Allah صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko farmaate hue suna ke Allah Ta'ala ne sab se pehle qalam ko paida kiya aur phir farmaaya: ''Likh.'' Qalam ne arz ki: Kya likhoon? Irshaad farmaaya: ''Taqdeer ko likh jo ho chuka aur jo abad tak hoga.'' (ترمذی، کتاب القدر، ۱۷- باب، ۴ / ۶۲، الحدیث: ۲۱۶۲)
+
+Jab Hazrat Abdullah bin Mas'ood رَضِیَ اللہُ تَعَالٰی عَنْہُ ki wafaat ka waqt qareeb aaya to un ke bete Hazrat Abdur Rahman رَضِیَ اللہُ تَعَالٰی عَنْہُ ne arz ki: Mujhe kuchh wasiyyat kijiye. Hazrat Abdullah bin Mas'ood رَضِیَ اللہُ تَعَالٰی عَنْہُ ne farmaaya: ''Main tumhein wasiyyat karta hoon ke tum Allah Ta'ala se darte raho, zyaada waqt apne ghar mein raho, apni zabaan ki hifaazat karo aur apni khataon par roya karo.'' (شعب الایمان، الحادی عشر من شعب الایمان وہو باب فی الخوف من اللہ تعالی، ۱ / ۵۰۳، الحدیث: ۸۴۴)
+
+Hazrat Alqamah Ataardi رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ ne apni wafaat ke waqt apne bete ko wasiyyat karte hue farmaaya: ''Ae bete! Jab tumhein logon ki majlis ikhtiyar karni pare to aisay aadmi ki sohbat ikhtiyar kar ke jab tu us ki khidmat kare to woh teri hifaazat kare, agar tu us ki majlis ikhtiyar kare to woh tujhe zeenat de, agar tujhe koi mashaqqat pesh aaye to woh bardaasht kare, us aadmi ki sohbat ikhtiyar kar ke jab tu bhalai ke saath apna haath phailaaye to woh bhi usay phailaaye, agar woh tum mein koi achhai dekhe to usay shumaar kare aur agar burai dekhe to usay roke. Us aadmi se dosti ikhtiyar kar ke jab tu us se maange to woh tujhe de aur agar khaamosh rahe to khud-ba-khud de, agar tujhe koi pareshaani laahiq ho to woh gham-khwaari kare. Us aadmi ki sohbat ikhtiyar karo ke jab tum baat kaho to woh tumhaari baat ki tasdeeq kare, agar tum kisi kaam ka iraadah karo to woh achha mashwarah de aur agar tum dono mein ikhtilaaf ho jaye to woh tumhaari baat ko tarjeeh de.'' (احیاء علوم الدین، کتاب آداب الالفۃ والاخوۃ۔۔۔ الخ، ۲ / ۲۱۴)

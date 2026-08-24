@@ -225,3 +225,11 @@ Arabic titles and citations stay in Arabic script; these titles are romanized wh
 | حرم شریف | Haram Shareef | The Sacred Sanctuary (2:125) |
 | خلیل اللہ | Khaleelullah | Epithet of Hazrat Ibraheem عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام (2:124) |
 | تبرکات | tabarrukaat | Blessed relics and objects (2:125) |
+| علامہ قسطلانی | Allama Qastalaani | Hadith commentator quoted in 2:127 |
+| علامہ سلیمان جمل | Allama Suleman Jaml | Tafsir authority quoted in 2:127 |
+| امام بغوی | Imam Baghawi | Tafsir and hadith authority quoted in 2:129 |
+| حضرت عبداللہ بن سلام | Hazrat Abdullah bin Salaam | Companion from the Jewish scholars (2:130) |
+| حضرت عبداللہ بن مسعود | Hazrat Abdullah bin Mas'ood | Companion quoted in 2:131 |
+| ختم النبیین | Khaatam-un-Nabiyyeen | Seal of the Prophets (2:129) |
+| نبی آخر الزماں | Nabi Aakhir-uz-Zamaan | Epithet of the Prophet ﷺ (2:129) |
+| حضرت علقمہ عطاردی | Hazrat Alqamah Ataardi | Elder quoted in 2:131 |

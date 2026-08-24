@@ -8,8 +8,8 @@
 > between parts. Corrections target one entry via its unique `Source:` anchor line.
 >
 > Part coverage: Ayat 2:1 – 2:101 (100 entries).
-> Full coverage: Ayat 2:1 – 2:126 (125 entries).
-> Next pending: Ayat 2:127 (tafseerId 50258).
+> Full coverage: Ayat 2:1 – 2:131 (130 entries).
+> Next pending: Ayat 2:132 (tafseerId 54513).
 > Consolidated from transliteration batches (initial consolidation 2026-08-22);
 > verified against siratul-jinan.db (every ayat→tafseerId pair matched, none
 > missing or duplicated).
