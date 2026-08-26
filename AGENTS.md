@@ -17,10 +17,10 @@ Preserve Arabic script from the source exactly as-is. Do NOT romanize/transliter
 
 ### File size limit
 
-All newly created or substantially changed files should contain at most 2,000 lines.
+All newly created or substantially changed files should contain at most 1,000 lines.
 When a file would exceed this limit, split it at a logical boundary without splitting
 sentences, quotations, citations, or traceable transliteration entries. Existing files
-that already exceed 2,000 lines are grandfathered and do not need to be rewritten solely
+that already exceed 1,000 lines are grandfathered and do not need to be rewritten solely
 to satisfy this rule.
 
 When a book chapter is too large for a single batch file, split into sequential sub-batches (`01-batch.md`, `02-batch.md`, etc.). Each sub-batch should cover a logically self-contained portion of the narrative (e.g., "introduction through first major event", "second major event", "remaining story"). Always check the last sub-batch's end point before starting the next one to ensure continuity. Keep each batch focused and complete enough to verify independently. Never summarize the source. Always preserve the tone of the author.
@@ -47,6 +47,19 @@ The project plan is `publishing/siratul-jinan-roman-urdu/notes/translation-plan.
 Every transliterated entry must remain traceable to its `tafseerId`, `ayatId`, surah, ayat number, para, and volume. Use semantic boundaries and approximately 2,000–4,000 Urdu characters per batch, adjusting for quotations, numbered discussions, and citations. Never split a sentence, quotation, or citation unnecessarily across batches.
 
 The source extraction must preserve `{Arabic phrase: Urdu meaning}` blocks and numbered references such as `(1)…`. Validate extraction output for literal replacement artifacts such as `($1)` before using it for transliteration.
+
+### Sirat-ul-Jinan Easy Roman Urdu workflow
+
+The separate Easy Roman Urdu project is `publishing/siratul-jinan-easy-roman-urdu/`. Read its
+`notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`, and
+`translation-plan.md` before working on it. This project is an easy-language adaptation of the
+tafseer, but its Quran translation is transliteration, not translation: use the broader
+QuranDB `translation` table with `trans_type=2` (Kanz-ul-Irfan, Sirat), preserve its meaning
+and wording, and transliterate it into Roman Urdu. Keep that translation separate from the
+Easy tafseer adaptation. Preserve Arabic Quranic text, Arabic quotations, duas, honorifics,
+citations, and `ﷺ` exactly as required by the project rules. Do not fabricate Ayat 2:2, which
+has no Sirat-ul-Jinan tafseer row. Keep complete production entries together in one manuscript
+file until it reaches the 1,000-line limit, splitting only at entry boundaries.
 
 
 ## Quick start

@@ -75,7 +75,7 @@ publishing/siratul-jinan-roman-urdu/
   exports/
 ```
 
-Within each jild, every surah gets its own folder named `<NN>-surah-<roman-name>/` (e.g., `02-surah-al-baqarah/`). Since 2026-08-22, each surah holds numbered append-only manuscript parts (`<NN>-surah-<name>-roman-01.md`, etc.) built by `scripts/consolidate_siratul_jinan_batches.py` from reviewed batches plus `_inserts/` splices. Each part is at most 2,000 lines and entries are never split between parts. Superseded per-ayat batch files are archived under the surah folder's `_archive/` directory; originals remain traceable there.
+Within each jild, every surah gets its own folder named `<NN>-surah-<roman-name>/` (e.g., `02-surah-al-baqarah/`). Since 2026-08-22, each surah holds numbered append-only manuscript parts (`<NN>-surah-<name>-roman-01.md`, etc.) built by `scripts/consolidate_siratul_jinan_batches.py` from reviewed batches plus `_inserts/` splices. Each part is at most 1,000 lines and entries are never split between parts. Superseded per-ayat batch files are archived under the surah folder's `_archive/` directory; originals remain traceable there.
 
 Within each volume, content should be ordered by para, surah, and ayat.
 
@@ -259,7 +259,7 @@ The batch register should be the authoritative progress tracker. A volume is com
 - Complete a volume-level consistency review.
 - Export a review copy only after all Jild 1 batches are approved.
 
-Progress: Batches 1–96 (Al-Baqarah 2:1 through 2:131, excluding the three late-added cross-reference entries) are transliterated and consolidated into numbered manuscript parts `02-surah-al-baqarah/02-surah-al-baqarah-roman-01.md` and `02-surah-al-baqarah-roman-02.md` (130 entries; each part is at most 2,000 lines; both pass `validate_siratul_jinan_translation.py`). The three DB rows skipped by early extraction — 2:36 (tafseerId 54507), 2:39 (54508), and 2:46 (54509), all one-line "covered under previous ayat" cross-references — were transliterated with the Batch 24 precedent wording and spliced in via `_inserts/`. Ayat 2:2 has no source tafseer row. Coverage is complete for ayats 1–131 (130/130 DB rows matched). Originals are archived under `_archive/batches-01-82/`, `_archive/batches-83-85/`, `_archive/batches-86/`, `_archive/batches-87-91/`, and `_archive/batches-92-96/`. Next: Al-Baqarah 2:132 (tafseerId 54513). Note: tafseerIds are non-monotonic — verify ordering by ayat number via the `aayaat` join, never by tafseerId.
+Progress: Batches 1–96 (Al-Baqarah 2:1 through 2:131, excluding the three late-added cross-reference entries) are transliterated and consolidated into numbered manuscript parts under `02-surah-al-baqarah/` (130 entries; each part is at most 1,000 lines; all pass `validate_siratul_jinan_translation.py`). The three DB rows skipped by early extraction — 2:36 (tafseerId 54507), 2:39 (54508), and 2:46 (54509), all one-line "covered under previous ayat" cross-references — were transliterated with the Batch 24 precedent wording and spliced in via `_inserts/`. Ayat 2:2 has no source tafseer row. Coverage is complete for ayats 1–131 (130/130 DB rows matched). Originals are archived under `_archive/batches-01-82/`, `_archive/batches-83-85/`, `_archive/batches-86/`, `_archive/batches-87-91/`, and `_archive/batches-92-96/`. Next: Al-Baqarah 2:132 (tafseerId 54513). Note: tafseerIds are non-monotonic — verify ordering by ayat number via the `aayaat` join, never by tafseerId.
 
 ### Milestone 4 — Jilds 2–5
 

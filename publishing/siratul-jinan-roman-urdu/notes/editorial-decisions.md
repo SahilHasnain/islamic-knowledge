@@ -22,10 +22,10 @@ Each working transliteration entry remains traceable to `tafseerId`, `ayatId`, s
 
 ## File Size Limit
 
-New or substantially changed files must contain at most 2,000 lines. If a file would exceed
+New or substantially changed files must contain at most 1,000 lines. If a file would exceed
 that limit, split it at a logical entry or section boundary without splitting sentences,
 quotations, citations, or traceable transliteration entries. Existing files that already
-exceed 2,000 lines are grandfathered and may remain unchanged unless they are otherwise
+exceed 1,000 lines are grandfathered and may remain unchanged unless they are otherwise
 being edited.
 
 ## Open Decisions
@@ -62,7 +62,7 @@ Per-batch roman files are superseded by numbered append-only manuscript parts pe
 plus `_inserts/insert-ayat-*.md` files,
 splits multi-entry batch blocks into per-entry blocks, sorts by ayat number, and verifies
 every `(ayat number, tafseerId)` pair against the DB via the `aayaat` join (`surahId=2`)
-before writing. Each part is at most 2,000 lines and entries are never split between
+before writing. Each part is at most 1,000 lines and entries are never split between
 parts. The legacy `surah-al-baqarah-roman.md` file was grandfathered, then replaced by
 numbered parts when the file-size rule was applied.
 

@@ -11,6 +11,13 @@ preserve the source's complete meaning, explanations, evidence, citations, and t
 The shared SQLite database is authoritative for source text, identifiers, Quranic mapping,
 and ordering. The Urdu text is authoritative for the meaning of every adaptation.
 
+## Quran Translation Source
+
+The Quran translation is sourced from the broader QuranDB database rather than the focused
+Sirat-ul-Jinan database. Use `translation.trans_type=2`, Kanz-ul-Irfan (Sirat). The translation
+must be transliterated from Urdu script into Roman Urdu, not translated or rewritten. The
+extraction script supports this with `--include-translation`.
+
 ## Arabic and Adab
 
 Arabic Quranic text, Arabic duas, Islamic phrases, quotations, and honorifics are preserved
@@ -23,3 +30,27 @@ recorded here before use.
 - Whether selected difficult Arabic-derived terms may receive parenthetical Roman Urdu glosses
 - Pilot review and approval process
 - Export format and reader-facing heading style
+
+## Pilot Sample
+
+The first pilot is a focused excerpt from Al-Baqarah 2:1 (`tafseerId=50147`, `ayatId=10`).
+It is intentionally marked partial and must not be treated as complete source coverage.
+The sample tests shorter sentences, simpler vocabulary, Arabic preservation, honorifics,
+citations, and clear headings before full-entry adaptation begins.
+
+The term `حروفِ مُقَطَّعَات` is approved as `Huroof-e-Muqatta'aat` in easy Roman Urdu
+prose. This does not authorize Romanizing Quranic verse text, Arabic quotations, duas, or
+honorifics.
+
+The second pilot sample uses Ayat 2:3 to test numbered explanations, simple definitions,
+and selected Quranic quotations. It remains a style sample rather than a complete adapted
+entry.
+
+Natural phrasing takes priority over difficult Urdu compounds in the Easy adaptation. For
+example, `tareeqa-e-kaam` was changed to `kaam ke tareeqe`.
+
+The first production entry is Al-Baqarah 2:1. It is marked `draft` until semantic
+completeness and editorial style review are finished.
+
+The second production entry is Al-Baqarah 2:3. Ayat 2:2 is not fabricated or filled by
+adaptation because the authoritative database has no tafseer row for it.

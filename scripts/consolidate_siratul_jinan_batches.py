@@ -25,7 +25,7 @@ BATCH_FILE = re.compile(r"^(\d+)-surah-.*-roman\.md$")
 INSERT_FILE = re.compile(r"^insert-ayat-(\d+)\.md$")
 
 SURAH_ID = 2  # Al-Baqarah
-MAX_FILE_LINES = 2000
+MAX_FILE_LINES = 1000
 
 
 def main():

@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DB = ROOT / "publishing" / "siratul-jinan-roman-urdu" / "source" / "siratul-jinan.db"
 DEFAULT_OUT = ROOT / "publishing" / "siratul-jinan-roman-urdu" / "manuscript" / "00-pilot" / "01-surah-al-fatihah.md"
+DEFAULT_QURAN_DB = Path(r"D:\Projects\live-quran\reference\decompiled\resources\assets\databases\QuranDB.db")
 
 
 def volume_for_para(para_no):
@@ -24,6 +25,8 @@ def build_parser():
     parser.add_argument("--ayat-start", type=int)
     parser.add_argument("--ayat-end", type=int)
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--include-translation", action="store_true")
+    parser.add_argument("--quran-db", type=Path, default=DEFAULT_QURAN_DB)
     return parser
 
 
@@ -72,6 +75,23 @@ def main():
     if not rows:
         raise SystemExit("No matching tafseer entries found.")
 
+    translations = {}
+    if args.include_translation:
+        if not args.quran_db.exists():
+            raise SystemExit(f"Quran database not found: {args.quran_db}")
+        quran_db = sqlite3.connect(args.quran_db)
+        quran_db.row_factory = sqlite3.Row
+        translations = {
+            row["ayatId"]: row["translation"]
+            for row in quran_db.execute(
+                "SELECT ayatId, translation FROM translation WHERE trans_type = '2'"
+            )
+        }
+        quran_db.close()
+        missing = [row["ayatId"] for row in rows if not translations.get(row["ayatId"], "").strip()]
+        if missing:
+            raise SystemExit(f"Missing Kanz-ul-Irfan translations for ayatId: {', '.join(map(str, missing))}")
+
     first = rows[0]
     last = rows[-1]
     volume = volume_for_para(first["paraId"])
@@ -97,6 +117,16 @@ def main():
                 "",
                 f"**Arabic:** {row['arabicText'] or '(Arabic text unavailable in source row)'}",
                 "",
+                *(
+                    [
+                        "**Kanz-ul-Irfan translation source:**",
+                        "",
+                        translations.get(row["ayatId"], "(Translation unavailable in QuranDB row)").strip(),
+                        "",
+                    ]
+                    if args.include_translation
+                    else []
+                ),
                 "**Urdu source:**",
                 "",
                 row["tafseerTextPlain"].strip(),

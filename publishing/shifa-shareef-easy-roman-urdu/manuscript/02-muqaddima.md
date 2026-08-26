@@ -16,7 +16,7 @@ Allah ne unhein apni saltanat ke ajeeb raaz aur apni qudrat ki nishaniyan dekhne
 
 Wo Allah ke is irshad ke deewane the: "Allah kaho, phir unhein chhod do ke wo apni behoodgi mein khelte rahen" (Al-An'aam: 91).
 
-Tumne mujhse baar baar kaha ke main aisi kitab tayyar karun jisme Huzoor ﷺ ke huqooq aur Aap ﷺ ki izzat aur takreem ka wajib hona bayan ho. Is mein un logon ka bhi zikr ho jo is martabe ki ahmiyat se ghaflat ki wajah se ya Aap ﷺ ke buland maqam ke huqooq ada karne mein bohot kamzor rahe. Tumne ye bhi kaha ke main apne buzurgon aur Imamon ke aqwaal, unke waqiat aur unki misaalein bayan karun.
+Tumne mujhse baar baar kaha ke main aisi kitab tayyar karun jisme Huzoor ﷺ ke huqooq aur Aap ﷺ ki izzat aur adab ko zaroori hona bayan ho. Is mein un logon ka bhi zikr ho jo is martabe ki ahmiyat se ghaflat ki wajah se ya Aap ﷺ ke buland maqam ke huqooq ada karne mein bohot kamzor rahe. Tumne ye bhi kaha ke main apne buzurgon aur Imamon ke aqwaal, unke waqiat aur unki misaalein bayan karun.
 
 Ye kaam bohot mushkil hai aur ek khatarnak buland pahad chadhne jaisa hai, isliye mera dil isse dara hua hai. Lekin main apne aur tumhare liye Allah se bakhshish aur sawaab ki umeed rakhta hoon. Kyunki ye Huzoor ﷺ ki tareef aur sana ka maqam hai. Is mein Huzoor ﷺ ki wo khaas sifatein bayan hongi jo Aap ﷺ se pehle kisi aur makhlooq mein jama nahin hui thin.
 

@@ -10,14 +10,15 @@ One Markdown file per baab. Fasl boundaries remain as headings inside each baab 
 
 ## Current Progress
 
-Project initialized. The front matter pilot is drafted in easy Roman Urdu:
+The easy Roman Urdu style has been approved. The approved pilot files have been promoted to the final manuscript directory:
 
-- `00-pilot/01-frontmatter.md` — Publisher's Note, Musannif ke baare mein, Shifa Shareef ki maqbooliyat, Wisaal, and Urdu translator information — complete
-- `00-pilot/02-muqaddima.md` — Muqaddima and book structure — complete
-- `00-pilot/03-qism1-pehla-baab.md` — Pehli Qism introduction, complete first fasl through printed page 32, second fasl, and opening of third fasl through printed page 36 — in progress
+- `01-frontmatter.md` — Publisher's Note, Musannif ke baare mein, Shifa Shareef ki maqbooliyat, Wisaal, and Urdu translator information — complete
+- `02-muqaddima.md` — Muqaddima and book structure — complete
+- `03-qism1-pehla-baab.md` — Pehli Qism introduction and complete Pehla Baab, including all 10 fasls through printed page 56 — complete
 
-This pilot should be reviewed for language simplicity and adab before the remaining manuscript is continued.
+The approved style is being used for the full manuscript.
+- `04-qism1-dusra-baab.md` — Dusra Baab introduction, Pehli Fasl, Dusri Fasl, and opening of Teesri Fasl through printed page 61 — in progress
 
 ## Next Step
 
-Next: continue `00-pilot/03-qism1-pehla-baab.md` from printed page 37 and complete the remaining fasls of Pehla Baab.
+Next: continue `04-qism1-dusra-baab.md` from printed page 62 and complete Dusra Baab.

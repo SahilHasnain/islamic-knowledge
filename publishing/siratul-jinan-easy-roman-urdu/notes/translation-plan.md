@@ -23,12 +23,36 @@ Use the shared database at:
 
 Each adapted entry must preserve its `tafseerId`, `ayatId`, surah, ayat number, para, and
 volume in the working batch. The Urdu source remains the authority for meaning and content.
+Each batch must also extract the corresponding Quran translation from the broader QuranDB
+source using `translation.trans_type=2` (Kanz-ul-Irfan, Sirat). That translation is to be
+transliterated into Roman Urdu, not translated or paraphrased.
 
 ## Pilot
 
-Begin with a small Al-Baqarah pilot before adapting a complete volume. The pilot must
-establish approved handling for difficult vocabulary, long sentences, quotations, citations,
-Arabic phrases, honorifics, headings, poetry, and numbered discussions.
+Begin with a small Al-Baqarah pilot before adapting a complete volume. The first focused
+style sample uses a partial excerpt from Ayat 2:1 and is not counted as complete coverage.
+The pilot must establish approved handling for difficult vocabulary, long sentences,
+quotations, citations, Arabic phrases, honorifics, headings, poetry, and numbered discussions.
+
+## Current Progress
+
+The easy-language style has been approved. The first production manuscript file contains
+complete adaptations of Al-Baqarah 2:1 (`tafseerId=50147`, `ayatId=10`), 2:3
+(`tafseerId=50149`, `ayatId=12`), 2:4 (`tafseerId=50150`, `ayatId=13`), 2:5
+(`tafseerId=50151`, `ayatId=14`), 2:6 (`tafseerId=50152`, `ayatId=15`), 2:7
+(`tafseerId=50153`, `ayatId=16`), 2:8 (`tafseerId=50154`, `ayatId=17`), 2:9
+(`tafseerId=50155`, `ayatId=18`), 2:10 (`tafseerId=50156`, `ayatId=19`), 2:11
+(`tafseerId=50157`, `ayatId=20`), 2:12 (`tafseerId=54504`, `ayatId=21`), 2:13
+(`tafseerId=50158`, `ayatId=22`), 2:14 (`tafseerId=50159`, `ayatId=23`), 2:15
+(`tafseerId=50160`, `ayatId=24`), 2:16 (`tafseerId=50161`, `ayatId=25`), 2:17
+(`tafseerId=50162`, `ayatId=26`), 2:18 (`tafseerId=54505`, `ayatId=27`), 2:19
+(`tafseerId=50163`, `ayatId=28`), and 2:20 (`tafseerId=54506`, `ayatId=29`), all in draft
+review. Ayat 2:2 has no source tafseer row.
+Tafseer IDs are not always sequential, so ordering follows surah and ayat numbers.
+The entries remain together because the file is below the 1,000-line limit. The entries
+preserve the complete source explanations while simplifying vocabulary and sentence structure.
+Each completed entry also includes the directly transliterated `trans_type=2` Kanz-ul-Irfan
+Quran translation before its Easy Roman Urdu tafseer adaptation.
 
 ## File Organization
 
@@ -47,7 +71,7 @@ publishing/siratul-jinan-easy-roman-urdu/
 
 ## File Size Rule
 
-New or substantially changed files must contain at most 2,000 lines. Split only at logical
+New or substantially changed files must contain at most 1,000 lines. Split only at logical
 section or entry boundaries; never split a sentence, quotation, citation, numbered item,
 or traceable adapted entry. Existing oversized files may remain unchanged unless they are
 otherwise edited.

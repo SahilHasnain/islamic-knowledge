@@ -10,8 +10,17 @@ project. It is separate from the literal-transliteration glossary.
 | تفسیر | tafseer | Explanation/commentary |
 | آیت | aayat | Plural: aayaat |
 | نبی کریم ﷺ | Nabi-e-Kareem ﷺ | Preserve the honorific |
+| حروفِ مُقَطَّعَات | Huroof-e-Muqatta'aat | Arabic-derived term may be Romanized in easy explanatory prose; source Quranic text remains Arabic |
+| حقدار | haqdaar | Write as one word, not `haq daar` |
+| تہذیب و تمدن | muashray ki taraqqi | Use this simpler phrase in explanatory prose |
+| رنجیدہ ہونا | dil chhota karna | Use the natural phrase `dil chhota na karein` in this context |
+| مُدّ | mudd (chhoti miqdaar) | Keep the term and explain it for accessibility |
+| تقویٰ | taqwa (parhezgari) | Add the parenthetical gloss at first use |
+| متقی | muttaqi (parhezgaar) | Add the parenthetical gloss at first use |
+| راہزن | raahzan (raaste ka chor) | Keep the original term with an easy gloss |
+| تاویلات | bahaano | Use the simpler word in explanatory prose |
+| بھیڑ | bher (sheep) | Use `bher`, not `bheer`, with the English gloss |
 
 ## Decision Log
 
-No adaptation-specific vocabulary decisions have been approved yet. Record new choices
-before reusing them across batches.
+Record new adaptation-specific vocabulary decisions here before reusing them across batches.

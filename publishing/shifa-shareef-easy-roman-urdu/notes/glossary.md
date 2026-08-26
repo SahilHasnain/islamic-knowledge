@@ -20,3 +20,8 @@ Recurring easy Roman Urdu terms and fixed spellings will be recorded here as the
 - musawwadat -> likhe hue papers (drafts)
 - aib -> kharabi (aib)
 - mashghale -> kaam
+- mushahida -> dekhne ka mauqa
+- mansookh -> pehli shariaton ki jagah nayi shariat jaari ki (mansookh kiya)
+- takreem -> khaas izzat / adab
+- taeed -> khaas madad se mazboot kiya
+- farakhi -> aasani aur khushhaali
