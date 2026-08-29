@@ -25,11 +25,11 @@ Is aayat mein ''Imaan'' aur ''Ghaib'' ka zikr hai, is liye in se muta'alliq chan
 
 (3)… Ghaib us cheez ko kehte hain jo hum se posheedah ho aur hum apne hawas, jaise dekhne aur chhoone, ya zahiri aql ke zariye usay na jaan sakein.
 
-(4)… Ghaib ki do qismein hain. Pehli woh jiske hone par koi daleel na ho. Isay zaati ilm-e-ghaib kehte hain aur yeh sirf Allah Ta'ala ke liye khaas hai. Doosri woh jiske hone par daleel maujood ho, jaise Allah Ta'ala ki zaat o sifaat, guzishtah Anbiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur qaumon ke haalaat, aur Qiyaamat ke waqiaat. Yeh sab Allah Ta'ala ke bataane se maloom hote hain.
+(4)… Ghaib ki do qismein hain. Pehli woh jiske hone par koi daleel na ho. Isay zaati ilm-e-ghaib kehte hain aur yeh sirf Allah Ta'ala ke liye khaas hai. Doosri woh jiske hone par daleel maujood ho, jaise Allah Ta'ala ki zaat o sifaat, guzishtah Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur qaumon ke haalaat, aur Qiyaamat ke waqiaat. Yeh sab Allah Ta'ala ke bataane se maloom hote hain.
 
 (5)… Allah Ta'ala ke bataaye baghair kisi ke liye aik zarre ka zaati ilm-e-ghaib maanna qat'i kufr hai.
 
-(6)… Allah Ta'ala apne muqarrab bandon, jaise Anbiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur Awliya-e-Izaam رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِم, par ghaib ke darwaaze kholta hai. Quran o hadees mein is ki daleelein maujood hain.
+(6)… Allah Ta'ala apne muqarrab bandon, jaise Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur Awliya-e-Izaam رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِم, par ghaib ke darwaaze kholta hai. Quran o hadees mein is ki daleelein maujood hain.
 
 ### Adaptation Decisions Tested
 

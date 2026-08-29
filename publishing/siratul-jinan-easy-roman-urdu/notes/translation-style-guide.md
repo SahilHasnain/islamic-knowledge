@@ -38,6 +38,7 @@
 - Prefer natural word order in easy Roman Urdu. For example, use `kaam ke tareeqe`
   instead of the harder compound `tareeqa-e-kaam`.
 - Keep established spellings from the project glossary.
+- Use `mana` instead of the difficult word `manaahi` in easy explanatory prose.
 - Preserve Urdu meaning, not Urdu grammatical awkwardness caused by extraction artifacts.
 - Keep headings, numbered discussions, poetry, and quotations structurally recognizable.
 

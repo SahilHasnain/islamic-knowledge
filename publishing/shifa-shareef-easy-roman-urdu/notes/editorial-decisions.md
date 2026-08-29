@@ -16,3 +16,6 @@
 - Use `apni jaan par khel jaoge` for this source expression; do not replace it with `apni jaan khatam kar doge`.
 - Use `marte dam tak` instead of `maut aane tak` in this passage.
 - Check every edited sentence against the literal Roman Urdu source before finalizing it.
+- In easy wording, render the source's `taqwa` in this passage as `Allah ke kareeb hone ki koshish`, rather than `Allah se darne lage`, when describing the spiritual purpose of worldly necessities.
+- Use the simpler joined spellings `unhone` and `inhone` throughout the edition.
+- Use `bohot kam umr mein apni khaas hidayat ata farmayi` for early divine guidance, as it is clearer than `kam-sinni` and avoids implying prior misguidance.

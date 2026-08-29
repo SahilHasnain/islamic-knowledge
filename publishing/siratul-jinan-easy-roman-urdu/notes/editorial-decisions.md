@@ -49,6 +49,11 @@ entry.
 Natural phrasing takes priority over difficult Urdu compounds in the Easy adaptation. For
 example, `tareeqa-e-kaam` was changed to `kaam ke tareeqe`.
 
+For natural, consistent Roman Urdu, use `unhone` and `inhone` project-wide instead of
+`unhon ne` and `inhon ne`.
+
+Use `mana` project-wide instead of the difficult word `manaahi` in easy explanatory prose.
+
 The first production entry is Al-Baqarah 2:1. It is marked `draft` until semantic
 completeness and editorial style review are finished.
 

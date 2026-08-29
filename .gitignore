@@ -40,6 +40,13 @@ yarn-error.log*
 # local publishing references and analysis artifacts
 /publishing/references/
 
+# APK reverse-engineering outputs are local source artifacts
+/reversing/
+
+# large local source databases (too big for GitHub's 100MB limit)
+/db/
+/db/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

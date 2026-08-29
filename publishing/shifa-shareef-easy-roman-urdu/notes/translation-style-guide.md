@@ -20,6 +20,7 @@ Rewrite the Roman Urdu source in the easiest natural Roman Urdu possible. Preser
 - Preferred forms: `mushahida` -> `dekhne ka mauqa`, `takreem` -> `khaas izzat` or `adab`, and `mansookh` -> `pehli shariaton ki jagah nayi shariat jaari ki (mansookh kiya)`.
 - Preferred form: `taeed` -> `khaas madad se mazboot kiya`.
 - Preferred form: `farakhi` -> `aasani aur khushhaali` when the context refers to comfort and abundance in worldly life.
+- Preferred spelling: use `unhone` instead of `unhon ne`, and `inhone` instead of `inhon ne`.
 - Use the easy word first and put the difficult source word in brackets only when it helps the reader: `kharabi (aib)`.
 - Replace difficult action words with clear everyday wording: `shaqq ho jaata` -> `phat jaata`, when the meaning remains accurate.
 - For the source phrase `apni jaan par khel jaaoge`, preserve the clearer respectful wording instead of using `apni jaan khatam kar doge`.

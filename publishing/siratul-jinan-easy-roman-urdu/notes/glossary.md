@@ -20,6 +20,8 @@ project. It is separate from the literal-transliteration glossary.
 | راہزن | raahzan (raaste ka chor) | Keep the original term with an easy gloss |
 | تاویلات | bahaano | Use the simpler word in explanatory prose |
 | بھیڑ | bher (sheep) | Use `bher`, not `bheer`, with the English gloss |
+| انہوں نے / اُنہوں نے | unhone / inhone | Project-wide easy Roman Urdu spelling preference; use these natural forms instead of `unhon ne` / `inhon ne` |
+| ممانعت | mana | Use `mana` instead of the difficult word `manaahi` in easy explanatory prose |
 
 ## Decision Log
 

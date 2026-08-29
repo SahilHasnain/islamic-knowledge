@@ -25,3 +25,14 @@ Recurring easy Roman Urdu terms and fixed spellings will be recorded here as the
 - takreem -> khaas izzat / adab
 - taeed -> khaas madad se mazboot kiya
 - farakhi -> aasani aur khushhaali
+- sakhaawat -> khule dil se ata karna
+- waqar -> izzat aur sanjeedgi
+- hamwaar -> barabar aur seedha
+- tadbeerein -> kaam karne ke tareeqe
+- Suraiyya -> Pleiades
+- unhon ne -> unhone
+- inhon ne -> inhone
+- kam-sinni -> bohot kam umr
+- tehband -> kamar par bandhne wala kapra
+- tibb -> medical ilm
+- hisaab -> maths

@@ -61,6 +61,42 @@ citations, and `ﷺ` exactly as required by the project rules. Do not fabricate 
 has no Sirat-ul-Jinan tafseer row. Keep complete production entries together in one manuscript
 file until it reaches the 1,000-line limit, splitting only at entry boundaries.
 
+### Shifa Shareef Easy Roman Urdu workflow
+
+The separate Easy Roman Urdu edition of Shifa Shareef is located at
+`publishing/shifa-shareef-easy-roman-urdu/`. Before every translation, revision, or
+continuation task for this project, read these files in this order:
+
+1. `publishing/shifa-shareef-easy-roman-urdu/notes/translation-style-guide.md`
+2. `publishing/shifa-shareef-easy-roman-urdu/notes/glossary.md`
+3. `publishing/shifa-shareef-easy-roman-urdu/notes/editorial-decisions.md`
+4. `publishing/shifa-shareef-easy-roman-urdu/manuscript/MIGRATION_STATUS.md`
+
+The source of truth is `content/books/shifa-shareef.json`. This project is a complete
+easy-language rewrite of the existing Roman Urdu source. It is not a summary, not an
+English translation, and not a Devanagari transliteration. Preserve every idea,
+example, quotation, reference, and fasl boundary.
+
+- Use short sentences and familiar Roman Urdu. If a draft feels difficult, revise it
+  before continuing; do not wait for the user to identify every difficult word.
+- Replace difficult vocabulary with ordinary wording while keeping the exact meaning.
+  Keep established Islamic, religious, and respectful terms when replacing them would
+  reduce accuracy; explain a difficult term in brackets only when useful.
+- Preserve Quranic Arabic, Arabic duas, Arabic hadith quotations, Arabic honorifics,
+  citations, and `ﷺ` exactly as required by the source and project notes.
+- Maintain adab for Huzoor ﷺ, Ambiya, Sahaba, Ahl-e-Bait, and scholars. Never use
+  diminishing or irreverent wording.
+- Keep one Markdown file per baab, with fasls as headings inside the baab file. Keep
+  each batch below 1,000 lines and split only at a complete paragraph, quotation,
+  citation, or other logical boundary.
+- Before writing a new batch, inspect the last completed source page and the next
+  source page. Record the printed-page range in `MIGRATION_STATUS.md`.
+- After writing, compare the batch with the source JSON for coverage and ordering.
+  Check for omitted content, accidental summaries, Devanagari, unwanted Urdu script,
+  lost `ﷺ`, and changed Arabic quotations or references.
+- Record newly approved wording decisions in the project glossary and editorial
+  decisions files so the next agent can follow them.
+
 
 ## Quick start
 

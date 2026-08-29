@@ -17,8 +17,8 @@ The easy Roman Urdu style has been approved. The approved pilot files have been 
 - `03-qism1-pehla-baab.md` — Pehli Qism introduction and complete Pehla Baab, including all 10 fasls through printed page 56 — complete
 
 The approved style is being used for the full manuscript.
-- `04-qism1-dusra-baab.md` — Dusra Baab introduction, Pehli Fasl, Dusri Fasl, and opening of Teesri Fasl through printed page 61 — in progress
+- `04-qism1-dusra-baab.md` — Dusra Baab introduction through Solahwi Fasl opening, printed pages 57–82 — in progress
 
 ## Next Step
 
-Next: continue `04-qism1-dusra-baab.md` from printed page 62 and complete Dusra Baab.
+Next: continue `04-qism1-dusra-baab.md` from the next source page after printed page 82 and complete Dusra Baab.

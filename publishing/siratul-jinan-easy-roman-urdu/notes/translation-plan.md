@@ -46,7 +46,18 @@ complete adaptations of Al-Baqarah 2:1 (`tafseerId=50147`, `ayatId=10`), 2:3
 (`tafseerId=50158`, `ayatId=22`), 2:14 (`tafseerId=50159`, `ayatId=23`), 2:15
 (`tafseerId=50160`, `ayatId=24`), 2:16 (`tafseerId=50161`, `ayatId=25`), 2:17
 (`tafseerId=50162`, `ayatId=26`), 2:18 (`tafseerId=54505`, `ayatId=27`), 2:19
-(`tafseerId=50163`, `ayatId=28`), and 2:20 (`tafseerId=54506`, `ayatId=29`), all in draft
+(`tafseerId=50163`, `ayatId=28`), 2:20 (`tafseerId=54506`, `ayatId=29`), 2:21
+(`tafseerId=50164`, `ayatId=30`), 2:22 (`tafseerId=50165`, `ayatId=31`), 2:23
+(`tafseerId=50166`, `ayatId=32`), 2:24 (`tafseerId=50167`, `ayatId=33`), 2:25
+(`tafseerId=50168`, `ayatId=34`), 2:26 (`tafseerId=50169`, `ayatId=35`), 2:27
+(`tafseerId=50170`, `ayatId=36`), 2:28 (`tafseerId=50171`, `ayatId=37`), 2:29
+(`tafseerId=50172`, `ayatId=38`), 2:30 (`tafseerId=50173`, `ayatId=39`), 2:31
+(`tafseerId=50174`, `ayatId=40`), 2:32 (`tafseerId=50175`, `ayatId=41`), 2:33
+(`tafseerId=50176`, `ayatId=42`), 2:34 (`tafseerId=50177`, `ayatId=43`), 2:35
+(`tafseerId=50178`, `ayatId=44`), 2:36 (`tafseerId=54507`, `ayatId=45`), 2:37
+(`tafseerId=50179`, `ayatId=46`), 2:38 (`tafseerId=50180`, `ayatId=47`), 2:39
+(`tafseerId=54508`, `ayatId=48`), 2:40 (`tafseerId=50181`, `ayatId=49`), 2:41
+(`tafseerId=50182`, `ayatId=50`), and 2:42 (`tafseerId=50183`, `ayatId=51`), all in draft
 review. Ayat 2:2 has no source tafseer row.
 Tafseer IDs are not always sequential, so ordering follows surah and ayat numbers.
 The entries remain together because the file is below the 1,000-line limit. The entries

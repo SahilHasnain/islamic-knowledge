@@ -1,40 +1,50 @@
-# Dusra Baab: Huzoor ﷺ Ki Tamam Deeni Aur Dunyawi Khoobiyan
+# Dusra Baab: Huzoor ﷺ Ki Deeni Aur Dunyawi Tamam Khoobiyan
 
-Is baab mein bataya gaya hai ke Allah Ta'ala ne Huzoor ﷺ ko paidaishi khoobiyon aur achhi aadaton ke lihaz se kamil banaya aur Aap ﷺ mein deen aur duniya ki tamam fazilatein jama farma di hain.
+Is baab mein bataya gaya hai ke Allah Ta'ala ne Huzoor ﷺ ko paida hone se hi har achhi khoobi di. Aap ﷺ mein deen aur duniya ki tamam fazilatein jama farma di gayi hain.
 
-Aye Huzoor ﷺ se muhabbat rakhne wale aur Aap ﷺ ki badi-badi fazilaton ko samajhna chahne wale! Jaan lo ke insan mein khoobsurti aur kamal ki aadatein do tarah ki hoti hain.
+Aye Huzoor ﷺ se muhabbat karne wale! Agar tum Aap ﷺ ki badi-badi fazilatein samajhna chahte ho to pehle ye samjho ke insan ki achhi sifatein do tarah ki hoti hain.
 
-Ek wo jo duniya ki zaroorat hoti hain aur insan ki fitrat aur dunyawi zindagi ke liye zaroori hoti hain. Doosri wo jo deen ke liye hasil ki jaati hain. Inki wajah se insan ki tareef hoti hai aur Allah Ta'ala ka khaas qurb milta hai.
+Pehli wo hoti hain jo duniya ki zindagi ke liye zaroori hain. Doosri wo hoti hain jo deen ki wajah se insan ko milti hain. Inki wajah se log insan ki tareef karte hain aur Allah Ta'ala ka khaas qurb milta hai.
 
-Paidaishi khoobiyon mein khoobsurat hona, aqalmandi, samajhne ki taqat, achhi zubaan, dekhne-sunne aur doosre badan ke aaza ki mazbooti, theek-thaak harkatein, achha nasab aur apni qaum mein izzat shamil hain. Isi tarah khana, kapda, neend, ghar, biwiyan aur maal bhi zindagi ki zarooraton mein shamil hain.
+Kuchh khoobiyan insan ko paida hone ke saath milti hain. Misal ke taur par khoobsurat hona, aqalmand hona, baat samajhna, saaf aur achhi zubaan mein bolna, aankh, kaan aur badan ke doosre hisson ka mazboot hona, theek tarah chalna-phirna, achhe khandan se hona aur apni qaum mein izzat rakhna.
 
-Kabhi ye aakhri cheezein aakhirat ke liye bhi faidemand hoti hain, jab unse taqwa hasil karna aur badan ko aakhirat ke kaam ke liye mazboot karna maqsad ho. Lekin ye sab cheezein Shariat ki hudood aur uske qawaid ke mutabiq honi chahiye.
+Isi tarah khana, kapda, neend, ghar, biwi aur maal bhi duniya ki zarooraton mein shamil hain.
 
-Deeni khoobiyon mein achhe akhlaq, Shariat ke adab, ilm, sabr, shukr, insaf, saadgi, aajizi, maaf karna, paak-damani, sakhaawat, bahaduri, haya, doosron ka lihaz, khamoshi, sukoon, waqar, meharbani aur achha bartao shamil hain. In tamam khoobiyon ko milakar husn-e-akhlaq kaha jaata hai.
+Ye cheezein aakhirat mein bhi kaam aa sakti hain, jab insan inke zariye Allah ke kareeb hone ki koshish kare aur apne badan ko aakhirat ke kaamon ke liye taqat de. Lekin ye sab Shariat ki batayi hui had aur tareeqe ke mutabiq hona chahiye.
 
-In mein se kuchh khoobiyan kisi insan mein paidaishi hoti hain aur kuchh mehnat se hasil ki jaati hain. Lekin jo khoobi paidaishi taur par kisi ki fitrat mein ho, usse hasil karna zyada aasaan hota hai. Jaisa ke hum aage bayan karenge, agar in akhlaq aur aadaton se Allah ki raza aur aakhirat ki kamyabi maqsad na ho to ye sirf dunyawi khoobiyan reh jaati hain. Phir bhi samajhdar log is baat par muttahid hain ke ye sab achhi khoobiyan hain, chahe unke achha hone ki wajah ke baare mein unki raaye alag ho.
+Deen ki achhi sifaton mein achha akhlaq, Shariat ka adab, ilm, sabr, shukr, insaf, duniya se be-raghbati, aajizi, maaf karna, paak-daamani, sakhaawat (khule dil se ata karna), bahaduri, haya, doosron ka lihaz, kam bolna, sukoon, waqar (izzat aur sanjeedgi), meharbani aur achha bartao shamil hain. In sab ko milakar husn-e-akhlaq kaha jaata hai.
 
-## Pehli Fasl: Huzoor ﷺ Mein Tamam Khoobiyan Jama Thin
+In mein se kuchh sifatein insan ko paida hone se milti hain aur kuchh mehnat karke hasil karni padti hain. Lekin jis khoobi ki buniyad insan ki fitrat mein pehle se ho, use hasil karna zyada aasaan hota hai.
 
-Jaisa ke upar bayan hua, agar kisi insan mein ek ya do khoobiyan jama ho jaayen to wo apne zamane mein izzat wala maana jaata hai. Koi nasab ki sharafat mein mashhoor hota hai, koi sakhaawat mein aur koi bahaduri mein.
+Jaisa ke hum aage batayenge, agar in achhi aadaton ka maqsad Allah ki raza aur aakhirat ki kamyabi na ho to ye sirf duniya ki khoobiyan reh jaati hain. Phir bhi aqalmand log is baat par sab raazi hain ke ye sab achhi sifatein hain, chahe inke achha hone ki wajah ke baare mein unki raaye alag ho.
 
-Phir us paak zaat ke baare mein tum kya soch sakte ho jis mein har tarah ki khoobi jama ho aur jinki koi aakhri had na ho? Un khoobiyon ka poora bayan koi nahin kar sakta aur na koi un sab ko apne andar paida kar sakta hai. Ye sab Allah Ta'ala ki ata hai.
+## Pehli Fasl: Huzoor ﷺ Mein Har Achhi Khoobi Jama Hai
 
-Huzoor ﷺ ko Risalat, Allah ki muhabbat, chuninda hona, buland maqam, Isra, Allah ka deedar aur qurb, shafaat, wahi, Maqam-e-Mahmood, Buraaq, Meraj, Arab aur Ajam dono ki taraf Rasool hona, Ambiya ke saath namaz padhna, pehle Nabiyon aur unki ummaton par gawah hona, Adam <sup>عليه السلام</sup> ki aulaad ka sardaar hona, Liwa-ul-Hamd, khushkhabri aur dar sunana, amanat, hidayat, saare jahaan ke liye rahmat, Allah ki raza ka maqam, Kausar, nematon ka poora hona, zikr ka buland hona, sukoon ka utarna, farishton ki madad, Quran-e-Azeem, Aap ﷺ ke naam ki qasam, pathron aur goonge logon ka baat karna, murdon ko zinda karna, ungliyon se paani nikalna, ghaib ki khabar dena, baadalon ka saaya aur kankariyon ka Kalima padhna ata hua.
+Jaisa ke hum bata chuke hain, agar kisi insan mein ek ya do achhi sifatein bhi jama ho jaayen to log use izzat dete hain. Koi apne achhe khandan ki wajah se mashhoor hota hai, koi sakhaawat (khule dil se ata karne) ki wajah se aur koi bahaduri ki wajah se.
 
-Aakhirat mein bhi Aap ﷺ ke liye bohot bade martabe hain. Humari aqal Aap ﷺ ki shaan tak pahunchne se pehle hi ruk jaati hai.
+Ab us paak zaat ke baare mein socho jis mein har achhi khoobi jama hai aur jinki koi had hi nahin hai. Un sab khoobiyon ko poori tarah bayan karna kisi ke bas mein nahin. Kisi insan ke liye bhi un sab khoobiyon ko hasil karna mumkin nahin. Ye sirf Allah Ta'ala ki ata hai.
+
+Allah Ta'ala ne Huzoor ﷺ ko Risalat, apni muhabbat, Isra-o-Meraj, deedar-o-qurb, wahi, shafaat, Maqam-e-Mahmood, Buraaq, Kausar aur Liwa-ul-Hamd jaise azeem fazail ata farmaye. Aap ﷺ Arab-o-Ajam ke Rasool, Adam <sup>عليه السلام</sup> ki aulaad ke sardaar, Ambiya ke saath namaz padhne wale, pehle Nabiyon aur unki ummaton par gawah, aur saare jahaan ke liye rahmat hain. Allah ne Aap ﷺ ko amanat-o-hidayat, Quran-e-Azeem, buland zikr, sukoon, farishton ki madad aur be-shumar mojize ata farmaye; Aap ﷺ ko khushkhabri aur dar sunane wala banaya, apni raza se nawaza aur Aap ﷺ ke naam ki qasam khai.
+
+In mojizon mein pathron aur goonge logon ka baat karna, murdon ko zinda karna, Aap ﷺ ki ungliyon se paani nikalna, ghaib ki khabar dena, baadalon ka saaya karna aur kankariyon ka Kalima padhna shamil hai.
+
+Aakhirat mein bhi Aap ﷺ ke liye bohot bade martabe hain. Humari aqal Aap ﷺ ki shaan ko poori tarah samajh hi nahin sakti.
 
 ## Dusri Fasl: Huzoor ﷺ Ka Huliya Mubarak
 
-Huzoor ﷺ logon mein sab se buland, izzat aur martabe mein sab se bade aur khoobiyon mein sab se zyada kamil hain. Allah Ta'ala mere aur tumhare dilon ko imaan ke noor se roshan kare aur hum sab mein Huzoor ﷺ ki muhabbat ko aur zyada kare.
+Huzoor ﷺ sab logon se zyada buland martabe wale, sab se zyada izzat wale aur khoobiyon mein sab se zyada kamil hain. Allah Ta'ala mere aur tumhare dilon ko imaan ke noor se roshan kare aur hum sab ke dil mein Huzoor ﷺ ki muhabbat aur badha de.
 
-Ab Huzoor ﷺ ke husn ka bayan suno. Aap ﷺ ki soorat, chehre ka husn aur jism ke har hisse ka theek anupat kai mashhoor ahadees se sabit hai. Kai Sahaba se riwayat hai ke Huzoor ﷺ ka rang gora tha, aankhein badi aur siyah thin aur un mein surkh dore the. Aap ﷺ ki palkein lambi, chehra roshan, bhaunhein bareek, naak unchi, daant chamakte hue, chehra gol aur peshani khuli hui thi.
+Ab Huzoor ﷺ ke khoobsurat huliye ka bayan suno. Aap ﷺ ki soorat, chehre ka husn aur badan ke har hisse ka best hona kai mashhoor ahadees se sabit hai.
 
-Aap ﷺ ki daadhi mubarak ghani thi jo seene ko dhak leti thi. Seena aur pait hamwaar, seena chauda, kandhe bade, haddiyan mazboot aur bazu mote the. Kalaiyan, pindliyan aur hatheliyan khuli hui thin. Qadam chaude the. Seene se naaf tak baalon ki ek patli lakeer thi.
+Kai Sahaba se riwayat hai ke Huzoor ﷺ ka rang gora tha. Aankhein badi aur siyah thin aur un mein surkh dore the. Palkein lambi, chehra roshan, bhaunhein bareek, naak unchi, daant khoobsurat, chehra gol aur peshani khuli hui thi.
 
-Aap ﷺ ka qad na bohot chhota tha na bohot lamba. Phir bhi jab koi lamba aadmi Aap ﷺ ke saath khada hota to Aap ﷺ us se buland nazar aate. Ye Aap ﷺ ka mojiza tha. Aap ﷺ ke baal na bilkul seedhe the na bilkul ghungraale. Jab Aap ﷺ hanste to daant bijli ki tarah chamakte, baarish ke ole ki tarah saaf aur safed nazar aate. Jab Aap ﷺ baat karte to aisa lagta jaise Aap ﷺ ke daanton se noor ki kirnein nikal rahi hain.
+Aap ﷺ ki daadhi mubarak ghani thi aur seene ko dhak leti thi. Seena aur pait hamwaar (barabar aur seedhe) the. Seena chauda, kandhe bade, haddiyan mazboot aur bazu mote the. Kalaiyan, pindliyan aur hatheliyan khuli hui thin. Qadam chaude the. Seene se naaf tak baalon ki ek patli lakeer thi.
 
-Aap ﷺ ki gardan bohot khoobsurat thi. Aap ﷺ ka chehra na bohot bhara hua tha aur na bohot dubla, balki badan ke hisab se theek tha.
+Aap ﷺ ka qad na bohot chhota tha na bohot lamba. Phir bhi jab koi lamba aadmi Aap ﷺ ke saath khada hota to Aap ﷺ us se buland nazar aate. Ye Aap ﷺ ka mojiza tha.
+
+Aap ﷺ ke baal na bilkul seedhe the na bilkul ghungraale. Jab Aap ﷺ hanste to daant bijli ki tarah chamakte. Wo baarish ke ole ki tarah saaf aur safed nazar aate. Jab Aap ﷺ baat karte to aisa lagta jaise Aap ﷺ ke daanton se noor ki kirnein nikal rahi hain.
+
+Aap ﷺ ki gardan bohot khoobsurat thi. Aap ﷺ ka chehra na bohot bhara hua tha na bohot dubla. Balki badan ke hisab se bilkul theek tha.
 
 Hazrat Baraa bin Aazib <sup>رضي الله تعالى عنه</sup> farmate hain: Maine kisi aise baalon wale shakhs ko, jiske baal kandhon tak aate hon aur jisne surkh (red) kapde pehne hon, Huzoor ﷺ se zyada khoobsurat nahin dekha (Sunan Daarmi).
 
@@ -54,6 +64,329 @@ Huzoor ﷺ ki tareef hadees aur uski sharah mein bohot tafseel se likhi hui hai.
 
 ## Teesri Fasl: Huzoor ﷺ Ki Safai Aur Paakizgi
 
-Huzoor ﷺ ke jism mubarak ki safai, badan ki paakizgi, paseene ki khushbu aur har tarah ki kharabi se paak hona bhi Aap ﷺ ki khaas sifaton mein se hai. Allah Ta'ala ne ye khoobi Aap ﷺ ko khaas taur par ata farmayi, Aap ﷺ ke siwa kisi aur mein ye khoobi is tarah jama nahin hui.
+Huzoor ﷺ ka jism mubarak saaf tha, badan paak tha, paseene mein khushbu thi aur Aap ﷺ har tarah ki kharabi se paak the. Allah Ta'ala ne ye khaas khoobiyan Aap ﷺ ko ata farmayi thin. Aap ﷺ ke siwa kisi aur mein ye khoobiyan is tarah jama nahin thin.
 
-Allah ne Aap ﷺ ko Shariat ke mutabiq safai aur paakizgi di aur das paidaishi khoobiyon se bhi sajaya. Huzoor ﷺ farmate hain: Deen ki buniyad paakizgi par hai.
+Allah Ta'ala ne Aap ﷺ ko Shariat ke mutabiq safai aur paakizgi di aur paidaishi taur par milne wali das khoobiyon se bhi nawaza. Huzoor ﷺ farmate hain: Deen ki buniyad paakizgi par hai.
+
+Hadees: Hazrat Anas <sup>رضي الله تعالى عنه</sup> farmate hain: Huzoor ﷺ ke jism mubarak ki khushbu se zyada achhi khushbu mujhe na amber ki mili, na kasturi ki aur na kisi aur cheez ki (Sahih Muslim).
+
+Hadees: Hazrat Jabir bin Samurah <sup>رضي الله تعالى عنه</sup> kehte hain: Huzoor ﷺ ne jab mere rukhsar ko chhua to mujhe aisi thandak aur khushbu mili jaise Aap ﷺ ne abhi itr ki sheeshi se haath nikala ho (Sahih Muslim).
+
+Hazrat Jabir ke ilawa bhi riwayat hai ke Huzoor ﷺ ne khushbu lagai ho ya na lagai ho, jo bhi Aap ﷺ se musafaha karta, uska haath poore din khushbudaar rehta.
+
+Aap ﷺ kisi bachche ke sar par apna haath mubarak pher dete to wo bachcha khushbu se pehchana jaata.
+
+Ek baar Huzoor ﷺ Hazrat Anas <sup>رضي الله تعالى عنه</sup> ke ghar the. Aap ﷺ ko paseena aaya to Hazrat Anas ki walida ek sheeshi laayin aur paseena mubarak jama karne lagin. Huzoor ﷺ ne poocha to unhone arz kiya: Main ise apni khushbuon mein rakhungi.
+
+Imam Bukhari ne apni Tareekh-e-Kabeer mein likha hai ke jis jagah se Huzoor ﷺ guzarte, us jagah ki khushbu se pata chal jaata ke Aap ﷺ yahan se guzre hain.
+
+Ishaq bin Rahwiya kehte hain ke Huzoor ﷺ ke jism ki khushbu bina itr lagaye hi hoti thi.
+
+Huzoor ﷺ ke huliye ke bayan mein hai ke jab Aap ﷺ rafa-e-haajat (zaroorat poori karne) ka irada farmate to zameen shaq (phat) jaati aur Aap ﷺ ke bol-o-bazaar (jism se nikalne wali cheezein) ko zameen nigal leti. Wahan sirf khushbu mehsoos hoti. Kuchh ulama ka kehna hai ke Aap ﷺ ke bol-o-bazaar bhi paak the.
+
+Hadees: Hazrat Ali <sup>رضي الله تعالى عنه</sup> farmate hain: Jab maine Huzoor ﷺ ko ghusl diya to dekha ke mayyit ke jism se nikalne wali koi cheez Aap ﷺ ke jism mubarak se nahin nikli. Maine kaha: Ya RasoolAllah! Aap ﷺ zindagi mein bhi paak aur pakiza the aur wisaal ke baad bhi paak saaf hain. Phir Aap ﷺ ke jism mubarak se aisi khushbu nikli jo maine pehle kabhi nahin paai.
+
+Isi silsile mein ye bhi aata hai ke Malik bin Sinan ne jang mein Huzoor ﷺ ke zakhm ka khoon pee liya tha. Huzoor ﷺ ne unke liye ise jaiz rakha aur farmaya ke is khoon ko aag nahin chhooegi (Tabrani).
+
+Isi tarah ek aurat ne Huzoor ﷺ ka peshab pee liya. Huzoor ﷺ ne farmaya ke tumhein kabhi pait ki beemari nahin hogi. Huzoor ﷺ ne na use munh dhone ka hukm diya aur na dobara aisa karne se mana farmaya. Peshab mubarak peene wali ye hadees sahih hai.
+
+Huzoor ﷺ paida hi is haal mein hue ke Aap ﷺ khatna shuda (circumcised) the aur naaf kaat di gayi thi. Hazrat Aaminah <sup>رضي الله تعالى عنها</sup> farmati hain ke paidaish ke waqt bachche ke badan par jo gandagi hoti hai, wo Huzoor ﷺ ke badan par nahin thi.
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> farmati hain ke maine kabhi Huzoor ﷺ ke parde ke maqam ko nahin dekha. Hazrat Ali <sup>رضي الله تعالى عنه</sup> ko Huzoor ﷺ ne wasiyat farmayi thi ke koi bhi mere parde ke maqam ko na dekhe; jo dekhega wo andha ho jaayega.
+
+Huzoor ﷺ ek baar soye aur jaag kar namaz shuru farma di. Aap ﷺ ne wuzu nahin kiya. Hazrat Ikrimah farmate hain ke Huzoor ﷺ Allah ki hifazat mein the. Aap ﷺ ki neend aisi ghaflat wali nahin thi jisse wuzu toot jaata.
+
+## Chauthi Fasl: Huzoor ﷺ Ki Aqal Aur Samajh
+
+Huzoor ﷺ sab logon se zyada aqalmand the. Aap ﷺ ne na kisi se taleem li aur na kisi kitab ka mutala kiya. Ye Allah Ta'ala ki ata thi ke Aap ﷺ ko sab se zyada aqal di gayi. Jo shakhs Aap ﷺ ke faislon aur tadbeeron (kaam karne ke tareeqon) par ghaur karega, wo is baat ko samajh lega.
+
+Hazrat Wahab bin Munabbah farmate hain: Maine 71 purani kitabon mein padha hai ke Huzoor ﷺ sab se zyada aqalmand aur raaye mein sab se behtar honge. Ek riwayat mein hai ke maine padha: Kainaat banne se lekar Qiyamat tak sab logon ki aqal Huzoor ﷺ ki aqal ke saamne aisi hai jaise duniya bhar ki ret ke saamne ret ka ek zarra.
+
+Mujahid <sup>رضي الله تعالى عنه</sup> ne kaha: Huzoor ﷺ namaz mein apne peeche bhi waise hi dekhte the jaise saamne dekhte hain. Huzoor ﷺ khud farmate hain: Beshak main apni peeth ke peeche bhi tumhein dekhta hoon.
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> se riwayat hai ke Huzoor ﷺ andhere mein bhi waise hi dekhte the jaise roshni mein. Bahut si riwayaton mein hai ke Aap ﷺ ne jinnaat aur shayateen ko dekha. Bait-ul-Muqaddas Aap ﷺ ke saamne laya gaya to Aap ﷺ ne use dekh kar uski tareef bayan farmayi.
+
+Jab Huzoor ﷺ ne apni masjid banwayi to Kaaba Shareef Aap ﷺ ke saamne laya gaya. Ye bhi riwayat hai ke Aap ﷺ Suraiyya (Pleiades) ke 11 sitare dekh liya karte the.
+
+Huzoor ﷺ taqat mein bhi sab se zyada the. Aap ﷺ ne Rukana jaise pehalwan ko hara diya aur teen baar use zameen par pachhada.
+
+Hadees: Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> kehte hain: Maine chalne mein Huzoor ﷺ se zyada tez kisi ko nahin dekha. Aisa lagta tha jaise zameen Aap ﷺ ke liye lapet di jaati ho, jabki humein chalne mein mushkil hoti thi.
+
+Huzoor ﷺ ki ek khaas sifat ye thi ke Aap ﷺ ki hansi sirf muskurahat hoti thi. Jab Aap ﷺ kisi ki taraf tawajjo farmate to poori tawajjo dete aur jab chalte to achhi raftaar se chalte.
+
+## Paanchwi Fasl: Huzoor ﷺ Ki Saaf Aur Asar-daar Guftagu
+
+Huzoor ﷺ ki zubaan sab se zyada saaf thi aur Aap ﷺ ki baat sab se zyada asar wali thi. Aap ﷺ ki baat chhoti hoti, lekin us mein bohot gehra matlab hota.
+
+Aap ﷺ Arab ke muhavaron ko achhi tarah jaante the. Arab ke har qabile ki boli aur muhavare mein unse baat farmate. Kabhi Sahaba-e-Kiram ko bhi koi baat samajhne mein mushkil hoti to wo Aap ﷺ se uski tafseel poochte.
+
+Jo shakhs Huzoor ﷺ ki ahadees par ghaur karega, wo samajh lega ke Aap ﷺ har shakhs se uski samajh ke mutabiq baat farmate the. Aap ﷺ ne kai mulkon ke logon se baat farmayi. Badshahon ke paas bheje gaye Aap ﷺ ke khat is baat ko achhi tarah dikhate hain.
+
+[Hashiya: Is baab ko wahi log achhi tarah samajh sakte hain jo Arabi zubaan aur uske maani jaante hain. Sirf tarjuma kar dene se Arabi ki saaf aur asar-daar zubaan ka husn nazar nahin aata. Mazeed tafseel ke liye Shifa Shareef ka Arabi nuskha ya Huzoor ﷺ ki seerat par likhi hui kitabein dekhi jaayen.]
+
+Huzoor ﷺ farmate hain: Main sab se zyada saaf bolne wala hoon. Main Quraishi hoon aur Bani Saad mein parwarish paayi hai.
+
+Umme Maabad ne kaha: Aap ﷺ itni chhoti baat nahin karte the ke sunne wala matlab hi na samajh sake, aur na itni lambi baat karte the ke sunne wale ko bojh mehsoos ho. Aap ﷺ ki baat motiyon ki us ladi jaisi hoti thi jisme moti piro diye gaye hon.
+
+## Chhathi Fasl: Huzoor ﷺ Ka Khandan, Shehar Aur Parwarish
+
+Ye baat bilkul saaf hai ke Huzoor ﷺ Bani Hashim ke qabile aur Quraish ke sab se achhe khandan se hain. Nasab ke lihaz se Aap ﷺ poore Arab mein sab se afzal aur izzat wale hain. Aap ﷺ ka shehar Makka Allah Ta'ala aur uske bandon ke nazdeek tamam shehron se zyada muqaddas aur izzat wala hai.
+
+Hadees: Hazrat Abu Hurairah <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ farmate hain: Beshak mujhe Adam <sup>عليه السلام</sup> ki aulaad ke behtareen zamano mein, ek ke baad doosre behtareen zamane mein bheja gaya, yahan tak ke main us zamane mein bheja gaya jisme ab hoon.
+
+Hazrat Ibne Abbas <sup>رضي الله تعالى عنهما</sup> se riwayat hai ke Huzoor ﷺ ne farmaya: Allah Ta'ala ne makhlooq paida karke mujhe unke behtareen zamane mein paida farmaya. Phir qabilon mein se behtareen qabila chuna aur mujhe us mein rakha. Phir gharanon mein se behtareen gharana chuna aur mujhe us mein paida farmaya. Isliye main un sab mein behtareen shakhs aur behtareen gharane se hoon.
+
+Isi tarah kai riwayaton mein aaya hai ke Huzoor ﷺ ka paak nasab behtareen buzurgon se hota hua Aap ﷺ tak pahuncha aur Aap ﷺ sab se behtareen khandan mein paida hue.
+
+## Saatwi Fasl: Zindagi Ki Zarooraton Ki Pehli Qism
+
+Is qism mein teen baatein shamil hain: kam hone ki khoobi, zyada hone ki khoobi aur alag-alag haalat.
+
+Kam khana aur kam sona hamesha se achha samjha gaya hai. Iske muqable mein zyada khana aur zyada sona bura samjha jaata hai, kyunki ye lalach aur nafs ki khwahish badhne ki nishani hai. Nafs ki khwahish ka zyada ho jaana duniya aur aakhirat dono ke liye nuqsan-deh hai.
+
+Kam khana-peena aqal ko tez karta aur nafs ki khwahish ko kam karta hai. Ye baat itni saaf hai ke iske liye alag se daleel dene ki zaroorat nahin. Isi par hum iktifa karte hain (sirf itna hi bayan karte hain).
+
+Huzoor ﷺ ne neend aur khane-peene dono mein bohot kam hissa liya. Ye Aap ﷺ ki mubarak aadatein hain, jin par kisi ko inkar ki gunjaish nahin. Aap ﷺ ne khaas taur par in dono ki hidayat bhi di, kyunki neend aur khane-peene ka aapas mein gehra taalluq hai.
+
+Hadees: Huzoor ﷺ ne farmaya: Adam ki aulaad ne pait se badhkar koi bura bartan nahin bhara. Adam ki aulaad ke liye kuchh luqme kaafi the jo uski zindagi ko baqi rakhte. Agar zyada khana zaroori ho to pait ka ek hissa paani, ek hissa khane aur ek hissa saans ke liye rakhe. Zyada sona bhi asal mein zyada khane-peene ki wajah se hota hai.
+
+Sufyan Sauri kehte hain: Kam khana raat ko jaagne mein madad deta hai. Salaf ke kuchh ulama farmate hain: Zyada na khao, zyada na piyo aur zyada na soyo, warna tumhein zyada nuqsan hoga.
+
+Huzoor ﷺ ko sab se pasand wo khana tha jise milkar khaya jaaye, yani jise khane par zyada haath paden (Bukhari).
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> se riwayat hai ke Huzoor ﷺ ne kabhi pait bhar kar khana nahin khaya. Jab Aap ﷺ ghar tashreef laate to khana talab na farmate aur na khwahish zahir karte. Jo kuchh pesh kiya jaata, Aap ﷺ use qabool farma lete.
+
+Hazrat Luqman ki hikmat mein hai: Aye mere bete! Jab tum pait bhar loge to tumhari soch so jaayegi aur tumhari hikmat khamosh ho jaayegi.
+
+Sahnoon <sup>رحمة الله عليه</sup> ne kaha: Us shakhs ke ilm se faida nahin hota jo itna khaaye ke uska pait bhar jaaye.
+
+Hadees mein hai ke Huzoor ﷺ ne farmaya: Khabardaar! Main tek laga kar nahin khaata.
+
+Tek laga kar khane se insan bohot zyada kha leta hai. Huzoor ﷺ is tarah khana khate ke dono ghutne khade rakh kar pairon ke bal baithte. Aap ﷺ farmate: Main Allah ka banda hoon aur usi tarah khata hoon jaise ek ghulam khata hai, aur usi tarah baithta hoon jaise ek ghulam baithta hai.
+
+Isi tarah Huzoor ﷺ bohot kam sote the. Aap ﷺ ne farmaya: Meri aankhein soti hain, lekin mera dil nahin sota.
+
+Huzoor ﷺ dahini karwat par sote the. Is tarah kam sone mein madad milti hai, kyunki dil aur kuchh andarooni aaza baayin taraf hote hain.
+
+## Aathwi Fasl: Zindagi Ki Zarooraton Ki Dusri Qism
+
+Is qism mein wo cheezein shamil hain jinka zyada hona aam taur par tareef aur fakhr ka sabab samjha jaata hai, jaise nikah aur buland martaba.
+
+Nikah Shariat ke nazdeek pasandida hai. Ye sehat aur mardangi ki nishani hai. Zyada nikah hone par bhi purane zamane se tareef ki jaati rahi hai.
+
+Hazrat Ibne Abbas <sup>رضي الله تعالى عنهما</sup> ne kaha: Jis shakhs ki biwiyan zyada hon, wo is maamle mein afzal hai (Bukhari). Is baat mein unka ishara Huzoor ﷺ ki taraf hai.
+
+Huzoor ﷺ ne farmaya: Nikah karo aur aulaad badhao, kyunki main Qiyamat ke din tumhari zyada tadaad par doosri ummaton ke saamne fakhr karunga. Phir farmaya: Jise nikah ki taqat ho, use nikah karna chahiye, kyunki nikah nigah ko neecha rakhta hai.
+
+Ulama ne nikah ko Allah ki ibadat se doori ke khilaf nahin maana. Sehl bin Abdullah kehte hain: Huzoor ﷺ ko biwiyan pasand thin. Phir is mein Allah ki ibadat se doori kaise ho sakti hai?
+
+Ibne Uyainah ne kaha: Sahaba mein jo log duniya se be-raghbat the, unke paas bhi biwiyan aur laundiyan (bandiyan) thin. Yani unki biwiyan zyada thin. Hazrat Ali, Hazrat Hasan aur Hazrat Ibne Umar <sup>رضي الله تعالى عنهم</sup> zyada biwiyon ke liye mashhoor the.
+
+Aksar ulama ne is baat ko na-pasand kiya hai ke koi aadmi kunwara reh kar Allah ke paas pahunche.
+
+Agar poocha jaaye ke Hazrat Yahya, Hazrat Zakariya aur Hazrat Isa <sup>عليهم السلام</sup> ki tareef ki gayi hai, halanki wo auraton se door rahe, to iska jawab ye hai ke unka auraton se door rehna namard hone ki wajah se nahin tha. Wo masoom the, zina se bache hue the aur nafs ki buri khwahishon se paak the.
+
+Huzoor ﷺ ne farmaya: Tumhari duniya ki do cheezein mujhe pasand hain: ek aurat aur doosri khushbu. Ye dono cheezein duniya ki lazzat ke liye hain, lekin Huzoor ﷺ ke liye maamla aisa nahin tha.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ ek hi din aur raat mein gyarah auraton ke paas tashreef le jaate. Hazrat Anas kehte hain ke hum aapas mein baat karte the ke Huzoor ﷺ ko 30 mardon ki taqat di gayi hai. Ek riwayat mein 40 mardon ki taqat ka zikr hai.
+
+## Nawi’n Fasl: Do Mazeed Qismon Ka Bayan
+
+Teesri qism un alag haalat ki hai jin ki wajah se tareef ki jaati hai aur jinhein fakhr ka sabab samjha jaata hai. In mein ek zyada maal ka hona hai.
+
+Aam logon ki nazar mein maal-daar aadmi bada samjha jaata hai, lekin sirf maal-daar hona apne aap mein koi fazilat nahin. Maal-daar apna maal Allah ki raah mein kharch kare to ye fazilat hai. Lekin jo kanjoos ho aur maal jama karne ka lalach rakhe, wo tareef ke laiq nahin.
+Agar maal-daar apna maal Allah ki raah mein kharch kare to uski fazilat hai. Lekin agar wo kanjoos ho aur maal jama karne ka lalach rakhe to uski tareef nahin ki ja sakti.
+
+Huzoor ﷺ ko zameen ke khazane aur shehron ki kunjiyan di gayin. Maal-e-ghaneemat (jang mein haasil hone wala maal) bhi Aap ﷺ ke liye halal kiya gaya, jo pehle kisi Nabi ke liye halal nahin kiya gaya tha. Har taraf se maal Aap ﷺ ke paas aata, lekin Aap ﷺ apne liye kuchh na rakhte. Aap ﷺ sab maal uski jagah kharch kar dete, doosron ko maal-daar banate aur Musalmanon ko mazboot karte.
+
+Aap ﷺ farmate: Mujhe ye pasand nahin ke mere paas Uhud pahaad ke barabar sona ho aur raat ko mere paas ek dinar bhi bach jaaye, siwaye us dinar ke jo qarz ada karne ke liye rakha ho.
+
+Ek baar Huzoor ﷺ ki bargah mein bohot se ashrafiyan aayin. Aap ﷺ ne sab taqseem kar din. Chhe ashrafiyan bach gayin to Aap ﷺ ne ek biwi ko de din. Phir Aap ﷺ ko neend na aayi, isliye wo bhi taqseem kar din aur farmaya: Ab mujhe chain aur sukoon mila.
+
+Aap ﷺ ne is duniya se wisaal farmaya to Aap ﷺ ki zirah ghar ke kharch ke liye girwi rakhi hui thi. Rehne, khane aur pehenne mein Aap ﷺ ne sirf utna hi rakha jitne se zaroorat poori ho jaaye. Aap ﷺ ka aksar libaas imama, mote kapde ki chadar aur ghana tehband (kamar par bandhne wala kapra) hota.
+
+Libaas aur zeenat mein zyada dikhawa aur shaan-o-shaukat koi fazilat nahin. Ye auraton ki zeenat hai. Behtar libaas wo hai jo paak-saaf aur beech ka ho.
+
+## Duswi Fasl: Huzoor ﷺ Ki Mazeed Khaas Sifatein
+
+Allah Ta'ala farmata hai: “Beshak tumhari bohot badi shaan hai.”
+
+Huzoor ﷺ mein har khoobi kamal ki bulandi ke saath thi. Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> farmati hain: Aap ﷺ ka akhlaq Quran tha. Quran jis baat ko pasand karta, Aap ﷺ use pasand karte, aur jis baat ko na-pasand karta, Aap ﷺ use na-pasand karte.
+
+Huzoor ﷺ farmate hain: Mujhe isliye bheja gaya hai ke main achhe akhlaq ko kamil kar doon.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> kehte hain: Huzoor ﷺ akhlaq mein sab se behtar the.
+
+Ye Allah Ta'ala ki ata hai ke Huzoor ﷺ mein shuru se hi achhi sifatein maujood thin. Doosre Ambiya <sup>عليهم السلام</sup> ke bachpan ke halaat par ghaur karne se bhi maloom hota hai ke Allah Ta'ala unhein bachpan hi se khaas khoobiyan ata farmata hai.
+
+Allah Ta'ala farmata hai: “Aur humne use bachpan mein Nubuwwat di” (Maryam: 12).
+
+Mufassireen farmate hain ke Hazrat Yahya <sup>عليه السلام</sup> ko bachpan hi mein Allah ki kitab ka ilm de diya gaya tha.
+
+Hazrat Isa <sup>عليه السلام</sup> ne paida hote hi baat ki. Quran mein hai: “Main Allah ka banda hoon. Usne mujhe kitab di aur mujhe ghaib ki khabrein batane wala Nabi banaya” (Maryam: 30).
+
+Hazrat Sulaiman <sup>عليه السلام</sup> ko 12 saal ki umr mein badshahat di gayi. Hazrat Musa <sup>عليه السلام</sup> ne bachpan hi mein Firaun ki daadhi pakad li thi. Allah Ta'ala ne Hazrat Ibrahim <sup>عليه السلام</sup> ko bhi bohot kam umr mein apni khaas hidayat ata farmayi.
+
+Kuchh logon ne kaha ke Hazrat Ibrahim <sup>عليه السلام</sup> ki paidaish ke baad hi ek farishta Aap <sup>عليه السلام</sup> ke paas aaya aur Allah ka hukm sunaya. Jab Aap <sup>عليه السلام</sup> ko aag mein dala gaya to Aap <sup>عليه السلام</sup> ki umr 16 saal thi.
+
+Hazrat Ismail <sup>عليه السلام</sup> ko qurbani ki aazmaish mein dala gaya to Aap <sup>عليه السلام</sup> ki umr 7 saal thi. Hazrat Ibrahim <sup>عليه السلام</sup> ne jab chand aur suraj se Allah ke wajood par daleel di to Aap <sup>عليه السلام</sup> ki umr 15 mahine thi.
+
+Humare Nabi ﷺ ki wiladat ke waqt Hazrat Aaminah <sup>رضي الله تعالى عنها</sup> farmati hain ke Aap ﷺ ne apne haath zameen par phailaye aur sar mubarak aasman ki taraf uthaya.
+
+Ek hadees mein hai ke Huzoor ﷺ ne farmaya: Mujhe shuru hi se but-parasti aur sher-o-shayari se nafrat thi.
+
+Ek bahas ye hai ke achha akhlaq insan khud hasil karta hai ya Allah ki ata se milta hai. Salaf ke kuchh ulama ne Tabari <sup>رحمة الله عليه</sup> se naqal kiya hai ke achha akhlaq insan mein paidaishi hota hai.
+
+Huzoor ﷺ ne farmaya: Momin ki fitrat har khoobi par banayi gayi hai, siwaye khayanat aur jhoot ke. Khayanat aur jhoot insan khud apnata hai.
+
+Hazrat Umar bin Khattab <sup>رضي الله تعالى عنه</sup> se riwayat hai: Bahaduri aur buzdili dono paidaishi hoti hain. Allah Ta'ala jise chahta hai, ye sifatein us mein rakh deta hai.
+
+Achhe akhlaq aur khoobsurat sifatein bohot zyada hain. Hum yahan un sab ka tafseeli bayan nahin karenge, balki sirf unki buniyadi baaton ki taraf ishara karenge aur Huzoor ﷺ ki mubarak sifaton ka bayan karenge, Insha Allah Ta'ala.
+
+## Gyarahwi Fasl: Huzoor ﷺ Ke Mukhtalif Fazail
+
+Allah Ta'ala ne Huzoor ﷺ ko bohot zyada ilm ata farmaya. Aap ﷺ ko pichhli ummaton ki tareekh aur unke waqiat, logon ke maamlaat, Shariat ke ahkaam, achhe adab ke usool aur mukhtalif uloom ka ilm diya gaya.
+
+Ulama ne apne ilm mein Huzoor ﷺ ki baaton ko rehnuma aur daleel banaya. Is mein khwab ki taabeer batana, tibb (medical ilm), hisaab (maths), faraiz aur nasab ka ilm bhi shamil hai. In sab ka bayan hum Insha Allah Huzoor ﷺ ke mojizat mein karenge.
+
+Huzoor ﷺ ne na kisi madrase mein padha, na purani kitabon ka mutala kiya aur na unke ulama ki majlis mein baithe. Phir bhi Allah Ta'ala ne Aap ﷺ ka seena mubarak khol diya, apne raaz zahir kiye, Aap ﷺ ko ilm sikhaya aur padhaya. Ye Aap ﷺ ki Nubuwwat ki badi daleel hai.
+
+Allah Ta'ala ne Huzoor ﷺ ko guzri hui aur aane wali sab baaton ka ilm ata farmaya. Allah farmata hai: “Aur Allah ne Aap ﷺ ko wo sab sikhaya jo Aap ﷺ nahin jaante the, aur Aap ﷺ par Allah ka bohot bada fazl hai” (Nisa: 113).
+
+Aap ﷺ par Allah ke fazl ka andaza lagane se aqlein thak jaati hain aur zubanein khamosh ho jaati hain.
+
+## Barahwi Fasl: Huzoor ﷺ Ka Hilm Aur Sabr
+
+Hilm ka matlab hai: Gussa dilane wali baaton ke waqt bhi apne aap par qabu rakhna. Burdbaari ka matlab hai: Musibat aur pareshani mein apne aap ko sambhalna aur use bardasht karna. Sabr bhi isi ke qareeb hai. Afw ka matlab hai: Badla lene ki qudrat hone ke bawajood badla na lena aur maaf kar dena.
+
+Allah Ta'ala ne apne Nabi ﷺ ko in sab khoobiyon se nawaza. Allah farmata hai: “Aye Mahboob! Maaf karna ikhtiyar karo aur bhalai ka hukm do” (Aaraaf: 199).
+
+Is aayat ke baare mein Hazrat Jibreel <sup>عليه السلام</sup> ne Huzoor ﷺ ki bargah mein arz kiya: Allah Ta'ala Aap ﷺ ko hukm deta hai ke jo Aap ﷺ se rishta todta hai, Aap ﷺ usse rishta jodein; jo Aap ﷺ ko kuchh nahin deta, Aap ﷺ use ata farmayein; aur jo Aap ﷺ par zulm karta hai, Aap ﷺ use maaf farma dein.
+
+Allah Ta'ala farmata hai: “Aur jo museebat tum par aaye, us par sabr karo” (Luqman: 17).
+
+Aur farmata hai: “Isliye sabr karo jaise himmat wale Rasoolon ne sabr kiya” (Ahqaaf: 35).
+
+Aur farmata hai: “Aur chahiye ke maaf karein aur dar-guzar karein” (Noor: 22).
+
+Aur farmata hai: “Beshak jo sabr kare aur maaf kar de, ye himmat ke kaamon mein se hai” (Shoora: 43).
+
+Huzoor ﷺ ko logon ki taraf se jitni takleefein pahunchti, Aap ﷺ ka sabr utna hi badhta jaata. Nasamajh log jitni zyada badtameezi karte, Aap ﷺ ka hilm (gusse ke waqt bhi apne aap par qabu) utna hi zyada zahir hota.
+
+Hadees: Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> se riwayat hai ke jab Huzoor ﷺ ko do baaton mein se ek chunne ka ikhtiyar diya jaata to Aap ﷺ hamesha aasaan baat ko pasand farmate, jab tak us mein gunah na hota. Lekin agar us mein gunah hota to Aap ﷺ logon se sab se zyada door rehte.
+
+Aap ﷺ ne kabhi apne liye badla nahin liya, siwaye us waqt jab Allah Ta'ala ki hudon ki be-hurmati ki jaati.
+
+Junge Uhud mein dushmanon ne Huzoor ﷺ ko takleef pahunchai aur Aap ﷺ ka chehra mubarak zakhmi kar diya. Sahaba <sup>رضي الله تعالى عنهم</sup> ko ye baat bohot buri lagi. Unhone arz ki ke Huzoor ﷺ dushmanon ke liye baddua farmayein.
+
+Huzoor ﷺ ne farmaya: Main baddua karne ke liye nahin bheja gaya. Aye Allah! Meri qaum ko hidayat de.
+
+Hazrat Umar <sup>رضي الله تعالى عنه</sup> ne ek baar Huzoor ﷺ se arz ki: Ya RasoolAllah! Hazrat Nooh <sup>عليه السلام</sup> ne apni qaum ke khilaf dua ki thi aur un par azaab aa gaya tha. Agar Aap ﷺ bhi aisi dua farmate to hum halaak ho jaate. Lekin Aap ﷺ ka chehra mubarak zakhmi kiya gaya, phir bhi Aap ﷺ ki zubaan se achhi baat hi nikli.
+
+Qaazi Iyaaz <sup>رحمة الله عليه</sup> farmate hain: Huzoor ﷺ ki meharbani aur achhe akhlaq par ghaur karo. Aap ﷺ ne sirf azaab ki baddua se parhez hi nahin kiya, balki unhein maaf bhi farmaya aur dua ki: Allah inhein hidayat de. Phir farmaya: Ye nasamajh log hain.
+
+Is par bhi ghaur karo ke ek shakhs ne Huzoor ﷺ se kaha: Insaf kijiye! Aap ﷺ ne use samjhaya aur farmaya: Tum par afsos hai! Agar main insaf nahin karunga to kaun karega? Ek Sahabi us shakhs ko maarna chahte the, lekin Huzoor ﷺ ne unhein mana farma diya.
+
+Ek baar Huzoor ﷺ darakht ke neeche aaram farma rahe the. Ek shakhs ne Aap ﷺ ko qatl karne ka irada kiya, lekin Aap ﷺ ne use bhi maaf farma diya.
+
+Huzoor ﷺ ki meharbani aur maaf karne ke waqiat mein us yahoodiya ka waqia bhi hai jisne Aap ﷺ ke khane mein zehar mila diya tha. Isi tarah jis shakhs ne Aap ﷺ par jadoo kiya tha, Aap ﷺ ne usse bhi koi poochh-gachh nahin ki, halanki wahi ke zariye Aap ﷺ ko uske poore haal ka ilm ho gaya tha.
+
+Abdullah bin Ubai munafiq aur kai doosre munafiqon ko bhi Huzoor ﷺ ne qatl nahin karwaya.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> kehte hain: Main Huzoor ﷺ ke saath tha. Aap ﷺ ne mote kinare wali chadar odh rakhi thi. Ek dehaati ne use itni zor se kheencha ke Aap ﷺ ki gardan mubarak par nishan pad gaya.
+
+Phir usne kaha: Aye Muhammad ﷺ! Jo maal Allah ne Aap ﷺ ko diya hai, us mein se mere in dono oonton par maal laad dijiye. Aap ﷺ mujhe na apne maal mein se dete hain na apne baap ke maal mein se.
+
+Huzoor ﷺ khamosh rahe. Phir Aap ﷺ ne sirf itna farmaya: Maal to Allah hi ka hai aur main uska banda hoon.
+
+Phir Aap ﷺ ne farmaya: Aye dehaati! Tumne mere saath jo kiya hai, uska badla tumse liya jaayega.
+
+Usne kaha: Nahin, badla nahin liya jaayega.
+
+Aap ﷺ ne poocha: Kis wajah se?
+
+Usne kaha: Isliye ke Aap ﷺ ki aadat hi nahin ke burai ka badla burai se lein.
+
+Huzoor ﷺ muskura diye. Phir hukm diya ke uske dono oonton ko jau aur khajoor se bhar diya jaaye (Bukhari).
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> farmati hain: Maine Huzoor ﷺ ko kabhi zulm ka badla lete nahin dekha. Jihad ke siwa Aap ﷺ ne kabhi kisi ko nahin maara, na biwi ko aur na khadim ko.
+
+Ek shakhs ne Huzoor ﷺ se apne qarz ka sakhti se mutalba kiya. Hazrat Umar <sup>رضي الله تعالى عنه</sup> ne use daraaya, lekin Huzoor ﷺ ne us shakhs ko uske qarz se zyada de diya.
+
+Isi wajah se wo Islam le aaya. Usne kaha: Maine Huzoor ﷺ ke chehra-e-anwar se Nubuwwat ki sab nishaniyan pehchan li thin, sirf do baatein baqi thin jinhein maine aazmaya nahin tha. Pehli ye ke Aap ﷺ ne kisi insani ustaad se taleem na paane ke bawajood hilm ikhtiyar farmaya, aur doosri ye ke Aap ﷺ ka zahiri taur par kisi se taleem na lena Aap ﷺ ke hilm ko aur zyada numayan karta tha.
+
+Usne dono baaton ko aazma liya aur waisa hi paaya jaisa pichhli aasmani kitabon mein Huzoor ﷺ ki tareef likhi hui thi.
+
+Ahadees mein Huzoor ﷺ ki taqat aur badla lene ki poori qudrat ke bawajood maaf kar dene ke itne waqiat hain ke hum yahan sab bayan nahin kar sakte.
+
+Huzoor ﷺ ko jahil kafiron ki taraf se har waqt takleefein pahunchti rehti thin. Allah Ta'ala ne Aap ﷺ ko un par ghalib kar diya aur fatah ata farmayi. Jab Aap ﷺ hakim hue to sab log samajh rahe the ke ab unse badla liya jaayega, lekin Huzoor ﷺ ne sab ko maaf farma diya.
+
+Jab Abu Sufyan ko giraftar karke laya gaya to Huzoor ﷺ ne unhein bhi maaf farma diya aur narmi se baat ki. Aap ﷺ ne farmaya: Aye Abu Sufyan! Kya abhi wo waqt nahin aaya ke tum Islam qabool kar lo?
+
+Unhone kaha: Mere maa-baap Aap ﷺ par qurban hon! Aap ﷺ kitne haleem, milansaar aur kareem hain.
+
+Huzoor ﷺ logon ki nisbat gusse se bohot door rehte aur khushi ke mauqe par logon ki taraf jaldi mutawajjah hote.
+
+## Pandrahwi Fasl: Huzoor ﷺ Ka Jood-o-Karam Aur Sakhaawat
+
+Karam ka matlab hai dil ki khushi se un kaamon mein maal kharch karna jin mein faida ho. Isse jurrat bhi kehte hain. Ye kanjoosi ke bilkul khilaf hai.
+
+Sakhaawat ka matlab hai dil ki khushi se apna wo haq bhi chhod dena jo kisi doosre ke paas ho. Ye bukhl (kanjoosi) ke khilaf hai. Sakhaawat ye bhi hai ke insan aasani se maal kharch kare aur na-pasand baaton se bacha rahe. Isse jood kehte hain, jo tang-dili ke khilaf hai. In akhlaq mein bhi Huzoor ﷺ ka koi barabar nahin tha.
+
+Hadees: Hazrat Jabir bin Abdullah <sup>رضي الله تعالى عنه</sup> se riwayat hai ke jab bhi koi Huzoor ﷺ se kuchh maangta to Aap ﷺ kabhi “laa” yani “nahin” nahin farmate the.
+
+Hazrat Ibne Abbas <sup>رضي الله تعالى عنهما</sup> farmate hain: Huzoor ﷺ sab logon se zyada sakhi the. Ramazan Mubarak mein Aap ﷺ ki sakhaawat aur bhi zyada badh jaati. Jab Hazrat Jibreel <sup>عليه السلام</sup> Aap ﷺ ki bargah mein aate to Aap ﷺ tez hawa se bhi zyada bhalai karte aur maal ata farmate.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> se riwayat hai ke ek shakhs ne kuchh maanga to Huzoor ﷺ ne use do pahadon ke darmiyan ki bakriyan ata farma di. Wo apni qaum mein gaya aur kaha: Musalman ho jao! Beshak Muhammad ﷺ itna dete hain ke faaqe ka dar nahin rehta.
+
+Huzoor ﷺ ne bohot se logon ko 100 oont ata farmaye. Safwan ko pehle 100 oont diye, phir 100 aur diye. Aap ﷺ ki ye aadat Nubuwwat se pehle bhi thi. Warqa bin Naufal ne kaha: Aap ﷺ sab ko dete hain aur aakhirat ki bhalai kamate hain.
+
+Huzoor ﷺ ne Hazrat Abbas <sup>رضي الله تعالى عنه</sup> ko itna sona diya ke wo use utha nahin sakte the. Ek baar Huzoor ﷺ ki khidmat mein 900,000 dirham aaye. Aap ﷺ ne unhein taqseem karna shuru kiya aur kisi ko khaali haath nahin lautaya. Jab sab khatam ho gaye aur ek maangne wala aaya to Huzoor ﷺ ne farmaya: Tum mere naam par udhaar le kar apni zaroorat poori kar lo. Jab mere paas maal aayega to main wo udhaar ada kar dunga.
+
+Ansaar mein se ek shakhs ne arz ki: Huzoor ﷺ kharch kijiye, Arsh ke Malik Allah se kami ka khauf na kijiye. Huzoor ﷺ muskura diye aur Aap ﷺ ke chehra-e-anwar par khushi nazar aane lagi. Aap ﷺ ne farmaya: Mujhe isi baat ka hukm diya gaya hai.
+
+Kuchh log kehte hain ke Huzoor ﷺ kal ke liye kabhi koi cheez jama karke nahin rakhte the. Huzoor ﷺ ki jood-o-karam ki riwayatein bohot zyada hain.
+
+## Chaudahwi Fasl: Huzoor ﷺ Ki Shuja'at Aur Bahaduri
+
+Shuja'at ka matlab hai gusse ki taqat hote hue bhi use aqal ke qabu mein rakhna. Bahaduri ka matlab hai maut ke waqt bhi dil ka mazboot rehna. Is achhe kaam ki tareef ki jaati hai. Ye buzdili ke khilaf hai.
+
+Huzoor ﷺ ki shuja'at aur bahaduri itni mashhoor thi ke koi usse anjaan nahin tha. Aap ﷺ ke saamne bohot se sakht mauqe aaye. Bade-bade bahadur bhi wahan tik na sake, lekin Huzoor ﷺ apni jagah mazboot rahe. Aap ﷺ ne muqabla kiya, kabhi peeth nahin dikhayi aur na ek inch bhi apni jagah se hate.
+
+Hadees: Hazrat Baraa <sup>رضي الله تعالى عنه</sup> se riwayat hai ke kisi ne poocha: Kya Ghazwa-e-Hunain mein tum Huzoor ﷺ ko chhod kar bhaag gaye the? Unhone kaha: Haan, log bhaage the, lekin Huzoor ﷺ nahin bhaage.
+
+Phir unhone kaha: Maine Huzoor ﷺ ko ek safed darazgosh par dekha. Abu Sufyan uski lagaam pakde hue the aur Huzoor ﷺ ye alfaaz padh rahe the: Main wo Nabi hoon jo jhoota nahin, aur main Abdul Muttalib ki aulaad hoon.
+
+Us din Huzoor ﷺ se zyada bahadur koi nahin dekha gaya. Ek riwayat mein hai ke Aap ﷺ apne darazgosh se utar gaye the.
+
+Ek riwayat mein hai ke jab Huzoor ﷺ gussa farmate to koi cheez Aap ﷺ ke gusse ko bardasht nahin kar sakti thi. Hazrat Ibne Umar <sup>رضي الله تعالى عنهما</sup> farmate hain: Maine Huzoor ﷺ se zyada bahadur, himmat wale, sakhi aur har maamle mein khush-mizaj kisi ko nahin dekha.
+
+Hazrat Ali <sup>رضي الله تعالى عنه</sup> farmate hain: Jab jang bohot sakht hoti aur aankhein surkh ho jaatin to hum Huzoor ﷺ ki hifazat ki fikr karte. Lekin Huzoor ﷺ se zyada dushman ke qareeb koi nahin hota tha.
+
+Badr ke din tumne dekha ke hum Huzoor ﷺ ki panah mein the, jabki Huzoor ﷺ aage badh kar dushmanon se lad rahe the.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> farmate hain: Huzoor ﷺ sab logon se behtar, sab se zyada sakhi aur sab se zyada bahadur the.
+
+Ek raat Madina ke log ghabra gaye aur awaaz ki taraf chal pade. Unhone dekha ke Huzoor ﷺ us taraf se wapas aa rahe hain. Aisa lagta tha jaise Aap ﷺ us awaaz tak pehle hi pahunch gaye the aur ab logon ko tasalli ki khabar de rahe the.
+
+Aap ﷺ Hazrat Abu Talha <sup>رضي الله تعالى عنه</sup> ke ghode par bina zeen aur kaathi ke sawar hue the. Talwar Aap ﷺ ke gale mein latak rahi thi. Aap ﷺ farmate the: Hargiz khaufzada na ho.
+
+Imran bin Haseen kehte hain: Huzoor ﷺ jab kisi lashkar ke muqable mein hote to Musalmanon mein sab se pehle hamla karte.
+
+## Pandrahwi Fasl: Huzoor ﷺ Ki Haya Aur Chashm-poshi
+
+Haya us narmi ka naam hai jo insan ke chehre par kisi na-pasand kaam ko dekh kar nazar aati hai. Chashm-poshi ka matlab hai kisi aisi cheez ko dekh kar, jise apni fitrat se bura samjhe, usse nazar pher lena.
+
+In dono sifaton mein bhi Huzoor ﷺ sab se aage the. Aap ﷺ logon mein sab se zyada haya wale aur sab se badhkar chashm-poshi karne wale the.
+
+Allah Ta'ala farmata hai: “Beshak is mein Nabi ko takleef hoti thi, to wo tumhara lihaz farmate the” (Ahzaab: 53).
+
+Hadees: Hazrat Abu Sayeed Khudri <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ parde mein rehne wali kunwari ladki se bhi zyada haya wale the. Jab Aap ﷺ kisi baat ko pasand na farmate to hum Aap ﷺ ke chehra-e-anwar se samajh jaate.
+
+Huzoor ﷺ ka chehra-e-anwar bohot narm aur nazuk tha. Riwayat hai ke Haya ki wajah se Aap ﷺ kisi ke chehre ki taraf dekh kar baat nahin karte the. Agar koi na-pasand baat kehni hoti to Aap ﷺ ishare mein keh dete.
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> se riwayat hai ke maine kabhi Huzoor ﷺ ke parde ke maqam ko nahin dekha.
+
+## Solahwi Fasl: Huzoor ﷺ Ka Achha Bartao, Adab Aur Akhlaq
+
+Huzoor ﷺ ke achhe bartao, Aap ﷺ ke adab aur logon ke saath Aap ﷺ ke wasee akhlaq ke baare mein sahih ahadees bohot zyada hain.
