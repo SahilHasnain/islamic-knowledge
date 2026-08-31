@@ -83,6 +83,12 @@ all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md`
 all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md`
 2:105 (`tafseerId=50236`, `ayatId=114`) through 2:114 (`tafseerId=50245`, `ayatId=123`),
 all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md`
+2:115 (`tafseerId=50246`, `ayatId=124`) through 2:124 (`tafseerId=50255`, `ayatId=133`),
+all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md` after removing a duplicate
+2:105–2:114 suffix; the active file remains below the 1,000-line limit.
+2:125 (`tafseerId=50256`, `ayatId=134`) through 2:134 (`tafseerId=50264`, `ayatId=143`),
+with 2:132 using non-sequential `tafseerId=54513`, all in draft, appended to
+`03-surah-al-baqarah-easy-roman-03.md`; the active file remains below the 1,000-line limit.
 review. Ayat 2:2 has no source tafseer row.
 Tafseer IDs are not always sequential, so ordering follows surah and ayat numbers.
 The entries remain together because the file is below the 1,000-line limit. The entries

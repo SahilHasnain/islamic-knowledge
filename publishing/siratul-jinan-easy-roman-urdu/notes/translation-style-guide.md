@@ -41,6 +41,9 @@
 - Use `mana` instead of the difficult word `manaahi` in easy explanatory prose.
 - Preserve Urdu meaning, not Urdu grammatical awkwardness caused by extraction artifacts.
 - Keep headings, numbered discussions, poetry, and quotations structurally recognizable.
+- Never alter shair or poetry from the source. Preserve its exact wording, line breaks,
+  punctuation, and order; do not simplify, paraphrase, transliterate differently, or add
+  explanatory text inside the shair.
 
 ## Review
 

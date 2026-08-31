@@ -61,3 +61,14 @@ over every mumkin.
 - Preserve modality exactly. A definite source claim must remain definite; do not weaken it with `can`, `may`, `might`, or `could` unless the source expresses possibility or permission.
 - Preserve source quotation boundaries. Quoted sectarian beliefs, personal statements, book passages, hadith, and cited material must remain visibly quoted in Roman Urdu; never present a quoted claim as unmarked narrator prose.
 - Keep the author's narrative voice. Do not insert translator commentary such as `source ki wazahat ke mutabiq` or `the source says`.
+
+## Section 2 Fiqh Readability
+
+- Section 2 requires a stronger Easy Roman Urdu adaptation than the earlier
+  aqeedah section. Use short sentences, familiar words, and first-use explanations
+  for technical fiqh terms.
+- Preserve every legal category, condition, exception, example, quotation,
+  citation, footnote, reward, warning, and degree of certainty. Simplifying the
+  language must never simplify away the ruling.
+- Keep Farz, Wajib, Sunnat, Mustahab, Mubah, Haram, and Makrooh definitions
+  visibly distinct and state their practical effects plainly.

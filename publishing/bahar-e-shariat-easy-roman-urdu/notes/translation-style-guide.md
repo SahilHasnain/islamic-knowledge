@@ -13,6 +13,16 @@
 - Translate the complete source faithfully. Do not summarize, shorten, omit, combine, or change the meaning. Preserve the author's sequence, emphasis, claims, quoted passages, explanations, examples, citations, and footnotes. Simplify wording only for readability, never the content.
 - Preserve the source's certainty and strength. Do not weaken definite statements with `can`, `may`, `might`, `could`, or other uncertain wording unless possibility or permission is present in the source.
 
+## Section 2: Fiqh and Taharat
+
+- Section 2 is for Easy Roman Urdu readers, not a literal word-for-word Romanization of formal Urdu. Use short, clear sentences and familiar wording while preserving every ruling, condition, exception, example, quotation, citation, and footnote.
+- Explain a technical fiqh term in simple words at its first use. After that, retain the approved term only when it improves accuracy. Do not leave a chain of unfamiliar Arabic and Persian terms unexplained.
+- Break long source sentences into several short sentences. Do not join separate source rulings or remove their logical conditions.
+- Keep classifications visibly separate, such as Farz, Wajib, Sunnat, Mustahab, Mubah, Haram, and Makrooh. State each definition and its practical consequence clearly.
+- Preserve the force of every legal statement. Do not turn `farz`, `wajib`, `jaiz`, `na-jaiz`, `haram`, `zaruri`, or a definite prohibition into weaker wording such as `should`, `may`, `can`, or `perhaps`.
+- Keep hadith quotations as quotations. The surrounding explanation may be simplified, but the quoted meaning, sequence, named narrators, references, and stated rewards or warnings must remain complete.
+- Translate citations and footnotes into readable Roman Urdu where they contain explanatory content; do not replace them with a bare list of book names and hadith numbers.
+
 ## Script
 
 - Romanize ordinary Urdu prose, Arabic vocabulary, names, scholarly titles, and book titles when pronunciation is clear.

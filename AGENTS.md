@@ -89,6 +89,13 @@ Preserve the source's certainty and strength. Do not weaken a definite statement
 by changing it into `can`, `may`, `might`, `could`, or other uncertain wording
 unless the source itself expresses possibility or permission.
 
+For Bahar-e-Shariat Section 2 and later fiqh sections, use especially accessible
+Easy Roman Urdu: explain technical terms at first use, split long source sentences,
+keep legal categories and conditions distinct, and use familiar wording instead
+of unnecessarily formal Arabic or Persian vocabulary. Preserve every ruling,
+exception, example, quotation, citation, footnote, reward, warning, and degree of
+certainty; readability must not weaken or reduce the source.
+
 Preserve Quranic Arabic, exact hadith quotations where required, Arabic duas,
 citations, honorifics, and `ﷺ`. Quranic translations from the source must keep
 their wording and meaning in Roman script and must not be paraphrased. Validate

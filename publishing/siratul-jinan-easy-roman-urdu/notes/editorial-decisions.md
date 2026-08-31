@@ -67,6 +67,9 @@ complete entry would exceed 1,000 lines. Do not switch files merely because a ba
 Each session targets ten aayaat in two sequential five-ayat batches. Verify the first batch
 before beginning the second; this does not permit switching manuscript files early.
 
+Poetry and shair must never be altered. Preserve the source wording, line breaks, punctuation,
+and order exactly, without simplification, paraphrase, or inserted explanation.
+
 The first production entry is Al-Baqarah 2:1. It is marked `draft` until semantic
 completeness and editorial style review are finished.
 

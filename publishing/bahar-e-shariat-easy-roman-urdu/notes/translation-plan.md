@@ -34,6 +34,14 @@ the wording clearer.
 Preserve the source's certainty and strength; do not turn definite statements
 into weaker `can`, `may`, `might`, or `could` statements unless the source does so.
 
+## Section 2 Readability Rule
+
+From Section 2 onward, use especially accessible Easy Roman Urdu for fiqh and
+Taharat. Explain technical terms at first use, split long source sentences, and
+keep each ruling, condition, exception, example, quotation, citation, and
+footnote clear and separate. Do not replace legal force with weaker wording or
+reduce explanatory footnotes to citation-only lists.
+
 ## Manuscript File Rule
 
 Keep appending pages to the current manuscript file across batches and sessions.
