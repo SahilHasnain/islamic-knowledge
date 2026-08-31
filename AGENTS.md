@@ -27,27 +27,6 @@ When a book chapter is too large for a single batch file, split into sequential 
 
 When translating a book, always read the book's own rule files in its `notes/` directory (`publishing/<book>/notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`) before starting — these book-level rules take precedence over the generic rules in this file. Create/update them as translation decisions are made.
 
-### Sirat-ul-Jinan SQLite workflow
-
-The Sirat-ul-Jinan Roman Urdu project uses `publishing/siratul-jinan-roman-urdu/source/siratul-jinan.db` as its source of truth. The database contains the `surah`, `para`, `aayaat`, and Sirat-ul-Jinan-only `tafseer` tables. Do not edit the source database manually or replace it with generated JSON as the authoritative source.
-
-**Method: transliteration, not translation.** This project converts the Urdu script into Roman script. The Urdu vocabulary, grammar, sentence order, and meaning are preserved exactly; only the script changes. Do NOT paraphrase, reword into English, or "translate" the meaning. Quranic Arabic, Arabic duas, hadith quotations, Islamic phrases, and Arabic honorifics are never romanized — they stay in Arabic script exactly as in the source.
-
-The database-backed workflow is:
-
-1. Query source entries by volume, para, surah, ayat range, or `tafseerId`.
-2. Generate a traceable transliteration batch containing source identifiers and cleaned Urdu text.
-3. Transliterate the Urdu script into Roman script without summarizing or omitting content.
-4. Preserve Arabic Quranic text, Arabic duas, hadith quotations, Islamic phrases, ﷺ, and honorifics exactly as required by the source and book rules.
-5. Validate source coverage, ordering, identifiers, Arabic preservation, and accidental Urdu or HTML leftovers before approval.
-6. Record romanization decisions in the book's `notes/` files.
-
-The project plan is `publishing/siratul-jinan-roman-urdu/notes/translation-plan.md`. Read it before beginning Sirat-ul-Jinan transliteration work. Start with the Surah Al-Fatihah pilot; do not begin full-volume transliteration until the pilot's style and review conventions are approved.
-
-Every transliterated entry must remain traceable to its `tafseerId`, `ayatId`, surah, ayat number, para, and volume. Use semantic boundaries and approximately 2,000–4,000 Urdu characters per batch, adjusting for quotations, numbered discussions, and citations. Never split a sentence, quotation, or citation unnecessarily across batches.
-
-The source extraction must preserve `{Arabic phrase: Urdu meaning}` blocks and numbered references such as `(1)…`. Validate extraction output for literal replacement artifacts such as `($1)` before using it for transliteration.
-
 ### Sirat-ul-Jinan Easy Roman Urdu workflow
 
 The separate Easy Roman Urdu project is `publishing/siratul-jinan-easy-roman-urdu/`. Read its
@@ -60,6 +39,71 @@ Easy tafseer adaptation. Preserve Arabic Quranic text, Arabic quotations, duas, 
 citations, and `ﷺ` exactly as required by the project rules. Do not fabricate Ayat 2:2, which
 has no Sirat-ul-Jinan tafseer row. Keep complete production entries together in one manuscript
 file until it reaches the 1,000-line limit, splitting only at entry boundaries.
+
+### Manuscript File Splitting Rule
+
+For every book manuscript, continue appending complete page or entry boundaries
+to the current manuscript file across batches and sessions. Do not create a new
+manuscript file merely because a batch, session, or page range is complete.
+Create the next sequential file only when the current file is close to 1,000
+lines and adding the next complete page or entry would exceed the limit. Never
+split a page, paragraph, quotation, citation, or traceable entry solely to meet
+the line limit.
+
+### Bahar-e-Shariat Easy Roman Urdu workflow
+
+The project is `publishing/bahar-e-shariat-easy-roman-urdu/`. Before every
+translation or continuation task, read its `notes/translation-style-guide.md`,
+`glossary.md`, `editorial-decisions.md`, and `translation-plan.md`. The source
+of truth is `db/Bahar_e_Shariat.db`; keep each manuscript page traceable to one
+SQLite source page and preserve its metadata.
+
+This is an easy-language adaptation, not a summary. Preserve every belief,
+ruling, explanation, example, quotation, citation, and page boundary. Prefer
+familiar Roman Urdu. Do not introduce difficult Arabic or Persian vocabulary
+merely by romanizing it; replace it with a clear meaning or add the meaning in
+brackets when retaining the original term is useful. Approved examples include
+`aamaal likhne wale farishte` instead of `Kiraman Katibeen`, `jhula` instead of
+`gahwara`, and `apne logon` instead of `muta'alliqeen`.
+
+One translation session means one user prompt through completion: do not stop
+between batches after reporting progress. Work through up to 30 source pages,
+processed as three sequential batches of 10 pages, and complete and verify each
+10-page batch before starting the next. Stop only after the session's work is
+complete or a genuine blocker requires clarification. This session target does not override
+the manuscript file rule: append only complete pages that fit in the current
+file, and continue the remaining pages in the same session in the next
+sequential file only when the next complete page would exceed 1,000 lines.
+
+Never translate from SQLite previews, shortened output, or summaries. Read the
+complete source JSON records for each 10-page batch. Preserve every paragraph,
+quotation, citation, footnote, example, and named detail. Compare the completed
+batch against the complete source JSON page by page before starting the next
+10-page batch.
+
+Translate the complete source; do not summarize, shorten, omit, combine, or
+rewrite its meaning. Preserve the author's emphasis, sequence, claims, quoted
+passages, explanations, examples, citations, and footnotes. Easy Roman Urdu may
+make wording clearer, but it must not replace the source's content or argument.
+Preserve the source's certainty and strength. Do not weaken a definite statement
+by changing it into `can`, `may`, `might`, `could`, or other uncertain wording
+unless the source itself expresses possibility or permission.
+
+Preserve Quranic Arabic, exact hadith quotations where required, Arabic duas,
+citations, honorifics, and `ﷺ`. Quranic translations from the source must keep
+their wording and meaning in Roman script and must not be paraphrased. Validate
+page coverage, ordering, source metadata, Arabic preservation, and accidental
+Urdu or Devanagari before approval. Continue appending to the current manuscript
+file across sessions; create the next file only when adding the next complete
+page would exceed 1,000 lines.
+
+Preserve quotation boundaries from the source. Use quotation marks wherever the
+author quotes a sect's belief, a person's statement, a book, a hadith, or another
+source, so readers can distinguish the author's narration from quoted words.
+Do not turn quoted claims into unmarked narrator prose.
+Write in the author's narrative voice. Do not add translator-facing phrases such
+as `source ki wazahat ke mutabiq`, `the source says`, or `in this translation`
+unless they are present in the source.
 
 ### Shifa Shareef Easy Roman Urdu workflow
 
@@ -96,79 +140,3 @@ example, quotation, reference, and fasl boundary.
   lost `ﷺ`, and changed Arabic quotations or references.
 - Record newly approved wording decisions in the project glossary and editorial
   decisions files so the next agent can follow them.
-
-
-## Quick start
-
-```bash
-npm run dev        # local dev server at localhost:3000
-npm run build      # static build (all pages pre-rendered)
-npm run lint       # ESLint (flat config, Next.js rules)
-```
-
-No typecheck script in `package.json` — run `npx tsc --noEmit` manually when needed.
-
-## Architecture
-
-**Next.js 16 App Router** fully static site. Book content lives as JSON in `content/books/`. All pages use `dynamicParams = false` + `generateStaticParams()` — adding a new book JSON file automatically generates its pages on next build.
-
-### Routes
-
-| Path | Source | Description |
-|---|---|---|
-| `/` | `app/page.tsx` | Home page with featured book |
-| `/books` | `app/books/page.tsx` | Book listing |
-| `/books/[slug]` | `app/books/[slug]/page.tsx` | Book detail + section list |
-| `/books/[slug]/sections/[sectionSlug]` | `app/books/[slug]/sections/[sectionSlug]/page.tsx` | Section reader with prev/next nav |
-| `/authors` | `app/authors/page.tsx` | Author listing |
-| `/authors/[slug]` | `app/authors/[slug]/page.tsx` | Author detail with book list |
-
-### Key libraries
-
-- **`lib/books.ts`** — reads JSON from `content/books/` (flat, no DB). `getBooks()`, `getBookBySlug()`, `getBookSection()`, `getAuthors()`.
-- **`lib/seo.ts`** — `siteConfig` reads `NEXT_PUBLIC_SITE_URL` or `VERCEL_PROJECT_PRODUCTION_URL` env vars for canonical URLs.
-- **`components/text-with-salawat.tsx`** — splits text on ﷺ (U+FD3A) and renders it as a superscript. Wrap any title/text that may contain this character.
-- **`components/book-sidebar.tsx`** — sticky TOC sidebar for section navigation.
-
-### Styling
-
-Tailwind CSS v4 (`@tailwindcss/postcss`). Custom theme in `app/globals.css` using `@theme inline`. Warm background (`#f7f2e8`), emerald-950 foreground, gold selection color.
-
-### Data convention
-
-Book JSON schema is typed in `lib/books.ts` (`Book`, `BookSection`, `FormattedBookPage`, etc.). Each book has `pages[]` (raw extracted) and/or `sections[]` (structured with `paragraphs`). Language field varies: `"Roman Urdu"`, `"Urdu"`, `"Hindi"`, `"English"`.
-
-## Publishing pipeline (`publishing/`)
-
-Each publishable book has a directory with:
-- `manuscript/` — Markdown manuscript
-- `layout/` — CSS, title page, publishing note templates
-- `assets/` — cover image
-- `exports/` — generated HTML/PDF/EPUB files
-- `metadata.yaml` — book metadata
-
-### Export scripts (`scripts/`)
-
-| Script | What it does |
-|---|---|
-| `export_ikhteyarate_mustafa_hindi.mjs` | Manuscript → HTML + digital/print PDF + EPUB via Playwright |
-| `export_*_english.mjs` | Same pattern for English books |
-| `html-to-docx.mjs` | HTML → DOCX with configurable theme |
-| `extract_epub_book.mjs` | EPUB → text extraction |
-| `extract_pdf_book.py` / `extract_pdf_ocr.py` | PDF text extraction (Python) |
-| `format_book_content.py` / `normalize_book_text.py` | Text cleanup (Python) |
-| `gen_cover_placeholder.py` | Auto-generate cover images |
-| `build_siratul_jinan_db.py` | Build the focused Sirat-ul-Jinan SQLite source from the live-quran reference DB |
-| `extract_siratul_jinan_batch.py` | Generate traceable Sirat-ul-Jinan transliteration batches from SQLite |
-| `validate_siratul_jinan_translation.py` | Validate Sirat-ul-Jinan transliteration coverage and formatting |
-
-Only `export:ikhteyarate:hindi` is wired into `package.json`. Run other scripts directly: `node scripts/<script>.mjs` or `python scripts/<script>.py`.
-
-## Gotchas
-
-- No CI/CD workflows in repo. Deployed via Vercel. `.env.local` has a single `PHISING_IP` variable (not used by the app).
-- Adding a new book JSON to `content/books/` is enough — routes auto-register via `generateStaticParams`.
-- `.env*` files are gitignored. Don't commit `.env.local`.
-- Publishing directories (`publishing/`) are separate from the website content (`content/books/`). The website reads only from `content/books/*.json`.
-- `TextWithSalawat` component is used throughout — wrap any rendered title/heading that may contain the ﷺ character.
-- The repo has both `.mjs` (Node) and `.py` (Python) scripts. Python scripts need local Python setup with PyMuPDF etc.

@@ -45,7 +45,6 @@ yarn-error.log*
 
 # large local source databases (too big for GitHub's 100MB limit)
 /db/
-/db/
 
 # typescript
 *.tsbuildinfo

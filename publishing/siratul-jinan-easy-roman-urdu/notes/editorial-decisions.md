@@ -54,6 +54,19 @@ For natural, consistent Roman Urdu, use `unhone` and `inhone` project-wide inste
 
 Use `mana` project-wide instead of the difficult word `manaahi` in easy explanatory prose.
 
+Use `shehad jaisi ek meethi cheez` instead of `taranjabeen` in easy explanatory prose.
+Use `Amaaliqah (ek puraani taaqatwar qaum)` instead of unexplained `Amaaliqah` in easy explanatory prose.
+Use `maa ki ijaazat ka intezaar mat karo` instead of `maa ki ijaazat par mauqoof na rakho`.
+Use `khush-mizaaji` instead of `khush-tab'i` in easy explanatory prose.
+Use continuous `InshaAllah` instead of `In sha Allah` in easy Roman Urdu prose.
+
+Manuscript files remain active across batches and sessions. Always append to the current file;
+create the next sequential file only when the current file reaches 1,000 lines or the next
+complete entry would exceed 1,000 lines. Do not switch files merely because a batch is complete.
+
+Each session targets ten aayaat in two sequential five-ayat batches. Verify the first batch
+before beginning the second; this does not permit switching manuscript files early.
+
 The first production entry is Al-Baqarah 2:1. It is marked `draft` until semantic
 completeness and editorial style review are finished.
 

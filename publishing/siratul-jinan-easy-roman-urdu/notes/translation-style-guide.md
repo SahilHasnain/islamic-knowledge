@@ -46,3 +46,18 @@
 
 Every batch must be checked for semantic completeness, source coverage, Arabic preservation,
 citation fidelity, honorific fidelity, and accidental Urdu or HTML leftovers.
+
+## Manuscript Continuity
+
+- Always continue appending complete entries to the current manuscript file.
+- Do not create or switch to a new manuscript file merely because a batch, session, or ayat range is complete.
+- Keep using the current file until it reaches the 1,000-line limit, or until adding the next complete entry would exceed 1,000 lines.
+- Only then create the next sequential manuscript file.
+- Never split an entry, paragraph, quotation, citation, numbered item, or other logical unit across files.
+
+## Session Batches
+
+- Target ten aayaat per translation session.
+- Process each ten-ayat session as two sequential batches of five aayaat.
+- Complete and verify the first five-ayat batch before starting the second five-ayat batch.
+- This batching workflow does not override manuscript continuity or the 1,000-line rule.

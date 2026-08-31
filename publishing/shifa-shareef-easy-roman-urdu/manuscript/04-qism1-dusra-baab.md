@@ -12,7 +12,7 @@ Isi tarah khana, kapda, neend, ghar, biwi aur maal bhi duniya ki zarooraton mein
 
 Ye cheezein aakhirat mein bhi kaam aa sakti hain, jab insan inke zariye Allah ke kareeb hone ki koshish kare aur apne badan ko aakhirat ke kaamon ke liye taqat de. Lekin ye sab Shariat ki batayi hui had aur tareeqe ke mutabiq hona chahiye.
 
-Deen ki achhi sifaton mein achha akhlaq, Shariat ka adab, ilm, sabr, shukr, insaf, duniya se be-raghbati, aajizi, maaf karna, paak-daamani, sakhaawat (khule dil se ata karna), bahaduri, haya, doosron ka lihaz, kam bolna, sukoon, waqar (izzat aur sanjeedgi), meharbani aur achha bartao shamil hain. In sab ko milakar husn-e-akhlaq kaha jaata hai.
+Deen ki achhi sifaton mein achha akhlaq, Shariat ka adab, ilm, sabr, shukr, insaf, duniya se be-raghbati, aajizi, maaf karna, paak-daamani, sakhaawat (khule dil se ata karna), bahaduri, haya, doosron ka lihaz, kam bolna, sukoon, waqar (izzat aur sanjeedgi), meharbani aur achha akhlaq shamil hain. In sab ko milakar husn-e-akhlaq kaha jaata hai.
 
 In mein se kuchh sifatein insan ko paida hone se milti hain aur kuchh mehnat karke hasil karni padti hain. Lekin jis khoobi ki buniyad insan ki fitrat mein pehle se ho, use hasil karna zyada aasaan hota hai.
 
@@ -383,10 +383,126 @@ Allah Ta'ala farmata hai: “Beshak is mein Nabi ko takleef hoti thi, to wo tumh
 
 Hadees: Hazrat Abu Sayeed Khudri <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ parde mein rehne wali kunwari ladki se bhi zyada haya wale the. Jab Aap ﷺ kisi baat ko pasand na farmate to hum Aap ﷺ ke chehra-e-anwar se samajh jaate.
 
-Huzoor ﷺ ka chehra-e-anwar bohot narm aur nazuk tha. Riwayat hai ke Haya ki wajah se Aap ﷺ kisi ke chehre ki taraf dekh kar baat nahin karte the. Agar koi na-pasand baat kehni hoti to Aap ﷺ ishare mein keh dete.
+Huzoor ﷺ ka chehra-e-anwar bohot narm aur nazuk tha. Riwayat hai ke haya ki wajah se Aap ﷺ kisi ke chehre ki taraf dekh kar baat nahin karte the. Agar koi shakhs na-pasand baat keh deta, to Huzoor ﷺ use seedha tokne ke bajaye ishare mein samjha dete.
 
 Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> se riwayat hai ke maine kabhi Huzoor ﷺ ke parde ke maqam ko nahin dekha.
 
-## Solahwi Fasl: Huzoor ﷺ Ka Achha Bartao, Adab Aur Akhlaq
+## Solahwi Fasl: Huzoor ﷺ Ka Achha Akhlaq Aur Adab
 
-Huzoor ﷺ ke achhe bartao, Aap ﷺ ke adab aur logon ke saath Aap ﷺ ke wasee akhlaq ke baare mein sahih ahadees bohot zyada hain.
+Huzoor ﷺ ke achhe akhlaq, Aap ﷺ ke adab aur logon ke saath Aap ﷺ ke wasee akhlaq ke baare mein sahih ahadees bohot zyada hain.
+
+Hazrat Ali <sup>رضي الله تعالى عنه</sup> farmate hain: Huzoor ﷺ ka seena sab se zyada khula hua, zubaan sab se zyada sachhi, tabiyat sab se zyada narm aur logon ke saath akhlaq sab se behtar tha.
+
+Hadees: Qais bin Saad <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ ne humein dekha. Jab Aap ﷺ wapas jaane lage to Hazrat Saad ne apna darazgosh (khachchar) pesh kiya aur us par ek kambal daal diya.
+
+Huzoor ﷺ us par sawar hue. Hazrat Saad ne Hazrat Qais se kaha: Tum Huzoor ﷺ ke saath jao. Qais kehte hain ke Huzoor ﷺ ne mujhse farmaya: Tum bhi sawar ho jao.
+
+Maine inkar kiya to Huzoor ﷺ ne farmaya: Tum sawar ho jao ya wapas chale jao. Majbooran main wapas aa gaya.
+
+Ek riwayat mein hai ke Huzoor ﷺ ne farmaya: Tum aage baith jao, kyunki sawari ka malik hi aage baithne ka zyada haq rakhta hai.
+
+Huzoor ﷺ logon se muhabbat karte aur unse nafrat nahin karte the. Aap ﷺ apne Sahaba ka khayal rakhte aur apne saath baithne wale har shakhs ko uska poora haq dete.
+
+Aap ﷺ ka akhlaq itna wasee tha ke sab logon ko shamil tha. Aap ﷺ sab ke liye ek baap ki tarah, balki us se bhi badhkar shafeeq the. Tamam Musalman Aap ﷺ ke nazdeek haq ke maamle mein barabar the.
+
+Ibne Abi Haala kehte hain: Huzoor ﷺ khush-mizaj, khush-chehra aur narm-dil the. Aap ﷺ se kabhi bad-akhlaqi ya bad-zabani zahir nahin hui. Aap ﷺ bazaar mein kabhi chillate nahin the aur na be-wajah kisi ki tareef karte the.
+
+Allah Ta'ala farmata hai: “Ye Allah ki meharbani hai ke Aye Mahboob! Aap unke liye narm dil hue. Agar Aap sakht-mizaj aur sakht-dil hote to wo Aap ke paas se door ho jaate” (Aale Imran: 159).
+
+Aur farmata hai: “Burai ko bhalai se door karo” (Haa Meem Sajdah: 34).
+
+Jo shakhs Huzoor ﷺ ko bulata, Aap ﷺ uski baat sunte. Jo koi hadiya pesh karta, Aap ﷺ use qabool farmate, chahe wo gosht ka ek tukda hi hota, aur uska badla bhi dete (Tirmizi).
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> farmate hain: Main 10 saal Huzoor ﷺ ki khidmat mein raha. Aap ﷺ ne kabhi mujhse uff tak nahin kaha. Na kabhi mere kisi kaam par poocha ke tumne ye kyun kiya, aur na kisi kaam ke na karne par kaha ke tumne ye kyun nahin kiya (Muslim).
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> farmati hain: Akhlaq mein Huzoor ﷺ se behtar koi nahin tha. Aap ﷺ ke Sahaba ya ghar walon mein se koi bhi Aap ﷺ ko bulata to Aap ﷺ jawab mein labbaik farmate.
+
+Jareer bin Abdullah kehte hain: Jab se main Musalman hua, Huzoor ﷺ ne mujhe kabhi apne paas aane se nahin roka. Jab bhi Aap ﷺ mujhe dekhte to muskura dete.
+
+Huzoor ﷺ apne Sahaba se achhi baatein karte, unke saath baithte aur baat-cheet farmate. Aap ﷺ unke bachchon se muhabbat karte aur unhein apni god mein bithate.
+
+Aap ﷺ azad logon, ghulamon aur ghareebon sab ki dawat qabool farmate. Shehar ke aakhri kinare tak jaakar mareez ki iyadat karte aur kisi mazoor ka uzr bhi qabool farmate.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> farmate hain: Jab bhi koi Huzoor ﷺ ke kaan mein koi baat kehta to Aap ﷺ usse us waqt tak alag nahin hote jab tak wo khud alag na ho jaata. Yani Aap ﷺ uski poori baat sunte.
+
+Jab koi Aap ﷺ ka haath mubarak pakad leta to Aap ﷺ apna haath us waqt tak nahin chhudate jab tak wo khud na chhod deta.
+
+Jo bhi Huzoor ﷺ se milta, Aap ﷺ pehle salam farmate. Aap ﷺ Sahaba se pehle musafaha karte. Apne paas baithne walon ki izzat karte aur unke liye kapda bichha dete.
+
+Aap ﷺ apne Sahaba ki kunniyat (izzat wala laqab) rakhte aur unhein achhe naam se pukarte. Aap ﷺ kisi ki baat beech mein kaatne se bachte aur poori baat sunte.
+
+Agar koi baat bohot lambi ho jaati to Aap ﷺ use rok dete ya uth khade hote. Agar koi Aap ﷺ se milne aata aur Aap ﷺ namaz padh rahe hote to namaz mukhtasar karke uske aane ka sabab poochte. Usse farigh hone ke baad phir namaz shuru farma dete.
+
+Aap ﷺ aksar muskurate rehte, siwaye us waqt jab Aap ﷺ par wahi nazil hoti ya Aap ﷺ khutba irshad farmate.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Madina ki baandiyan Fajr ki namaz ke baad paani bhar kar laati thin. Huzoor ﷺ un sab ke bartanon mein apna haath mubarak daal dete.
+
+## Satrahwi Fasl: Huzoor ﷺ Ki Shafqat, Meharbani Aur Rahmat
+
+Huzoor ﷺ ki shafqat, meharbani aur rahmat tamam makhlooq ke liye hai.
+
+Allah Ta'ala farmata hai: “Tum par Musalmanon ki takleef bohot bhaari guzarti hai. Tum unki bhalai ke bohot chahne wale aur un par nihayat meharban ho” (Tauba: 128).
+
+Aur farmata hai: “Aur humne tumhein saare jahaan ke liye rahmat bana kar hi bheja” (Ambiya: 107).
+
+Baaz ulama Huzoor ﷺ ki fazilat bayan karte hue kehte hain ke Allah Ta'ala ne apne do naam, `Raoof` aur `Raheem`, Huzoor ﷺ ko bhi ata farmaye.
+
+Hadees: Ibne Shahab <sup>رحمة الله عليه</sup> se riwayat hai ke Huzoor ﷺ ne Ghazwa-e-Hunain ka zikr karte hue bataya ke Aap ﷺ ne Safwan bin Umayyah ko 100 oont diye, phir 100 oont aur diye, phir 100 oont aur diye.
+
+Ibne Shahab kehte hain ke Saeed bin Musayyab ne humein bataya: Safwan kehte the, Allah ki qasam! Huzoor ﷺ ne mujhe bohot kuchh ata farmaya, halanki pehle main Huzoor ﷺ ko tamam makhlooq mein sab se bura samajhta tha. Huzoor ﷺ mujhe barabar ata farmate rahe, yahan tak ke Aap ﷺ meri nazar mein tamam makhlooq se zyada mahboob ho gaye.
+
+Huzoor ﷺ apni ummat par bohot shafqat farmate the. Aap ﷺ kuchh baatein is dar se na-pasand farmate ke kahin wo ummat par farz na ho jaayen.
+
+Aap ﷺ farmate hain: Agar mujhe apni ummat par mushkil ka dar na hota to main unhein har wuzu ke saath miswak karne ka hukm deta.
+
+Aap ﷺ ne Sahaba ko raat ki namaz (Tahajjud) aur lagataar roze rakhne se bhi mana farmaya, taake un par mushkil na ho. Aap ﷺ ne Kaaba ki imarat ke andar jaane se bhi isliye mana farmaya ke ummat ke liye dushwari na ho jaaye.
+
+Jab Huzoor ﷺ namaz padhte aur kisi bachche ke rone ki aawaz sunte to namaz mukhtasar kar dete. Ye sab Aap ﷺ ki ummat par shafqat ki wajah se tha.
+
+Jab koi qaum Huzoor ﷺ ko jhutlati ya Aap ﷺ ko takleef pahunchati to Hazrat Jibreel <sup>عليه السلام</sup> haazir hote aur arz karte: Aap ﷺ pahaad ke farishte ko hukm dein, wo in logon ko halaak kar de.
+
+Farishton ne bhi arz ki: Agar Huzoor ﷺ hukm dein to hum in logon par pahaad gira dein. Lekin Huzoor ﷺ ne farmaya: Main chahta hoon ke Allah Ta'ala inki aulaad se aise log paida kare jo Allah ki ibadat karein aur kisi ko uska shareek na banayein.
+
+## Attharahwi Fasl: Huzoor ﷺ Ki Wafa, Waada Aur Sila-rehmi
+
+Hadees: Abdullah bin Hamsa kehte hain: Nubuwwat ke ailan se pehle maine Huzoor ﷺ ke saath khareed-o-farokht ka ek maamla kiya. Kuchh paise baqi reh gaye to maine kaha: Main aapko yahin laakar de dunga, Aap ﷺ yahin rukiye.
+
+Main chala gaya aur ye baat bhool gaya. Teen din baad jab main wahan pahuncha to dekha ke Huzoor ﷺ wahi khade hain. Aap ﷺ ne farmaya: Aye jawan! Tumne mujhe takleef di. Main teen din se yahan tumhara intezar kar raha hoon.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> se riwayat hai ke jab Huzoor ﷺ ki khidmat mein koi tohfa laya jaata to Aap ﷺ farmate: Ise falan aurat ke ghar le jao. Wo Hazrat Khadijah <sup>رضي الله تعالى عنها</sup> ki saheli hain aur Hazrat Khadijah <sup>رضي الله تعالى عنها</sup> unse bohot muhabbat karti thin.
+
+Hazrat Aaishah <sup>رضي الله تعالى عنها</sup> farmati hain: Hazrat Khadijah <sup>رضي الله تعالى عنها</sup> ke maamle mein jitni ghairat mujhe aayi, kisi aur ke baare mein nahin aayi. Huzoor ﷺ unka zikr farmate aur jab bakri zabah farmate to unki saheliyon ko bhi gosht bhejte.
+
+Ek aurat Huzoor ﷺ ki khidmat mein aayi. Aap ﷺ ne uski khairiyat poochhi. Jab wo chali gayi to Aap ﷺ ne farmaya: Ye Hazrat Khadijah <sup>رضي الله تعالى عنها</sup> ke zamane mein bhi hamare paas aati thi. Imaan ki khoobiyon mein achha akhlaq bhi shamil hai.
+
+Baaz ulama ne bayan kiya hai ke Huzoor ﷺ apne har rishtedar se milte the, chhote-bade ka farq nahin karte the.
+
+Huzoor ﷺ apni nawasi ko kandhe par utha kar namaz padhte. Jab sajde mein jaate to use utaar dete, aur jab khade hote to phir kandhe par utha lete.
+
+Jab Habsha ka badshah Huzoor ﷺ ki khidmat mein aaya to Aap ﷺ uske istaqbal ke liye khade hue. Sahaba ne arz ki: Hum uski khidmat ke liye kaafi hain.
+
+Huzoor ﷺ ne farmaya: Jab mere Sahaba Habsha ki taraf hijrat kar rahe the to is badshah ne unka khayal rakha tha. Ab meri khwahish hai ke main bhi uska khayal rakhun.
+
+Jab Huzoor ﷺ ki doodh-shareek behen qaidi ban kar aayin to Aap ﷺ ne unhein pehchan liya. Aap ﷺ ne unke liye apni chadar bichha di aur unhein ikhtiyar diya: Agar tum chaho to apni qaum mein wapas ja sakti ho, ya mere paas izzat aur muhabbat ke saath reh sakti ho.
+
+Jinhone Huzoor ﷺ ko doodh pilaya tha, Aap ﷺ unke saath bhi sila-rehmi (rishta nibhane) farmate. Jab wo aate to Aap ﷺ unke liye apni chadar bichha dete aur unhein tohfe bheja karte.
+
+## Unniswi Fasl: Huzoor ﷺ Ka Aajizi Farmana
+
+Huzoor ﷺ logon mein sab se buland martabe par the, phir bhi Aap ﷺ sab se zyada aajizi farmate the. Aap ﷺ mein takabbur bilkul nahin tha.
+
+Huzoor ﷺ ko ikhtiyar diya gaya ke Aap ﷺ badshah Nabi banna pasand farmate hain ya Nabi-banda. Aap ﷺ ne Nabi-banda hona pasand farmaya.
+
+Is par Hazrat Israfeel <sup>عليه السلام</sup> ne arz ki: Aap ﷺ ki is aajizi ki wajah se Allah Ta'ala Qiyamat mein Aap ﷺ ko Adam <sup>عليه السلام</sup> ki aulaad ka sardaar banayega. Aap ﷺ hi sab se pehle shafaat karne wale honge.
+
+Huzoor ﷺ darazgosh (khachchar) par sawar hote to kisi ko apne peeche bhi bitha lete. Aap ﷺ ghareebon ki iyadat karte, unke beech baithte, ghulamon ki dawat qabool farmate aur apne Sahaba ke saath is tarah milkar baithte ke jahan jagah milti, wahi baith jaate.
+
+Hazrat Umar <sup>رضي الله تعالى عنه</sup> se riwayat hai ke Huzoor ﷺ ne farmaya: Mujhe itna na badhao jitna Nasara ne Hazrat Isa <sup>عليه السلام</sup> ko badhaya, yani unhein Allah ka beta kaha. Main Allah ka banda hoon, isliye mujhe Allah ka banda aur Rasool kaho.
+
+Hazrat Anas <sup>رضي الله تعالى عنه</sup> farmate hain: Huzoor ﷺ ko jau ki roti aur baasi saalan par bhi dawat di jaati to Aap ﷺ use qabool farma lete.
+
+Aap ﷺ aajizi karte hue ye bhi farmate: Mujhe mere bhai Yunus <sup>عليه السلام</sup> par fazilat na do aur Ambiya <sup>عليهم السلام</sup> ke darmiyan ek ko doosre se afzal na kaho. Iski bahas aage aayegi.
+
+Riwayat hai ke Huzoor ﷺ ghar mein apne ghar walon ke kaamon mein haath batate, apni bakri ka doodh dohte, apne kapdon mein paiband lagate, apni naalain theek karte aur bazaar se samaan bhi laate.
+
+Ek baar bazaar mein kisi se kuchh khareedte waqt usne Aap ﷺ ke haath mubarak ko bosa diya. Aap ﷺ ne apna haath kheench liya aur farmaya: Aisa ajami log apne badshahon ke saath karte hain. Main badshah nahin hoon, main tum mein se ek mard hoon.

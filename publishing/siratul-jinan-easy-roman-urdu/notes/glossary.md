@@ -22,6 +22,10 @@ project. It is separate from the literal-transliteration glossary.
 | بھیڑ | bher (sheep) | Use `bher`, not `bheer`, with the English gloss |
 | انہوں نے / اُنہوں نے | unhone / inhone | Project-wide easy Roman Urdu spelling preference; use these natural forms instead of `unhon ne` / `inhon ne` |
 | ممانعت | mana | Use `mana` instead of the difficult word `manaahi` in easy explanatory prose |
+| ترنجبین | shehad jaisi ek meethi cheez | Approved easy wording for the sweet substance described under Al-Baqarah 2:57 |
+| عمالقہ | Amaaliqah (ek puraani taaqatwar qaum) | Approved easy wording for the ancient nation mentioned under Al-Baqarah 2:49 and 2:58 |
+| موقوف | intezaar mat karo | Use this simpler wording when `mauqoof na rakho` means not waiting for someone's permission |
+| خوش طبعی | khush-mizaaji | Natural Roman Urdu wording for a cheerful and pleasant nature |
 
 ## Decision Log
 
