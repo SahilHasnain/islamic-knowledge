@@ -89,12 +89,48 @@ all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md` after removing 
 2:125 (`tafseerId=50256`, `ayatId=134`) through 2:134 (`tafseerId=50264`, `ayatId=143`),
 with 2:132 using non-sequential `tafseerId=54513`, all in draft, appended to
 `03-surah-al-baqarah-easy-roman-03.md`; the active file remains below the 1,000-line limit.
+2:135 (`tafseerId=50265`, `ayatId=144`) through 2:141 (`tafseerId=50271`, `ayatId=150`),
+all in draft, appended to `03-surah-al-baqarah-easy-roman-03.md`. These entries are the
+remaining Para 1 rows before the source continues at Para 2.
+2:142 (`tafseerId=50272`, `ayatId=151`) was appended to `03-surah-al-baqarah-easy-roman-03.md`.
+The next complete entry exceeded the 1,000-line continuity boundary, so 2:143
+(`tafseerId=50273`, `ayatId=152`) and 2:144 (`tafseerId=50274`, `ayatId=153`) were appended to
+`04-surah-al-baqarah-easy-roman-04.md`. The remaining available entries begin at 2:145.
+2:145 (`tafseerId=50275`, `ayatId=154`) through 2:151 (`tafseerId=50281`, `ayatId=160`)
+were appended to `04-surah-al-baqarah-easy-roman-04.md`; the active file remains below the
+1,000-line limit.
 review. Ayat 2:2 has no source tafseer row.
 Tafseer IDs are not always sequential, so ordering follows surah and ayat numbers.
 The entries remain together because the file is below the 1,000-line limit. The entries
 preserve the complete source explanations while simplifying vocabulary and sentence structure.
 Each completed entry also includes the directly transliterated `trans_type=2` Kanz-ul-Irfan
 Quran translation before its Easy Roman Urdu tafseer adaptation.
+2:152 (`tafseerId=50282`, `ayatId=161`) through 2:161 (`tafseerId=50290`, `ayatId=170`),
+including non-sequential `tafseerId=54514` for 2:160, were appended to
+`04-surah-al-baqarah-easy-roman-04.md`. All ten entries are draft adaptations with their
+complete Kanz-ul-Irfan translation transliterations, Arabic, explanations, quotations,
+poetry, and citations preserved in source order; the active file remains below 1,000 lines.
+2:162 (`tafseerId=50291`, `ayatId=171`) through 2:171 (`tafseerId=50300`, `ayatId=180`)
+were appended to `04-surah-al-baqarah-easy-roman-04.md`. All ten entries are draft
+adaptations with their complete Kanz-ul-Irfan translation transliterations, Arabic,
+explanations, quotations, and citations preserved in source order; the file remains at
+815 lines, so no new manuscript file was required.
+2:172 (`tafseerId=50301`, `ayatId=181`) through 2:176 (`tafseerId=50305`, `ayatId=185`)
+were appended to `04-surah-al-baqarah-easy-roman-04.md`. The file reached 923 lines at
+the complete 2:176 entry, so the next complete entry would exceed the line limit.
+2:177 (`tafseerId=50328`, `ayatId=186`) through 2:181 (`tafseerId=50309`, `ayatId=190`)
+were added to `05-surah-al-baqarah-easy-roman-05.md`, beginning at the complete entry
+boundary required by manuscript continuity. All ten entries include their complete
+Kanz-ul-Irfan translation transliterations, Arabic, explanations, quotations, and
+citations in source order and remain draft adaptations.
+2:182 (`tafseerId=50310`, `ayatId=191`) through 2:191 (`tafseerId=50319`, `ayatId=200`) were appended to
+`05-surah-al-baqarah-easy-roman-05.md`. All ten entries include their complete Kanz-ul-Irfan
+translation transliterations, Arabic, explanations, quotations, and citations in source order;
+the active file remains below the 1,000-line limit and the entries remain draft adaptations.
+2:192 (`tafseerId=54515`, `ayatId=201`) through 2:201 (`tafseerId=50329`, `ayatId=210`) were appended to
+`05-surah-al-baqarah-easy-roman-05.md`. All ten entries include their complete Kanz-ul-Irfan
+translation transliterations, Arabic, explanations, quotations, and citations in source order;
+the active file remains below the 1,000-line limit and the entries remain draft adaptations.
 
 ## File Organization
 

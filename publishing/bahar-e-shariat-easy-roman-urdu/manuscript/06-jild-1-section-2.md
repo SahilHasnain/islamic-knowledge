@@ -360,3 +360,605 @@ Hawalaat: Al-Mu'jam al-Awsat, Hadith 1238; Al-Mustadrak, Hadith 531;
 Al-Mu'jam al-Kabir, Hadith 44; Sahih Muslim, Hadith 253; Musnad Ahmad,
 Hadith 5869; At-Targheeb wat-Tarheeb, Hadith 18; Shu'ab-ul-Iman, Hadith 2774;
 Sahih Muslim, Hadith 261.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=291 -->
+## [Jild 1 | Section 2 | Page 291]
+
+Hazrat Ali رضی اللہ تعالی عنہ se riwayat hai ke Huzoor ﷺ ne farmaya: “Jab banda
+Miswak karke Namaz ke liye khada hota hai, to ek Farishta us ke peeche khada hokar
+Qira'at sunta hai. Phir woh us ke aur qareeb hota jata hai, yahan tak ke apna munh
+us ke munh par rakh deta hai.”
+
+Mashaikh-e-Kiram farmate hain: “Jo shakhs Miswak ka aadhi ho, marte waqt use Kalimah
+padhna naseeb hota hai. Aur jo afeem khata ho, marte waqt use Kalimah naseeb nahi
+hota.”
+
+## Wuzu ke Fiqhi Ahkaam
+
+Upar likhi hui Ayat se maloom hua ke Wuzu mein chaar Farz hain:
+
+1. Munh dhona.
+2. Kahniyon samet dono haath dhona.
+3. Sar ka masah karna.
+4. Takhnon samet dono paon dhona.
+
+### Zaruri baat
+
+Kisi uzw ko dhone ka matlab yeh hai ke us uzw ke har hisse par kam az kam do
+qatre paani beh jayein. Sirf geela ho jana, tel ki tarah paani laga lena, ya ek
+aadhi boond beh jana dhona nahi kehlata. Is se Wuzu ya Ghusl ada nahi hota.
+
+Is baat ka khaas khayal rakhna zaruri hai. Log is par tawajjuh nahi dete aur un ki
+Namazein zaya ho jati hain. Jism mein kuch aisi jagah hoti hain jahan khaas khayal
+ke baghair paani nahi pahunchta. Har uzw ke bayan mein un jagahon ki tafseel aayegi.
+
+Kisi jagah jo Hadath ka maqam ho, wahan sirf nami pahunchana Masah kehlata hai.
+
+## 1. Munh dhona
+
+Munh lambaai mein peshani ke shuru se, yani jahan se aam taur par baal ugte hain,
+thodi tak hai. Chaurai mein ek kaan se doosre kaan tak hai. Is hadd ke andar jild
+ke har hisse par ek baar paani bahana Farz hai.
+
+**Mas'alah 1:** Jis shakhs ke sar ke aage wale baal gir gaye hon ya wahan baal ugte
+hi na hon, woh utni jagah tak munh dhoye jahan tak aam taur par baal ugte hain.
+Lekin agar kisi ke baal aam jagah se neeche tak ugte hon, to un zyada baalon ki
+jaron tak dhona Farz hai.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, Kitab-ut-Taharat, jild 1,
+pages 216–219; Fatawa Razawiyyah, Kitab-ut-Taharat, jild 1, page 218; Al-Fatawa
+Al-Hindiyyah, Kitab-ut-Taharat, jild 1, page 4.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=292 -->
+## [Jild 1 | Section 2 | Page 292]
+
+**Mas'alah 2:** Agar moonchhon, bhaon ya buchchi ke baal itne ghane hon ke jild
+bilkul nazar na aaye, to jild dhona Farz nahi; baalon ko dhona Farz hai. Agar baal
+ghane na hon to jild dhona bhi Farz hai.
+
+**Mas'alah 3:** Agar moonchhein badh kar honton ko chhupa lein to moonchhein ghani
+hon tab bhi unhein hata kar honton ka dhona Farz hai.
+
+**Mas'alah 4:** Agar daadhi ke baal ghane na hon to jild dhona Farz hai. Agar ghane
+hon to gale ki taraf dabaane par chehre ki hadd mein jitne baal aa jayein, un ka
+dhona Farz hai. Un ki jaron ko dhona Farz nahi. Jo baal chehre ki hadd se neeche
+hon, un ka dhona zaruri nahi.
+
+Agar daadhi ka kuch hissa ghana aur kuch hissa kam ghana ho, to ghane hisse mein
+baal dhona Farz hai aur kam ghane hisse mein jild dhona Farz hai.
+
+**Mas'alah 5:** Honton ka woh hissa jo aam taur par munh band karne ke baad nazar
+aata rehta hai, us ka dhona Farz hai. Agar koi bahut zor se hont band kare aur us
+hisse par paani na pahunche, aur kulli se bhi woh na dhule, to Wuzu nahi hoga.
+Jo hissa aam taur par munh band karne par nazar nahi aata, us ka dhona Farz nahi.
+
+**Mas'alah 6:** Rukhsar aur kaan ke darmiyan jo jagah hai use Kanpati kehte hain.
+Us ka dhona Farz hai. Agar is jagah daadhi ke ghane baal hon to baal dhona Farz
+hai. Jahan baal na hon ya ghane na hon, wahan jild dhona Farz hai.
+
+**Mas'alah 7:** Naath ka suraakh khula ho to us mein paani bahana Farz hai. Agar
+suraakh tang ho to paani daalte waqt naath ko hilaana zaruri hai. Agar suraakh
+bahut tang na ho to hilaana zaruri nahi.
+
+Hawalaat: Fatawa Razawiyyah, jild 1, pages 214, 216 aur 445; Ad-Durr-ul-Mukhtar
+ma'a Radd-ul-Muhtar, jild 1, pages 219–220.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=293 -->
+## [Jild 1 | Section 2 | Page 293]
+
+**Mas'alah 8:** Aankh ke gole aur palkon ki andarooni satah dhona zaruri nahi.
+Balki aankh ko nuqsan pahunchne ki wajah se aisa nahi karna chahiye.
+
+**Mas'alah 9:** Munh dhote waqt agar aankhein zor se band kar li jayein aur palak
+ke paas ek halki si lakeer band ho jaye, to agar woh jagah aam taur par aankh band
+karne par nazar aati ho aur us par paani na pahunche, Wuzu ho jayega. Lekin aisa
+karna nahi chahiye. Agar is se zyada jagah dhulne se reh jaye to Wuzu nahi hoga.
+
+**Mas'alah 10:** Aankh ke kone par paani bahana Farz hai. Agar surme ka zarra kone
+ya palak mein reh gaya aur Wuzu kar liya, phir maloom na tha aur Namaz padh li, to
+koi haraj nahi; Namaz aur Wuzu dono ho gaye. Agar maloom ho to surma hata kar paani
+bahana zaruri hai.
+
+**Mas'alah 11:** Palak ka har baal jarr se nok tak poora dhona Farz hai. Agar us par
+keechad ya koi sakht cheez jam gayi ho to use chhudana Farz hai.
+
+## 2. Haath dhona
+
+Haath dhone ke hukm mein kahniyan bhi shamil hain.
+
+**Mas'alah 12:** Agar kahni se naakhun tak kisi jagah zarre bhar bhi dhulne se reh
+jaye to Wuzu nahi hoga.
+
+**Mas'alah 13:** Har qisam ke jaiz ya na-jaiz gehne, chhalle, angoothiyan,
+ponchhiyan, kangan, sheeshe ya laakh ki chooriyan aur reshmi lachhe agar itne tang
+hon ke neeche paani na pahunche to unhein utaar kar dhona Farz hai.
+
+Agar sirf hila kar paani neeche pahunch jata ho to unhein hilaana zaruri hai. Agar
+itne dheele hon ke baghair hilaye bhi neeche paani pahunch jaye to kuch zaruri nahi.
+
+**Mas'alah 14:** Haath ki hatheli ki lakeerein, ungliyon ke darmiyan ki jagah,
+naakhunon ke andar ki khaali jagah, kalai ka har baal jarr se nok tak, sab par paani
+bahna zaruri hai. Agar koi jagah reh gayi, ya kisi baal ki jarr par paani pahunch
+gaya lekin nok par na pahuncha, to Wuzu nahi hoga. Naakhunon ke andar ka mail
+maaf hai.
+
+Hawalaat: Al-Fatawa Al-Hindiyyah, Kitab-ut-Taharat, jild 1, page 4; Fatawa
+Razawiyyah, jild 1, pages 216 aur 445; Ad-Durr-ul-Mukhtar, jild 1, page 317.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=294 -->
+## [Jild 1 | Section 2 | Page 294]
+
+**Mas'alah 15:** Agar paanch ke bajaye kisi ke chhe ungliyan hon to sab ko dhona
+Farz hai. Agar ek kandhe se do haath nikle hon to jo haath poora ho us ka dhona
+Farz hai. Doosre haath ka dhona Farz nahi, Mustahab hai. Lekin doosre haath ka
+woh hissa jo Farz wale maqam se mila hua hai, us ka dhona Farz hai.
+
+## 3. Sar ka masah
+
+Sar ke chauthai hisse ka masah Farz hai.
+
+**Mas'alah 16:** Masah ke liye haath ka tar hona zaruri hai. Haath mein aaza dhone
+ke baad nami baqi ho to wahi kaafi hai, ya naye paani se haath tar kar liya jaye.
+
+**Mas'alah 17:** Kisi uzw ka masah karne ke baad haath mein jo nami baqi rahe,
+woh doosre uzw ke masah ke liye kaafi nahi.
+
+**Mas'alah 18:** Sar par baal na hon to sar ki jild ke chauthai hisse ka masah Farz
+hai. Baal hon to sar ke apne baalon ke chauthai hisse ka masah Farz hai. Isi ko
+Sar ka Masah kehte hain.
+
+**Mas'alah 19:** Pagri, topi ya dupatte par masah karna kaafi nahi. Haan, agar topi
+ya dupatta itna bareek ho ke nami us mein se nikal kar sar ke chauthai hisse ko tar
+kar de to masah ho jayega.
+
+**Mas'alah 20:** Sar se latakte hue baalon par masah karne se masah ada nahi hoga.
+
+## 4. Paon dhona
+
+Takhnon samet paon ko ek baar dhona Farz hai.
+
+**Mas'alah 21:** Paon ki angoothiyon aur paon ke gehno ka wahi hukm hai jo haath ke
+gehno ka guzra: agar paani neeche na pahunche to utaar kar dhona, ya zarurat ke
+mutabiq hilaana Farz hai.
+
+Hawalaat: Al-Fatawa Al-Hindiyyah, Kitab-ut-Taharat, jild 1, pages 4–6; Fatawa
+Razawiyyah, jild 1, pages 216 aur 218.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=295 -->
+## [Jild 1 | Section 2 | Page 295]
+
+**Mas'alah 22:** Baaz log bimari ki wajah se paon ke angoothon par dhaaga itna kas
+kar baandh dete hain ke paani ka behna to door, dhaage ke neeche nami bhi nahi
+pahunchti. Aise dhaage se bachna lazim hai, kyun ke is halat mein Wuzu nahi hota.
+
+**Mas'alah 23:** Ungliyon ke darmiyan ki jagah, talwe, ediyan aur ediyon ke upar
+ke mote pathe, sab ko dhona Farz hai.
+
+**Mas'alah 24:** Jin aaza ko dhona Farz hai, un par paani beh jana shart hai. Yeh
+zaruri nahi ke aadmi khud jaan boojh kar paani bahaye. Agar baghair irade ke bhi
+paani beh jaye to Wuzu ho jata hai.
+
+Misaal ke taur par, baarish hui aur Wuzu ke aaza ke har hisse par do do qatre beh
+gaye, ya sar ke chauthai hisse par nami aa gayi, to aaza dhul gaye aur masah ho gaya.
+Isi tarah koi talaab mein gir gaya aur Wuzu ke aaza par paani guzar gaya to Wuzu ho
+gaya.
+
+**Mas'alah 25:** Jis cheez ki aam ya khaas zarurat aksar padti rahti ho aur use
+bachana mushkil ho, agar woh naakhunon ke andar, un ke upar ya kisi dhone ki jagah
+par lagi reh jaye to Wuzu ho jayega. Chahe us cheez ki teh bani ho aur us ke neeche
+paani na pahuncha ho, aur chahe woh sakht cheez ho.
+
+Misaal ke taur par: pakane ya aata goondhne wale ke liye aata, rangrez ke liye rang,
+auraton ke liye Mehndi, likhne wale ke liye siyahi, mazdoor ke liye gaarah
+(eenton ko jorne wala lep), aam logon ke liye mail, mitti, gard, makkhi ya machhar
+ki beet, aur aankh ke kone ya palak mein surme ka zarra.
+
+**Mas'alah 26:** Agar kisi jagah phaphola tha aur woh sookh gaya, lekin us ki jild
+alag nahi hui, to us jild ko utaar kar paani bahana zaruri nahi. Usi phaphole ki jild
+par paani baha dena kaafi hai. Baad mein jild alag kar di jaye tab bhi us jagah par
+dobara paani bahana zaruri nahi.
+
+**Mas'alah 27:** Machhli ka chilka Wuzu ke kisi uzw par chipak gaya ho to Wuzu nahi
+hoga, kyun ke us ke neeche paani nahi beh sakega.
+
+## Wuzu ki Sunnatein
+
+**Mas'alah 28:** Wuzu par sawab paane ke liye Allah ke hukm ko ada karne ki niyyat
+se Wuzu karna zaruri hai. Agar niyyat na bhi ho to Wuzu ho jayega, lekin sawab nahi
+milega.
+
+Hawalaat: Fatawa Razawiyyah, jild 1, pages 203, 220 aur 445; Al-Fatawa
+Al-Hindiyyah, Kitab-ut-Taharat, jild 1, pages 4–5; Ad-Durr-ul-Mukhtar ma'a
+Radd-ul-Muhtar, jild 1, pages 217 aur 235–238.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=296 -->
+## [Jild 1 | Section 2 | Page 296]
+
+**Mas'alah 29:** Wuzu Bismillah se shuru kare. Agar Wuzu se pehle Istinja karna
+ho to Istinja se pehle bhi Bismillah kahe. Lekin paikhane mein dakhil hone ya
+kapre hata kar badan kholne se pehle Bismillah na kahe, kyun ke najasat ki jagah par
+aur Satr kholne ke baad zaban se Allah ka zikr mana hai.
+
+**Mas'alah 30:** Sab se pehle dono haath kalaiyon tak teen teen baar dhoye.
+
+**Mas'alah 31:** Agar paani bade bartan mein ho aur chhota bartan na ho jismein
+paani lekar haath dhoye ja saken, to baayein haath ki ungliyan mila kar sirf ungliyan
+paani mein daale. Hatheli ka koi hissa paani mein na pade. Phir paani nikal kar daayein
+haath ko kalai tak teen baar dhoye. Ab daayein haath ko, jitna dhoya gaya hai, bina
+haraj ke paani mein daal sakta hai. Us se paani nikal kar baaya haath dhoye.
+
+**Mas'alah 32:** Yeh hukm us waqt hai jab haath par koi Najasat na lagi ho. Agar
+haath par Najasat lagi ho to kisi tarah haath paani mein daalna jaiz nahi. Haath
+daalne se paani Napaak ho jayega.
+
+**Mas'alah 33:** Agar paani chhote bartan mein ho, ya paani bade bartan mein ho
+magar chhota bartan bhi maujood ho, aur kisi ne be-dhula haath paani mein daal diya,
+balki ungli ka poora ya naakhun bhi daal diya, to woh sara paani Wuzu ke kaabil nahi
+rahega. Woh Ma'-e-Musta'mal ho jayega.
+
+**Mas'alah 34:** Yeh us waqt hai jab paani mein jitna haath dala gaya, us ka kuch
+hissa be-dhula ho. Agar haath pehle dhoya ja chuka ho aur us ke baad Hadath na hua
+ho, to jitna hissa dhula hua hai utna paani mein daalne se paani Ma'-e-Musta'mal
+nahi hoga, chahe woh hissa kahni tak ho.
+
+Jo shakhs Junub na ho aur kahni tak haath dho chuka ho, woh us ke baad haath ko
+baghal tak paani mein daal sakta hai, kyun ke us ke haath par Hadath baqi nahi raha.
+Lekin Junub shakhs sirf utna hi hissa paani mein daal sakta hai jitna us ne dhoya
+ho, kyun ke us ke poore badan par Hadath hai.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 241, 246–247;
+Al-Fatawa Al-Hindiyyah, jild 1, page 6; Fatawa Razawiyyah, jild 2, page 113.
+Is mas'ale mein fuqaha ka ikhtilaf hai, lekin sahih qaul yahi hai. Is ki tafseeli
+bahs ke liye risalah `An-Namīqah al-Anqā fi al-Farq bayn al-Mulaaqi wal-Mulqaa`
+ka mutala'ah kiya jaye.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=297 -->
+## [Jild 1 | Section 2 | Page 297]
+
+**Mas'alah 35:** Neend se uthne ke baad pehle haath dhoye. Yeh Istinja se pehle
+aur Istinja ke baad dono waqt hai.
+
+**Mas'alah 36:** Miswak se kam az kam teen teen baar daayein, baayein, upar aur
+neeche ke daant saaf kare. Har baar Miswak dho le. Miswak na bahut narm ho na
+bahut sakht. Woh Peelu, Zaitoon, Neem ya kisi kadwi lakri ka ho. Phal ya khushbudar
+phool ke darakht ki lakri ka Miswak na ho.
+
+Miswak chhoti ungli jitni moti aur zyada se zyada ek baalisht lamba ho. Itna chhota
+bhi na ho ke Miswak karna mushkil ho jaye. Ek baalisht se lambi Miswak par Shaitan
+baithta hai.
+
+Jab Miswak istemal ke qaabil na rahe to use dafan kar de ya kisi mehfooz jagah rakh
+de, taake woh kisi Napaak jagah na gire. Miswak Sunnat ada karne ka auzar hai, is
+liye us ki ta'zeem zaruri hai. Aur Musalman ka munh kisi Napaak jagah mein daalne
+se bachana bhi zaruri hai. Isi liye ulama ne paikhane mein thookna na-munasib likha
+hai.
+
+**Mas'alah 37:** Miswak daayein haath se kare. Use is tarah pakde ke chhoti ungli
+neeche ho, beech ki teen ungliyan upar hon aur angootha sire ke neeche ho. Mutthi
+bandh kar na pakde.
+
+**Mas'alah 38:** Daanton ki chaurai mein Miswak kare, lambai mein nahi. Let kar
+Miswak na kare.
+
+**Mas'alah 39:** Pehle daayein taraf ke upar wale daant saaf kare, phir baayein
+taraf ke upar wale daant. Us ke baad daayein taraf ke neeche wale aur phir baayein
+taraf ke neeche wale daant saaf kare.
+
+**Mas'alah 40:** Miswak karne se pehle use dho le aur kaam khatam hone ke baad bhi
+dho de. Use zameen par na chhode; balki khada rakh aur us ka resha upar ki taraf ho.
+Buland jagah par lita kar rakhna bhi jaiz hai, agar woh gandagi se mehfooz ho.
+
+**Mas'alah 41:** Agar Miswak na ho to ungli ya mote kapre se daant saaf kare. Agar
+daant hi na hon to ungli ya kapra masooron par phere.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 243, 250–251;
+Al-Fatawa Al-Hindiyyah, jild 1, page 7; Al-Jawharat-un-Nayyirah, page 6.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=298 -->
+## [Jild 1 | Section 2 | Page 298]
+
+**Mas'alah 42:** Miswak Namaz ki nahi, Wuzu ki Sunnat hai. Is liye jo shakhs ek
+Wuzu se kai Namazein padhe, us se har Namaz ke liye alag Miswak ka mutalabah nahi,
+jab tak munh ki boo na badal jaye. Boo door karne ke liye Miswak karna apni jagah
+Sunnat-e-Mu'akkadah hai. Agar Wuzu ke waqt Miswak nahi ki thi to Namaz ke waqt
+Miswak kar le.
+
+**Mas'alah 43:** Phir teen chullu paani se teen baar kulli kare, taake har baar
+munh ke har hisse par paani beh jaye. Rozedaar na ho to gargara bhi kare.
+
+**Mas'alah 44:** Teen chullu paani se teen baar naak mein paani chadhaye. Har baar
+naak ke us hisse tak paani pahunche jahan tak narm gosht hota hai. Rozedaar na ho
+to naak ki jarr tak paani pahunchaye. Kulli aur naak mein paani daalna daayein haath
+se kare, phir baayein haath se naak saaf kare.
+
+**Mas'alah 45:** Munh dhote waqt daadhi ka Khilaal kare, lekin agar Ehram bandha ho
+to na kare. Khilaal ka tareeqa yeh hai ke ungliyan gardan ki taraf se daadhi mein
+dakhil kare aur saamne ki taraf nikaale.
+
+**Mas'alah 46:** Haath aur paon ki ungliyon ka Khilaal kare. Paon ki ungliyon ka
+Khilaal baayein haath ki chhoti ungli se kare. Daayein paon mein chhoti ungli se
+shuru kare aur angoothe par khatam kare. Baayein paon mein angoothe se shuru kare
+aur chhoti ungli par khatam kare.
+
+Agar Khilaal ke baghair ungliyon ke andar paani nahi pahunchta to Khilaal karna
+Farz hai. Asal Farz paani pahunchana hai, chahe Khilaal ke baghair paani pahunch jaye.
+Misaal ke taur par, ungliyan khol kar upar se paani daal diya ya paon hauz mein rakh
+diye aur paani andar pahunch gaya, to Khilaal Farz nahi raha.
+
+**Mas'alah 47:** Jin aaza ko dhona hai unhein teen teen baar dhoye. Har baar is
+tarah dhoye ke koi hissa baqi na rahe, warna Sunnat ada nahi hogi.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 248, 253, 255–257;
+Al-Fatawa Al-Hindiyyah, jild 1, page 7; Fatawa Razawiyyah, jild 1, page 623.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=299 -->
+## [Jild 1 | Section 2 | Page 299]
+
+**Mas'alah 48:** Agar pehli baar uzw ka kuch hissa dhula, doosri baar kuch aur,
+aur teesri baar baqi hissa dhula, aur teenon baar mil kar poora uzw dhul gaya, to
+yeh sirf ek baar dhona mana jayega. Wuzu ho jayega, lekin Sunnat ke khilaf hoga.
+Ginti chulluon ki nahi, poore uzw ko dhone ki hai. Poora uzw teen baar dhulna chahiye,
+chahe is ke liye kitne hi chullu paani lagen.
+
+**Mas'alah 49:** Poore sar ka ek baar masah karna, kaanon ka masah karna, aur tartib
+se Wuzu karna Sunnat hai: pehle munh dhoye, phir haath, phir sar ka masah kare aur
+phir paon dhoye.
+
+Agar Wuzu is tartib ke khilaf kiya ya koi aur Sunnat chhoot gayi to Wuzu ho jayega.
+Lekin kabhi kabhar aisa karna bhi bura hai. Sunnat-e-Mu'akkadah chhorne ki aadat
+bana lena gunah hai.
+
+Daadhi ke woh baal jo munh ki hadd se neeche hain, un ka masah Sunnat hai aur dhona
+Mustahab hai. Aaza ko is tarah dhona bhi Sunnat hai ke pehle dhula hua uzw sookhne
+na paye.
+
+## Wuzu ke Mustahabbaat
+
+Baaz Mustahabbaat pehle guzar chuke hain. Baqi yahan bayan kiye jate hain.
+
+**Mas'alah 50:**
+
+1. Daayein taraf se shuru kare.
+2. Dono rukhsaron ko ek saath dhoye.
+3. Dono kaanon ka masah ek saath kare.
+4. Agar kisi ka sirf ek haath ho to munh dhone mein daayein taraf ko pehle kare.
+5. Masah karte waqt bhi daayein taraf ko pehle kare.
+6. Ungliyon ki pusht se gardan ka masah kare.
+7. Wuzu ke waqt Qiblah ki taraf munh kare.
+8. Buland jagah par baithe.
+9. Wuzu ka paani paak jagah par giraye.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 262–264;
+Fatawa Razawiyyah, jild 1, page 214.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=300 -->
+## [Jild 1 | Section 2 | Page 300]
+
+Wuzu ke mazeed Mustahabbaat yeh hain:
+
+10. Paani bahate waqt, khaas taur par sardi mein, aaza par haath pherna.
+11. Shuru mein, khaas taur par sardi mein, aaza par tel ki tarah paani mal lena.
+12. Apne haath se paani bharna.
+13. Doosre waqt ke liye paani bhar kar rakh dena.
+14. Baghair zarurat Wuzu karne mein doosre se madad na lena.
+15. Agar angoothi dheeli ho aur us ke neeche paani pahunch jata ho to use hila lena.
+    Agar paani na pahunchta ho to hilaana Farz hai.
+16. Sahib-e-Uzr na ho to Wuzu ka waqt shuru hone se pehle Wuzu kar lena.
+17. Itminan se Wuzu karna. Awam mein mashhoor hai: “Wuzu jawan ka sa aur Namaz
+    boodhon ki si.” Is ka matlab yeh nahi ke itni jaldi Wuzu kare ke koi Sunnat ya
+    Mustahab chhoot jaye. Aisi jaldi nahi karni chahiye.
+18. Kapron ko tapakte hue qatro se bachana.
+19. Kaanon ka masah karte waqt bheegi hui chhoti ungli kaanon ke suraakh mein daalna.
+20. Jo shakhs poora Wuzu karta ho aur koi jagah baqi na chhodta ho, us ke liye bhi
+    aankhon ke kone, takhne, ediyan, talwe, ediyon ke upar ke mote pathe, ungliyon
+    ke darmiyan ki jagah aur kahniyon ka khaas khayal rakhna Mustahab hai.
+
+Jo log be-parwahi karte hain, un ke liye in jagahon ka khayal rakhna Farz hai, kyun
+ke aksar yeh jagah sookhi reh jati hain. Aisi be-parwahi Haram hai aur in jagahon
+ko dhona Farz hai.
+
+21. Wuzu ka bartan mitti, tamba ya kisi aur cheez ka ho to haraj nahi. Lekin woh
+    andar se Qalai kiya hua ho.
+22. Agar bartan lotay jaisa ho to use baayein taraf rakhe.
+23. Agar bartan tasht jaisa ho to use daayein taraf rakhe.
+24. Agar Aaftabah ke dastay mein haath laga ho to dastay ko teen baar dho le.
+25. Haath Aaftabah ke dastay par rakhe, us ke munh par na rakhe.
+26. Kulli daayein haath se kare.
+27. Naak mein paani daayein haath se daale.
+28. Naak baayein haath se saaf kare.
+29. Baayein haath ki chhoti ungli naak mein daale.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 250–251;
+Fatawa Razawiyyah, jild 1, pages 214, 216 aur 220.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=301 -->
+## [Jild 1 | Section 2 | Page 301]
+
+30. Paon baayein haath se dhoye.
+31. Munh dhote waqt peshani ke baalon ki ibtida par thoda aage tak paani phailaye,
+    taake upar ka kuch hissa bhi dhul jaye.
+
+### Tanbeeh
+
+Bahut se log naak, aankh ya bhaon par chullu daal kar poore munh par haath pherte
+hain aur samajhte hain ke munh dhul gaya. Yeh ghalat hai. Sirf paani ka upar chadh
+jana kaafi nahi. Is tarah munh nahi dhulta aur Wuzu nahi hota.
+
+32. Dono haathon se munh dhoye.
+33. Haath aur paon dhote waqt ungliyon se shuru kare.
+34. Munh, haath aur paon ki dhone wali hadd ko thoda phaila kar dhoye. Misaal ke
+    taur par, aadhe bazu aur aadhi pindli tak dhona.
+35. Sar ke masah ka Mustahab tareeqa yeh hai ke angoothe aur shahadat ki ungli ke
+    ilawa ek haath ki baqi teen ungliyon ke sire doosre haath ki teen ungliyon ke
+    siron se mila kar peshani ke baal ya jild par rakhe. Phir unhein is tarah gaddi
+    tak le jaye ke hatheliyan sar se juda rahen. Gaddi se hatheliyon ke zariye masah
+    karte hue haath wapas laye.
+36. Shahadat ki ungli ke andar wale hisse se kaan ke andar ka masah kare.
+37. Angoothe ke andar wale hisse se kaan ki bahari satah ka masah kare.
+38. Ungliyon ki pusht se gardan ka masah kare.
+39. Har uzw dhone ke baad us par haath pher de, taake qatre badan ya kapron par na
+    tapkein. Khaas taur par Masjid jaate waqt iska khayal rakhe. Masjid mein qatre
+    tapakna Makrooh-e-Tahrimi hai.
+40. Bahut bhaari bartan se Wuzu na kare, khaas taur par kamzor shakhs. Be-ihtiyati
+    se paani gir sakta hai.
+41. Zaban se keh de ke “Main Wuzu karta hoon.”
+42. Har uzw dhote ya masah karte waqt Wuzu ki niyyat dil mein maujood rakhe.
+43. Bismillah kahe.
+44. Durood padhe.
+45. Yeh Kalimah padhe: “Main gawahi deta hoon ke Allah ke siwa koi Ma'bood nahi;
+    woh akela hai, us ka koi shareek nahi. Aur main gawahi deta hoon ke hamare
+    Sardar Muhammad ﷺ us ke bande aur Rasool hain.”
+
+Hawala: Al-Musnad lil-Imam Ahmad, Hadith 14668; Ad-Durr-ul-Mukhtar ma'a Radd-ul-
+Muhtar, jild 1, pages 216–219; Al-Fatawa Al-Hindiyyah, jild 1, page 4.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=302 -->
+## [Jild 1 | Section 2 | Page 302]
+
+46. Kulli karte waqt yeh dua padhe:
+
+اللهم اعني علی تلاوۃ القران وذکرک وشکرک وحسن عبادتک
+
+“Aye Allah! Quran ki tilawat, apne zikr aur shukr, aur achhi ibadat mein meri
+madad farma.”
+
+47. Naak mein paani daalte waqt padhe:
+
+اللهم ارحنی رائحۃ الجنۃ ولا ترحنی رائحۃ النار
+
+“Aye Allah! Mujhe Jannat ki khushboo suna aur Jahannam ki boo se bacha.”
+
+48. Munh dhote waqt padhe:
+
+اللهم بیض وجھی یوم تبیض وجوہ و تسود وجوہ
+
+“Aye Allah! Jis din kuch chehre roshan aur kuch chehre siyah honge, us din mera
+chehra roshan farma.”
+
+49. Daaya haath dhote waqt padhe:
+
+اللهم اعطني کتابی بیمینی وحاسبنی حسابا یسیرا
+
+“Aye Allah! Mera Nama-e-A'maal mere daayein haath mein de aur mera aasaan hisaab
+le.”
+
+50. Baaya haath dhote waqt padhe:
+
+اللهم لا تعطنی کتابی بشمالی ولا من وراء ظھری
+
+“Aye Allah! Mera Nama-e-A'maal na mere baayein haath mein de aur na meri peeth ke
+peeche se.”
+
+51. Sar ka masah karte waqt padhe:
+
+اللهم اظلنی تحت عرشک یوم لا ظل الاظل عرشک
+
+“Aye Allah! Mujhe apne Arsh ke saaye mein rakh, jis din Tere Arsh ke saaye ke
+siwa koi saaya nahi hoga.”
+
+52. Kaanon ka masah karte waqt padhe:
+
+اللهم اجعلنی من الذین یستمعون القول فیتبعون احسنہ
+
+“Aye Allah! Mujhe un logon mein shamil farma jo baat sunte hain aur us ki achhi
+baat par amal karte hain.”
+
+53. Gardan ka masah karte waqt padhe:
+
+اللهم اعتق رقبتی من النار
+
+“Aye Allah! Meri gardan ko Aag se azaad farma.”
+
+54. Daaya paon dhote waqt padhe:
+
+اللهم ثبت قدمی علی الصراط یوم تزل الاقدام
+
+“Aye Allah! Pul-Sirat par mera qadam mazboot rakh, jis din us par qadam phisalenge.”
+
+55. Baaya paon dhote waqt padhe:
+
+اللهم اجعل ذنبی مغفورا وسعیی مشکورا و تجارتی لن تبور
+
+“Aye Allah! Mere gunah bakhsh de, meri koshish qabool farma aur meri tijarat ko
+nuqsan mein na daal.”
+
+In duaon ki jagah har uzw par Durood Shareef bhi padh sakta hai. Har jagah Durood
+Shareef padhna afzal hai.
+
+56. Wuzu se farigh hote hi padhe:
+
+اللهم اجعلنی من التوابین واجعلنی من المتطھرین
+
+“Aye Allah! Mujhe Taubah karne walon aur paak logon mein shamil farma.”
+
+57. Bacha hua paani khade hokar thoda pi le. Yeh bimariyon ki shifa hai.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=303 -->
+## [Jild 1 | Section 2 | Page 303]
+
+58. Aasmaan ki taraf munh karke padhe:
+
+سبحانک اللهم وبحمدک اشھد ان لا الہ الا انت استغفرک و اتوب الیک
+
+“Aye Allah! Tu paak hai aur main Teri hamd karta hoon. Main gawahi deta hoon ke
+Tere siwa koi Ma'bood nahi. Main Tujh se maghfirat maangta hoon aur Teri taraf
+Taubah karta hoon.”
+
+Is ke saath Kalimah-e-Shahadat aur Surah Inna Anzalna bhi padhe.
+
+59. Aaza-e-Wuzu ko baghair zarurat na ponchhe. Agar ponchhe to baghair zarurat
+bilkul sukha na kare. Thodi nami baqi rehne de; yeh Qiyamat ke din Meezan-e-Hasanaat
+mein rakhi jayegi.
+
+60. Haath na jhatke, kyun ke yeh Shaitan ka pankha hai.
+
+61. Wuzu ke baad Miyaani par paani chhidak le. Miyaani paikhane ke qareeb shalwar
+ka woh hissa hai jo peshab ki jagah ke paas hota hai. Paani chhidakte waqt Miyaani
+ko kurte ke daaman se chhupaye rakhna munasib hai.
+
+62. Agar Makrooh waqt na ho to do rak'at Nafl padhe. Is ko Tahiyyat-ul-Wuzu kehte
+hain.
+
+## Wuzu ke Makroohaat
+
+1. Aurat ke Ghusl ya Wuzu ka bacha hua paani istemal karna.
+2. Najasat wali jagah par baith kar Wuzu karna.
+3. Najasat wali jagah par Wuzu ka paani girana.
+4. Masjid ke andar Wuzu karna.
+5. Aaza-e-Wuzu se lotay waghera mein qatre tapkana.
+6. Paani mein reenth ya khankhaar daalna.
+7. Qiblah ki taraf thook, khankhaar ya kulli ka paani daalna.
+
+Hawalaat: Ghunyat-ul-Mutamalli, Adaab-ul-Wuzu, pages 28–37; Ad-Durr-ul-Mukhtar
+ma'a Radd-ul-Muhtar, jild 1, pages 266–280; Al-Fatawa Al-Hindiyyah, jild 1,
+page 8.
+
+<!-- source_table=volume_one | jild=1 | section=2 | page_number=304 -->
+## [Jild 1 | Section 2 | Page 304]
+
+8. Baghair zarurat duniya ki baat karna.
+9. Zarurat se zyada paani kharch karna.
+10. Itna kam paani kharch karna ke Sunnat ada na ho.
+11. Munh par paani maarna.
+12. Munh par paani daalte waqt phoonkna.
+13. Ek haath se munh dhona. Yeh Rafiziyon aur Hinduo ka tareeqa hai.
+14. Gale ka masah karna.
+15. Baayein haath se kulli karna ya naak mein paani daalna.
+16. Daayein haath se naak saaf karna.
+17. Apne liye koi lota ya doosra bartan khaas kar lena.
+18. Sar ka masah teen naye paani se teen baar karna.
+19. Jis kapre se Istinja ka paani sukhaaya ho, us se aaza-e-Wuzu ponchna.
+20. Dhoop se garam hue paani se Wuzu karna. Is ki Karahat-e-Tanzeehi kuch sharton
+    ke saath hai, jin ka bayan paani ke baab mein aayega.
+21. Hont ya aankhein zor se band karna. Agar is wajah se koi jagah sookhi reh gayi
+    to Wuzu hi nahi hoga.
+
+Har Sunnat ko chhorna Makrooh hai. Isi tarah har Makrooh ko chhorna Sunnat hai.
+
+## Wuzu ke Mutafarriq Masail
+
+**Mas'alah 51:** Agar Wuzu na ho to Namaz, Sajdah-e-Tilawat, Namaz-e-Janazah aur
+Quran-e-Majid ko chhoone ke liye Wuzu karna Farz hai.
+
+Hawalaat: Ad-Durr-ul-Mukhtar ma'a Radd-ul-Muhtar, jild 1, pages 269, 280 aur 283;
+Al-Fatawa Al-Hindiyyah, jild 1, page 9; Noor-ul-Idah, page 18.

@@ -11,6 +11,11 @@
 | `05-jild-1-section-1.md` | `volume_one`, pages 251–270 | 20 pages | draft complete | Complete readable source: `source-readable/27-volume-1-section-1-pages-241-270.md`; internal source-content check required. |
 | `05-jild-1-section-1.md` | `volume_one`, pages 271–280 | 10 pages | draft complete | Complete source JSON: `source/28-volume-1-section-1-pages-271-280.json`; readable source: `source-readable/28-volume-1-section-1-pages-271-280.md`; internal source-content check required. |
 | `06-jild-1-section-2.md` | `volume_one`, pages 281–290 | 10 pages | draft complete | Complete source JSON: `source/29-volume-1-section-1-pages-281-290.json`; readable source: `source-readable/29-volume-1-section-1-pages-281-290.md`; internal source-content check required. |
+| `06-jild-1-section-2.md` | `volume_one`, pages 291–295 | 5 pages | draft complete | Complete source JSON: `source/30-volume-1-section-2-pages-291-295.json`; readable source: `source-readable/30-volume-1-section-2-pages-291-295.md`; internal source-content check required. |
+| `06-jild-1-section-2.md` | `volume_one`, pages 296–304 | 9 pages | draft complete | Complete source JSONs: `source/31-volume-1-section-2-pages-296-300.json` and `source/32-volume-1-section-2-pages-301-305.json`; internal source-content check required. |
+| `07-jild-1-section-2.md` | `volume_one`, page 305 | 1 page | draft complete | Page moved at the file line limit; source: `source/32-volume-1-section-2-pages-301-305.json`; internal source-content check required. |
+| `07-jild-1-section-2.md` | `volume_one`, pages 306–310 | 5 pages | draft complete | Complete source JSON: `source/33-volume-1-section-2-pages-306-310.json`; readable source: `source-readable/33-volume-1-section-2-pages-306-310.md`; internal source-content check required. |
+| `07-jild-1-section-2.md` | `volume_one`, pages 311–315 | 5 pages | draft complete | Complete source JSON: `source/34-volume-1-section-2-pages-311-315.json`; readable source: `source-readable/34-volume-1-section-2-pages-311-315.md`; internal source-content check required. |
 
 Page-to-source references for later checking are maintained in `notes/manual-verification-log.md`.
 

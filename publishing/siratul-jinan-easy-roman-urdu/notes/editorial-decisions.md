@@ -60,6 +60,8 @@ Use `maa ki ijaazat ka intezaar mat karo` instead of `maa ki ijaazat par mauqoof
 Use `khush-mizaaji` instead of `khush-tab'i` in easy explanatory prose.
 Use continuous `InshaAllah` instead of `In sha Allah` in easy Roman Urdu prose.
 
+Use `rooh ki mail` instead of the difficult `rooh ki kaduraton` in easy explanatory prose.
+
 Manuscript files remain active across batches and sessions. Always append to the current file;
 create the next sequential file only when the current file reaches 1,000 lines or the next
 complete entry would exceed 1,000 lines. Do not switch files merely because a batch is complete.

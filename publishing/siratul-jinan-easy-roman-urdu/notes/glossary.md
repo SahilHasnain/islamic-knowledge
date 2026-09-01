@@ -26,6 +26,7 @@ project. It is separate from the literal-transliteration glossary.
 | عمالقہ | Amaaliqah (ek puraani taaqatwar qaum) | Approved easy wording for the ancient nation mentioned under Al-Baqarah 2:49 and 2:58 |
 | موقوف | intezaar mat karo | Use this simpler wording when `mauqoof na rakho` means not waiting for someone's permission |
 | خوش طبعی | khush-mizaaji | Natural Roman Urdu wording for a cheerful and pleasant nature |
+| کدورتیں | rooh ki mail | Simpler wording for spiritual impurities in easy explanatory prose |
 
 ## Decision Log
 

@@ -668,7 +668,7 @@ Is aayat se Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہ�
 
 Yeh bhi maloom hua ke Quran ke saath Hadees ki bhi zaroorat hai. ''اَلْحِكْمَةَ'' ka ek maani Sunnat bhi hai, jaisa ke mashhoor mufassir Hazrat Qataadah رَضِیَ اللہُ تَعَالٰی عَنْہُ ne farmaya ke Hikmat hi Sunnat hai. (خازن، البقرۃ، تحت الآیۃ: ۱۲۹، ۱ / ۹۲)
 
-{وَ یُزَكِّیْهِمْ: Aur unhein khoob paakiza farmaaye.} Paak karne ka matlab yeh hai ke nafs ko gunaahon ki gandagi, shahwaton aur khwahishon ki aaloodagiyon aur rooh ki kaduraton se saaf karke dil ke aaine ko Allah ke jalwe aur noor dekhne ke qaabil bana diya jaaye, taake Allah ke asraar aur us ka noor is mein zaahir ho. Tamaam Ghaus, Qutb, Abdaal, Auliya, Asfiya, Sufiya, Fuqaha aur Ulama ka tazkiyah isi muqaddas baargaah se hota hai. A'la Hazrat رَحْمَۃُ اللہِ تَعَالٰی عَلَیْہِ ne farmaya:
+{وَ یُزَكِّیْهِمْ: Aur unhein khoob paakiza farmaaye.} Paak karne ka matlab yeh hai ke nafs ko gunaahon ki gandagi, shahwaton aur khwahishon ki aaloodagiyon aur rooh ki mail se saaf karke dil ke aaine ko Allah ke jalwe aur noor dekhne ke qaabil bana diya jaaye, taake Allah ke asraar aur us ka noor is mein zaahir ho. Tamaam Ghaus, Qutb, Abdaal, Auliya, Asfiya, Sufiya, Fuqaha aur Ulama ka tazkiyah isi muqaddas baargaah se hota hai. A'la Hazrat رَحْمَۃُ اللہِ تَعَالٰی عَلَیْہِ ne farmaya:
 
 Aasmaan khwaan, zameen khwaan, zamaana mehmaan
 
@@ -753,3 +753,139 @@ Aayat ka matlab yeh hai: Aye Bani Israeel! Kya tumhare pehle log Hazrat Ya'qoob 
 **Tarjumah-e-Kanz-ul-Irfan:** Woh ek ummat hai jo guzar chuki. Un ke aamaal un ke liye hain aur tumhare aamaal tumhare liye, aur tum se un ke kaamon ke baare mein sawaal nahin kiya jaayega.
 
 **Easy Roman Urdu:** Jab Yahoodi daleelon ke jawaab se aajiz ho jaate to aakhir mein kehte ke agar hamare aqaaid aur aamaal ghalat bhi hue to hamare baap-daada ke aamaal hamare kaam aa jaayenge aur un ki wajah se hamein nijaat mil jaayegi. Un ke is khayaal ki tardeed mein yeh aayat naazil hui ke woh sab guzar chuke. Un ke aamaal un ke liye hain aur tumhare aamaal tumhare liye. Tumhein un ke aamaal se faida nahin milega. Is se maloom hua ke Aakhirat mein apne aamaal kaam aayenge. Agar aqeedah kharaab ho to kisi ko doosre ke amal se faida nahin mil sakta.
+
+## Surah Al-Baqarah — Ayat 2:135
+
+`Source: tafseerId=50265; ayatId=144; surah=2; ayat=135; para=1; volume=1`
+
+**Arabic:** وَ قَالُوْا كُوْنُوْا هُوْدًا اَوْ نَصٰرٰى تَهْتَدُوْاؕ-قُلْ بَلْ مِلَّةَ اِبْرٰهٖمَ حَنِیْفًاؕ-وَ مَا كَانَ مِنَ الْمُشْرِكِیْنَ(135)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur Ahle-Kitaab ne kaha: Yahoodi ya Nasrani ho jao, hidaayat pa jaoge. Tum farma do: Hargiz nahin, balki hum Ibrahim ka Deen ikhtiyaar karte hain jo har baatil se juda the aur woh mushrikon mein se na the.
+
+**Easy Roman Urdu:** Hazrat Abdullah bin Abbas رَضِیَ اللہُ تَعَالٰی عَنْہُمَا ne farmaya ke yeh aayat Madinah ke Yahoodi sardaron aur Najraan ke Isaaiyon ke jawaab mein naazil hui. Yahoodiyon ne kaha tha ke Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام sab Ambiya mein sab se afzal hain, Taurat sab kitaabon se afzal hai aur Yahoodi Deen sab Deenon se buland hai. Unhone Huzoor Sayyid-e-Kaainaat Muhammad Mustafa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ, Injeel Shareef aur Quran Shareef ka inkaar karke Musalmano se kaha ke Yahoodi ban jao. Isaaiyon ne bhi apne Deen ko haq bata kar Musalmano ko Isaai banne ki da'wat di. Is par yeh aayat naazil hui. (روح المعانی، البقرۃ، تحت الآیۃ: ۱۳۵، ۱ / ۵۳۵-۵۳۶)
+
+{بَلْ مِلَّةَ اِبْرٰهٖمَ: Balki Ibrahim ka Deen.} Aye Mehboob صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ! Aap unhein jawaab de dein ke jab kisi ki pairwi zaroori hai to hum Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke Deen ki pairwi karte hain, jo tamaam fazeelaton ka jaame' hai. Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام har baatil se juda the aur mushrikon mein se na the. Jo log mushrik hone ke bawajood Millat-e-Ibraheemi ki pairwi ka da'wa karte hain, un ka bhi rad hai. Ibraheemi wahi hai jo Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke Deen par ho, jabke tum mushrik ho to Ibraheemi kaise ho gaye? (خازن، البقرۃ، تحت الآیۃ: ۱۳۵، ۱ / ۹۴، ملخصاً)
+
+Is se do masail maloom hue. Pehla yeh ke Allah Ta'ala ne Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko aisi aam maqbooliyat ata farmaayi ke har Deen wala aap ki nisbat par fakhr karta hai. Doosra yeh ke sirf buzurgon ki aulaad hona kaafi nahin, jab tak aadmi un buzurgon jaise kaam na kare.
+
+## Surah Al-Baqarah — Ayat 2:136
+
+`Source: tafseerId=50266; ayatId=145; surah=2; ayat=136; para=1; volume=1`
+
+**Arabic:** قُوْلُوْۤا اٰمَنَّا بِاللّٰهِ وَ مَاۤ اُنْزِلَ اِلَیْنَا وَ مَاۤ اُنْزِلَ اِلٰۤى اِبْرٰهٖمَ وَ اِسْمٰعِیْلَ وَ اِسْحٰقَ وَ یَعْقُوْبَ وَ الْاَسْبَاطِ وَ مَاۤ اُوْتِیَ مُوْسٰى وَ عِیْسٰى وَ مَاۤ اُوْتِیَ النَّبِیُّوْنَ مِنْ رَّبِّهِمْۚ-لَا نُفَرِّقُ بَیْنَ اَحَدٍ مِّنْهُمْ٘-وَ نَحْنُ لَهٗ مُسْلِمُوْنَ(136)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Tum kaho: Hum Allah par, aur jo hamari taraf naazil kiya gaya us par, aur jo Ibrahim, Ismaeel, Ishaq, Ya'qoob aur un ki aulaad ki taraf naazil kiya gaya, aur jo Moosa aur Isa ko diya gaya, aur jo baaqi Ambiya ko un ke Rab ki taraf se ata kiya gaya, sab par imaan laaye. Hum imaan laane mein in mein se kisi ke darmiyan farq nahin karte aur hum Allah ke farmabardaar hain.
+
+**Easy Roman Urdu:** Is aayat se Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ke baare mein yeh baatein maloom hoti hain:
+
+(1) Tamaam Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام aur tamaam kitaabon par imaan laana zaroori hai. Jo kisi ek Nabi ya ek Kitaab ka bhi inkaar kare woh kafir hai. Albatta Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ki muqarrar tadaad na bataayi jaaye, kyunke un ki tadaad kisi qatai daleel se saabit nahin.
+
+(2) Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ke darjon mein farq hai, lekin un ki nubuwwat mein farq nahin.
+
+(3) Ambiya mein farq karne se mana kiya gaya hai. Is ka matlab yeh hai ke baaz Nabiyon ko maana jaaye aur baaz ka inkaar kiya jaaye, aisa nahin ho sakta.
+
+(4) Tamaam Nabi nubuwwat mein asal taur par Nabi hain. Koi aarzi, zilli ya buruzi Nabi nahin, jaisa ke Qadiyani kehte hain. Sab asli Nabi hain.
+
+## Surah Al-Baqarah — Ayat 2:137
+
+`Source: tafseerId=50267; ayatId=146; surah=2; ayat=137; para=1; volume=1`
+
+**Arabic:** فَاِنْ اٰمَنُوْا بِمِثْلِ مَاۤ اٰمَنْتُمْ بِهٖ فَقَدِ اهْتَدَوْاۚ-وَ اِنْ تَوَلَّوْا فَاِنَّمَا هُمْ فِیْ شِقَاقٍۚ-فَسَیَكْفِیْكَهُمُ اللّٰهُۚ-وَ هُوَ السَّمِیْعُ الْعَلِیْمُﭤ(137)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Phir agar woh bhi waise hi imaan laayein jaise tum imaan laaye ho to woh hidaayat paa gaye aur agar munh pherein to woh sirf mukhaalifat mein pade hue hain. To ae Mehboob! Qareeb hai ke Allah un ki taraf se tumhein kaafi ho jaayega aur wahi sunne wala, jaanne wala hai.
+
+**Easy Roman Urdu:** {بِمِثْلِ مَاۤ اٰمَنْتُمْ بِهٖ: Tumhare imaan ki tarah.} Yahoodiyon ko Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم ki tarah imaan laane ka hukm diya gaya. Is se maloom hua ke Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم ka imaan Allah ki baargaah mein maqbool aur doosron ke liye namoona hai.
+
+{فَسَیَكْفِیْكَهُمُ اللّٰهُ: Qareeb hai ke Allah tumhein un ki taraf se kaafi ho jaayega.} Yeh Allah Ta'ala ki taraf se waada hai ke woh apne Habeeb صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko ghalabah ata farmaayega. Is mein aane wali fatahaat ki ghaibi khabar bhi hai. Allah Ta'ala ka yeh waada poora hua. Kafiron ke hasad, dushmani aur chaalon se Huzoor Pur Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko koi nuqsaan na pahuncha. Huzoor Akram صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ko fatah naseeb hui, Bani Quraizah qatl kiye gaye, Bani Nazeer jila-watan kiye gaye aur Yahood-o-Nasara par jizyah muqarrar hua.
+
+## Surah Al-Baqarah — Ayat 2:138
+
+`Source: tafseerId=50268; ayatId=147; surah=2; ayat=138; para=1; volume=1`
+
+**Arabic:** صِبْغَةَ اللّٰهِۚ-وَ مَنْ اَحْسَنُ مِنَ اللّٰهِ صِبْغَةً٘-وَّ نَحْنُ لَهٗ عٰبِدُوْنَ(138)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Humne Allah ka rang apne upar chadha liya aur Allah ke rang se behtar kis ka rang hai? Aur hum usi ki ibaadat karne wale hain.
+
+**Easy Roman Urdu:** Jis tarah rang kapde ke zaahir aur baatin mein sama jaata hai, isi tarah Allah Ta'ala ke Deen ke sachche aqaaid hamare rag-o-pai mein sama gaye hain. Hamara zaahir aur baatin Allah ke Deen ke rang mein rang gaya hai. Yeh sirf zaahiri rang nahin jo koi faida na de, balki yeh nafs ko paak karta hai aur is ke asraat hamare aamaal se zaahir hote hain.
+
+Isaaiyon ka tareeqa tha ke jab woh apne Deen mein kisi ko daakhil karte ya un ke yahan koi bachcha paida hota to paani mein peela rang daal kar us shakhs ya bachche ko us mein ghota dete aur kehte ke ab yeh sachcha Isaai ho gaya. Is aayat mein bataaya gaya ke yeh zaahiri rang kisi kaam ka nahin.
+
+## Surah Al-Baqarah — Ayat 2:139
+
+`Source: tafseerId=50269; ayatId=148; surah=2; ayat=139; para=1; volume=1`
+
+**Arabic:** قُلْ اَتُحَآجُّوْنَنَا فِی اللّٰهِ وَ هُوَ رَبُّنَا وَ رَبُّكُمْۚ-وَ لَنَاۤ اَعْمَالُنَا وَ لَكُمْ اَعْمَالُكُمْۚ-وَ نَحْنُ لَهٗ مُخْلِصُوْنَۙ   (139)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Tum farma do: Kya tum Allah ke baare mein hum se jhagadte ho, haalaanke woh hamara bhi Rab hai aur tumhara bhi, aur hamare aamaal hamare liye hain aur tumhare aamaal tumhare liye, aur hum khaalis usi ke hain.
+
+**Easy Roman Urdu:** Yahoodiyon ne Musalmano se kaha ke hum pehli Kitaab wale hain, hamara qiblah puraana hai, hamara Deen qadim hai aur Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام hum mein se aaye hain. Is liye agar Muhammad Mustafa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ Nabi hote to hamari qaum mein se hote. Is par yeh aayat naazil hui. (خازن، البقرۃ، تحت الآیۃ: ۱۳۹، ۱ / ۹۶، روح المعانی، البقرۃ، تحت الآیۃ: ۱۳۹، ۱ / ۵۴۲، ملتقطاً)
+
+Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke zariye un se farmaya gaya ke hamara aur tumhara sab ka Rab Allah Ta'ala hai. Use ikhtiyaar hai ke apne bandon mein se jise chahe Nabi banaaye, chahe woh Arab mein se ho ya kisi aur qaum mein se.
+
+{وَ نَحْنُ لَهٗ مُخْلِصُوْنَ: Aur hum khaalis usi ke hain.} Yani hum kisi ko Allah Ta'ala ka shareek nahin banaate aur ibaadat-o-ita'at khaalis usi ke liye karte hain. Allah Ta'ala ka khaalis banda wahi hota hai jo us ke Rasool صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ka ho jaaye, aur jo Rasool صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ka ho gaya woh Allah Ta'ala ka ho gaya. Allah Ta'ala farmata hai:
+
+مَنْ یُّطِعِ الرَّسُوْلَ فَقَدْ اَطَاعَ اللّٰهَ(النساء: ۸۰)
+
+Tarjumah-e-Kanz-ul-Irfan: Jis ne Rasool ki ita'at ki us ne Allah ki ita'at ki.
+
+A'la Hazrat رَحْمَۃُ اللہِ تَعَالٰی عَلَیْہِ ne farmaya:
+
+Jo ke is dar ka hua khalq-e-Khuda us ki hui
+
+Jo ke is dar se phira Allah hi se phir gaya
+
+## Surah Al-Baqarah — Ayat 2:140
+
+`Source: tafseerId=50270; ayatId=149; surah=2; ayat=140; para=1; volume=1`
+
+**Arabic:** اَمْ تَقُوْلُوْنَ اِنَّ اِبْرٰهٖمَ وَ اِسْمٰعِیْلَ وَ اِسْحٰقَ وَ یَعْقُوْبَ وَ الْاَسْبَاطَ كَانُوْا هُوْدًا اَوْ نَصٰرٰىؕ-قُلْ ءَاَنْتُمْ اَعْلَمُ اَمِ اللّٰهُؕ-وَ مَنْ اَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهٗ مِنَ اللّٰهِؕ-وَ مَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُوْنَ(140)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Kya tum yeh kehte ho ke Ibrahim, Ismaeel, Ishaq, Ya'qoob aur un ki aulaad Yahoodi ya Nasrani the? Tum farma do: Kya tum zyada jaante ho ya Allah? Aur us se badh kar zalim kaun jis ke paas Allah ki taraf se koi gawaahi ho aur woh use chhupaaye, aur Allah tumhare aamaal se be-khabar nahin.
+
+**Easy Roman Urdu:** Yahoodi kehte the ke Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Yahoodi the aur Isaai kehte the ke aap Isaai the. Un ki tardeed mein yeh aayat naazil hui ke Yahoodiyat aur Isaaiyat to Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke baad duniya mein aayin, phir aap in Deenon par kaise ho sakte the?
+
+{وَ مَنْ اَظْلَمُ مِمَّنْ: Aur us se badh kar zalim kaun?} Allah Ta'ala ki gawaahi chhupaane wala bahut bada zalim hai. Yeh Yahoodiyon ka haal tha. Unhone Taurat Shareef mein maujood Allah Ta'ala ki gawaahiyan chhupaayin ke Muhammad Mustafa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ Allah ke Nabi hain, aap ke yeh ausaaf hain, Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Musalman the aur maqbool Deen Islam hai, na ke Yahoodiyat ya Nasraniyyat.
+
+Aaj bhi bahut se log Quran padhte hain lekin Huzoor Anwar صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki azmat aur shaan ki aayatein chhupaate hain aur unhein awaam ke saamne bayaan nahin karte.
+
+## Surah Al-Baqarah — Ayat 2:141
+
+`Source: tafseerId=50271; ayatId=150; surah=2; ayat=141; para=1; volume=1`
+
+**Arabic:** تِلْكَ اُمَّةٌ قَدْ خَلَتْۚ-لَهَا مَا كَسَبَتْ وَ لَكُمْ مَّا كَسَبْتُمْۚ-وَ لَا تُسْــٴَـلُوْنَ عَمَّا كَانُوْا یَعْمَلُوْنَ۠   (141)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Woh ek ummat hai jo guzar chuki. Un ke aamaal un ke liye hain aur tumhare aamaal tumhare liye, aur tum se un ke kaamon ke baare mein sawaal nahin kiya jaayega.
+
+**Easy Roman Urdu:** Is aayat mein Yahoodiyon ko phir tanbeeh ki gayi ke tum apne buzurgon ki fazeelat par bharosa na karo, kyunke har shakhs se usi ke aamaal ke baare mein poocha jaayega. (خازن، البقرۃ، تحت الآیۃ: ۱۴۱، ۱ / ۹۶)
+
+Is mein un Musalmano ke liye bhi naseehat hai jo apne maa-baap ya Peer-o-Murshid ke nek aamaal par bharosa karke khud nekiyon se door aur gunaahon mein mashghool hain.
+
+## Surah Al-Baqarah — Ayat 2:142
+
+`Source: tafseerId=50272; ayatId=151; surah=2; ayat=142; para=2; volume=1`
+
+**Arabic:** سَیَقُوْلُ السُّفَهَآءُ مِنَ النَّاسِ مَا وَلّٰىهُمْ عَنْ قِبْلَتِهِمُ الَّتِیْ كَانُوْا عَلَیْهَاؕ-قُلْ لِّلّٰهِ الْمَشْرِقُ وَ الْمَغْرِبُؕ-یَهْدِیْ مَنْ یَّشَآءُ اِلٰى صِرَاطٍ مُّسْتَقِیْمٍ(142)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Ab bewakoof log kahenge: In Musalmano ko in ke us qible se kis ne pher diya jis par yeh pehle the? Tum farma do: Mashriq-o-Maghrib sab Allah hi ka hai. Woh jise chahta hai seedhe raaste ki taraf hidaayat deta hai.
+
+**Easy Roman Urdu:** Is aayat ke shaan-e-nuzool ke baare mein mufassireen ka ek qaul yeh hai ke yeh Yahoodiyon ke baare mein naazil hui. Jab Bait-ul-Muqaddas ki jagah Khanah-e-Ka'bah ko qiblah banaaya gaya to unhone aitraaz kiya, kyunke yeh tabdeeli unhein naagawaar thi.
+
+Doosra qaul yeh hai ke yeh Makkah ke mushrikon ke baare mein naazil hui. Jab qiblah badla to unhone aapas mein kaha ke Muhammad Mustafa صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ apne Deen ke baare mein uljhan ka shikaar hain aur abhi tak aap ke dil mein apni paidaish ki jagah Makkah Mukarramah ki muhabbat baaqi hai. Is liye jab aap ne hamare shehar ki taraf tawajjuh ki hai to mumkin hai ke aap hamare Deen ki taraf bhi laut aayein.
+
+Teesra qaul yeh hai ke yeh aayat munaafiqon ke baare mein naazil hui, kyunke unhone Islam ka mazaaq udaate hue qiblah badalne par aitraaz kiya tha. Chautha qaul yeh hai ke yeh aayat mushrikon, munaafiqon aur Yahoodiyon teeno ke baare mein ho sakti hai, kyunke qiblah ki tabdeeli par taana dene mein sab shareek the. (خازن، البقرۃ، تحت الآیۃ: ۱۴۲، ۱ / ۹۶)
+
+Is aayat mein ghaib ki khabar bhi hai ke pehle hi bata diya gaya tha ke bewakoof aur jaahil log qiblah badalne par aitraaz karenge. Aisa hi hua aur logon ne is par aitraaz kiya.
+
+{اَلسُّفَهَآءُ مِنَ النَّاسِ: Logon mein se bewakoof.} Qiblah ki tabdeeli par aitraaz karne walon ko bewakoof is liye kaha gaya ke woh ek wazeh baat par aitraaz kar rahe the. Pichhle Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ne Nabi-e-Aakhir-uz-Zamaan صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke khaas ausaaf mein aap ka laqab ''ذُوالْقِبْلَتَیْنْ'' yani do qiblon wale bhi bayaan farmaaya tha. Qiblah ki tabdeeli to is baat ki daleel thi ke aap wahi Nabi hain jin ki pehle Ambiya ne khabar di thi. Sachchai ki daleel ko maan-ne ke bajaaye us par aitraaz karna hamaaqat hai.
+
+### Deeni Masail Par Be-Ja Aitraaz Karne Wale Bewakoof Hain
+
+Is aayat mein Bait-ul-Muqaddas ke baad Khanah-e-Ka'bah ko qiblah banaane par aitraaz karne walon ko bewakoof kaha gaya. Is se maloom hua ke jo shakhs deeni masaail ki hikmatein na samajh sake aur un par be-ja aitraaz kare woh ahmaq aur bewakoof hai, chahe dunyawi kaamon mein kitna hi chaalaak ho. Aaj bhi aise log maujood hain jo Musalman kehla kar sharaab, sood, parde, haya, Islami nizaam-e-wiraasat aur Hudood-e-Islam par aitraaz karte hain. Quran-e-Majeed ke hukm ke mutaabiq aise log bewakoof hain.
+
+{مَا وَلّٰىهُمْ عَنْ قِبْلَتِهِمُ الَّتِیْ كَانُوْا عَلَیْهَا: Inhein us qible se kis ne pher diya jis par yeh pehle the?} Qiblah us simt ko kehte hain jis taraf insaan munh karta hai. Musalmano ko Khanah-e-Ka'bah ki taraf munh karke namaaz padhne ka hukm diya gaya, is liye Khanah-e-Ka'bah Musalmano ka qiblah hai.
+
+### Khanah-e-Ka'bah Aur Bait-ul-Muqaddas Kab Qiblah Rahe
+
+Hazrat Adam عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام tak Ka'bah hi qiblah raha. Phir Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام tak Bait-ul-Muqaddas qiblah raha. Musalman bhi Madinah Munawwarah aane ke baad taqreeban solah ya satrah mahine Bait-ul-Muqaddas ki taraf munh karke namaaz padhte rahe. Is ke baad namaaz-e-Zuhr ke dauraan Masjid-e-Qiblatain mein qiblah badalne ka waaqia hua. Yaad rahe ke Hajj hamesha Ka'bah hi ka hua hai, Bait-ul-Muqaddas ka Hajj kabhi nahin hua.
+
+{قُلْ لِّلّٰهِ الْمَشْرِقُ وَ الْمَغْرِبُ: Tum farma do ke Mashriq-o-Maghrib sab Allah hi ka hai.} Qiblah par aitraaz karne wale sab logon ko ek hi jawaab diya gaya ke Mashriq-o-Maghrib sab Allah Ta'ala ka hai. Use ikhtiyaar hai ke jise chahe qiblah banaaye. Kisi ko aitraaz ka kya haq hai? Bande ka kaam farmabardari karna hai. Aye Mehboob صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ! Aap farma dein ke hum Mashriq-o-Maghrib ke poojari nahin ke simton par ade rahen. Hum apne Rab ki ibaadat karte hain. Woh jis taraf munh karne ka hukm dega, hum usi taraf munh karke namaaz padhte rahenge.
