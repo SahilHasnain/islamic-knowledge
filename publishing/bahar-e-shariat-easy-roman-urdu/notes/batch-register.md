@@ -16,6 +16,10 @@
 | `07-jild-1-section-2.md` | `volume_one`, page 305 | 1 page | draft complete | Page moved at the file line limit; source: `source/32-volume-1-section-2-pages-301-305.json`; internal source-content check required. |
 | `07-jild-1-section-2.md` | `volume_one`, pages 306–310 | 5 pages | draft complete | Complete source JSON: `source/33-volume-1-section-2-pages-306-310.json`; readable source: `source-readable/33-volume-1-section-2-pages-306-310.md`; internal source-content check required. |
 | `07-jild-1-section-2.md` | `volume_one`, pages 311–315 | 5 pages | draft complete | Complete source JSON: `source/34-volume-1-section-2-pages-311-315.json`; readable source: `source-readable/34-volume-1-section-2-pages-311-315.md`; internal source-content check required. |
+| `07-jild-1-section-2.md` | `volume_one`, pages 316–320 | 5 pages | draft complete | Complete source JSON: `source/35-volume-1-section-2-pages-316-320.json`; readable source: `source-readable/35-volume-1-section-2-pages-316-320.md`; internal source-content check required. |
+| `07-jild-1-section-2.md` | `volume_one`, pages 321–330 | 10 pages | draft complete | Complete source JSON: `source/36-volume-1-section-2-pages-321-330.json`; readable source: `source-readable/36-volume-1-section-2-pages-321-330.md`; internal source-content check completed for this batch. |
+| `08-jild-1-section-2.md` | `volume_one`, pages 331–340 | 10 pages | draft complete | Complete source JSON: `source/37-volume-1-section-2-pages-331-340.json`; readable source: `source-readable/37-volume-1-section-2-pages-331-340.md`; internal source-content check completed for this batch. |
+| `08-jild-1-section-2.md` | `volume_one`, pages 341–350 | 10 pages | draft complete | Complete source JSON: `source/38-volume-1-section-2-pages-341-350.json`; readable source: `source-readable/38-volume-1-section-2-pages-341-350.md`; internal source-content check completed for this batch. |
 
 Page-to-source references for later checking are maintained in `notes/manual-verification-log.md`.
 

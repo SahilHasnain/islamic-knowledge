@@ -685,3 +685,237 @@ Tarjumah-e-Kanz-ul-Irfan: Logon ke liye auraton, beton, sone-chaandi ke dheron, 
 {وَ مِنْهُمْ مَّنْ یَّقُوْلُ: Aur koi yoon kehta hai.} Yeh bahut jaame' dua hai; thode alfaaz mein Deen aur duniya ki tamaam bhalaaiyan maangi gayi hain. Hazrat Anas bin Maalik رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwaayat hai ke Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ aksar yeh dua maanga karte: “اَللّٰہُمَّ رَبَّنَاۤ اٰتِنَا فِی الدُّنْیَا حَسَنَةً وَّ فِی الْاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ” (بخاری، کتاب الدعوات، باب قول النبی صلی اللہ علیہ وسلم ربنا اٰتنا فی الدنیا حسنۃ۔۔۔ الخ، ۴ / ۲۱۴، الحدیث: ۶۳۸۹)
 
 Duniya ki bhalaai mein har achhi aur faidemand cheez daakhil hai, chahe kaafi rizq, achha ghar, achhi biwi, achhi sawaari ya achha pados ho.
+
+## Ayat 2:202
+
+`Source: tafseerId=54516; ayatId=211; para=2; volume=1`
+
+**Arabic:** اُولٰٓىٕكَ لَهُمْ نَصِیْبٌ مِّمَّا كَسَبُوْاؕ-وَ اللّٰهُ سَرِیْعُ الْحِسَابِ(202)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Un logon ke liye un ke kamaaye hue aamaal se hissa hai aur Allah jaldi hisaab karne wala hai.
+
+**Easy Roman Urdu:**
+
+Is aayat ki tafseer pichhli aayat ki tafseer ke zail mein bayan ho chuki hai.
+
+## Ayat 2:203
+
+`Source: tafseerId=50330; ayatId=212; para=2; volume=1`
+
+**Arabic:** وَ اذْكُرُوا اللّٰهَ فِیْۤ اَیَّامٍ مَّعْدُوْدٰتٍؕ-فَمَنْ تَعَجَّلَ فِیْ یَوْمَیْنِ فَلَاۤ اِثْمَ عَلَیْهِۚ-وَ مَنْ تَاَخَّرَ فَلَاۤ اِثْمَ عَلَیْهِۙ-لِمَنِ اتَّقٰىؕ-وَ اتَّقُوا اللّٰهَ وَ اعْلَمُوْۤا اَنَّكُمْ اِلَیْهِ تُحْشَرُوْنَ(203)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur ginti ke dinon mein Allah ka zikr karo to jo jaldi karke do din mein (Mina se) chala jaye us par kuchh gunaah nahin aur jo peeche reh jaye to us par bhi koi gunaah nahin. Yeh bashaarat parhezgaar ke liye hai. Aur Allah se darte raho aur jaan rakho ke tum usi ki taraf uthaye jaoge.
+
+**Easy Roman Urdu:**
+
+{وَ اذْكُرُوا اللّٰهَ فِیْۤ اَیَّامٍ مَّعْدُوْدٰتٍ: Aur ginti ke dinon mein Allah ka zikr karo.} Ginti ke dinon se muraad Ayyaam-e-Tashreeq hain. Allah ke zikr se muraad namazon ke baad aur Jamaraat ki rami ke waqt takbeer kehna hai. (صاوی، البقرۃ، تحت الآیۃ: ۲۰۳، ۱ / ۱۷۱)
+
+Is ka matlab yeh hai ke Mina mein qayam ke dauraan Allah Ta'ala ke zikr mein mashghool raho.
+
+{فَمَنْ تَعَجَّلَ فِیْ یَوْمَیْنِ: To jo jaldi karke do din mein chala jaye.} Zil-Hijjah ki das, gyarah, baarah aur terah tareekh ko Mina mein Jamaraat par rami ki jaati hai. Das tareekh ko sirf ek Jamrah ki rami hoti hai aur baqi tareekhon mein teenon Jamaraat ki. Terah tareekh ko bhi rami hoti hai, lekin agar koi shakhs baarah tareekh ki rami karke Mina se wapas aa jaye to us par koi gunaah nahin, agarche terah tareekh ko rami karke wapas aana afzal hai. (تفسیرات احمدیہ، البقرۃ، تحت الآیۃ: ۲۰۳، ص۹۸)
+
+Yahan do din mein rami karke chale jaane se muraad das Zil-Hijjah ke baad ke do din hain.
+
+## Ayat 2:204
+
+`Source: tafseerId=50331; ayatId=213; para=2; volume=1`
+
+**Arabic:** وَ مِنَ النَّاسِ مَنْ یُّعْجِبُكَ قَوْلُهٗ فِی الْحَیٰوةِ الدُّنْیَا وَ یُشْهِدُ اللّٰهَ عَلٰى مَا فِیْ قَلْبِهٖۙ-وَ هُوَ اَلَدُّ الْخِصَامِ(204)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur logon mein se koi woh hai ke duniya ki zindagi mein us ki baat tumhein bahut achhi lagti hai aur woh apne dil ki baat par Allah ko gawaah banata hai, haalanke woh sab se zyaada jhagra karne wala hai.
+
+**Easy Roman Urdu:**
+
+{مَنْ یُّعْجِبُكَ قَوْلُهٗ: Jis ki guftagu tujhe achhi lagti hai.} Shaan-e-nuzool: Yeh aayat Akhnas bin Shariq munaafiq ke baare mein naazil hui. Woh Huzoor Sayyid-ul-Mursaleen صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki khidmat mein haazir hokar bahut khushamad bhari meethi baatein karta tha. Apne Islam aur Nabi-e-Kareem صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ se muhabbat ka daawa karta aur is par qasmein khaata tha, lekin chhupkar fasaad phailaane mein laga rehta tha. Us ne Musalmanon ke maveshi halaak kiye aur un ki khetiyon ko aag lagaai thi. (خازن، البقرۃ، تحت الآیۃ: ۲۰۴، ۱ / ۱۴۴-۱۴۵)
+
+Is aayat mein majmuee taur par jo kharaabiyan bayan hui hain, woh yeh hain:
+
+(1)…Zahiri taur par bahut achhi baatein karna.
+
+(2)…Apni ghalat baaton par Allah ko gawaah banana.
+
+(3)…Jhagarralu hona.
+
+(4)…Fasaad phailaana.
+
+(5)…Logon ke mawaal barbaad karna.
+
+(6)…Nasihat ki baat sunkar maan lene ke bajaaye takabbur karna.
+
+Is aayat-e-mubaarakah mein agarche ek khaas munaafiq ka zikr hai, lekin yeh aayat bahut se logon ko samjhaane ke liye kaafi hai. Hamare muashray mein bhi bahut se log aise hain jin ki zubaan bahut meethi hoti hai, woh narmi se baat karte aur badi aajizi dikhate hain, lekin chhupkar Deen ke maamlaat mein, logon mein ya khandaanon mein fasaad paida karte hain aur halaakat o barbaadi ka sabab bante hain.
+
+## Ayat 2:205
+
+`Source: tafseerId=54517; ayatId=214; para=2; volume=1`
+
+**Arabic:** وَ اِذَا تَوَلّٰى سَعٰى فِی الْاَرْضِ لِیُفْسِدَ فِیْهَا وَ یُهْلِكَ الْحَرْثَ وَ النَّسْلَؕ-وَ اللّٰهُ لَا یُحِبُّ الْفَسَادَ(205)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur jab peeth pherkar jaata hai to koshish karta hai ke zameen mein fasaad phailaaye aur khet aur maveshi halaak kare aur Allah fasaad ko pasand nahin karta.
+
+**Easy Roman Urdu:**
+
+Is aayat ki tafseer pichhli aayat ki tafseer ke zail mein bayan ho chuki hai.
+
+## Ayat 2:206
+
+`Source: tafseerId=50332; ayatId=215; para=2; volume=1`
+
+**Arabic:** وَ اِذَا قِیْلَ لَهُ اتَّقِ اللّٰهَ اَخَذَتْهُ الْعِزَّةُ بِالْاِثْمِ فَحَسْبُهٗ جَهَنَّمُؕ-وَ لَبِئْسَ الْمِهَادُ(206)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur jab us se kaha jaaye ke Allah se daro to use zid mazeed gunaah par ubhaarti hai, to aise ko Jahannam kaafi hai aur woh zaroor bahut bura thikaana hai.
+
+**Easy Roman Urdu:**
+
+{وَ اِذَا قِیْلَ لَهُ: Aur jab us se kaha jaaye.} Munaafiq aadmi ki ek alamat yeh hoti hai ke agar use samjhaya jaaye to woh apni baat par arr jaata hai. Doosre ki baat maan lena apne liye tauheen samajhta hai aur nasihat kiye jaane ko apni izzat ka masla bana leta hai.
+
+Afsoos hai ke hamare yahan aise log bahut zyaada hain. Gharon mein dekhein to ladki wale ladke ya us ke ghar walon ko nahin samjha sakte. Chhote khandaan wale bade khandaan walon ko nahin samjha sakte. Aam aadmi kisi chaudhary ko nahin samjha sakta. Awam duniyaavi ohde wale ko nahin samjha sakti. Masjidon mein koi naujawan aalim ya Deeni muballigh kisi purane buzurg ko nahin samjha sakta. Jise samjhaya jaata hai wahi samjhaane wale se jhagadne lagta hai. Deeni shobay mein bhi is kharaabi ki kami nahin. Allah Ta'ala hamare haal ki islaah farmaaye.
+
+## Ayat 2:207
+
+`Source: tafseerId=50333; ayatId=216; para=2; volume=1`
+
+**Arabic:** وَ مِنَ النَّاسِ مَنْ یَّشْرِیْ نَفْسَهُ ابْتِغَآءَ مَرْضَاتِ اللّٰهِؕ-وَ اللّٰهُ رَءُوْفٌۢ بِالْعِبَادِ(207)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur logon mein se koi woh hai jo Allah ki raza talaash karne ke liye apni jaan bech deta hai aur Allah bandon par bada mehrbaan hai.
+
+**Easy Roman Urdu:**
+
+{مَنْ یَّشْرِیْ نَفْسَهُ: Jo apni jaan bechta hai.} Shaan-e-nuzool: Hazrat Suhaib Rumi رَضِیَ اللہُ تَعَالٰی عَنْہُ Makkah Mukarramah se hijrat karke Huzoor Pur-Noor صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki khidmat mein Madinah Tayyibah ki taraf rawana hue. Quraish ke mushrikon ki ek jamaat ne aap ka peecha kiya. Aap sawaari se utar gaye, tarkash se teer nikaal kar farmaaya: “Ae Quraish! Tum mein se koi mere paas nahin aa sakta jab tak main teer maar maar kar apna poora tarkash khaali na kar doon. Phir jab tak talwaar mere haath mein rahegi, main us se maarunga. Agar tum mera maal chaahte ho jo Makkah Mukarramah mein dafan hai to main tumhein us ka pata bata deta hoon. Tum mera raasta na roko.”
+
+Woh is baat par raazi ho gaye aur aap رَضِیَ اللہُ تَعَالٰی عَنْہُ ne apne saare maal ka pata bata diya. Jab aap Huzoor Anwar صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki khidmat mein haazir hue to yeh aayat naazil hui. Huzoor Aqdas صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne aayat ki tilaawat farmaai aur irshaad farmaaya: “Tumhari yeh jaan-faroshi bahut nafa dene wali tijaarat hai.” (ابن عساکر، صہیب بن سنان بن مالک۔۔۔ الخ، ۲۴ / ۲۲۸)
+
+## Ayat 2:208
+
+`Source: tafseerId=50334; ayatId=217; para=2; volume=1`
+
+**Arabic:** یٰۤاَیُّهَا الَّذِیْنَ اٰمَنُوا ادْخُلُوْا فِی السِّلْمِ كَآفَّةً۪-وَ لَا تَتَّبِعُوْا خُطُوٰتِ الشَّیْطٰنِؕ-اِنَّهٗ لَكُمْ عَدُوٌّ مُّبِیْنٌ(208)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Ae imaan walon! Islam mein poore poore daakhil ho jao aur Shaitaan ke qadmon par na chalo. Beshak woh tumhara khula dushman hai.
+
+**Easy Roman Urdu:**
+
+{اُدْخُلُوْا فِی السِّلْمِ كَآفَّةً: Islam mein poore poore daakhil ho jao.} Shaan-e-nuzool: Ahle Kitaab mein se Hazrat Abdullah bin Salaam رَضِیَ اللہُ تَعَالٰی عَنْہُ aur un ke saathi Tajdaar-e-Risaalat صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ par imaan laane ke baad Shariat-e-Moosavi ke kuchh ahkaam par qayam rahe. Woh Shanivaar ke din ki ta'zeem karte, us din shikaar se zaroor bachna samajhte aur oont ke doodh aur gosht se bhi parhez karte the. Un ka khayaal tha ke Islam mein yeh cheezein sirf mubaah, yaani jaaiz hain; in ka karna zaroori nahin. Jab Tauraat mein in se bachna laazim kiya gaya hai to inhein chhorne mein Islam ki mukhaalifat bhi nahin hoti aur Shariat-e-Moosavi par amal bhi ho jaata hai.
+
+Is par yeh aayat naazil hui aur farmaaya gaya ke Islam ke ahkaam ki poori pairavi karo. Tauraat ke ahkaam mansookh ho chuke hain, ab un ki taraf tawajjuh na do. (خازن، البقرۃ، تحت الآیۃ: ۲۰۸، ۱ / ۱۴۷)
+
+### Imani Kamzori Ki Alamat
+
+Yaad rakhein ke daarhi mundwana, mushrikon jaisa libaas pehenna aur apna muashra be-Deen logon jaisa banana bhi imaan ki kamzori ki alamat hai. Jab Musalman ho gaye to apni seerat o soorat, zahir o baatin, ibaadaat o muamlaat, rehne sehne, milne julne, zindagi o maut, tijaarat o mulaazmat sab mein apne Deen par amal karo.
+
+Yeh bhi maaloom hua ke Musalman ka doosre mazaahib ya doosre Deen walon ki ri'aayat karna Shaitaani dhoke mein aana hai. Islam mein oont ka gosht khaana farz nahin, lekin Yahoodiyat ki ri'aayat ke liye use na khaana bahut bada jurm hai. Kaafiron ko raazi karne ke liye gaaye ki qurbaani band kar dena bhi isi mein daakhil hai. Isi tarah kisi jagah azaan band kar dena ya azaan dheemi aawaaz se dena bhi isi mein daakhil hai.
+
+## Ayat 2:209
+
+`Source: tafseerId=50335; ayatId=218; para=2; volume=1`
+
+**Arabic:** فَاِنْ زَلَلْتُمْ مِّنْۢ بَعْدِ مَا جَآءَتْكُمُ الْبَیِّنٰتُ فَاعْلَمُوْۤا اَنَّ اللّٰهَ عَزِیْزٌ حَكِیْمٌ(209)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur agar tumhare paas roshan daleelein aa jaane ke baad bhi tum phislo to jaan lo ke Allah zabardast hikmat wala hai.
+
+**Easy Roman Urdu:**
+
+{فَاِنْ زَلَلْتُمْ: Phir agar tum phislo.} Is se muraad yeh hai ke wazeh daleelein aa jaane ke bawajood Islam mein poore poore daakhil hone se door raho aur Islam ki raah ke khilaaf tareeqa apnao to yeh tumhara sakht jurm hai. Ilm ke bawajood be-amali jahalat hai.
+
+## Ayat 2:210
+
+`Source: tafseerId=50336; ayatId=219; para=2; volume=1`
+
+**Arabic:** هَلْ یَنْظُرُوْنَ اِلَّاۤ اَنْ یَّاْتِیَهُمُ اللّٰهُ فِیْ ظُلَلٍ مِّنَ الْغَمَامِ وَ الْمَلٰٓىٕكَةُ وَ قُضِیَ الْاَمْرُؕ-وَ اِلَى اللّٰهِ تُرْجَعُ الْاُمُوْرُ۠   (210)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Log to isi cheez ka intezaar kar rahe hain ke baadalon ke saayon mein un ke paas Allah ka azaab aur farishte aa jaayen aur faisla kar diya jaaye aur Allah hi ki taraf sab kaam lautaaye jaate hain.
+
+**Easy Roman Urdu:**
+
+{هَلْ یَنْظُرُوْنَ: Kis cheez ka intezaar karte hain.} Farmaaya ja raha hai ke Deen-e-Islam chhorne aur Shaitaan ki farmaabardaari karne wale kis cheez ka intezaar kar rahe hain? Kya is baat ka ke Allah Ta'ala ka azaab aur azaab ke farishte utar aayein aur un ka qissa tamaam kar diya jaaye?
+
+## Ayat 2:211
+
+`Source: tafseerId=50337; ayatId=220; para=2; volume=1`
+
+**Arabic:** سَلْ بَنِیْۤ اِسْرَآءِیْلَ كَمْ اٰتَیْنٰهُمْ مِّنْ اٰیَةٍۭ بَیِّنَةٍؕ-وَ مَنْ یُّبَدِّلْ نِعْمَةَ اللّٰهِ مِنْۢ بَعْدِ مَا جَآءَتْهُ فَاِنَّ اللّٰهَ شَدِیْدُ الْعِقَابِ(211)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Bani Isra'eel se poochho ke hum ne unhein kitni roshan nishaaniyan dein aur jo Allah ki ne'mat ko apne paas aane ke baad badal de to beshak Allah ka azaab sakht hai.
+
+**Easy Roman Urdu:**
+
+{ كَمْ اٰتَیْنٰهُمْ مِّنْ اٰیَةٍۭ بَیِّنَةٍ: Hum ne unhein kitni roshan nishaaniyan dein.} Farmaaya gaya ke Bani Isra'eel se poochho ke hum ne unhein kitni roshan nishaaniyan ata farmaayin. Un ke Ambiya عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ke mojizaat ko un ki nubuwwat ki sachchai ki daleel banaya aur un ke irshaadaat aur un ki kitaabon ko Deen-e-Islam ki haqqaniyyat ka gawaah banaya.
+
+Yaad rahe ke yahan poochhna haqeeqat mein unhein qaail karne, sharminda karne aur un ki apni na-farmaaniyon ke bawajood Allah Ta'ala ki meherbaaniyon ka iqraar karaane ke liye hai.
+
+{وَ مَنْ یُّبَدِّلْ نِعْمَةَ اللّٰهِ: Aur jo Allah ki ne'mat ko badal de.} Allah Ta'ala ki ne'mat se Allah ki aayatein muraad hain jo hidaayat ka sabab hain aur jin ki wajah se gumraahi se nijaat milti hai. Inhi aayaton mein woh aayatein bhi hain jin mein Sarkaar-e-Do-Aalam صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki na'at o sifat aur Huzoor Pur-Noor صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki nubuwwat o risaalat ka bayan hai. Yahood o Nasaara ka apni kitaabon mein tahreef karna is ne'mat ko badalna hai.
+
+## Ayat 2:212
+
+`Source: tafseerId=50338; ayatId=221; surah=2; ayat=212; para=2; volume=1`
+
+**Arabic:** زُیِّنَ لِلَّذِیْنَ كَفَرُوا الْحَیٰوةُ الدُّنْیَا وَ یَسْخَرُوْنَ مِنَ الَّذِیْنَ اٰمَنُوْاۘ-وَ الَّذِیْنَ اتَّقَوْا فَوْقَهُمْ یَوْمَ الْقِیٰمَةِؕ-وَ اللّٰهُ یَرْزُقُ مَنْ یَّشَآءُ بِغَیْرِ حِسَابٍ(212)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Kaafiron ki nigah mein duniya ki zindagi ko khushnuma bana diya gaya aur woh Musalmanon par hanste hain, aur Allah se darne wale Qayamat ke din in kaafiron se oopar honge aur Allah jise chahta hai be-hisaab rizq ata farmata hai.
+
+**Easy Roman Urdu:**
+
+{زُیِّنَ لِلَّذِیْنَ كَفَرُوا الْحَیٰوةُ الدُّنْیَا: Kaafiron ki nigah mein duniya ki zindagi ko khushnuma bana diya gaya.} Kaafiron ke liye duniya ki zindagi saja di gayi. Unhein yahi zindagi pasand hai, woh isi ko qeemti samajhte aur isi par marte hain. Jo zindagi nafs ki khwahishaat mein guzre woh duniyaavi zindagi hai, aur jo Aakhirat ka samaan jama karne mein guzre woh Allah ke fazl se Deeni zindagi hai. Is mein Aakhirat se ghaafil log bhi shaamil hain.
+
+{وَ یَسْخَرُوْنَ مِنَ الَّذِیْنَ اٰمَنُوْا: Aur woh Musalmanon par hanste hain.} Kaafir ghareeb Musalmanon ka mazaaq udaate aur duniyaavi samaan se be-raghbati dekh kar unhein haqeer samajhte the, jaise Hazrat Abdullah bin Mas'ood, Hazrat Ammar bin Yasir, Hazrat Suhaib aur Hazrat Bilal رَضِیَ اللہُ تَعَالٰی عَنْہُم ka mazaaq udaaya karte the. Woh duniya ke maal ke ghamand mein apne aap ko bada samajhte the. (خازن، البقرۃ، تحت الآیۃ: ۲۱۲، ۱ / ۱۵۰)
+
+Qayamat ke din imaan wale in kaafiron se buland honge; momin Allah ke qurb mein aur kaafir Jahannam mein zaleel honge. Is se maloom hua ke ghareeb Musalman ka mazaaq udaana ya kisi momin ko zaleel aur kamtar samajhna kaafiron ka tareeqa hai. Faasiq aur kaafir maaldaar ho tab bhi zaleel hai, aur momin ghareeb ho aur kisi bhi qaum se ho izzat wala hai, bashart-e-ke muttaqi ho.
+
+## Ayat 2:213
+
+`Source: tafseerId=50339; ayatId=222; surah=2; ayat=213; para=2; volume=1`
+
+**Arabic:** كَانَ النَّاسُ اُمَّةً وَّاحِدَةً- فَبَعَثَ اللّٰهُ النَّبِیّٖنَ مُبَشِّرِیْنَ وَ مُنْذِرِیْنَ۪-وَ اَنْزَلَ مَعَهُمُ الْكِتٰبَ بِالْحَقِّ لِیَحْكُمَ بَیْنَ النَّاسِ فِیْمَا اخْتَلَفُوْا فِیْهِؕ-وَ مَا اخْتَلَفَ فِیْهِ اِلَّا الَّذِیْنَ اُوْتُوْهُ مِنْۢ بَعْدِ مَا جَآءَتْهُمُ الْبَیِّنٰتُ بَغْیًۢا بَیْنَهُمْۚ-فَهَدَى اللّٰهُ الَّذِیْنَ اٰمَنُوْا لِمَا اخْتَلَفُوْا فِیْهِ مِنَ الْحَقِّ بِاِذْنِهٖؕ-وَ اللّٰهُ یَهْدِیْ مَنْ یَّشَآءُ اِلٰى صِرَاطٍ مُّسْتَقِیْمٍ(213)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Tamaam log ek Deen par the to Allah ne Ambiya bheje, khushkhabri dete aur daraate hue, aur un ke saath sachchi Kitaab utaari taake woh logon ke darmiyaan un ke ikhtilaafaat mein faisla kare. Jinhein Kitaab di gayi unhone hi baahmi bughz-o-hasad ki wajah se us mein ikhtilaaf kiya, is ke baad ke un ke paas roshan ahkaam aa chuke the. To Allah ne imaan walon ko apne hukm se us haq baat ki hidaayat di jis mein log jhagad rahe the, aur Allah jise chahta hai seedhi raah dikhaata hai.
+
+**Easy Roman Urdu:**
+
+{كَانَ النَّاسُ اُمَّةً وَّاحِدَةً: Tamaam log ek Deen par the.} Hazrat Adam عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se Hazrat Nooh عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke ahd tak sab ek Deen aur ek Shariat par the. Phir ikhtilaaf hua to Allah Ta'ala ne Hazrat Nooh عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko mab'ous farmaya; aap ba'isat mein sab se pehle Rasool hain. (خازن، البقرۃ، تحت الآیۃ: ۲۱۳، ۱ / ۱۵۰)
+
+Phir Rasoolon عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ka silsila shuru hua. Logon ki hidaayat ke liye Hazrat Adam, Hazrat Shees aur Hazrat Idrees عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام par saheefe, Hazrat Moosa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par Taurat, Hazrat Da'ood عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par Zaboor, Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par Injeel aur Khaatam-ul-Anbiya Muhammad Mustafa صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ par Quran naazil farmaya gaya.
+
+Ambiya عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام ki hidaayatein aa jaane ke baad bhi Yahood-o-Nasaara ne hasad ki wajah se apni kitaabon aur Allah ki Kitaab mein ikhtilaaf kiya. Aakhir Allah Ta'ala ne Musalmanon ko Huzoor Pur-Noor صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke zariye haq ki hidaayat di aur un ikhtilaafi baaton mein haq samjha diya.
+
+## Ayat 2:214
+
+`Source: tafseerId=50340; ayatId=223; surah=2; ayat=214; para=2; volume=1`
+
+**Arabic:** اَمْ حَسِبْتُمْ اَنْ تَدْخُلُوا الْجَنَّةَ وَ لَمَّا یَاْتِكُمْ مَّثَلُ الَّذِیْنَ خَلَوْا مِنْ قَبْلِكُمْؕ-مَسَّتْهُمُ الْبَاْسَآءُ وَ الضَّرَّآءُ وَ زُلْزِلُوْا حَتّٰى یَقُوْلَ الرَّسُوْلُ وَ الَّذِیْنَ اٰمَنُوْا مَعَهٗ مَتٰى نَصْرُ اللّٰهِؕ-اَلَاۤ اِنَّ نَصْرَ اللّٰهِ قَرِیْبٌ(214)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Kya tumhara yeh gumaan hai ke Jannat mein daakhil ho jaoge, haalanke abhi tum par pehle logon jaisi haalat nahin aayi? Unhein sakhti aur shiddat pahunchi aur unhein zor se hila diya gaya, yahan tak ke Rasool aur un ke saath imaan wale keh uthe: Allah ki madad kab aayegi? Sun lo! Beshak Allah ki madad qareeb hai.
+
+**Easy Roman Urdu:**
+
+{اَمْ حَسِبْتُمْ اَنْ تَدْخُلُوا الْجَنَّةَ: Kya tumhara yeh gumaan hai ke Jannat mein daakhil ho jaoge.} Yeh aayat Ghazwa-e-Ahzaab ke baare mein naazil hui, jahan Musalmanon ko sardi aur bhook ki sakht takleef pahunchi thi. (قرطبی، البقرۃ، تحت الآیۃ: ۲۱۵، ۲ / ۲۷، الجزء الثالث)
+
+Is mein sabr ki ta'leem di gayi aur bataya gaya ke Allah ki raah mein takleef uthana Allah ke khaas bandon ka hamesha se tareeqa hai. Hazrat Khabbab bin Aratt رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwaayat hai ke Nabi-e-Kareem صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ Ka'bah ke saaye mein tashreef farma the. Humne arz ki: Ya Rasool Allah صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ, hamare liye dua kyun nahin farmaate? Farmaya: Tum se pehle logon ko zameen mein gaddha khod kar daba diya jaata, aare se do tukde kiya jaata aur lohe ki kanghiyon se un ka gosht nochha jaata, lekin koi museebat unhein Deen se rok nahin sakti thi. (بخاری، کتاب المناقب، باب علامات النبوۃ فی الاسلام، ۲ / ۵۰۳، الحدیث: ۳۶۱۲)
+
+{وَ زُلْزِلُوْا: Aur unhein zor se hila diya gaya.} Pichhli ummaton ki museebat inteha tak pahunchi, phir bhi woh Deen par qayam rahe. Un ki fariyaad par jawab mila: Allah ki madad qareeb hai. Yeh Huzoor Pur-Noor صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke Sahaba-e-Kiraam رَضِیَ اللہُ تَعَالٰی عَنْہُم, muballighon, naye Musalmanon aur neki ke naye mahaul ko apnaane walon ke liye tasalli hai ke sabr aur isteqaamat se Deen par qayam rahen.
+
+## Ayat 2:215
+
+`Source: tafseerId=50341; ayatId=224; surah=2; ayat=215; para=2; volume=1`
+
+**Arabic:** یَسْــٴَـلُوْنَكَ مَا ذَا یُنْفِقُوْنَؕ-قُلْ مَاۤ اَنْفَقْتُمْ مِّنْ خَیْرٍ فَلِلْوَالِدَیْنِ وَ الْاَقْرَبِیْنَ وَ الْیَتٰمٰى وَ الْمَسٰكِیْنِ وَ ابْنِ السَّبِیْلِؕ-وَ مَا تَفْعَلُوْا مِنْ خَیْرٍ فَاِنَّ اللّٰهَ بِهٖ عَلِیْمٌ(215)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aap se poochhte hain kya kharch karein? Tum farmaao: Jo kuchh maal neki mein kharch karo to woh maa-baap, qareebi rishtedaron, yateemon, mohtaajon aur musaafir ke liye hai, aur tum jo bhalaai karo beshak Allah use jaanta hai.
+
+**Easy Roman Urdu:**
+
+{یَسْــٴَـلُوْنَكَ مَا ذَا یُنْفِقُوْنَ: Aap se poochhte hain kya kharch karein.} Yeh aayat Hazrat Amr bin Jamooh رَضِیَ اللہُ تَعَالٰی عَنْہُ ke jawaab mein naazil hui. Woh boorhe aur maaldaar the. Unhone Rasool Allah صَلَّى اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ se poocha tha ke kya aur kis par kharch karein. (خازن، البقرۃ، تحت الآیۃ: ۲۱۵، ۱ / ۱۵۲)
+
+Jis qisam ka aur jitna maal, kam ya zyaada, kharch karo us mein sawaab hai. Kharch karne ki jagahen maa-baap, rishtedaar, yateem, miskeen aur musaafir hain. Do masale yaad rakhein: (1) yahan nafl sadaqah ka bayan hai. (جمل، البقرۃ، تحت الآیۃ: ۲۱۵،۱ / ۲۵۶) (2) Maa-baap ko zakaat aur sadaqaat-e-waajibah dena jaaiz nahin. (رد المحتار، کتاب الزکاۃ، باب المصرف، ۳ / ۳۴۴)
+
+## Ayat 2:216
+
+`Source: tafseerId=50342; ayatId=225; surah=2; ayat=216; para=2; volume=1`
+
+**Arabic:** كُتِبَ عَلَیْكُمُ الْقِتَالُ وَ هُوَ كُرْهٌ لَّكُمْۚ-وَ عَسٰۤى اَنْ تَكْرَهُوْا شَیْــٴًـا وَّ هُوَ خَیْرٌ لَّكُمْۚ-وَ عَسٰۤى اَنْ تُحِبُّوْا شَیْــٴًـا وَّ هُوَ شَرٌّ لَّكُمْؕ-وَ اللّٰهُ یَعْلَمُ وَ اَنْتُمْ لَا تَعْلَمُوْنَ۠ (216)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Tum par jihaad farz kiya gaya hai haalanke woh tumhein naagawaar hai, aur qareeb hai ke koi baat tumhein naapasand ho haalanke woh tumhare haq mein behtar ho, aur qareeb hai ke koi baat tumhein pasand aaye haalanke woh tumhare haq mein buri ho. Aur Allah jaanta hai aur tum nahin jaante.
+
+**Easy Roman Urdu:**
+
+{كُتِبَ عَلَیْكُمُ الْقِتَالُ: Tum par jihaad farz kiya gaya hai.} Sharaait paayi jaayen to jihaad farz hai; kaafir Musalmanon ke mulk par hamla karein to farz-e-ain, warna farz-e-kifaayah hota hai. Fitri taur par kisi cheez ka naapasand hona is baat ki daleel nahin ke woh nuqsaan-deh hai. Karwi dawa, injection aur operation naapasand hote hain lekin faaidemand hain. Bachche ko padhai ke bajaaye khelna aur sugar ke mareez ko mithai pasand hoti hai, lekin yeh us ke liye faaidemand nahin.
+
+Is liye achhe ya bure hone ka faisla apni soch par nahin, Allah Ta'ala ke hukm par rakho. Us ne jis cheez ka hukm diya woh hamare liye behtar hai, aur jis se mana farmaya woh hamare liye behtar nahin. Isi se milta-julta mazmoon Surah Nisa ki aayat 19 mein bhi hai.

@@ -131,6 +131,11 @@ the active file remains below the 1,000-line limit and the entries remain draft 
 `05-surah-al-baqarah-easy-roman-05.md`. All ten entries include their complete Kanz-ul-Irfan
 translation transliterations, Arabic, explanations, quotations, and citations in source order;
 the active file remains below the 1,000-line limit and the entries remain draft adaptations.
+2:202 (`tafseerId=54516`, `ayatId=211`) through 2:211 (`tafseerId=50337`, `ayatId=220`) were appended to
+`05-surah-al-baqarah-easy-roman-05.md` in two sequential five-ayat batches. All ten entries
+include their complete Kanz-ul-Irfan translation transliterations, Arabic, honorifics,
+explanations, quotations, and citations in source order; the active file remains below the
+1,000-line limit and the entries remain draft adaptations.
 
 ## File Organization
 
@@ -169,3 +174,5 @@ Each translation session targets ten aayaat, processed as two sequential five-ay
 The first five-ayat batch must be completed and verified before the second batch begins. The
 session workflow is independent of manuscript files: both batches must append to the current
 active manuscript file unless the manuscript continuity rule requires a new file.
+
+2:212 (`tafseerId=50338`, `ayatId=221`) through 2:216 (`tafseerId=50342`, `ayatId=225`) were appended to `05-surah-al-baqarah-easy-roman-05.md` as the first five-ayat batch. The next complete entry would exceed the 1,000-line boundary, so 2:217 (`tafseerId=50343`, `ayatId=226`) through 2:221 (`tafseerId=50347`, `ayatId=230`) were added to `06-surah-al-baqarah-easy-roman-06.md` as the second five-ayat batch. All ten entries remain draft adaptations with extracted Kanz-ul-Irfan translations, Arabic, explanations, quotations, citations, and source order preserved.
