@@ -24,3 +24,7 @@ may be transliterated in the English prose.
 
 This approach was approved after review of the lesson 472 pilot. Future batches should follow
 the same standard-faithful English register and preservation rules.
+
+The separate risalah `تدبیر فلاح ونجات واصلاح` has been moved to
+`publishing/tadbir-e-falah-w-najat-w-islah/`, where its English and Easy Roman Urdu editions
+are maintained independently.

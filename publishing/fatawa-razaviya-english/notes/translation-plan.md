@@ -19,3 +19,6 @@ preserving its legal reasoning, scholarly references, devotional language, and s
 
 Begin with volume `59`, lesson `472`, records `17231–17235`, the five-record sanad section.
 Do not scale to longer sections until this pilot is reviewed.
+
+The separate risalah `تدبیر فلاح ونجات واصلاح` is maintained in
+`publishing/tadbir-e-falah-w-najat-w-islah/`.
