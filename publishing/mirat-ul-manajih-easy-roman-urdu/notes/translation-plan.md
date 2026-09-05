@@ -4,7 +4,7 @@
 
 Database: `db/hadees_content.db`  
 Book: `مرآۃ المناجیح شرح مشکوٰۃ المصابیح` (`book_id=1`)  
-Range: Volume 1 (`volume_id=1`), Hadith 1-20
+Range: Volume 1 (`volume_id=1`), Hadith 1-60
 
 ## Method
 
@@ -18,6 +18,16 @@ Range: Volume 1 (`volume_id=1`), Hadith 1-20
 
 Hadith 1-20 is complete in the same manuscript. Batch 02 covers Hadith 11-20 and was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`.
 
+Hadith 21-30 is complete in the same manuscript. Batch 03 was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`.
+
+Hadith 31-40 is complete in the same manuscript. Batch 04 was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`; Arabic hadith fields matched the database exactly.
+
+Hadith 41-45 is complete in sequential manuscript file 02. Batch 05 was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`; Arabic hadith fields matched the database exactly.
+
+Hadith 46-50 is complete in sequential manuscript file 02. Batch 06 was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`; Arabic hadith fields matched the database exactly.
+
+Hadith 51-60 is complete in sequential manuscript file 02. Batch 07 was verified against complete database records ordered with `CAST(c7hadith_no AS INTEGER)`; Arabic hadith fields matched the database exactly. The ten source rows have IDs 112, 115, 3228, 123, 124, 126, 127, 129, 130, and 131.
+
 ## Next Range
 
-Continue with Hadith 21 in the same manuscript until adding a complete entry would exceed 1,000 lines.
+Continue with Hadith 61 in the current volume, appending complete entries to manuscript file 02 until the next complete entry would exceed 1,000 lines.

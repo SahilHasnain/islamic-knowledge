@@ -62,6 +62,9 @@ Use continuous `InshaAllah` instead of `In sha Allah` in easy Roman Urdu prose.
 
 Use `rooh ki mail` instead of the difficult `rooh ki kaduraton` in easy explanatory prose.
 
+Preserve `Auliya` when the source uses `اولیاء`; do not replace this established Islamic term
+with `Allah ke mehboob bande`.
+
 Manuscript files remain active across batches and sessions. Always append to the current file;
 create the next sequential file only when the current file reaches 1,000 lines or the next
 complete entry would exceed 1,000 lines. Do not switch files merely because a batch is complete.

@@ -27,6 +27,7 @@ project. It is separate from the literal-transliteration glossary.
 | موقوف | intezaar mat karo | Use this simpler wording when `mauqoof na rakho` means not waiting for someone's permission |
 | خوش طبعی | khush-mizaaji | Natural Roman Urdu wording for a cheerful and pleasant nature |
 | کدورتیں | rooh ki mail | Simpler wording for spiritual impurities in easy explanatory prose |
+| اولیاء | Auliya | Preserve this established Islamic term instead of replacing it with `Allah ke mehboob bande` |
 
 ## Decision Log
 

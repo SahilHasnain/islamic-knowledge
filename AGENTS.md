@@ -12,7 +12,8 @@ Preserve Arabic script from the source exactly as-is. Do NOT romanize/transliter
 4. **Vocative address** — Where the Arabic has `قُلْ`, `يَا أَيُّهَا النَّبِيُّ`, or similar, render as *"Say (O Beloved)"* or *"O Prophet"*, not a bare *"Say:"*. This maintains reverent direct address.
 5. **Elevated epithets** — Prefer honorific renderings consistent with Ahlus-Sunnah convention (e.g., *"Present Eyewitness (Haazir and Naazir)"* for *shahidan*, *"distinctive bondsman of Ours"* for *abdina*).
 6. **Reference** — When uncertain about adab, compare against `content/books/kanzul-iman-english.json` (Kanzul Iman English) as the benchmark for appropriate reverence.
-7. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"*. Render it as *"unschooled"*. Never use *"unlettered"* for the Final Prophet ﷺ; use *"Unschooled Prophet ﷺ"* where that epithet is required.
+7. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"* for the final prophet. Render it as *"unschooled"*. For roman urdu, the alternative is bepadha .
+8. **Anpadh** can be used for ordinary person like disbelievers . 
 
 ## Batch translation workflow
 

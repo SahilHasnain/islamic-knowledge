@@ -462,3 +462,455 @@ Doosra: Huzoor ﷺ ko logon ke achhe ya bure anjaam ka ilm hai. Aap jaante hain 
 **6.** Aulaad wala shakhs akela aur be-niyaz nahi hota. Aulaad us ki qaumiyat, no'iyat aur jins mein shareek hoti hai. Insan shahwat ke ghalbe, dushmanon ke khauf ya apne marne ke baad virasat ke liye aulaad ikhtiyar karta hai. Allah Ta'ala in sab zarooraton se paak hai. Chand aur suraj Qayamat se pehle fana nahi hote, phir un ki virasat ke liye un ki aulaad bhi nahi.
 
 **7.** Aulaad baap ki humsar hoti hai: insan ka bachcha insan aur sher ka bachcha sher hota hai. Ma'azAllah, agar Allah ka beta kaha jaye to woh bhi Allah hona chahiye, halaanke Allah Khaliq aur beta makhlooq, Allah Maalik aur beta mamluk hai. Phir humsari kahan?
+
+### Hadith 21
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=21`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَفِي رِوَايَةٍ عَنِ ابْنِ عَبَّاسٍ:  وَأَمَّا شَتْمُهٗ إِيَّايَ فَقَوْلُهٗ: لِيْ وَلَدٌ وَسُبْحَانِيْ أَنْ أَتَّخِذَ صَاحِبَةً أَوْ وَلَدًا  رَوَاهُ الْبُخَارِيُّ 
+
+**Lafzi tarjuma:** Hazrat Ibn Abbas رضی اللہ عنہ ki riwayat mein yun hai ke insan ka mujhe gaali dena us ki yeh bakwaas hai ke main sahib-e-aulad hoon. Main is se paak hoon ke biwi bachche ikhtiyar karun. (Bukhari)
+
+**Poori wazahat:**
+
+**1.** Kyunki biwi shohar ki hum-jins hi ho sakti hai. Insan ki biwi jinnatni ya gaay-bhains nahi ho sakti. Agar, na'uzubillah, Rab ki biwi hoti to woh us ki hum-jins, balki us ki hum-qaum bhi hoti. Rab jins aur qaum se paak hai.
+
+### Hadith 22
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=22`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:  قَالَ اللّٰهُ  تَعَالٰى: يُؤْذِيْنِيْ اِبْنُ اٰدَمَ يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ بِيَدِيَ الْأَمْرُ أُقَلِّبُ اللَّيْلَ وَالنَّهَارَ (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah رضی اللہ عنہ se. Farmate hain ke Nabi ﷺ ne farmaya: Allah Ta'ala farmata hai ke mujhe insan aziyyat deta hai: woh zamane ko gaali deta hai, halaanke zamana main hoon. Mere haath mein hukm hai; main raat aur din ko ulat-palat karta hoon. (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aziyyat se murad naraz karna hai. Yani mere muta'alliq woh baatein karta hai jin se main naraz hota hoon. Warna Allah Ta'ala dard, gham aur takleef se paak hai.
+
+**2.** Is tarah kehta hai: "Haye zamane, tu ne mujh par zulm kar diya, mere falan ko maar diya; haye zalim zamane ya aasman!" Jaise Molvi Mahmood Hasan Deobandi ne "Marsiya Gangohi" mein zamane ko ji bhar kar kosa aur peeta hai. Yeh haram hai. Is hadith se maloom hota hai ke Allah ki mahkoom cheezon ko bura kehna Rab ki narazgi ka sabab hai. Isi tarah Allah ke pyaron ki tauheen bhi.
+
+**3.** Is tarah ke main din ko le jata hoon, raat ko lata hoon aur is ke baraks. Aur unhein chhota, bada, garam, sard, mufeed aur nuqsan-deh banata hoon. Is liye unhein bura kehna mujh par ta'n hai. Yaad rahe ke yahan dahr (zamana) se murad haqiqi mu'assir aur musabbib-ul-asbab hai. Warna Rab Ta'ala ko دھر kehna durust nahi aur na دھر Allah ka naam hai.
+
+### Hadith 23
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=23`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِيْ مُوسَى الْأَشْعَرِيِّ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «مَا أَحَدٌ أَصْبَرُ عَلَى أَذًى يَسْمَعُهُ مِنَ اللّٰهِ يَدْعُوْنَ لَهُ الْوَلَدَ ثُمَّ يُعَافِيهِمْ وَيَرْزُقُهُمْ»(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Aur riwayat hai Hazrat Abu Musa Ash'ari رضی اللہ عنہ se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Takleef dene wali baat sun kar sab se zyada sabr karne wala Allah se barh kar koi nahi. Log us ke liye aulaad ka da'wa karte hain, phir bhi woh unhein rahat aur rizq diye jata hai. (Bukhari, Muslim)
+
+**Poori wazahat:**
+
+**1.** Yahan sabr se murad hilm hai. Isi ma'ni ki wajah se Allah Ta'ala ka naam پاک صبور ya صبار hai; woh majboori ki wajah se hone wala sabr nahi. Is ki tafseer agle mazmoon mein hai.
+
+**2.** Yani log Allah Ta'ala ko aib lagate hain aur Rab Ta'ala is se ba-khabar bhi hai, un par har tarah qadir bhi hai, lekin unhein foran azaab nahi deta. Balki duniya mein unhein tandurusti, aman aur rozi deta hai, kyunki duniya us ki Rahmaniyat ke zahoor ki jagah hai. Baad-e-maut na unhein aman dega aur na rozi; wahan us ki Rahimiyat ki jalwagari hogi.
+
+### Hadith 24
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=24`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ مُعَاذٍ قَالَ كُنْتُ رِدْفَ النَّبِيِّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   عَلىٰ حِمَارٍ لَيْسَ بَيْنِيْ وَ بَيْنَهٗ إلَّا مُؤَخَّرَةُ الْرَحْلِ  فَقَالَ يَا مُعَاذُ هَلْ تَدْرِيْ مَا  حَقُّ اللهِ عَلٰی عِبَادِهٖ وَمَا حَقُّ الْعِبَادِ عَلَى اللهِ قُلْتُ اللّٰهُ  وَرَسُولُهُ أَعْلَمُ قَالَ فَإِنَّ حَقَّ اللهِ عَلَى الْعِبَادِ أَنْ يَعْبُدُوهُ وَلَا يُشْرِكُوْا بِهٖ شَيْئًا وَحَقُّ الْعِبَادِ عَلَى اللهِ أَنْ لَا يُعَذِّبَ مَنْ لَا يُشْرِكُ بِهٖ شَيْئًا قُلْتُ يَا رَسُولَ اللهِ أَفَلَا أُبَشِّرُ بِهِ النَّاسَ قَالَ لَا تُبَشِّرْهُمْ فَيَتَّكِلُوْا(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Mu'az رضی اللہ عنہ se. Farmate hain ke main ek daraz-gosh par Huzoor ﷺ ke peechhe is tarah sawar tha ke mere aur Huzoor ﷺ ke darmiyan palan ki lakri ke siwa kuch na tha. Huzoor ﷺ ne farmaya: "Mu'az! Kya tum jaante ho ke Allah ka haq apne bandon par kya hai aur bandon ka haq Allah par kya hai?" Main ne arz kiya: Allah aur Rasool jaante hain. Farmaya: Allah ka haq bandon par yeh hai ke usi ki ibadat karein aur kisi ko us ka shareek na thehrayein. Aur bandon ka haq Allah par yeh hai ke jo us ka shareek na thehraye us ko azaab na de. Main ne arz kiya: Ya Rasool Allah! Kya main logon ko yeh khushkhabri na de doon? Farmaya: Yeh khushkhabri na do, warna log isi par bharosa kar baithenge. (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aap Mu'az bin Jabal Ansari Khazraji hain, kuniyat Abu Abdullah hai. Aap bay'at-e-Aqabah karne wale sattar Ansar mein shamil the. Badr aur tamam ghazwat mein Huzoor ﷺ ke saath rahe. Huzoor ﷺ ne aap ko Yemen ka governor banaya aur Umar Farooq رضی اللہ عنہ ne Shaam ka hakim muqarrar kiya. Ta'un-e-Amwas mein 83 saal ki umr mein aap ka inteqal hua. Shaam mein aap ki qabr sharif hai. Aap ke fazail be-had-o-be-shumar hain.
+
+**2.** Yani khush-naseebi se mujhe Huzoor ﷺ se bahut qurb mila tha. Zahir hai ke itne qareeb se jo baat suni jayegi woh bilkul durust suni jayegi. ردف ردفا se bana hai, jis ke ma'ni peechhe hain. Ek ghore ya oont par do shakhs sawar hon to peechhe wala ردف kehlata hai. Janwar kamzor ho aur do ka bojh na utha sake to do aadmiyon ka us par sawar hona mana hai. Is liye yeh hadith mana ki hui surat ke khilaf nahi.
+
+**3.** Haq ke ma'ni wajib-ul-luzum hain. Laaiq bandon ke muta'alliq teenon ma'ni durust hain: Allah ki ibadat un par wajib hai, lazim hai aur un ke laaiq hai. Allah Ta'ala ke liye yeh ma'ni is tarah durust hain ke us Kareem ne apne karam par khud lazim farma liya ke ibadat karne walon ko jaza dega; koi aur us par wajib nahi kar sakta. Is liye jin riwayaton mein aaya hai ke Allah par kisi ka haq nahi, woh doosre ma'ni mein hai: koi us par wajib nahi kar sakta, kyunki koi us ka hakim nahi; woh sab ka hakim hai.
+
+**4.** Is tarah ke na kisi ko us ka humsar jaanein aur na us ka biwi-bachcha. Is mein Majusiyat, Nasraniyat aur Yahudiyat sab dakhil hain. In tamam mazhabon se alag rehna zaruri hai.
+
+**5.** Yani kufr na karne wale ko daimi azaab na de. Aise maqamat par shirk ke ma'ni kufr hote hain aur azaab se murad daimi azaab hai; warna baaz gunahgaaron ko bhi kuch azaab ho sakta hai. (Ash'at-ul-Lama'at, waghera)
+
+**6.** Is tarah ke log kalam ka maqsad nahi samjhenge aur aamaal chhor denge: jab sirf aqeede ki durusti se azaab se nijaat mil jati hai to namaz aur doosri ibadaton ki kya zarurat hai? Is se maloom hua ke aalim awam ko woh masla na bataye jo un ki samajh se bahar ho. Yaad rahe ke Hazrat Mu'az ne us waqt khushkhabri nahi di, balki baad mein kuch khaas logon ko khabar ke taur par suna di. Is liye koi aitraz nahi. Is ka kuch zikr agli hadith mein aa raha hai.
+
+### Hadith 25
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=25`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَنَسٍ أَنَّ النَّبِيَّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   وَمُعَاذٌ رَدِيْفُهٗ عَلَى الْرَحْلِ قَالَ: «يَا مُعَاذُ قَالَ لَبَّيْكَ يَا رَسُولَ اللهِ وَسَعْدَيْكَ قَالَ يَا مُعَاذُ قَالَ لَبَّيْكَ يَا رَسُولَ اللهِ وَسَعْدَيْكَ قَالَ يَا مُعَاذُ قَالَ لَبَّيْكَ يَا رَسُولَ اللهِ وَسَعْدَيْكَ ثَلٰثًا  قَالَ مَا مِنْ أَحَدٍ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللّٰهُ  وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ صِدْقًا مِنْ قَلْبِهٖ إِلَّا حَرَّمَهُ اللّٰهُ  عَلَى النَّارِ قَالَ يَا رَسُولَ الله أَفَلَا أُخْبِرُ بِهِ النَّاسَ فَيَسْتَبْشِرُوْا قَالَ إِذًا يَتَّكِلُوْا فَأَخْبَرَ بِهَا مُعَاذٌ عِنْدَ مَوْتِهٖ تَأَثُّمًا»
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Anas رضی اللہ عنہ se ke Nabi ﷺ palan par the aur Mu'az Huzoor ﷺ ke peechhe sawar the. Huzoor ﷺ ne farmaya: "Ae Mu'az!" Unhon ne arz kiya: "Labbaik ya Rasool Allah wa sa'daik." Huzoor ﷺ ne phir farmaya: "Ae Mu'az!" Unhon ne arz kiya: "Labbaik ya Rasool Allah wa sa'daik." Huzoor ﷺ ne teesri baar farmaya: "Ae Mu'az!" Unhon ne arz kiya: "Labbaik ya Rasool Allah wa sa'daik." Huzoor ﷺ ne farmaya: Jo shakhs sachche dil se gawahi de ke Allah ke siwa koi mabood nahi aur Muhammad ﷺ Allah ke Rasool hain, Allah us par aag haram farma dega. Arz ki: Ya Rasool Allah! Kya main logon ko is ki khabar na de doon taake woh khush hon? Farmaya: Phir woh bharosa kar baithenge. Phir Hazrat Mu'az ne gunah se bachne ke liye apni wafat ke waqt yeh khabar de di.
+
+**Poori wazahat:**
+
+**1.** Hazrat Mu'az ko teen baar pukarna aur kuch na farmana shauq barhane ke liye tha, taake Hazrat Mu'az kalam sunne ke poore mushtaq ho jayein. Jo baat intezar ke baad suni jati hai woh achhi tarah yaad rehti hai. "لبیك وسعدیك" ka Urdu mein mukhtasar tarjuma yeh hai: "Main khidmat mein hazir hoon." Chhote ko chahiye ke bade ka adab har haal mein kare.
+
+**2.** Is tarah ke dil se is ko maane aur zaban se iqrar kare. Is liye munafiq is khushkhabri se alag hai. Aur woh shakhs jo dil ka momin ho magar zaban se khamosh rahe, us par Shariat mein Islami ahkam jari nahi honge. Umar mein ek baar zaban se kalima-e-shahadat padhna farz hai aur talab ke waqt bhi zaruri hai.
+
+**3.** Is tarah ke woh aag mein hamesha na rahega ya aag us ke dil aur zaban ko na jala sakegi, kyunki yeh iman aur shahadat ke maqam hain. Kafir ka dil aur badan dono jalenge. Rab farmata hai: "تَطَّلِعُ عَلَی الْاَفْـِٕدَۃِ". Ya hadith ka ma'ni yeh hai ke jo kafir marte waqt iman laye aur kisi amal ka mauqa na paye, us ke liye yeh khushkhabri hai. Baharhaal yeh hadith na Quran ke khilaf hai na doosri ahadith ke; koi momin amal se be-niyaz nahi ho sakta.
+
+**4.** Hazrat Mu'az ne is khushkhabri ki tabligh ki ijazat is liye maangi ke maloom ho jaye ke yeh tablighi umoor mein se hai ya Ilahi asrar mein se. Shari ahkam sab ke liye hain aur tariqat ke asrar ahl logon ke liye. Awam khushkhabri sun kar be-parwah ho jate hain, magar khawas khushkhabri pa kar zyada nekiyan karte hain. Rab ne apne Habib ﷺ se farmaya: "لِیَغْفِرَ لَکَ اللَّهُ". Huzoor ﷺ ne is ke baad nekiyan aur zyada ki. Hazrat Usman Ghani رضی اللہ عنہ se farmaya tha: "Jo chaho karo, tum jannati ho chuke ho." Is se un ke aamaal aur zyada ho gaye.
+
+**5.** Hadith sharif mein hai ke jo ilm chupaye use aag ki lagam di jayegi. Quran Sharif mein bhi ilm chhupane ki buraiyan bayan hui hain.
+
+**6.** Hazrat Mu'az ne yeh samajh kar wafat ke waqt khabar di ke Huzoor ﷺ ne mujhe us waqt is khushkhabri se mana kiya tha jab aksar log naye Musalman the aur hadith ka ilm kam rakhte the. Ab halat badal chuke hain aur log samajhdar ho gaye hain. Yeh sahi ijtihad hai.
+
+### Hadith 26
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=26`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي ذَرٍّ قَالَ أَتَيْتُ النَّبِيَّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   وَعَلَيْهِ ثَوْبٌ أَبْيَضُ وَهُوَ نَائِمٌ ثُمَّ أَتَيْتُهُ وَقَدِ اسْتَيْقَظَ فَقَالَ: «مَا مِنْ عَبْدٍ قَالَ لَا إِلَهَ إِلَّا اللّٰهُ  ثُمَّ مَاتَ عَلٰى ذَلِكَ إِلَّا دَخَلَ الْجَنَّةَ قُلْتُ وَإِنْ زَنٰى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنٰى وَإِنْ سَرَقَ قُلْتُ وَإِنْ زَنٰى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنٰى وَإِنْ سَرَقَ قُلْتُ وَإِنْ زَنٰى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنٰى وَإِنْ سَرَقَ عَلٰى رَغْمِ أَنْفِ أَبِي ذَرٍّ وَكَانَ أَبُو ذَرٍّ إِذَا حَدَّثَ بِهَذَا قَالَ وَإِنْ رَغِمَ أَنْفُ أَبِي ذَرٍّ»(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Zar رضی اللہ عنہ se. Farmate hain ke main Huzoor ﷺ ki khidmat mein hazir hua. Huzoor ﷺ par safed kapra tha aur aap so rahe the. Kuch der baad phir hazir hua to aap bedar ho chuke the. Farmaya: Koi banda aisa nahi jo لَا إِلٰہَ إِلَّا ﷲ kahe, phir isi par us ka inteqal ho, magar woh jannat mein jayega. Main ne arz ki: Agarche zina aur chori kare? Farmaya: Agarche zina aur chori kare. Main ne phir kaha: Agarche zina aur chori kare? Farmaya: Agarche zina aur chori kare. Main ne teesri baar kaha: Agarche zina aur chori kare? Farmaya: Agarche zina aur chori kare, Abu Zar ki naak ragadne ke bawajood. Hazrat Abu Zar jab bhi yeh hadith bayan karte to kehte: Agarche Abu Zar ki naak ragad jaye. (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Jundub ibn Junadah aur kuniyat Abu Zar hai. Aap Bani Ghifar qabile se hain aur paanchwein Musalman hain. Makkah Mu'azzamah aa kar Musalman hue aur Huzoor ﷺ ke hukm se apni qaum mein chale gaye. Phir Ghazwa-e-Khandaq ke baad Madinah Munawwarah hazir hue aur Huzoor ﷺ ke saath rahe. Phir Rabzah mein qayam kiya aur wahin Khilafat-e-Usmaniyah 32 hijri mein inteqal hua. Aap bade zahid, aabid aur Sahabi hain. Maal jama karne ke bade mukhalif the aur Islam se pehle bhi Allah ki ibadat karte the.
+
+**2.** Iman lane ke liye Hazrat Ali Murtaza رضی اللہ عنہ ke saath aane ka aap ka ajeeb-o-gharib waqia hai, jo kisi aur mauqe par bayan hoga. Yahan koi aur hazri murad hai; doosra ihtimal zyada qawi hai.
+
+**3.** Is se murad tamam Islami aqeede maan lena hai. Jaise kaha jata hai ke namaz mein "الحمد" padhna wajib hai, yani poori surah. Ya us waqt kalima padhna hi momin ki alamat thi. Ya ma'ni yeh hai ke jo kafir marte waqt kalima padh kar momin ho jaye.
+
+**4.** Ya to pehle hi gunahon ki kuch saza pa kar, ya shafa'at ke pani se saaf ho kar, kyunki momin ke liye dozakh mein hameshgi nahi.
+
+**5.** Yani unhein haram jaante hue apne aap ko gunahgaar samajh kar. Is se kuch masail maloom hue: ek yeh ke gunah-e-kabirah insan ko Islam se nahi nikalte; doosra yeh ke gunah-e-kabirah se nekiyan zaya nahi hotin, kufr se hoti hain; teesra yeh ke jis ka khatima iman par ho woh yaqinan jannati hai, chahe ibtida mein ya kuch baad.
+
+**6.** Hazrat Abu Zar ta'ajjub karte hue pooch rahe the: Kya itne bade gunah ke baad bhi woh jannati rahega? Unhein hairat thi ke gunahon se lathra hua shakhs paak hokar jannat mein kaise dakhil hoga. Unhein yeh maloom na tha ke shafa'at aur Rahmat ka pani gandon ko saaf kar deta hai.
+
+**7.** رَغْمِ رغام se bana hai, jis ke ma'ni mitti aur khaak hain. Arab is lafz ko na-pasandigi ke ma'ni mein istemal karte hain. Yani agar tum na-pasandigi ki wajah se sawal karte karte zameen par naak bhi ragad do, phir bhi yahi hukm rahega.
+
+**8.** Taake hadith ke alfaaz poore manqool hon, ya ishq ke taqaze se; mehboob ka itabi khitab bhi aashiq ko pyara maloom hota hai aur baar baar yaad karke naya lutf milta hai. Yaad rahe ke fasiq momin aakhirkar jannati hai. Be-deen aur bad-mazhab par jannat haram hai aur us ke liye dozakh mein hameshgi hai.
+
+### Hadith 27
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=27`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ عُبَادَةَ ابْنِ الصَّامِتِ  قَالَ قَالَ رَسُوْلُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «مَنْ شَهِدَ أَنْ لَا إِلَهَ إِلَّا اللّٰهُ  وَحْدَهٗ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ وَأَنَّ عِيسٰى عَبْدُ اللهِ وَرَسُولُهُ اِبْنُ أَمَتِهِ وَكَلِمَتُهٗ أَلْقَاهَا إِلٰى مَرْيَمَ وَرُوحٌ مِنْهُ وَالْجَنَّةُ وَالنَّارُ حَقٌّ أَدْخَلَهُ اللّٰهُ  الْجَنَّةَ عَلٰى مَا كَانَ مِنَ الْعَمَلِ»(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ubadah ibn Samit رضی اللہ عنہ se. Farmate hain ke Nabi ﷺ ne farmaya: Jo gawahi de ke akele Allah ke siwa koi mabood nahi, us ka koi shareek nahi; aur Muhammad ﷺ Allah ke bande aur Rasool hain; Isa علیہ السلام Allah ke bande aur Rasool, us ki bandi ke bete, Allah ka kalima hain jo Maryam mein dala gaya; aur Allah ki taraf se ruh hain; aur jannat aur dozakh haq hain, Allah use amal ke mutabiq jannat mein dakhil karega. (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Bande-e-a'la aur Rasool-e-akmal ﷺ jin ki bandagi se Allah ki rububiyat chamki aur jin ki risalat Rab ki uluhiyat ka mazhar-e-atam hai. Is liye un ki bandagi aur doosron ki bandagi mein zameen-o-aasman ka farq hai. Bandons ko is par naaz hai ke hamara Rab Allah hai aur Dast-e-Qudrat ko is par naaz hai ke mere bande Muhammad Rasool Allah ﷺ hain. Allah farmata hai: "ھُوَ الَّذِیۡۤ اَرْسَلَ رَسُوۡلَہٗ". Bande Rab ko raazi karna chahte hain aur Rab Janab Mustafa ﷺ ko raazi karna chahta hai; farmata hai: "وَلَسَوْفَ یُعْطِیۡکَ رَبُّکَ فَتَرْضٰی". Bande kashti-e-Islam mein paar lagne ko sawar hue aur Janab Mustafa ﷺ paar lagane ko, jaise jahaz ke musafir aur kaptaan: jahaz musafiron ko paar lagata hai aur kaptaan jahaz ko. Huzoor ﷺ ke namaz, kalima, Hajj aur tilawat-e-Quran karne se yeh na samjho ke Huzoor ﷺ hamari tarah momin hain. In aamaal se hamari izzat hai aur Huzoor ﷺ ke aamaal karne se in aamaal ki izzat-afzai. Hamein fakhr hai ke hum namaz padhte hain; namaz ko fakhr hai ke Huzoor ﷺ ne mujhe padha.
+
+**2.** Yeh farman nihayat jami' hai. Isai Janab Masih ko Khuda ka beta aur Bibi Maryam ko Rab ki biwi kehte the. Yahudi Janab Masih ki nabuwat ke bhi munkir the aur paak batool Maryam par tohmat lagate the. Is ek kalime mein dono ki nafees tardeed ho gayi. Aaj ke Qadiyani aap ko Yusuf Najjar ka beta kehte hain aur Hazrat Maryam ka nikah un se sabit karte hain. Is mein un ki bhi a'la tardeed hai. Agar Janab Masih baap ke bete hote to isi taraf aap ki nisbat hoti. Quran ne bhi unhein Isa ibn Maryam farmaya, halaanke farmata hai: "اُدْعُوۡھُمْ لِاٰبَآئِہِمْ".
+
+**3.** Is tarah ke Hazrat Jibreel ne ba-izn-e-Ilahi کُن keh kar Hazrat Maryam ke seene par phoonka, jis se aap hamila ho gayin. Janab Masih ka laqab کلمۃﷲ hai, kyunki aap ki paidaish kalima کُن se hai. Rab farmata hai: "اِنَّ مَثَلَ عِیۡسٰی عِنۡدَ اللّٰهِ". Adam علیہ السلام ko کلمۃ الله is liye nahi kehte ke un ke jism ki paidaish mitti se hai. Sirf ruh phoonkna kalima کُن se hai: "فَاِذَا سَوَّیْتُہٗ وَ نَفَخْتُ فِیْہِ مِنْ رُّوْحِیْ". Magar Janab Masih ka jism aur ruh sab کُن se hai; nutfa, alaqa aur mudgha kuch nahi. (Az Mirqat) Ya is liye ke Janab Masih sar se paon tak Allah ki hujjat hain, goya sarapa kalima hain. Ya is liye ke aap ek kalima dam karke bimaron ko tandurust aur murdon ko zinda karte the; is se buzurgon ki jhaar-phoonk sabit hui. Ya is liye ke aap ne paida hote hi kalima padha: "اِنّی عَبدُ الله".
+
+**4.** مِنْهُ mein مِن tab'iziya nahi, is ka ma'ni yeh nahi ke aap Allah ka tukra hain. Balki مِن ibtida'iya hai: Allah ki taraf se baghair nutfe ke aap ki paidaish hui. Aap ka laqab Ruh Allah bhi hai; ya is liye ke aap Ruh-ul-Amin Jibreel ki phoonk se paida hue, ya is liye ke aap murda dilon ko ruh-e-iman bakhshte hain.
+
+**5.** Allah Ta'ala a'la darje ke muttaqi ko jannat ka a'la maqam aur adna muttaqi ko wahan ka adna maqam ata farmayega. Yeh un logon ke liye hai jinhein jannat apne amal se mile. Jo doosron ke tufail jannat mein jayenge woh un ke saath rahenge, jaise Musalmanon ke shir-khwar bachche aur biwiyan. Is liye Hazrat Ibrahim ibn Rasool Allah ﷺ aur azwaj-e-paak jannat mein Huzoor ﷺ ke saath honge. Jannat mein dakhla iman ki bunyad par hoga aur wahan ke martabe aamaal ke mutabiq. Jannat ka dakhla teen tarah ka hai: kasbi, wahbi aur ata'i. Yahan kasbi ka zikr hai.
+
+### Hadith 28
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=28`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ عَمْرِو بْنِ الْعَاصِ قَالَ: «أَتَيْتُ النَّبِيَّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   فَقُلْتُ اُبْسُطْ يَمِيْنَكَ فَلِأُبَايِعَكَ فَبَسَطَ يَمِيْنَهٗ فَقَبَضْتُ يَدِيْ فَقَالَ مَا لَكَ يَا عَمْرُو قُلْتُ أَرَدْتُ أَن أشْتَرِطَ قَالَ تَشْتَرِطُ مَاذَا قُلْتُ أَنْ يُغْفَرَ لِيْ قَالَ أَمَا عَلِمْتَ یَا عَمْرُو  أَنَّ الْإِسْلَامَ يَهْدِمُ مَا كَانَ قَبْلَهٗ وَأَنَّ الْهِجْرَةَ تَهْدِمُ مَا كَانَ قَبْلَهَا وَأَنَّ الْحَجَّ يَهْدِمُ مَا كَانَ قَبْلَهٗ» رَوَاہُ مُسْلِمٌ وَالْحَدِيثَانِ الْمَرْوِيَّانِ عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ اللّٰهُ  تَعَالٰى:«أَنَا أَغْنَى الشُّرَكَاءِ عَنِ الشِّرْكِ». وَالْآخَرُ: «الْكِبْرِيَاءُ رِدَائَيْ» سَنَذْكُرُهُمَا فِي بَابِ الرِّيَاءِ وَالْكِبْرِ إِنْ شَاءَ اللهُ تَعَالیٰ
+
+**Lafzi tarjuma:** Riwayat hai Amr ibn Aas رضی اللہ عنہ se. Farmate hain ke main Huzoor ﷺ ki khidmat mein hazir hua aur arz ki: Apna haath badhaiye taake main aap ki bay'at karun. Aap ne haath badhaya, main ne apna haath samet liya. Farmaya: Ae Amr! Kya hua? Main ne arz ki: Main kuch shart lagana chahta hoon. Farmaya: Kya shart? Main ne arz ki: Meri bakhshish ho jaye. Farmaya: Ae Amr! Kya tumhein khabar nahi ke Islam pichhle gunah gira deta hai, hijrat pichhle gunah gira deti hai aur Hajj bhi pichhle gunah gira deta hai? Isay Muslim ne riwayat kiya. Aur woh do ahadith jo Hazrat Abu Hurairah se marwi hain: Allah Ta'ala ne farmaya: "أَنَا أَغْنَى الشُّرَكَاءِ عَنِ الشِّرْكِ". Aur doosri: "الْكِبْرِيَاءُ رِدَائَيْ". Hum inhein بابِ الرِّيَاءِ aur بابِ الْكِبْرِ mein bayan karenge, in sha Allah Ta'ala.
+
+**Poori wazahat:**
+
+**1.** Aap Amr ibn Aas Sahmi Quraishi hain. 5 hijri mein Khalid ibn Walid رضی اللہ عنہ aur Usman ibn Talhah ke saath Madinah aa kar Islam laye. Huzoor ﷺ ne aap ko Oman ka governor banaya. Aap Hazrat Umar, Usman aur Muawiyah رضی اللہ عنہم ke amil rahe. Aap Misr ke fatah hain. Misr hi mein 90 saal ki umr pa kar 43 hijri mein inteqal hua. (Ikmal)
+
+**2.** Yeh bay'at-e-Islam hai. Sahaba-e-Kiram Islam late waqt Huzoor ﷺ se bay'at bhi kiya karte the, yani istiqamat ka wada. Bay'at-e-taqwa, bay'at-e-jihad, bay'at-e-shahadat aur kisi khaas masle par bay'at is ke ilawa hain. Aaj kal aam taur par mashayikh se bay'at-e-taubah ya taqwa hoti hai. Bay'at ke waqt Shaykh ke haath mein haath dena sunnat hai, jaisa is hadith se maloom hua.
+
+**3.** Haath sametna be-adabi ke liye nahi tha, balki is liye ke Huzoor ﷺ ko bandah-e-mukhtar maante the.
+
+**4.** Dekho, bakhshna Allah ka kaam hai aur shart Rasool Allah ﷺ se laga rahe hain. Hum bhi arz kar sakte hain: Huzoor ﷺ hamein jannat ata farmaiye aur dozakh se nijaat naseeb ho.
+
+**5.** Maloom hua ke iman aur nek aamaal gunahon ki maafi ka zariya hain. Rab farmata hai: "اِنَّ الْحَسَنٰتِ یُذْھِبْنَ السَّیِّاٰتِ". Magar in se gunah mit-te hain, huqooq-ul-ibaad nahi. Naya Musalman Islam la kar zamana-e-kufr ke qarz bhi ada karega aur hudood-o-qisas bhi. Is liye hadith par koi aitraz nahi. Koi yeh nahi keh sakta ke zamana-e-kufr mein zulman qatl karo aur logon ka maal maar lo, phir kalima padh kar Musalman ho jao to sab maaf; yeh namumkin hai.
+
+**6.** Yeh do ahadith Mishkat mein isi bab mein thin, magar hum pehli hadith بابُ الرِّيَاءِ mein aur doosri بابُ الْكِبْرِ mein laye hain, kyunki yeh unhi ke munasib hain. Yeh faqeer in ahadith ki sharh bhi wahin arz karega, in sha Allah.
+
+### Hadith 29
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=29`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+عَنْ مْعَاذٍ قَالَ قُلْتُ يَا رَسُولَ اللهِ أَخْبِرْنِي بِعَمَلٍ يُدْخِلْنِيْ الْجَنَّةَ وَيُبَاعِدْنِيْ مِنَ النَّارِ قَالَ لَقَدْ سَأَلْتَ عَنْ أَمْرٍ عَظِيْمٍ وَإِنَّهُ لِيَسِيرٌ عَلٰی مَنْ يَسَّرَهُ اللّٰهُ   تَعَالٰي عَلَيْهِ تَعْبُدُ اللهَ وَلَا تُشْرِکْ بِهٖ شَيْئًا وَتُقِيمُ الصَّلَاةَ وَتُؤْتِيْ الزَّكَاةَ وَتَصُوْمُ رَمَضَانَ وَتُحِجُّ  الْبَيْتَ ثُمَّ قَالَ أَلَا أَدُلُّكَ عَلٰى أَبْوَابِ الْخَيْرِ الصَّوْمُ جُنَّةٌ وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا تُطْفِئُ الْمَاءُ النَّارَ وَصَلٰوةُ الرَّجُلِ مِنْ جَوْفِ اللَّيْلِ قَالَ ثُمَّ تَلَا (    تَتَجَافٰی جُنُوبُهُمْ عَنِ الْمَضَاجِعِ)حَتَّى بَلَغَ (يَعْمَلُونَ)
+ثُمَّ قَالَ أَلَا أَدُلُّكَ بِرَأْسِ الْأَمْرِ  وَعُمُوْدِهٖ وَذِرْوَةِ سَنَامِهٖ قُلْتُ بَلٰى يَا رَسُولَ اللهِ قَالَ رَأْسُ الْأَمْرِ الْإِسْلَامُ وَعُمُودُهُ الصَّلٰوةُ وَذِرْوَةُ سَنَامِهٖ الْجِهَادُ ثُمَّ قَالَ أَلَا أُخْبِرُكَ بِمِلَاكِ ذٰلِكَ كُلِّهٖ قُلْتُ بَلٰى يَا نَبِيَّ اللهِ فَأَخَذَ بِلِسَانِهٖ فَقَالَ كُفَّ عَلَيْكَ هٰذَا فَقُلْتُ يَا نَبِيَّ الله وَإِنَّا لَمُؤَاخَذُوْنَ بِمَا نَتَكَلَّمُ بِهٖ فَقَالَ ثَكُلَتْكَ أُمُّكَ يَا مُعَاذُ وَهَلْ يَكُبُّ النَّاسَ فِي النَّارِ عَلٰی وُجُوهِهِمْ أَوْ عَلٰى مَنَاخِرِهِمْ إِلَّا حَصَائِدُ أَلْسِنَتِهِمْ. رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Mu'az ibn Jabal رضی اللہ عنہ se. Main ne arz ki: Ya Rasool Allah ﷺ! Mujhe aisa amal batayein jo mujhe jannat mein dakhil aur dozakh se door kar de. Farmaya: Tum ne badi cheez poochi. Haan, jis par Allah aasan kare us ke liye aasan hai. Allah ko pujo aur kisi cheez ko us ka shareek na jano, namaz qayam karo, zakat do, Ramadan ke roze rakho aur Ka'bah ka Hajj karo. Phir farmaya: Kya main tumhein bhalai ke darwaze na bata doon? Roza dhal hai, sadqah gunah ko aise bujhata hai jaise pani aag ko, aur aadmi ka aadhi raat mein namaz padhna. Phir yeh ayat tilawat ki: "تَتَجَافٰی جُنُوبُهُمْ عَنِ الْمَضَاجِعِ" yahan tak ke "يَعْمَلُونَ" tak pahunche. Phir farmaya: Kya main tumhein tamam cheezon ka sar, us ka sutoon aur kohan ki bulandi na bata doon? Main ne kaha: Kyun nahi, ya Rasool Allah ﷺ! Farmaya: Tamam cheezon ka sar Islam hai, us ka sutoon namaz hai aur kohan ki bulandi jihad hai. Phir farmaya: Kya main tumhein in sab ki asal na bata doon? Main ne arz ki: Kyun nahi, ya Nabi Allah! Huzoor ﷺ ne apni zaban pakar kar farmaya: Is ko rok lo. Main ne arz ki: Ya Nabi Allah! Kya hamari pakar us baat par bhi hogi jo hum zaban se bolte hain? Farmaya: Tumhein tumhari maa roye, ae Mu'az! Logon ko un ke chehron ya naakon ke bal dozakh mein un ki zabanon ki fasal ke siwa kaun girata hai? Yeh hadith Ahmad, Tirmizi aur Ibn Majah ne riwayat ki.
+
+**Poori wazahat:**
+
+**1.** Ghazwa-e-Tabuk mein dopahar ke waqt, jab sakht garmi thi, tamam Sahaba alag alag darakhton ke neeche thehre aur main ne Huzoor ﷺ ke saath aaram kiya. (Mirqat)
+
+**2.** Yeh isnad majazi hai. Jannat mein dakhil karna aur dozakh se bachana Rab ka kaam hai. Amal us ka zariya hone ki wajah se use fa'il qarar diya gaya. Is liye keh sakte hain ke Huzoor ﷺ jannat dete aur dozakh se bachate hain. Hamare aamaal ke zariye Huzoor ﷺ ka tawassul zyada qawi zariya hai.
+
+**3.** Aag se bachna aur jannat mein pahunchna badi nematein hain, is liye un ka zariya bhi bada hi hoga.
+
+**4.** Yani yeh zariya batana mere liye aasan hai, kyunki Rab ne mujhe har cheez par muttali' kiya hai. Ya woh aamaal usi ke liye aasan honge jis par Allah karam kare. Dheela khud neeche girta hai aur kisi ke uthane se upar hota hai. Hamari paidaish mitti se hai, hamara bhi yahi haal hai.
+
+**5.** Yani Islam lao, jo sari ibadaton ki jad hai. Ibadaton ka zikr aage aa raha hai. Yahan mudari' ka ma'ni amr hai, khabar nahi.
+
+**6.** Namaz rozana paanch waqt, roza har saal Ramadan mein, zakat har saal aur agar maal ho to zindagi mein ek baar Hajj. Zahir yahi hai ke yahan sirf farz murad hain jin par jannati hona mauqoof hai.
+
+**7.** Yani woh nek aamaal jo bahut si nekiyon ka zariya hain. Jaise roza nafs ko todne ka zariya hai. Nafs toot jaye to insan bahut si nekiyan kar sakta hai, kyunki rokne wala nafs hi hai.
+
+**8.** Roze ki barkat se gunah ka teer rozadar tak nahi pahunchta aur Shaitan ka rasta band ho jata hai.
+
+**9.** Sadqah mein Allah ki ibadat bhi hai, bandon ka faida aur gareebon ki zarurat poori karna bhi. Is liye yeh gunahon ko mitane mein ikseer hai. Jo bandon par mehrban ho, Rab us par mehrban hota hai.
+
+**10.** Yani namaz-e-tahajjud. Paanch waqt ki namaz ke baad yeh namaz bahut a'la hai. Doosri namazon mein ita'at ghalib hai aur is namaz mein ishq. Yeh namaz Rab ne khaas Huzoor ﷺ ke liye bheji aur Huzoor ﷺ ke tufail hamein mili. Farmata hai: "فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ".
+
+**11.** Isha ke baad kuch der sote hain, phir uth kar tahajjud padhte hain. Tahajjud ke liye pehle sona shart hai, warna bistar ka zikr na hota. Tahajjud ke baad sona bhi sunnat hai. Bistar bichhe hote hain magar woh musalle par hote hain.
+
+**12.** Yahan deen ko oont se tashbih di gayi hai, phir us ke liye sar, paon aur kohan sabit kiya gaya. Yeh isti'ara bil-kinaya aur takhyil ki tarah hai.
+
+**13.** Yeh sawal-jawab sawil ko shauq dilane ke liye hain, kyunki intezar ke baad jo cheez milti hai woh achhi tarah yaad rehti hai.
+
+**14.** Cheez se murad deen hai. Deendari Islam ke baghair qayam nahi reh sakti, jaise sar ke baghair zindagi. Namaz se deen ko quwwat aur bulandi milti hai, jaise sutoon se chhat ko.
+
+**15.** Jihad mushkil hai aur isi se deen ki zeenat aur ronaq hai, jaise kohan se oont ki zeenat. Kohan tak pahunchna bhi kuch mushkil hota hai. Jihad ke ma'ni mehnat hain. Yeh zaban, talwar aur qalam, sab se hota hai. Kafiron par jihad aasan hai magar apne nafs par mushkil. Yeh kalima sab jihad ko shamil hai.
+
+**16.** ملاک woh hai jis se kisi cheez ka nizam aur qiwam qayam rahe, yani asal usool.
+
+**17.** Pehle socho, baad mein bolo. Zaban ko lagam do. Rab ne chhoone ke liye do haath, chalne ke liye do paon, dekhne ke liye do aankhein aur sunne ke liye do kaan diye, magar bolne ke liye sirf ek zaban di, taake kalam kam aur kaam zyada karo.
+
+**18.** Yani baat to mamooli cheez hai. Is par kya pakar? Chori, zina aur qatl jaise jurm qabil-e-girift hain, magar woh zaban se nahi hote.
+
+**19.** Arab mein yeh lafz muhabbat aur pyar mein bhi kaha jata hai, jaise bachchon se maayein pyar mein kehti hain: Ae roor jaane, ae ud-pud jaane. Urdu mein is tarah kehte hain: Mare hatiyare, arre mit gaye. Yani tu gum ho jaye ya mar jaye, aur maa tujhe ro ro kar dhoonde ya yaad kare.
+
+**20.** Haath-paon se aksar gunah hote hain, magar zaban se kufr, shirk, gheebat, chughli aur bohtan sab kuch hota hai. Yeh sab zaleel aur ruswa hokar dozakh mein phenke jane ka zariya hain. حصائد woh jagah hai jahan khet kaat kar rakha jata hai, yani khaliyan ya katoti. Insan ka har lafz nama-e-aamaal mein likha jata hai; woh daftar goya us ka khaliyan hai.
+
+### Hadith 30
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=30`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِيْ أُمَامَةَ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «مَنْ أَحَبَّ لِلّٰهِ  وَأَبْغَضَ لِلّٰهِ  وَأَعْطَى لِلّٰهِ  وَمَنَعَ لِلّٰهِ  فَقَدِ اسْتكْمَلَ الْإِيمَانَ» . رَوَاهُ أَبُو دَاوُدُ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Umamah رضی اللہ عنہ se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Jo Allah ke liye muhabbat aur dushmani kare, Allah ke liye de aur Allah ke liye roke, us ne apna iman kamil kar liya. Yeh hadith Abu Dawud ne riwayat ki.
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Sudi aur kuniyat Abu Umamah hai. Bani Bahilah qabile se hain. Pehle Misr mein, phir Hims mein qayam farmaya. 71 saal ki umr pa kar 86 hijri mein Hims hi mein inteqal hua. Shaam ke sab se aakhri Sahabi aap hi hain. (Mirqat)
+
+**2.** Agarche Musalman ka har kaam Allah ke liye hi hona chahiye, magar yeh chaar kaam aksar nafs ke liye hote hain. Is liye in ka khaas taur par zikr farmaya. Jab yahi kaam Allah ke liye ho jayenge to baqi aamaal, sona, jagna, bolna aur chup rehna waghera bhi Allah ke liye honge. Dekha gaya hai ke Allah ke liye dene wale thode aur naam-namood ke liye kharch karne wale zyada hain. Rab Ta'ala yeh sifat naseeb farmaye.
+
+**3.** Iman ka kamal ikhlas se milta hai. Mukhlish Siddiqeen ke giroh mein pahunch jata hai. Ikhlas ki pehchan yeh hai ke kafir beta dushman maloom ho aur ajnabi momin pyara. "ہزار خویش کہ بیگانہ از خدا باشد\nفدائے یک تن بیگانہ کاشنا باشد"
+### Hadith 31
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=31`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+رَوَاهُ التِّرْمِذِيُّ عَنْ مُعَاذِ ابْنِ أَنَسٍ مَعَ تَقْدِيمٍ وَتَأْخِيْرٍ وَفِيْهِ: «فَقَدْ اِسْتَكْمَلَ إِيْمَانَهٗ»
+
+**Lafzi tarjuma:** Tirmizi ne kuch taqdeem-o-taakhir ke saath Hazrat Mu'az bin Anas se yun naql kiya ke beshak us ne apna iman kamil kar liya.
+
+**Poori wazahat:**
+
+**1.** Is hadith ke source mein wazahat ke liye sirf "نہیں ہے" darj hai.
+
+### Hadith 32
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=32`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي ذَرٍّ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «أَفْضَلُ الْأَعْمَالِ الْحُبُّ فِي اللهِ وَالْبُغْضُ فِي اللهِ».رَوَاهُ أَبُو دَاوٗدُ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Zar se. Farmate hain: Nabi ﷺ ne farmaya: Sab se behtareen amal Allah ke liye muhabbat aur Allah ke liye dushmani hai. (Abu Dawud)
+
+**Poori wazahat:**
+
+**1.** Kyunki doosre aamaal jism ke azaa se ada hote hain aur Allah ke liye muhabbat aur dushmani dil se hoti hai. Woh sab badani ibadatein hain, aur yeh dil ki ibadat hai. Allah ke liye muhabbat tabhi hogi jab Allah se muhabbat hogi, aur Allah se muhabbat us ke tamam ahkaam se muhabbat ka zariya hai. Imam Ghazali فرماتے hain: Agar koi shakhs bawarchi se is liye muhabbat kare ke us se achha khana pakwa kar faqeeron mein baante, to yeh Allah ke liye muhabbat hai. Aur agar kisi alim-e-deen se is liye muhabbat kare ke us se ilm-e-deen seekh kar duniya kamaye, to yeh duniya ke liye muhabbat hai. (Ashi'at-ul-Lamaat)
+
+### Hadith 33
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=33`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهٖ وَيَدِهٖ وَالْمُؤْمِنُ مَنْ أَمِنَهُ النَّاسُ عَلٰى دِمَائِهِمْ وَأَمْوَالِهِمْ» . رَوَاهُ التِّرْمِذِيُّ وَالنَّسَائِيُّ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain: Rasool Allah ﷺ ne farmaya: Sacha Musalman woh hai jis ki zaban aur haath se Musalman mehfooz rahen. **1** Aur sacha momin woh hai jis se log apne khoon aur maal ke bare mein mutmain rahen. **2** Ise Tirmizi aur Nasai ne riwayat kiya hai.
+
+**Poori wazahat:**
+
+**1.** Yani na kisi ko bila wajah maar-peet kare aur na un ki chughli ya gheebat kare. Haq par maarna deen hi hai, jaise mujrim se qisas lena. Sharai zarurat ki bina par gheebat karna bhi ibadat hai, jaise hadith ki tahqiq ke liye hadith ke rawiyon ke aib bayan karna. Yeh cheezein is hadith se alag hain.
+
+**2.** Yani us ka bartao itna achha ho ke logon ko fitri taur par us ki taraf se itminan ho ke yeh na hamara maal marega aur na hamein takleef dega. Musalmanon ka yeh itminan Allah ki badi nemat hai. Isi liye buzurg farmate hain ke kisi ki quwwat-e-imani jaanchne ke liye us ke padosiyon aur doston se poochho. Is hadith se ishare mein maloom ho raha hai ke Islam aur iman mein farq hai: Islam ka taalluq zahiri azaa se hai aur iman ka dil se.
+
+### Hadith 34
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=34`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَزَادَ الْبَيْهَقِيُّ فِي «شُعَبِ الْإِيمَانِ» . بِرِوَايَةِ فَضَالَةَ: «وَ الْمُجَاهِدُ مَنْ جَاهَدَنَفْسَهُ فِي طَاعَةِ اللهِ وَالْمُهَاجِرُمَنْ هَجَرَالْخَطَايَا والذُّنُوْبَ»
+
+**Lafzi tarjuma:** Baihaqi ne Shu'ab-ul-Iman mein Hazrat Fuzalah ki riwayat se yeh izafa kiya ke ghazi woh hai jo Allah ki farmanbardari mein apne nafs se mehnat kare. **2** Aur sacha muhajir woh hai jo khataon aur gunahon ko chhor de. **3**
+
+**Poori wazahat:**
+
+**1.** Fuzalah ibn Ubaid Ausi Ansari hain. Yeh Huzoor ﷺ ke ghulam hain. Uhud aur is ke baad tamam ghazwat mein Huzoor ﷺ ke saath rahe. Bai'at-e-Rizwan mein shareek hue. Huzoor ﷺ ke baad Shaam ke jihad mein shareek rahe. Damascus mein qayam kiya aur Ameer Muawiyah رضی اللہ عنہ ke zamane mein wahan ke qazi rahe. 53 Hijri mein wahin inteqal hua. (Mirqat aur Ashi'at)
+
+**2.** Kyunki hamara sab se bada dushman aur aasteen ka saanp hamara nafs hai. Kuffar ko maarna aasan hai, lekin bad-naseeb nafs ko maarna mushkil hai. Maulana farmate hain:
+
+"Sahl sher woh hai jo safon ko cheer de, sher woh hai jo khud ko cheer de."
+
+**3.** Kyunki watan jism ka mulk hai aur gunah nafs-e-ammarah ka watan hai. Jis tarah jism ke watan ko zindagi mein ek baar chhorna padta hai, isi tarah gunahon ke watan ko har lamha chhorna hota hai. Yahan `خطا` se murad chhote gunah hain aur `ذنوب` se murad bade gunah.
+
+### Hadith 35
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=35`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَنَسٍ قَالَ: قَلَّمَا خَطَبَنَا رَسُولُ اللهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   إِلَّا قَالَ: «لَا إِيمَانَ لِمَنْ لَا أَمَانَةَ لَهٗ وَلَا دِيْنَ لِمَنْ لَا عَهْدَ لَهُ» . رَوَاهُ الْبَيْهَقِيُّ فِي شُعَبِ الْإِيمَانِ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Anas se ke bahut kam aisa hota tha ke Huzoor ﷺ hamein is ke baghair waaz farmayen: Jo amanatdar nahi, us ka iman nahi; aur jo wada nibhane wala nahi, us ka deen nahi. **1** Yeh hadith Baihaqi ne Shu'ab-ul-Iman mein riwayat ki.
+
+**Poori wazahat:**
+
+**1.** Yani amanatdari aur wada nibhane ke baghair iman aur deen kamil nahi hota. Amanat mein maal, sona, logon ki izzat aur aabroo, hatta ke aurat ki apni paakdamani bhi shamil hai. Balki tamam nek aamaal bhi Allah ki amanatein hain. Huzoor ﷺ se ishq aur muhabbat bhi Huzoor ﷺ ki amanat hai. Rab farmata hai: "اِنَّا عَرَضْنَا الْاَمَانَۃَ" aakhir tak. Ahad mein Meesaq ke din Rab se kiya hua ahad, bai'at ke waqt Sheikh se ahad, nikah ke waqt shohar ya biwi se ahad, aur dost se kiya hua jaiz wada, sab shamil hain. In sab ko poora karna lazim hai. Na-jaiz wada todna zaroori hai. Agar kisi se zina, chori, haram khori ya kufr ka wada kiya ho to use hargiz poora na kare, kyunki yeh Rab ke ahad ke muqable mein hai. Allah aur Rasool se in gunahon se bachne ka wada kiya hai, use poora kare.
+
+### Hadith 36
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=36`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+عَنْ عُبَادَةَ ابْنِ الصَّامِتِ قَالَ: سَمِعْتُ رَسُولَ  اللهِ   صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ   يَقُولُ:مَنْ شَهِدَ أَنْ لَا إِلَهَ إِلَّا  اللهُ   وَأَنَّ مُحَمَّدًا رَسُولُ  الله ِ  حَرَّمَ  اللهُ   عَلَيْهِ النَّارُ» رَوَاہٗ مُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ubadah ibn Samit se. Farmate hain ke main ne Huzoor ﷺ ko farmate hue suna: Jo gawahi de ke Allah ke siwa koi laaiq-e-ibadat nahi aur yaqinan Muhammad ﷺ Allah ke Rasool hain, Allah Ta'ala us par aag haram karega. (Muslim)
+
+**Poori wazahat:**
+
+**1.** Is ki sharh pehle guzar chuki hai ke is se murad tamam Islami aqeede qabool kar lena hai. Ma'ni yeh hai ke jis ke aqeede durust hain woh dozakh mein hamesha nahi rahega. Ya is se woh shakhs murad hai jo iman late hi inteqal kar jaye. Ya yeh hadith us zamane ki hai jab ahkam-e-Shariat bilkul nahi aaye the. Baharhaal yeh hadith doosri ahadith ke khilaf nahi.
+
+### Hadith 37
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=37`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ عُثْمَانَ رَضِيَ  الله   عَنْهُ قَالَ: قَالَ رَسُولُ  الله  ِ صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ  :مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لَا إِلَهَ إِلَّا  اللهُ   دَخَلَ الْجَنَّةَ . رَوَاهُ مُسلم
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Usman رضی اللہ عنہ se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Jo yeh jaante aur maante hue inteqal kar gaya ke Allah ke siwa koi laaiq-e-ibadat nahi, woh jannat mein dakhil hoga. **2** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Usman ibn Affan ibn Abi al-Aas ibn Umayyah hai. Kunyat Abu Abdullah aur laqab Jami-ul-Quran hai. Umavi aur Quraishi hain. Abd Manaf mein Huzoor ﷺ ke saath milte hain. Shuru-e-Islam hi mein Hazrat Abu Bakr Siddiq رضی اللہ عنہ ke haath par iman laye. Do hijraton wale hain: pehli Habsha ki taraf aur doosri Madinah ki taraf. Aap ka laqab Zul-Nurain hai, kyunki Huzoor ﷺ ki do sahibzadiyan Ruqayyah aur Umm Kulsum aage peechhe aap ke nikah mein aayin. Aulaad-e-Adam mein kisi ke nikah mein Nabi ki do betiyan nahi aayin. Ghazwa-e-Badr mein Huzoor ﷺ ke hukm se Bibi Ruqayyah ki khidmat ke liye Madinah mein rahe aur aap ko ghanimat ka hissa diya gaya. Sulh-e-Hudaibiyah mein Huzoor ﷺ ke bheje hue Makkah Mu'azzamah gaye. Huzoor ﷺ ne apne baayein haath ko farmaya: Yeh Usman ka haath hai; aur khud un ki taraf se bai'at ki. 1 Muharram 24 Hijri ko takht-e-khilafat par jalwa-afroz hue. Barah saal khilafat ki. 82 saal ki umr pa kar Aswad Tajibi Misri ke haath se Madinah Munawwarah mein Quran padhte hue shahadat pai. Jannat-ul-Baqi mein aap ki qabr anwar makhlooq ki ziyaratgah hai; faqeer ne wahan hazri di hai.
+
+**2.** Yani agarche is zaban se iqrar ka mauqa bhi na mila, kyunki zubani iqrar ahkam-e-Shariat jari hone ki shart hai.
+
+### Hadith 38
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=38`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ  اللهِ   صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ  : ثِنْتَانِ مُوجِبَتَانِ قَالَ رَجُلٌ: يَا رَسُولَ  الله ِ  مَا الْمُوجِبَتَانِ قَالَ: (مَنْ مَاتَ يُشْرِكُ  بِاللّٰهِ شَيْئًا دَخَلَ النَّارَ وَمَنْ مَاتَ لَا يُشْرِكُ  بِاللّٰهِ شَيْئا دخل الْجنَّة) (رَوَاهُ مُسلم)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Jabir se. **1** Farmate hain: Nabi ﷺ ne farmaya: Do cheezein lazim karne wali hain. **2** Kisi ne arz ki: Ya Rasool Allah! Lazim karne wali kya hain? Farmaya: Jo Allah ka shareek maanta hua mar gaya, **3** woh aag mein jayega. **4** Aur jo is tarah mara ke kisi ko Allah ka shareek nahi maanta tha, **5** woh jannat mein jayega. **6** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Jabir ibn Abdullah aur kunyat Abu Abdullah hai. Ansari aur Salmi hain. Mashhoor Sahabi aur bahut bade muhaddis hain. Nabi ﷺ ke saath 18 ghazwat mein shareek rahe aur Badr mein bhi saath the. Aakhir mein Shaam aur Misr mein qayam raha. Nabina ho gaye the. 94 saal ki umr pa kar 74 Hijri mein inteqal hua. Jannat-ul-Baqi mein aap ka mazar pur-anwar hai. Aap Madinah ke aakhri Sahabi hain.
+
+**2.** Allah Ta'ala ke izn se. Ahle Sunnat ke nazdeek amal apni zaat se wajib nahi karta, balki Allah ka irada, yani insan ki do sifatein, Allah ke irade se saza aur jaza ko wajib karti hain. Is ka bayan aage aa raha hai.
+
+**3.** Yani kufr karta hua, jis ki ek qism shirk bhi hai. Dekho, dahriya, موحد, Hindu aur Arya waghera sab jahannami hain agarche mushrik nahi. Aise maqamat mein shirk se murad kufr hota hai; is ka muqabil iman hai, sirf tauheed nahi.
+
+**4.** Hamesha ke liye, jaise bhatti mein koyla.
+
+**5.** Yani momin Musalman hokar, na ke sirf موحد hokar. Warna Shaitan mushrik nahi, موحد hai, magar jannati nahi.
+
+**6.** Ya to shuru hi se ya kuch saza bhugat kar.
+
+### Hadith 39
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=39`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي هُرَيْرَةَ قَالَ: كُنَّا قُعُودًا حَوْلَ رَسُولِ  اللهِ   صَلَّى  الله ُ  عَلَيْهِ وَسَلَّمَ   و مَعنا أَبُو بَكْرٍ وَعُمَرُ رَضِيَ  اللهُ   عَنْهُمَا فِي نَفَرٍ فَقَامَ رَسُولُ  الله  ِ صَلَّى  الله   عَلَيْهِ وَسَلَّمَ   مِنْ بَيْنَ أَظْهُرِنَا فَأَبْطَأَ عَلَيْنَا وَخَشِيَنَا أَنْ يُقْتَطَعَ دُونَنَا وَفَزِعْنَا فَقُمْنَا فَكُنْتُ أَوَّلَ مَنْ فَزِعَ فَخَرَجْتُ أَبْتَغِي رَسُولَ  الله ِ  صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ   حَتَّى أَتَيْتُ حَائِطًا لِلْأَنْصَارِ لِبَنِي النَّجَّارِ فَدُرْتُ بِهِ هَلْ أَجِدُ لَهُ بَابًا فَلَمْ أَجِدْ فَإِذَا رَبِيعٌ يَدْخُلُ فِي جَوْفِ حَائِطٍ مِنْ بِئْرٍ خَارِجَةٍ وَالرَّبِيعُ الْجَدْوَلُ قَالَ فَاحْتَفَزْتُ فَدَخَلْتُ عَلَى رَسُولِ  اللهِ   صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ   فَقَالَ أَبُو هُرَيْرَةَ فَقُلْتُ نَعَمْ يَا رَسُولَ  اللهِ   قَالَ مَا شَأْنُكَ قُلْتُ كُنْتَ بَيْنَ أَظْهُرِنَا فَقُمْتَ فَأَبْطَأْتَ عَلَيْنَا فَخَشِينَا أَنْ تُقْتَطَعَ دُونَنَا فَفَزِعْنَا فَكُنْتُ أَوَّلَ مَنْ فَزِعَ فَأَتَيْتُ هَذَا الْحَائِطَ فَاحْتَفَزْتُ كَمَا يَحْتَفِزُ الثَّعْلَبُ وَهَؤُلَاءِ النَّاسُ وَرَائِيْ فَقَالَ يَا أَبَا هُرَيْرَة وَأَعْطَانِي نَعْلَيْه فَقَالَ اذْهَبْ بِنَعْلَيْ هَاتَيْنِ فَمَنْ لَقِيْکَ مِنْ وَرَاء هَذَا الْحَائِط يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا  اللهُ   مُسْتَيْقِنًا بِهَا قَلْبُهُ فَبَشِّرْهُ بِالْجَنَّةِ فَكَانَ أَوَّلُ مَنْ لَقِيتُ عُمَرَ فَقَالَ مَا هَاتَانِ النَّعْلَانِ يَا أَبَا هُرَيْرَة قلت هَاتَانِ نَعْلَا رَسُولِ  الله ِ  صَلَّى  الله   عَلَيْهِ وَسَلَّمَ   بَعَثَنِي بِهِمَا مَنْ لَقِيتُ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا  اللهُ   مُسْتَيْقِنًا بِهَا قَلْبُهُ بَشَّرْتُهٗ بِالْجَنَّةِ فَضَرَبَ عُمَرُبَيْنَ ثَدْيَيَّ فَخَرَرْتُ لِاسْتِي فَقَالَ ارْجِعْ يَا أَبَا هُرَيْرَةَ فَرَجَعْتُ إِلَى رَسُولِ  الله   صَلَّى  الله   عَلَيْهِ وَسَلَّمَ   فَأَجْهَشْتُ بِالْبُکَاءِ  وَرَكَبَنِيْ عُمَرُ وإِذا هُوَ عَلى أَثَرِيْ فَقَالَ لِي رَسُولُ  الله  ِ صَلَّى  الله   عَلَيْهِ وَسَلَّمَ   مَا لَك يَا أَبَا هُرَيْرَة قُلْتُ لَقِيْتُ عُمَرَ فَأَخْبَرْتُهٗ بِالَّذِيْ بَعَثْتَنِيْ بِهِ فَضَرَبَ بَيْنَ ثَدْيَيَّ ضَرْبَةً  خَرَرْتُ لِاسْتِي فقَالَ ارْجع فَقَالَ  رَسُول ُ اللهِ   يَا عُمَرُ مَا حَمَلَكَ عَلَى مَا فَعَلْتَ قَالَ يَا رَسُولَ  اللهِ   بِأَبِي أَنْتَ وَأُمِّي أَبَعَثْتَ أَبَا هُرَيْرَةَ بِنَعْلَيْكَ مَنْ لَقِيَ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا  اللهُ   مُسْتَيْقِنًا بِهَا قَلْبُهُ بَشَّرَهُ بِالْجَنَّةِ قَالَ نَعَمْ قَالَ فَلَا تَفْعَلْ فَإِنِّي أَخْشَى أَنْ يَتَّكِلَ النَّاسُ عَلَيْهَا فَخَلَّهُمْ يَعْمَلُونَ فقَالَ رَسُولُ  اللهِ   صَلَّى  اللهُ   عَلَيْهِ وَسَلَّمَ   فَخَلَّهُمْ . رَوَاهُ مُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain ke hum log Huzoor ﷺ ke aas-paas baithe the. Hamare saath Abu Bakr aur Umar رضی اللہ عنہما bhi kuch logon mein the. Achanak Huzoor ﷺ hamare darmiyan se uth gaye. Wapas aane mein der hui to hamein khauf hua ke kahin Huzoor ﷺ ko hamari gair-hazri mein koi takleef na pahunchi ho. Hum ghabra kar uth khade hue. Ghabrane wala sab se pehle main tha. Main Huzoor ﷺ ko dhoondhne nikla, yahan tak ke Ansar ke Bani Najjar ke ek baagh par pahuncha. Main ne us ke gird chakkar lagaya ke koi darwaza mile, magar nahi mila. Ek naali nazar aayi jo bahar ke kunwe se baagh ke andar ja rahi thi. Main sikud kar us naali mein ghus gaya aur Rasool Allah ﷺ ki khidmat mein hazir hua. Huzoor ﷺ ne farmaya: Abu Hurairah? Main ne kaha: Ji haan, Ya Rasool Allah! Farmaya: Tumhara kya haal hai? Main ne arz ki: Huzoor ﷺ hamare darmiyan tashreef farma the, phir achanak uth gaye aur wapas aane mein der hui. Hamein khauf hua ke kahin Huzoor ﷺ ko hamari gair-maujoodgi mein koi takleef na pahunche. Hum ghabra gaye aur sab se pehle main ghabraya. Main is baagh mein aaya aur lomri ki tarah sikud gaya. Baqi log mere peechhe hi hain. Huzoor ﷺ ne farmaya: Ae Abu Hurairah! Aur mujhe apne naalain sharif ata kiye. Farmaya: Yeh dono naalain le jao. Is baagh ke peechhe jo shakhs tumhein is yaqeen ke saath mile ke us ke dil mein لَا إِلٰہَ إِلَّا اللہ ki gawahi hai, use jannat ki basharat do. Sab se pehle meri mulaqat Umar se hui. Unhon ne poocha: Ae Abu Hurairah! Yeh dono jootay kaise hain? Main ne kaha: Yeh Rasool Allah ﷺ ke naalain paak hain. Huzoor ﷺ ne mujhe yeh de kar bheja hai ke jo shakhs is yaqeen ke saath mile ke Allah ke siwa koi mabood nahi, use jannat ki basharat doon. Hazrat Umar ne mere seene par haath maara aur main peeth ke bal gir gaya. Farmaya: Laut jao, Abu Hurairah! Main Rasool Allah ﷺ ki khidmat mein laut aaya aur ro ro kar fariyad karne laga. Hazrat Umar ki haibat mujh par sawar thi aur woh mere peechhe hi aa rahe the. Huzoor ﷺ ne farmaya: Ae Abu Hurairah! Kya hua? Main ne arz ki: Main Umar se mila aur unhein woh paigham sunaya jo de kar Huzoor ﷺ ne mujhe bheja tha. Unhon ne mere seene par aisi chot maari ke main peeth ke bal gir gaya aur farmaya: Laut jao. Rasool Allah ﷺ ne farmaya: Ae Umar! Tumhein yeh karne par kis cheez ne ubhara? Unhon ne arz ki: Mere maa-baap aap par qurban, Ya Rasool Allah! Kya aap ne Abu Hurairah ko apne naalain de kar is liye bheja hai ke jo shakhs dil ke yaqeen ke saath Allah ke siwa koi mabood na hone ki gawahi deta mile, use jannat ki basharat de? Farmaya: Haan. Arz ki: Aisa na kijiye, mujhe khauf hai ke log isi par bharosa kar baithenge. Unhein amal karne ke liye chhor dijiye. Rasool Allah ﷺ ne farmaya: Achha, unhein chhor do. (Muslim)
+
+**Poori wazahat:**
+
+**1.** Sahaba ki jamaat mein yeh dono buzurg aise darje par hain jaise sitaron mein chand aur suraj. Isi liye aksar jagah in ka khaas zikr hota hai. Yaad rahe ke Sahaba ke Sheikhain Abu Bakr aur Umar رضی اللہ عنہما hain, muhaddisin ke Sheikhain Bukhari aur Muslim, fuqaha ke Sheikhain Imam Abu Hanifah aur Abu Yusuf رضی اللہ عنہما, aur mantiq ke Sheikhain Bu Ali Sina aur Farabi hain.
+
+**2.** Yani hum Huzoor ﷺ ki khidmat mein hazir na hon, Huzoor ﷺ kahin akele hon aur koi dushman aap ko takleef de. Arab mein Huzoor ﷺ ke bahut dushman the. Yeh ghabrahat asbaab ke lihaz se thi, warna Allah hamesha Huzoor ﷺ ke saath tha.
+
+**3.** Bani Najjar Ansar ka ek bada qabila hai. `حائط` us baagh ko kehte hain jis ke aas-paas deewar aur ek darwaza ho. `بستان` har us baagh ko kehte hain jo deewar se ghira ho ya na ho.
+
+**4.** Andaze se mujhe pata chala ke Huzoor ﷺ is baagh mein hain. Sheikh Abdul Haq farmate hain ke nasim-e-jamal ne mehboob ki khushboo aashiq ke muhabbat bhare dimagh tak pahuncha di, jaise Yusuf علیہ السلام ki khushboo Misr se Kan'an pahuncha gayi. Magar aashiqon ke haal mukhtalif hote hain: kabhi qabz aur kabhi bast.
+
+**5.** Yani darwaza maujood tha, magar mehboob ki muhabbat mein be-khudi ki wajah se nazar na aaya.
+
+**6.** Naali nazar aa gayi. Pyaron ke haal nirale hote hain aur un ki kaifiyat aqal se pare hoti hai. Dekho, Rab ki shaan: darwaza nazar na aaya aur naali dikh gayi. Aisi kaifiyat un logon par guzarti hai jinhein ishq se hissa mila ho.
+
+**7.** Maloom hota hai ke naali bahut tang thi, jis mein Hazrat Abu Hurairah takleef utha kar dakhil hue. Yaad rahe ke baghair ijazat naali ke zariye kisi ke ghar ya baagh mein chale jana qanunan mana hai. Magar yeh ishq ka karishma tha. Apne aap ko aatish-e-Nimrod mein daal dena aur be-gunah farzand ko zibah karna, sab ishq ki jalwagari hai; qanoon is se bahut door hai.
+
+**8.** Yeh sawal ta'ajjub ki bina par hai: ya to darwaza hote hue naali ke raste pahunche, ya darwaza band tha aur naali ke raste aaye.
+
+**9.** Yani pareshan kyun ho aur haanp kyun rahe ho?
+
+**10.** Is mein Allah ki nemat ka izhar hai, fakhr aur riya nahi. Yani Allah ne mujhe Huzoor ﷺ ka aisa ishq diya hai ke aap ke baghair sabr nahi kar sakta.
+
+**11.** Is mein ma'zirat ka izhar hai ke Huzoor ﷺ ki ghabrahat mein darbar ke aadaab ada na kar saka, baghair ijazat aa gaya aur salam karna bhi bhool gaya, halaanke yeh dono Quran ke hukm hain. Magar jo hosh mein na ho woh kya na kare.
+
+**12.** Yani yeh sher hai: "Main akela is maikhane mein mast nahi, is sharab se mere jaise bahut se mast hain." Is ka ma'ni hai: Main hi akela nahi, poori duniya teri talabgar hai.
+
+**13.** Naalain kyun ata kiye? Aqalmand kehte hain ke nishani ke taur par, taake maloom ho ke yeh Huzoor ﷺ ke bheje hue hain. Aashiq kehte hain ke Sahabi sachche hain, un ki har baat baghair nishani maan li jati hai. Maqsad yeh hai ke aage sirf لا إله إلا الله ka zikr hai. Abu Hurairah ko کفش بردار bana kar bataya gaya ke kalima aur tauheed usi ki mo'tabar hai jo hamare naalain ka bardar ho. Is mein zabani tabligh ke saath amali tabligh bhi hai. Ishq ki tafsir se hadith par koi aitraz nahi rehta. Naalain bardari mein tamam aqeede aur aamaal aa gaye; jo Huzoor ﷺ ke naalain ka bardar hai yaqinan jannati hai.
+
+**14.** Subhan Allah! Kya latif ishara hai: yeh basharat har shakhs ko na dena, kyunki har koi is raaz ko nahi samjhega. Sirf Umar ko batana, jo tumhein is baagh ke peechhe milenge aur hamare razdar hain.
+
+**15.** Yani un se keh do ke tum jannati ho. Is se kai masail maloom hue: Huzoor ﷺ ko ilm tha ke Abu Hurairah ki pehli mulaqat Hazrat Umar se hogi; Hazrat Umar yaqini aur laazmi jannati hain; Huzoor ﷺ ko logon ki sa'adat aur badbakhti ka ilm hai; Musalman ko zaban se kalima-e-tayyibah padhna zaruri hai, sirf aqeede par iktifa nahi; aur is qism ki ahadith awam tak baghair sharh nahi pahunchani chahiye. Isi liye Huzoor ﷺ ne qaid lagayi ke is baagh ke peechhe jo Musalman mile sirf use basharat dena.
+
+**16.** Yeh Huzoor ﷺ ke farman ka zahoor hai: farmaya tha jo tumhein is baagh ke peechhe mile. Hazrat Umar se mulaqat Huzoor ﷺ ke farman ki tafsir hai.
+
+**17.** Yahan ek baat mukhtasar hai: Hazrat Umar ne pehle mujh se lautne ko kaha, main na mana, tab aap ne mujhe maara. Baghair kuch kahe-sune maarna aqal ke khilaf hai. (Mirqat) Zahir yeh hai ke maarna maqsood na tha, balki aage badhne se rokna aur majbooran wapas karna tha. Hazrat Abu Hurairah kamzor the; is halki si harkat se gir pade. Agar waqai maara bhi ho to harj nahi, kyunki Hazrat Umar un ke liye ustad, ya kam az kam bade bhai ki tarah the.
+
+**18.** Is farman mein Huzoor ﷺ ke hukm ki mukhalifat nahi. Maqsad yeh tha: Ae Abu Hurairah! Tum farman poora kar chuke ho, tum mujhe mil gaye aur mujhe paigham suna diya. Hadith apne aakhir tak pahunch gayi, ab is ki aam isha'at ki zarurat nahi. Hadith ka mabda Nabi ﷺ hain aur hadith ka muntaha mujtahid. Awam seedha hadith-e-Rasool par amal na karein, balki mujtahid se samajh kar amal karein. Rab Ta'ala farmata hai: "لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ". Hadith aur Quran roohani tib ki do dawaein hain; kisi roohani tabib ke mashware se istemal karo, warna halak ho jaoge. Yeh hadith taqleed-e-a'immah ki qawi daleel hai.
+
+**19.** Yani main Huzoor ﷺ ki aisi panah mein aaya jaise bachcha mehrban maa ki panah mein aata hai. Yaad rahe ke Abu Hurairah yahan aa kar roye, wahan na roye the, kyunki mazloom fariyadras ko dekh kar rota hai.
+
+**20.** Yeh Arab ka muhavra hai, jaise kaha jata hai ke falan par qarz sawar ho gaya, yani qarz ghalib aa gaya.
+
+**21.** Yani is kaam ke liye yahan se aage na badho, chahe Huzoor ﷺ ki khidmat mein wapas chalo ya kisi aur kaam ke liye jao.
+
+**22.** Abu Hurairah ko wapas karne par, na ke unhein maarne par, jaisa agle mazmoon se maloom hota hai. Is se maloom hota hai ke shikayat waghera mein aksar ek shakhs ki khabar bhi mo'tabar hoti hai, kyunki Huzoor ﷺ ne Abu Hurairah se gawahi maangi aur Hazrat Umar se iqrar nahi karaya, sirf wapas karne ki wajah poochi.
+
+**23.** Yeh arz-o-ma'ruz bar-gah-e-Nabawi ke aadaab mein se hai, Abu Hurairah par badgumani ki wajah se nahi, kyunki tamam Sahaba adil hain aur un ki khabrein mo'tabar hain. Jaise badshah ke kisi karinde ke kaam par badshah se arz karni ho to pehle badshah se tasdiq kar lena darbar ka adab hai.
+
+**24.** Is jagah ek baat ka zikr nahi aaya: baagh ke peechhe se maloom hota hai ke Hazrat Umar Paighambar ke razdar aur dil ke raazon se ba-khabar the.
+
+**25.** Yani aage Abu Hurairah ko aam logon se yeh baat karne ki ijazat na dein. Yeh Huzoor ﷺ ki bargah mein mashware ki peshkash thi, Huzoor ﷺ ke hukm se sarkashi nahi. Rab farmata hai: "وَشَاوِرْهُمْ فِي الْأَمْرِ". Isi liye Huzoor ﷺ ne is mauqe par naraazgi nahi farmayi, balki aap ka mashwara qabool kar liya. Is se yeh lazim nahi aata ke Hazrat Umar ki aqal aur danai Huzoor ﷺ se zyada thi. Is hadith ka raaz kuch aur hai: Huzoor ﷺ ka yeh hukm apne mauqe par poora ho chuka tha aur farman ki ta'mil ho chuki thi.
+
+**26.** Yani woh naye Musalman jo abhi tak kalam ka maqsad samajhne ke laaiq nahi the. Woh zahiri alfaaz sun kar amal hi chhor dete aur samajhte ke nijaat ke liye sirf kalima padh lena kaafi hai. Is liye aaj ke ahl-e-hadith ko ibrat leni chahiye jo har hadith par baghair soche samjhe amal karne ka dawa karte hain. Quran ki ayaton par bhi andha-dhund girna haram hai. Rab farmata hai: "وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا عَلَيْهَا صُمًّا وَعُمْيَانًا".
+
+**27.** Yani tumhari rai manzoor hai aur bahut durust hai. Yaad rahe ke Nabi ﷺ ne Hazrat Umar se Abu Hurairah ka na qisas dilaya aur na maafi mangwayi, kyunki Hazrat Umar mujtahid the aur Abu Hurairah sirf muhaddis. Mujtahid ustad hota hai aur muhaddis shagird. Ustad par shagird ka qisas lazim nahi, agarche ghalati se saza de. Dekho, Musa علیہ السلام ne khata se Harun علیہ السلام ke baal pakar kar khenche, magar Rab ne un se qisas nahi dilaya. Hamari is sharh se yeh sawalat paida hue: Abu Hurairah ko baagh ka darwaza kyun nazar na aaya aur naali kyun nazar aayi? Aap doosre ke baagh ya makan mein baghair ijazat kyun gaye? Pehle salam kyun na kiya? Huzoor ﷺ ne naalain sharif kyun ata kiye? Hazrat Umar ne hadith ki isha'at se Abu Hurairah ko kyun roka? Unhein maara kyun? Huzoor ﷺ se Abu Hurairah ki tasdiq kyun karayi? Huzoor ﷺ ko is baat ki isha'at na karne ka mashwara kyun diya? Huzoor ﷺ ne un ki rai qabool kyun ki? Hazrat Umar se is maar ka badla kyun na liya gaya?
+
+### Hadith 40
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=40`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب : ایمان کا بیان`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+وعَن مُعَاذِ بْنِ جَبَلٍ قَالَ: قَالَ لِي رَسُولُ  اللهِ   صَلَّى  الله   عَلَيْهِ وَسَلَّمَ   مَفَاتِيحُ الْجَنَّةِ شَهَادَةُ أَنْ لَا إِلَه إِلَّا  الله َ .رَوَاهُ أَحْمَدُ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Mu'az ibn Jabal se. Farmate hain: Rasool Allah ﷺ ne mujh se farmaya: Jannat ki chaabiyan yeh gawahi hain ke Rab ke siwa koi mabood nahi. Ise Ahmad ne riwayat kiya.
+
+**Poori wazahat:**
+
+**1.** Yani aqeede ki durusti ke baghair koi shakhs jannat mein nahi ja sakta. Durust aqeede khud jannat aur wahan ke tamam maqamat ki chaabi hain. Isi liye `مفاتیح` jama farmaya gaya, yani wahan ke har maqam ki chaabi kalima-e-tayyibah hai. Hum pehle arz kar chuke hain ke kalime se murad tamam Islami aqeede hain. Is liye munafiqeen aur murtadeen, agarche umr bhar kalima padhte rahen, jannati nahi honge.
