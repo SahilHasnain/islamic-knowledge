@@ -426,7 +426,7 @@ Is hadith aur pichhli hadith mein sirf ek lafz ka farq hai. Isi wajah se Mufti S
 
 **Arabic hadith:**
 
-وَعَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «إِذَا زَنَى الْعَبْدُ خَرَجَ مِنْهُ الْإِيْمَانُ فَكَانَ فَوْقَ رَأْسِهِ كَالظُّلَّةِ فَإِذَا خَرَجَ  مِنْ ذٰلِكَ الْعَمَلِ رَجَعَ  إِلَيْهِ الْاِيْمَانُ» رَوَاهُ الْتِّرْمِذِيُّ وَ أَبُوْدَاوٗدَ
+وَعَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «إِذَا زَنَى الْعَبْدُ خَرَجَ مِنْهُ الْإِيْمَانُ فَكَانَ فَوْقَ رَأْسِهِ كَالظُّلَّةِ فَإِذَا خَرَجَ مِنْ ذٰلِكَ الْعَمَلِ رَجَعَ  إِلَيْهِ الْاِيْمَانُ» رَوَاهُ الْتِّرْمِذِيُّ وَ أَبُوْدَاوٗدَ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain ke Nabi ﷺ ne farmaya: Jab koi banda zina karta hai to us se iman nikal jata hai aur us ke sar par saayeban ki tarah rehta hai. **1** Phir jab banda is bad-amali se alag ho jata hai to iman bhi us ki taraf laut aata hai. **2** (Tirmidhi, Abu Dawud)
 
@@ -435,3 +435,562 @@ Is hadith aur pichhli hadith mein sirf ek lafz ka farq hai. Isi wajah se Mufti S
 **1.** Is ki tafsir pehle guzar chuki hai ke yahan iman ka noor ya imani ghairat nikalna murad hai, asal iman ka nikalna nahi.
 
 **2.** Yani jab woh taubah kar leta hai to taubah ki barkat se iman ka noor aur imani ghairat laut aati hai.
+
+## Hadith 61
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=61`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب:بڑے گناہوں اور نفاق کی علامات`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+عَنْ مُعَاذٍ قَالَ: أَوْصَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ   بِعَشْرِ كَلِمَاتٍ قَالَ لَا تُشْرِكْ بِاللَّهِ شَيْئًا وَإِنْ قُتِلْتَ وَحُرِّقْتُ وَلَا تَعُقَّنَّ وَالِدَيْكَ وَإِنْ أَمَرَاكَ أَنْ تَخْرُجَ مِنْ أَهْلِكَ وَمَالِكَ وَلَا تَتْرُكَنَّ صَلَاةً مَكْتُوبَةً مُتَعَمِّدًا فَإِنَّ مَنْ تَرَكَ صَلَاةً مَكْتُوبَةً مُتَعَمِّدًا فَقَدْ بَرِئَتْ مِنْهُ ذِمَّةُ اللَّهِ وَلَا تَشْرَبَنَّ خَمْرًا فَإِنَّهُ رَأَسَ كُلِّ فَاحِشَةٍ وَإِيَّاكَ وَالْمَعْصِيَةَ فَإِنَّ بالمعصية حل سخط الله وَإِيَّاكَ وَالْفِرَارَ مِنَ الزَّحْفِ وَإِنْ هَلَكَ النَّاسُ وَإِذا أصَاب النَّاس موت وَأَنت فيهم فَاثْبتْ وَأنْفق عَلَى عِيَالِكَ مِنْ طَوْلِكَ وَلَا تَرْفَعْ عَنْهُمْ عَصَاكَ أَدَبًا وَأَخِفْهُمْ فِي اللَّهِ. رَوَاهُ أَحْمَدُ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Muaz se. Farmate hain ke mujhe Nabi ﷺ ne das baaton ki wasiyyat farmayi: **1** Allah ke saath kisi ko shareek na maanna, chahe tum maar diye jao ya jala diye jao. **2** Apne maa-baap ki na-farmani na karna, chahe woh tumhein apne ghar-baar aur maal se nikal jaane ka hukm dein. **3** Farz namaz jaan-boojh kar hargiz na chhorna, kyunki jo shakhs jaan-boojh kar farz namaz chhor de, us se Allah ka zimmah aur amaan uth jaati hai. **4** Sharab hargiz na peena, kyunki yeh har badkaari ki jad hai. **5** Gunah se apne aap ko bachana, kyunki gunah ki wajah se Allah ki na-raazgi nazil hoti hai. **6** Jihad se bhaagne se bachna, chahe log halak ho jaayen. **7** Jab logon ko wabaai maut pahunche aur tum un mein ho to saabit-qadam rehna. **8** Apne baal-bachchon par apni kamaai se kharch karna. **9** Apni tarbiyat ki chhadi un se na hatana. **10** Unhein Allah se daraate rehna. (Ahmad)
+
+**Poori wazahat:**
+
+**1.** Yani taakeedi hukm diya. Arabi mein taakeedi hukm ko wasiyyat kaha jaata hai. Rab farmata hai: "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ".
+
+**2.** Jaan ke waqt jaan de do, magar dil se kufr-o-shirk na karo; yeh kisi haal mein jaiz nahi. Jaan ko khatre ke waqt zaban se kufr ka lafz keh dena, bashart-e-ke dil mein iman ho, jaiz hai. Rab farmata hai: "اِلَّا مَنْ اُکْرِہَ وَ قَلْبُہٗ مُطْمَئِنٌّۢ بِالۡاِیۡمٰنِ". Yahan dili kufr murad hai. Is liye yeh hadith is ayat ke khilaaf nahi. Jo shakhs jaan de de aur kalima-e-kufr na kahe, woh ajr ka mustahiq hai. Jaan de dena azeemat hai aur jaan bachana rukhsat. Agar hadith ka yahi matlab ho to Huzoor ﷺ ne Hazrat Muaz ko azeemat ka hukm diya.
+
+**3.** Yeh hukm mustahab hai. Maa-baap ke hukm par biwi ko talaq de dena mustahab hai. Hazrat Ismail علیہ السلام ne Hazrat Ibrahim علیہ السلام ke ishare par talaq de di; yeh mustahab par amal tha. Lekin baap ke hukm se biwi ya bachchon par zulm na kare, kyunki zulm se bachna Allah aur Rasool ka hukm hai aur un ka hukm maa-baap ke hukm par muqaddam hai. Isi tarah agar maa-baap kufr ya ma'siyat ka hukm dein to na maane. Rab farmata hai: "وَ اِنۡ جٰہَدَاکَ عَلٰۤی اَنۡ تُشْرِکَ بِیۡ مَا لَیۡسَ لَکَ بِہٖ عِلْمٌ ۙ فَلَا تُطِعْہُمَا".
+
+**4.** Yani be-namazi Allah ki amaan mein nahi rehta. Namaz ki barkat se insaan duniya mein aafat se, marte waqt bad-khatimah se, qabr mein nakaami se aur hashr mein museebaton se بِفَضْلِہٖ تَعَالٰی amaan mein rehta hai. Sufiya farmate hain ke wazifon, amaliyat aur taweezon ke faide haasil karne ke liye namaz ki pabandi zaroori hai; sheikh aur murid dono ke liye.
+
+**5.** Sharab se murad har nasha dene wali cheez hai, kyunki jab nashe se aqal chali gayi to buraai aur bhalaai kaun batayega? Sharabi nashe mein peshab aur paikhana tak kha-peete hain. Yaad rahe ke har patli nasha dene wali cheez mutlaqan haraam hai. Angoor ki sharab qat'i haraam hai aur doosri sharabein zanni haraam. Afiyoon, bhaang aur tambaku agar nasha dein to haraam hain.
+
+**6.** Yaad rahe ke chhote gunah ko chhota samajh kar na karo aur chhoti neki ko haqeer samajh kar na chhoro. Chhota gunah chingaari ki tarah hai jo kabhi ghar jala deti hai. Mamooli neki thode paani ki tarah hai jo kabhi jaan bacha leti hai. Shaitan pehle chhote gunah karwata hai, phir bade, phir kufr-o-shirk. Chhota gunah bhi hameshgi se bada ban jaata hai. Is liye hadith bilkul durust hai. Yahan har gunah murad hai, kyunki woh Allah ki na-raazgi ka sabab hai, chahe ba-wasta ho ya bila-wasta.
+
+**7.** Yeh hukm bhi mustahab hai. Agar koi ghazi aise mauqe par jama rahe aur shaheed ho jaaye to sawab paayega, aur agar bhaag jaaye to gunahgaar nahi hoga. Rab farmata hai: "اَلۡـٰٔنَ خَفَّفَ اللّٰہُ عَنۡکُمْ". (Mirqat) Is liye Jang-e-Uhud mein jin Sahaba ke qadam ukhad gaye woh gunahgaar na the; khata un se hui jo darra chhor gaye. Quran ne un ki maafi ka elaan kar diya.
+
+**8.** Yani jahan tum ho wahan ta'un waghera koi bimaari phail jaaye to wahan se bhaago nahi, taake wahan ke murde be-gor-o-kafan aur mareez be-yar-o-madadgaar na reh jaayen. Aur jahan tum nahi ho wahan mat jao. Rab farmata hai: "لَا تُلْقُوۡا بِاَیۡدِیۡکُمْ اِلَی التَّہۡلُکَۃ".
+
+**9.** Maloom hua ke biwi aur bachchon ko paalne ke liye kamaai karna bhi ibadat hai. Islam tark-e-duniya nahi sikhata.
+
+**10.** Yani biwi-bachchon ke haal par nazar rakho aur un ki islaah karte raho: chhote bachchon ko maar se aur badon ko zubani daant-dapat se. Qayamat mein tum se un ke baare mein bhi sawaal hoga. Rab farmata hai: "قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا".
+
+## Hadith 62
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=62`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب:بڑے گناہوں اور نفاق کی علامات`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ حُذَيْفَةَ قَالَ: إِنَّمَا النِّفَاقُ كَانَ عَلٰى عَهْدِ رَسُوْلِ اللهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   فَأَمَّا الْيَوْمَ فَإِنَّمَا هُوَ الْكُفْرُ وَ الْاِيْمَانُ. رَوَاهُ البُخَارِيُّ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Huzaifah se. Farmate hain: Nifaq Huzoor ﷺ ke zamane mein tha, lekin aaj ya kufr hai ya iman. **1** **2** (Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Huzaifah, kuniyat Abu Abdullah Absi thi. Aap ke walid Haseel the aur un ka laqab Yaman tha. Aap Huzoor ﷺ ke sahib-e-asraar the. 25 Hijri mein Hazrat Usman Ghani رضی اللہ عنہ ki shahadat ke chaalis din baad Mada'in mein aap ka inteqal hua aur wahin aap ka mazar-e-pur-anwaar hai.
+
+**2.** Yani Huzoor ﷺ ke zamane mein aarzi maslihaton ki wajah se munafiqon ko qatl nahi kiya gaya. Agarche un se kufr ki nishaniyan zahir hoti thin, taake kafir hamari andarooni ladai se faida na uthayen. Us zamane mein teen qisam ke log maane gaye: kafir, Momin aur munafiq. Huzoor ﷺ ke baad nifaq koi alag cheez nahi; ya kufr hai ya Islam. Agar kisi se kufr ki nishaniyan dekhi jaayen to use qatl kiya jaayega. Khula kafir bhi aur chhupa hua bhi, kyunki woh murtad hai. (Lamaat o Mirqat waghera)
+
+## Hadith 63
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=63`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «إِنَّ اللهَ تَجَاوَزَ عَنْ أُمَّتِيْ مَا وَسْوَسَتْ بِهٖ صُدُوْرُهَا مَا لَمْ تَعْمَلْ بِهٖ أَوْ تَتَكَلَّم»(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain ke Nabi ﷺ ne farmaya: Allah Ta'ala ne meri ummat ke un dil ke khayalon se darguzar farmayi hai **1** jab tak woh un par amal ya baat na kar lein. **2** (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Yani bure khayalon par pakad nahi. Yeh is ummat ki khaasiyat hai; pichhli ummaton mein is par bhi pakad hoti thi. Yaad rahe ke bure khayal aur cheez hain aur bura irada doosri cheez. Bure irade par pakad hai, hatta ke kufr ka irada bhi kufr hai. Sheikh Abdul Haq farmate hain ke jo bura khayal dil mein be-ikhtiyar achanak aata hai use haajis kehte hain. Woh aata hai aur chala jaata hai; yeh pichhli ummaton par bhi maaf tha aur hamare liye bhi maaf hai. Lekin jo khayal dil mein thehar jaaye woh hamare liye maaf hai, un ke liye maaf na tha. Agar us ke saath dil mein lutf aur khushi paida ho to use ham kehte hain; is par bhi pakad nahi. Aur agar us ke saath kar guzarne ka irada bhi ho to woh azm hai aur is par pakad hai. Yaad rahe ke gunah ka irada gunah hai, magar us par hadd nahi. Zina ka irada gunah hai, lekin zina nahi.
+
+**2.** Yani qauli gunah mein baat ka aitbaar hai aur fa'li gunah mein amal ka.
+
+## Hadith 64
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=64`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْهُ قَالَ: جَاءَ نَاسٌ مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   إِلَى النَّبِيِّ فَسَأَلُوهُ: إِنَّا نَجِدُ فِي أَنْفُسِنَا مَا يَتَعَاظَمُ أَحَدُنَا أَنْ يَتَكَلَّمَ بِهٖ. قَالَ: «أَوَ قَدْ وَجَدْتُمُوْهٗ» قَالُوْا: نَعَمْ. قَالَ: «ذٰلِكَ صَرِيْحُ الْإِيْمَانِ» . رَوَاهُ المُسْلِمُ
+
+**Lafzi tarjuma:** Riwayat hai unhi se. Farmate hain ke Huzoor ﷺ ke Sahaba mein se kuch hazraat Huzoor ﷺ ki khidmat mein haazir hue aur poochne lage: Hum apne dilon mein aise khayalat mehsoos karte hain ke unhein bayan karna bahut bada gunah maloom hota hai. **1** Farmaya: Kya tum ne yeh baat paayi hai? **2** Arz kiya: Haan. Farmaya: Yeh khula hua iman hai. **3** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Yeh Sahaba ke kamal-e-iman ki daleel hai ke waswase par amal karna to door, use zaban par laate hue bhi ghabraate hain.
+
+**2.** Waswasa ya us ko bahut bura samajhna.
+
+**3.** Yani waswase aana kamal-e-iman ki daleel hai, kyunki chor bhare hue ghar mein hi jaata hai aur Shaitan Momin ki fikr mein zyada rehta hai. Hazrat Ali Murtaza رضی اللہ عنہ farmate hain: Jo namaz waswase se khaali ho woh Yahud-o-Nasara ki namaz hai. (Mirqat) Ya waswason ko bura samajhna ain iman hai, kyunki kafir to unhein achha samajh kar un par iman le aate hain.
+
+## Hadith 65
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=65`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْهٗ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  يَأْتِي الشَّيْطَانُ أَحَدَكُمْ فَيَقُولُ: مَنْ خَلَقَ كَذٰا مَنْ خَلَقَ كَذٰا حَتّٰى يَقُولَ: مَنْ خَلَقَ رَبَّكَ فَإِذَا بَلَغَهٗ فَلْيَسْتَعِذْ  بِاللّٰهِ  وَالْيَنْتَهِ  (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai unhi se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Tum mein se kisi ke paas Shaitan aata hai **1** aur kehta hai: Falaan cheez kis ne paida ki? Falaan kis ne? Yahan tak ke kehta hai: Tumhare Rab ko kis ne paida kiya? **2** Jab is had tak pahunche to "اَعُوذُ بِاللّٰہ" padhe aur us se baaz rahe. **3** (Bukhari, Muslim)
+
+**Poori wazahat:**
+
+**1.** Ya to khud Iblis, kyunki woh poori duniya par nazar rakhta hai aur sab mein ghoomta rehta hai; ya qareen, jo har insaan ka alag Shaitan hai aur har waqt us ke saath rehta hai; ya bura insaan jo aisi baatein karke logon ko behkaye.
+
+**2.** Halanke paida woh cheez ki jaati hai jo na-paida bhi ho sake. Rab Ta'ala wajib-ul-wujood hai; use kaun paida kare? Arzi cheezon ki intiha zaat par hoti hai. Tamam taare suraj se roshan hain, magar suraj kisi se roshan nahi.
+
+**3.** Yani is ka jawab sochne ki koshish bhi na karo, warna Shaitan sawaal par sawaal karega. "اَعُوذُ بِاللّٰہ" padh kar use bhaga do; har sawaal ka jawab nahi diya jaata. Rab ne Shaitan ke sajdah na karne par us ke dalail ka jawab nahi diya, balki farmaya: "فَاخرُج منہا". Yaad rahe ke "اَعُوْذُ بِاللّٰہ" Shaitan ko door karne ke liye aksir hai.
+
+## Hadith 66
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=66`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْهُ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  لَا يَزَالُ النَّاسُ يَتَسَاءَلُوْنَ حَتَّى يُقَالَ هٰذَا خَلَقَ اللّٰهُ  الْخَلْقَ فَمَنْ خَلَقَ الله فَمَنْ وَجَدَ مِنْ ذٰلِكَ شَيْئًا فَلْيَقُلْ: اٰمَنْتُ بِاللهِ وَرُسُلِهٖ   (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai unhi se. Farmate hain ke Nabi ﷺ ne farmaya: Log ek doosre se poochte rahenge, yahan tak ke kaha jaayega: Is makhlooq ko to Allah ne paida kiya, Allah ko kis ne paida kiya? **1** Jo shakhs in mein se kuch paaye woh kahe: Main Allah aur us ke Rasoolon par iman laaya. **2** (Bukhari, Muslim)
+
+**Poori wazahat:**
+
+**1.** Jaise aaj Khuda ke munkir dahriye kehte hain. Qurban jaaun is Aalim-ul-Ghuyub Rasool ﷺ ke, jinhon ne Qayamat tak hone wale waqiat ki khabar de di. Mujh se Karachi mein bilkul yahi sawaal ek shakhs ne kiya tha to mere munh se nikla: "صَدَقَ رَسُولُ ﷲ".
+
+**2.** Yani bila daleel-e-aqli Allah ki zaat aur sifaat ko maan liya. Is hadith ki bina par baaz ulama Ilm-e-Kalam padhna aur padhana na-pasand karte hain. Lekin baaz ulama ne zamane ke halaat dekh kar ise seekha aur sikhaya, magar shubhe daalne ke liye nahi, balki shubhe door karne ke liye. Dono Allah ko pyare hain. Yaad rahe ke jis se sawaal kiya gaya woh kafir nahi hoga, lekin agar sawaal karne wala shubhe ki wajah se poochta hai to kafir hai, aur agar jawab maloom karne ke liye poochta hai to kafir nahi.
+
+## Hadith 67
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=67`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  مَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا وَقَدْ وُكِّلَ بِهٖ قَرِيْنُهُ مِنَ الْجِنِّ وَقَرِينُهُ مِنَ الْمَلَائِكَةِ. قَالُوا: وَإِيَّاكَ يَا رَسُولَ اللهِ قَالَ: وَإِيَّايَ وَلَكِنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ فَلَا يَأْمُرُنِيْ إِلَّا بِخَيْرٍ . رَوَاهُ مُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ibn-e-Masood se. Farmate hain ke Nabi ﷺ ne farmaya: Tum mein aisa koi nahi jis par ek saathi jinn aur ek saathi farishta muqarrar na ho. **1** Logon ne poocha: Ya Rasool Allah! Aap par bhi? Farmaya: Mujh par bhi. **2** Lekin Rab ne mujhe us par madad di, jis ki wajah se woh Muslim ho gaya. Ab woh mujhe bhalaai hi ka mashwara deta hai. **3** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Yani har aqil-baaligh insaan ke saath waswasa daalne ke liye ek Shaitan aur ilham ke liye ek farishta har waqt rehta hai. Mirqat aur Ashi'at-ul-Lamaat mein hai ke jab insaan ka bachcha paida hota hai to us ke saath hi Iblis ka ek Shaitan paida hota hai, jise Farsi mein hamzaad aur Arabi mein waswaas kehte hain. Zaahir yeh hai ke Iblis ke har lamhe saikdon bachche paida hote rehte hain, insaan ki aulaad ki tadaad ke mutabiq; jaise machhli aur naagin saanp ek waqt mein hazaron ande dete hain. Taghuti jaraseem har waqt bachche dete rehte hain.
+
+**2.** Ek farishta muqarrar hai jo ilham deta hai aur ek Shaitan muqarrar hai.
+
+**3.** Zaahir yeh hai ke yahan Islam se murad iman hi hai, na ke sirf ita'at. Yeh Huzoor ﷺ ki buland darje ki khaasiyat hai ke aap ka Shaitan, jis ki fitrat mein kufr daakhil tha, woh bhi iman le aaya. Maloom hua ke nigah-e-karam se fitratein badal jaati hain. Mirqat mein hai ke Haamah ibn Iblis ne Huzoor ﷺ ki khidmat mein arz kiya: Main Qabeel ke Haabil ko qatl karne ke waqt maujood tha aur tamam Ambiya ke saath raha hoon. Aap mujhe kuch Quran sikhaiye. Aap ne use Surah-e-Waqi'ah, Mursalaat, Naba, Ikhlaas, Falaq aur Naas sikhaye. Jinnat ka Huzoor ﷺ par iman laana Quran ki Surah-e-Jinn mein mazkoor hai, halanke tamam jinn Iblis ki aulaad hain. Rab farmata hai: "كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ". Is liye Chakralwi is hadith par aitiraz nahi kar sakte.
+
+## Hadith 68
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=68`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «إِنَّ الشَّيْطَانَ يَجْرِيْ مِنَ الْاِنْسَانِ مَجْرَى الدَّمِ» (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Anas se. Farmate hain ke Nabi ﷺ ne farmaya: Shaitan insaan mein khoon ke thikano mein gardish karta hai. **1** (Bukhari, Muslim)
+
+**Poori wazahat:**
+
+**1.** Ya to khud Iblis aur qareen Shaitan murad hai, kyunki woh aatish ka bana hua hai, is liye bila takalluf insaan ki rag-o-pai mein sarayat karke tasarruf karta hai. Ya us ke waswase aur khayalat murad hain. Maloom hua ke Allah ke fazl ke baghair koi shakhs Shaitan se nahi bach sakta.
+
+## Hadith 69
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=69`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ: «مَا مِنْ بَنِي آدَمَ مَوْلُودٌ إِلَّا يَمَسُّهُ الشَّيْطَانُ حِيْنَ يُولَدُ فَيَسْتَهِلُّ صَارِخًا مِنْ مَسِّ الشَّيْطَانِ غَيْرَ مَرْيَمَ وَابْنِهَا»(مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain ke Nabi ﷺ ne farmaya: Aulad-e-Adam mein koi aisa bachcha nahi **1** jise paidaish ke waqt Shaitan na chhoota ho. Woh bachcha Shaitan ke chhoone ki wajah se hi cheekhta hai. **2** Siwaye Hazrat Maryam aur un ke farzand ke. **3** (Bukhari, Muslim)
+
+**Poori wazahat:**
+
+**1.** Yani Hazrat Adam aur Hawwa ko Shaitan na chhoo saka, kyunki woh aulad-e-Adam nahi hain.
+
+**2.** Is se hamare Nabi ﷺ mustasna hain. Aise maqam par mutakallim mustasna hota hai. Tehqeeq se saabit hai ke Huzoor ﷺ rote hue paida nahi hue. (Ashi'at-ul-Lamaat)
+
+**3.** Hazrat Isa علیہ السلام, yani in dono buzurgon ko Shaitan na chhoo saka. Jaisa ke Bukhari Shareef mein hai, paidaish ke waqt Shaitan bachche ke pehlu mein ungli maarta hai, jis ki takleef se bachcha cheekhta hai. In dono buzurgon ki paidaish ke waqt bhi Shaitan ne yeh harkat ki, magar us ki ungli us hijab par lagi jo Rab ne un dono aur us ke darmiyan paida kar diya tha. Is hadith ki taeed Quran Pak ki is ayat se hoti hai: "قَالَتْ اِنِّیۡۤ اُعِیۡذُهابِکَ وَذُرِّیَّتَہَا مِنَ الشَّیۡطٰنِ الرَّجِیۡمِ".
+
+## Hadith 70
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=70`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْہُ قَالَ قَالَ رَسُولُ الله صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «صِيَاحُ الْمَوْلُودِ حِينَ يَقَعُ نَزْغَةٌ من الشَّيْطَانِ»
+
+**Lafzi tarjuma:** Riwayat hai unhi se. Farmate hain ke Nabi ﷺ ne farmaya: Bachche ki zameen par girte waqt cheekh Shaitan ki chook ki wajah se hoti hai. **1**
+
+**Poori wazahat:**
+
+**1.** Shaitan bachche ke pehlu mein ungli maarta hai aur us ki takleef se bachcha rota hai. Isi liye sunnat hai ke bachcha paida hote hi use ghusl dekar daahine kaan mein azaan aur baayein mein takbeer kahi jaaye, taake Shaitan door ho, kyunki azaan ki awaaz se Shaitan bhaagta hai. Baaz bad-aqeedah log in ahadith ka inkar karte hain. Un ki naaqis aqal mein yeh baat nahi aati; shayad woh bachche ke kaan mein azaan ka bhi inkar karte honge. Ta'ajjub hai ke garam aur thandi hawa bachche par asar kar sakti hai aur bachcha us ki takleef se ro sakta hai, magar Shaitan jo hawa se bhi zyada lateef hai us ka asar un ki samajh mein nahi aata. Yeh jhoote hain, un ki aqlein khoti hain aur Rasool Allah ﷺ sachche hain. Yaad rahe ke Shaitan ki yeh harkatein bachche par abhi se qabza jamaane ke liye hain, us ke apne khayal mein; warna behkaana hosh sambhalne ke baad shuru hota hai.
+
+## Hadith 71
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=71`; `source_id=153`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ جَابِرٍ قَالَ قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   إِنَّ إِبْلِيسَ يَضَعُ عَرْشَهُ عَلَى الْمَاءِ ثُمَّ يَبْعَث سَرَايَاهٗ یَفْتِنُوْنَ النَّاسَ فَأَدْنَاهُمْ مِنْهُ مَنْزِلَةً أَعْظَمُهُمْ فِتْنَةً يَجِيءُ أَحَدُهُمْ فَيَقُولُ فَعَلَتُ كَذَا وَكَذَا فَيَقُولُ مَا صَنَعْتَ شَيْئًا قَالَ ثُمَّ يَجِيءُ أَحَدُهُمْ فَيَقُولُ مَا تَرَكْتُهُ حَتّٰى فَرَّقَتُ بَيْنَهُ وَبَيْنَ امْرَأَتِهٖ قَالَ فَيُدْنِيْهِ مِنْهُ وَيَقُولُ نِعْمَ أَنْتَ قَالَ الْأَعْمَشُ أَرَاهُ قَالَ «فَيَلْتَزِمْهُ» . رَوَاهُ مُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Jabir se. Farmate hain ke Nabi ﷺ ne farmaya: Iblis pani par apna takht bichhata hai. **1** Phir apne alag alag lashkar logon ko fitne mein mubtala karne ke liye bhejta hai. **2** Un mein Iblis ke sab se zyada qareeb darje wala woh hota hai jo sab se bada fitna paida kare. **3** Un mein se ek aakar kehta hai: Main ne yeh aur yeh fitna phailaya. Iblis kehta hai: Tum ne kuch nahi kiya. Phir doosra aakar kehta hai: Main us shakhs ko us waqt tak nahi chhora jab tak us ke aur us ki biwi ke darmiyan judaai nahi kara di. **4** Iblis use apne paas karta hai aur kehta hai: Tum bahut achhe ho. A'mash farmate hain: Mujhe lagta hai ke aap ﷺ ne yeh bhi farmaya ke Iblis use gale se laga leta hai. **5** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Har roz subah samandar par apna kaam shuru karte waqt Iblis apna takht rakhta hai, lekin us ka takht samandar mein doobta nahi, kyunki Iblis bhi aag se bana hai aur us ka takht bhi aag se bana hai. Aaj kashtiyan aur jahaz doobne se mehfooz hain.
+
+**2.** Saraya, sariya ki jama hai. Is ka ma'ni chhoti fauj hai, jis mein paanch se chaar sau tak afrad ho sakte hain. Yeh Shaitan ki aulaad ki mukhtalif jamaatein hain; un ke naam aur kaam alag alag hain. Wuzu mein behkane wali jamaat ka naam وَلْهَان hai aur namaz mein waswasa daalne wali jamaat ka naam خِنْزَب hai. Isi tarah masjidon, bazaron aur sharab-khanon ke liye bhi us ki alag alag foujein hain.
+
+**3.** Yani Iblis apni aulaad mein se us shakhs ko khaas qurb deta hai jo logon mein badi gumrahi ya fitna phaila kar aata hai.
+
+**4.** Is tarah ke talaq karwa de. Talaq agarche jaiz hai, lekin aksar bahut se fasadon ki jad ban jaati hai. Isi liye Iblis is par khush hota hai. Isi liye Nabi Kareem ﷺ ne farmaya: "اَبْغضُ الحلالِ الطلاقُ". Jahan tak mumkin ho, is se bachna behtar hai. Ya ma'ni yeh hai ke main ne shohar aur biwi mein aisi judaai kara di ke shohar ne biwi ko latka kar rakh diya: na chhoda aur na basaya. Yeh sakht jurm hai. Rab Ta'ala ne farmaya: "فَتَذَرُوھاا کَالْمُعَلَّقَۃِ". Is surat mein hadith bilkul wazeh hai.
+
+**5.** Is hadith se do masle maloom hue. Pehla yeh ke jo shakhs na-haq shohar aur biwi mein judaai ki koshish kare, woh Iblis ki tarah mujrim hai. Un logon ko is se ibrat leni chahiye jo shohar aur biwi mein judaai ke liye taweez aur amaliyat karte hain. Doosra yeh ke Huzoor ﷺ ki nigah se Iblis waghera koi cheez chhupi nahi. Zahir yahi hai ke Huzoor ﷺ mushahida aur mulaahiza farma kar yeh sab bayan kar rahe hain.
+
+## Hadith 72
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=72`; `source_id=154`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْہُ قَالَ قَالَ رَسُوْلُ اللّٰهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يَقُولُ: «إِنَّ الشَّيْطَانَ قَدْ أَيِسَ مِنْ أَنْ يَعْبُدَهُ الْمُصَلُّونَ فِيْ جَزِيرَةِ الْعَرَبِ وَلَكِنَّ فِي التَّحْرِيْشِ بَيْنَهُمْ» . رَوَاهُ مُسْلِمٌ
+
+**Lafzi tarjuma:** Inhi se riwayat hai. Farmate hain ke Nabi ﷺ ne farmaya: Shaitan is baat se mayoos ho chuka hai ke Arab ke namazi use poojen. **1** Lekin woh unhein aapas mein bhadkane mein mashghool hai. **2** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Yani Arab ke aam Musalman shirk wale aamaal nahi karenge, ya aam taur par murtad nahi honge. Kabhi ek aad aadmi ke murtad ho jaane se yeh baat is ke khilaf nahi hoti. Arab ko Jazeera is liye kaha gaya hai ke use Bahr-e-Faris, Bahr-e-Room, Dajlah aur Furaat ne ghera hua hai. Arab ki lambai Aden se Shaam tak aur chaudai Jeddah se Reef-e-Iraq tak hai. Is hadith se maloom hua ke Huzoor ﷺ par salat-o-salam, Milad Sharif, urs, fatiha, khatam aur Huzoor ﷺ se madad maangna shirk nahi, kyunki yeh sab aam Arab Musalmanon ka hamesha se tareeqa raha hai. Agar in mein se koi cheez shirk hoti to Arab Sharif ke Musalmanon mein kabhi raaij na hoti. Yeh bhi maloom hua ke ajam kabhi Arab ki tarah muqaddas nahi ho sakta. Doosri jagah ke Musalman aam taur par murtad ho sakte hain, lekin Arab ke Musalman nahi ho sakte. Musailimah Kazzab ne Arab ke bahut se Musalmanon ko murtad kar diya tha, lekin yeh irtidad, بِفَضْلِہٖ تَعَالٰی, baqi na raha. Yeh aarzi cheez thi jo khatam ho gayi, is ka aitbaar nahi.
+
+**2.** Yani Shaitan Arab ke logon ko aapas mein ladata aur bhadkata rahega. Chunanche aakhir-e-zamana-e-Usmani se jo ikhtilaf shuru hua, woh aaj tak khatam nahi hua. Agarche Arab ke ittehad ke naare lagaye ja rahe hain, lekin un ki haqeeqat maujood nahi.
+
+## Hadith 73
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=73`; `source_id=183`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   جَاءَهٗ رَجُلٌ فَقَالَ: إِنِّي أُحَدِّثُ نَفْسِيْ بِالشَّيْءِ لَأَنْ أَكُونَ حُمَمَةً أَحَبُّ إِلَيَّ مِنْ أَنْ أَتَكَلَّمَ بِهٖ. قَالَ: «الْحَمْدُ لِلّٰهِ  الَّذِي رَدَّ أَمْرَهٗ إِلَى الْوَسْوَسَةِ» . رَوَاهُ أَبُو دَاوُدَ
+
+**Lafzi tarjuma:** Riwayat hai Ibn Abbas se ke Huzoor Nabi ﷺ ki khidmat mein ek shakhs aaya aur bola: Main apne dil mein aise khayalat mehsoos karta hoon ke unhein zaban se kehne ke bajaye jal kar koyla ho jana mujhe zyada pasand hai. **1** Farmaya: Allah ka shukr hai jis ne in khayalon ko waswasa bana diya. **2** (Abu Dawud)
+
+**Poori wazahat:**
+
+**1.** Yani Islami aqeedon, Allah Ta'ala ki zaat-o-sifaat ya Huzoor ﷺ ki tareefon ke baare mein aise bure khayal aate hain ke unhein qabool karna to door, un ka bolna bhi itna bura lagta hai ke jal kar koyla ho jana manzoor hai, magar unhein zaban par lana manzoor nahi. Subhan Allah! Yeh woh khauf-e-Khuda hai jo Sahaba ko Huzoor ﷺ ki sohbat ki barkat se mila. Yeh khauf iman ki daleel hai.
+
+**2.** Yani Rab Ta'ala ne in khayalon ko waswason mein shamil kar diya jin par pakad nahi hoti. Allah Kareem apne bande ki majboori aur ma'zuri jaanta tha.
+
+## Hadith 74
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=74`; `source_id=184`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  إِنَّ لِلشَّيْطَانِ لَمَّةٌ بِاِبْنِ آدَمَ وَلِلْمَلَكِ لَمَّةً فَأَمَّا لَمَّةُ الشَّيْطَانِ فَإِيعَادٌ بِالشَّرِّ وَتَكْذِيبٌ بِالْحَقِّ وَأَمَّا لَمَّةُ الْمَلَكِ فَإِيعَادٌ بِالْخَيْرِ وَتَصْدِيقٌ بِالْحَقِّ فَمَنْ وَجَدَ ذَلِكَ فَلْيَعْلَمْ أَنَّهُ مِنَ اللهِ فَلْيَحْمَدِ اللهَ وَمَنْ وَجَدَ الْأُخْرٰى فَلْيَتَعَوَّذْ  بِاللّٰهِ  مِنَ الشَّيْطَانِ الرَّجِيمِ ثُمَّ قَرَأَ (الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُمُ بِالْفَحْشَاءِ) رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيْثٌ غَرِيْبٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ibn Masud se. Farmate hain ke Nabi ﷺ ne farmaya: Insaan mein Shaitan ka bhi asar hota hai aur farishte ka bhi. **1** Shaitan ka asar burai se daraana aur haq ko jhutlana hai. **2** Lekin farishte ka asar bhalai ka wada karna aur haq ki tasdeeq karna hai. **3** Jo shakhs yeh aakhri asar mehsoos kare, woh jaane ke yeh Rab ki taraf se hai aur Allah ka shukr kare. **4** Aur jo doosra asar mehsoos kare, woh Allah ki panah maange mardood Shaitan se. **5** Phir Huzoor ﷺ ne yeh ayat padhi: "Shaitan tumhein faqr se daraata hai aur be-hayai ka hukm deta hai." (Tirmidhi ne riwayat ki aur kaha: Yeh hadith gharib hai.)
+
+**Poori wazahat:**
+
+**1.** Yahan Shaitan se ya to Iblis murad hai, ya insaan ka qareen, jo har waqt us ke saath rehta hai aur jis ka zikr pehle guzar chuka hai. Doosra ehtimal zyada qawi hai. Is ka asar lagbhag sabhi insaanon par hota hai, kisi par kam aur kisi par zyada.
+
+**2.** Shaitan buri cheezon ko khoobiyan aur nekiyon ko museebat bana kar dikhata hai. Khairat ka irada karne par faqr se daraata hai aur na-jaiz kharch ke mauqe par naamwari ka lalach deta hai. Aksar Musalman Hajj aur khairat se ghabrate hain, lekin shadi-biyah ki haram rasmon par dil khol kar kharch karte hain. Yeh Shaitan ka asar hai. Rab Ta'ala farmata hai: "اَلشَّیۡطٰنُ یَعِدُکُمُ الْفَقْرَ وَیَاۡمُرُکُمۡ بِالْفَحْشَآءِ". Is ka yahi ma'ni hai.
+
+**3.** Agar sadqa aur khairat se nafs ghabraye aur Shaitan faqr se daraaye to farishta dil mein kehta hai: Mat daro, sadqe se maal badhta hai, kam nahi hota. Phir foran yeh ayat saamne aati hai: "یَمْحَقُ اللّٰهُ الرِّبٰوا وَیُرْبِی الصَّدَقٰتِ". Yeh farishte ka kaam hai. Jo shakhs jis awaaz par kaan dharta rahega, wohi awaaz mazboot hoti rahegi aur doosri awaaz kamzor. Baaz Awliya se Shaitan mayoos ho kar unhein behkana hi chhor deta hai.
+
+**4.** Neki ka irada aur achhe khayal bhi Allah ki nemat hain. Shukr se nemat badhti hai. Neki ke irade ko jaldi poora kar lena chahiye, kyunki pata nahi dobara mauqa mile ya na mile.
+
+**5.** اَعُوذُ اور لَا حَوْل پڑھنے سے Shaitan bhaagta hai. Sufiya-e-Kiram farmate hain ke jo shakhs subah-shaam ikkis martaba La Hawl Sharif pani par dam karke piya kare, woh, ان شاء اللّٰہ, Shaitani waswason se bahut had tak mehfooz rahega.
+
+## Hadith 75
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=75`; `source_id=185`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `دوسری فصل`.
+
+**Arabic hadith:**
+
+وعَنْ أَبِيْ هُرَيْرَةَ عَنْ رَسُولِ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   قال:  لَا يَزَالُ النَّاسُ يَتَسَاءَلُونَ حَتّٰى يُقَالَ: هَذَا خَلَقَ اللّٰهُ  الْخَلْقَ فَمَنْ خَلَقَ اللهَ فَإِذَا قَالُوْا ذٰلِكَ فَقُوْلُوْا اَللهُ أَحَدٌ اَللهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهٗ كُفُوًا أَحَدٌ ثُمَّ لِيَتْفَلْ عَنْ يَسَارِهٖ ثَلٰثًاوَلْيَسْتَعِذْبِاللّٰهِ  مِنَ الشَّيْطَانِ الرَّجِیْمِ رَوَاهُ أَبُو دَاوُدَ  سَنَذْکُرُ حَدِیْثَ عَمْرِو ابْنِ الْأَحْوَصِ فِيْ بَابِ خُطْبَةِ يَوْمِ النَّحْرِ إِنْ شَاءَاللهُ تَعَالىٰ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah رضی اللہ عنہ se. Woh Nabi ﷺ se riwayat karte hain ke Huzoor ﷺ ne farmaya: Log ek doosre se poochte rahenge, yahan tak ke kaha jayega: Allah ne makhlooq ko paida kiya, to Allah ko kis ne paida kiya? **1** Jab woh yeh kahen to tum kaho: Allah ek hai, be-niyaz hai, na us ne kisi ko jana aur na woh jana gaya, aur na koi us ka barabar wala hai. **2** Phir apni baayin taraf teen martaba thutkaro aur mardood Shaitan se Allah ki panah maango. **3** Abu Dawud ne riwayat ki. Hum عمرو ابن الاحوص ki hadith, ان شاء الله تعالى, Baab-e-Khutba-e-Yawm-un-Nahr mein bayan karenge.
+
+**Poori wazahat:**
+
+**1.** Yeh Shaitani waswasa hai ke har maujood ka koi paida karne wala hona chahiye, Allah bhi maujood hai, is liye Allah ka bhi koi paida karne wala hona chahiye. Shaitan ilm walon ke dil mein ilmi waswase, Sufiyon ke dil mein aashiqana waswase aur aam logon ke dil mein aamiyana waswase daalta hai. "Jaisa shikar, waisa jaal." Bahut baar insaan gunah ko ibadat samajh leta hai.
+
+**2.** Subhan Allah! Kitne nafees mantiqi dalail hain. Aulaad ke liye teen shartein hoti hain. Pehli yeh ke aulaad rakhne wale mein do-pana ho sake, kyunki aulaad baap ke saath jins mein ek aur shakhsiyat mein doosri hoti hai. Rab Ta'ala jins aur shakhsiyat waghera se paak hai; اَحَدٌ mein isi taraf ishara hai. Doosri yeh ke aulaad rakhne wala aulaad ka mohtaj hota hai aur apni wirasat ya bazu ki taqat ke liye aulaad chahta hai. Parwardigar be-niyaz hai; isi liye use الصَّمَدُ kaha gaya. Teesri yeh ke har mumkin maujood apne paida karne wale ka mohtaj hota hai, jabke Parwardigar Wajib-ul-Wujood hai. Aur beta baap ki misaal hota hai, jabke Rab ki koi misaal nahi. "لَمْ يَلِدْ وَلَمْ يُولَدْ" mein isi taraf ishara hai.
+
+**3.** Yeh thook Shaitan ke munh par padega aur woh zaleel ho kar bhaagega, kyunki Shaitan aksar baayin taraf se aata hai. Is se maloom hua ke kabhi thook se bhi Shaitan bhaagta hai. Baaz Sufiya dam karke thutkar bhi dete hain; un ki daleel yahi hadith hai.
+
+## Hadith 76
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=76`; `source_id=186`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+عَنْ أَنَسٍ قَالَ قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «لَنْ يَبْرَحَ النَّاسُ يَتَسَاءَلُونَ حَتّٰى يَقُولُوْا هَذَا اللهُ خَلَقَ كُلَّ شَيْءٍ فَمَنْ خَلَقَ اللهَ عَزَّوَجَلَّ » .رَوَاهُ الْبُخَارِيُّ. وَ لِمُسْلِمٍ:  قَالَ: قَالَ اللّٰهُ  عَزَّ وَجَلَّ: إِنَّ أُمَّتَكَ لَا يَزَالُوْنَ يَقُولُونَ: مَا كَذَامَا كَذَاحَتّٰى يَقُولُوْا: هَذَا اللّٰهُ  خَلَقَ الْخَلْقَ فَمَنْ خَلَقَ اللهَ عَزَّ وَجَلَّ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Anas se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Log poochte hi rahenge, yahan tak ke keh baithenge: Allah ne har cheez paida ki, to Allah ko kis ne paida kiya? Yeh Bukhari ki riwayat hai. Muslim ki riwayat mein hai ke Allah عزوجل farmata hai: Yaqeenan tumhari ummat **1** kehti rahegi: Yeh kya hai, yeh kya hai. **2** Yahan tak ke woh keh degi: Allah ne makhlooq paida ki, to Allah عزوجل ko kis ne paida kiya?
+
+**Poori wazahat:**
+
+**1.** Yani ummat-e-da'wat, jis mein dahriye aur kafir shamil hain, na ke ummat-e-ijabat, yani Momin. Ya "kehna" se dil ka waswasa murad hai, is surat mein ummat-e-ijabat bhi shamil hogi.
+
+**2.** Yani har hukm ki wajah aur har cheez ki haqeeqat poochte rahenge. "قیل قال" zyada tar be-maqsad guftagu ke liye kaha jata hai. Yaad rahe, hamare paas "kyun" hai; un ke paas kya tha?
+
+## Hadith 77
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=77`; `source_id=187`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+عَنْ عُثْمَانَ ابْنِ أَبِيْ الْعَاصِ قَالَ قُلْتُ: «يَا رَسُوْلَ اللهِ إِنَّ الشَّيْطَانَ قَدْ حَالَ بَيْنِيْ وَبَيْنَ صَلَاتِيْ وَ بَيْنَ قِرَاءَتِيْ يُلَبِّسُهَا عَلَيَّ فَقَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   ذٰلِكَ شَيْطَانٌ يُقَالُ لَهُ خِنْزَبٌ فَإِذَا أَحْسَسْتَهٗ فَتَعَوَّذْ  بِاللّٰهِ  مِنْهُ وَاتْفُلْ عَلٰى يَسَارِكَ ثَلٰثًا قَالَ فَفَعَلْتُ ذٰلِكَ فَأَذْهَبَهُ اللّٰهُ  عَنِّيْ» .رَوَاه ُمَسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Usman ibn Abi al-Aas se. **1** Farmate hain: Main ne arz ki: Ya Rasool Allah! Shaitan mere aur meri namaz aur tilawat ke darmiyan haail ho gaya hai aur namaz ko mere liye mushkil bana diya hai. **2** Huzoor ﷺ ne farmaya: Is Shaitan ka naam Khanzab hai. **3** Jab tum ise mehsoos karo to is se Allah ki panah maango aur apni baayin taraf teen martaba thutkaro. **4** Farmate hain: Main ne aisa hi kiya to Allah ne use mujh se door kar diya. **5** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Aap qabila Bani Saqif se the. Aap ki walidah Huzoor ﷺ ki paidaish ke waqt Aaminah Khanum ke paas maujood thin. Huzoor ﷺ ne aap ko Taif ka hakim banaya. Aap Khilafat-e-Faruqi tak wahin ke hakim rahe. Phir Hazrat Farooq-e-Azam ne apni khilafat ke teesre saal Taif ki hukoomat aap se le kar aap ko Oman aur Bahrain ka hakim bana diya. 10 Hijri mein jab Bani Saqif ka wafd Huzoor ﷺ ki khidmat mein iman lane ke liye aaya to aap bhi us mein the. Us waqt aap ki umr 29 saal thi. Aakhri umr mein Basra aap ka qayam ka maqam raha. 51 Hijri mein wahin aap ka inteqal hua aur aap ki umr 70 saal thi. Huzoor ﷺ ke wisaal ke baad jab Bani Saqif murtad hone lage to aap ne farmaya: "Ae qaum! Tum aakhri Momin the, ab pehle murtad kyun bante ho?"
+
+**2.** Is tarah ke mujhe padhi hui rakatein yaad na rahin aur yeh bhi yaad na raha ke pehli rakat mein kya padha tha. Is se maloom hua ke namaz mein waswase buzurgon ko bhi ho sakte hain.
+
+**3.** خِنْزَب mein خ ke zer ya zabar aur ز ke zabar ke saath, is ka ma'ni sada hua gosht ya hamesha rehne wala jurm hai. (Qamus) Yeh Shaitan ki us aulaad ka naam hai jo namaziyon par namaz mushkil aur mashkook banati hai.
+
+**4.** Namaz shuru karte waqt, Takbir-e-Tahrimah se pehle, tajurba hai ke agar is tarah thutkar La Hawl Sharif padh kar Takbir kahi jaye aur namaz ke dauran nigah ki hifazat rakhi jaye, to ان شاء اللّٰہ namaz mein huzoor naseeb hota hai. Qiyam mein sajdagah, ruku mein paon ki pusht, sajde mein naak ki nok, jalse aur qa'de mein apni god par nazar rakhe.
+
+**5.** Yani yeh hadith meri apni aazmaayi hui bhi hai. Muhaddiseen ke nazdeek tajurbe ki taeed se hadith mazboot hoti hai. Hamari kitab "جاء الحق" hissa do dekhiye.
+
+## Hadith 78
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=78`; `source_id=188`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: وسوسہ  (برے خیالات )`; sub-chapter `تیسری فصل`.
+
+**Arabic hadith:**
+
+وَعَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ أَنَّ رَجُلًا سَأَلَهُ فَقَالَ: «إِنِّي أَهَمُ فِيْ صَلَاتِيْ فَيَكْثُرُ ذٰلِكَ عَلَيَّ فَقَالَ لَہٗ  اِمْضِ فِيْ صَلَاتِكَ فَإِنَّهٗ لَنْ يَذْهَبَ ذٰلِکَ عَنْكَ حَتّٰى تَنْصَرِفَ وَأَنْتَ تَقُوْلُ مَا أَتْمَمْتُ صَلَاتِيْ» .رَوَاه ُمَالِكٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Qasim ibn Muhammad se. **1** Un se kisi shakhs ne poocha: Main apni namaz mein wahm karta hoon aur yeh mujh par bahut hota rehta hai. Aap ne farmaya: Apni namaz poori karte raho, kyunki yeh wahm tum se us waqt tak nahi jayega jab tak tum namaz khatam karke yeh na kaho ke meri namaz poori nahi hui. **2** (Maalik)
+
+**Poori wazahat:**
+
+**1.** Aap Hazrat Abu Bakr Siddiq ke pote, jaleel-ul-qadr Tabi'i aur Madinah Munawwarah ke saat qariyon mein se ek the. Hazrat Aishah Siddiqah رضی اللہ عنہا aap ki phuphi thin. Zain-ul-Abideen aap ke khalazad bhai, Imam Muhammad Baqir aap ke damad aur Imam Jafar Sadiq aap ke nawase the. Aap bachpan mein yateem ho gaye the, is liye Hazrat Aishah Siddiqah ne aap ki parwarish ki. Aap ne Hazrat Aishah Siddiqah aur Amir Muawiyah se riwayat ki, aur aap se bahut se logon ne riwayat ki. Aap ne 80 saal ki umr paayi aur 32 Hijri mein inteqal hua. (Ashiat-ul-Lamaat aur Mirqat)
+
+**2.** Subhan Allah! Kaisi ajeeb taleem hai. In khatron ki wajah se na har namaz chhoro aur na namaz dobara padho; yeh khayal aate hi rahenge. Jab nafs aur Shaitan apni harkaton se baaz nahi aate to tum namaz kyun chhor dete ho? Makhiyon ki wajah se khana nahi chhoda jata. Tum Allah ke bande ho, dil ke bande nahi. Dil lage ya na lage, namaz padhte raho. Is hadith se maloom hua ke namaz poori na hone ka wahm kaafi nahi; in khayalon ka lihaz na karo aur namaz padhte raho.
+
+## Hadith 79
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=79`; `source_id=202`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+عَنْ عَبْدِ اللهِ ابْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «كَتَبَ اللّٰهُ  مَقَادِيْرَ الْخَلَائِقِ قَبْلَ أَنْ يَخْلُقَ السَّمٰوٰتِ وَ الْأَرْضَ بِخَمْسِيْنَ أَلْفَ سَنَةٍ» قَالَ: «وَكَانَ عَرْشُهُ عَلَى الْمَاءِ» .رَوَاهُ مُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Abdullah ibn Amr se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Allah ne aasman-o-zameen paida karne se pachaas hazar saal pehle makhlooq ki taqdeerein likh di thin. **1** Farmaya: Us waqt Allah ka Arsh pani par tha. **2** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Yani Allah ke hukm se Qalam ne Lauh-e-Mahfooz par aalam ke waqiat azl se abad tak, zarre zarre aur qatre qatre likh diye. Yeh likhai is liye nahi thi ke Rab ko bhool jaane ka khatra tha, balki is ka maqsad farishton aur apne kuch mehboob bandon ko is par muttala karna tha. (Mirqat) Is se maloom hua ke Allah Ta'ala ke kuch bande aalam ke tamam waqiat se ba-khabar hote hain, warna yeh likhai bekaar hoti. Quran Kareem ne Lauh-e-Mahfooz ko Kitaab-e-Mubeen kaha hai, yani zahir karne wali kitab. Agar Lauh-e-Mahfooz sab ki nigahon se chhupi hoti to use Mubeen na kaha jata.
+
+**2.** Is se maloom hota hai ke pani aasman, zameen aur doosri cheezon se pehle paida hua. Arsh ke pani par hone ka ma'ni yeh hai ke in dono ke darmiyan koi aad nahi thi, yeh ma'ni nahi ke Arsh pani par rakha hua tha. Warna Arsh tamam jism se bahut bada hai. (Ashiah)
+
+## Hadith 80
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=80`; `source_id=205`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «كُلُّ شَيْءٍ بِقَدَرٍ حَتَّى الْعَجْزِ وَالْكَيْسِ» .رَوَاهُمُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ibn Umar se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Har cheez taqdeer ke mutabiq hai, hatta ke bebasi aur aqalmandi bhi. **1** (Muslim)
+
+**Poori wazahat:**
+
+**1.** Is hadith ki tafsir yeh ayat hai: "کُلَّ شَیۡءٍ خَلَقْنٰہُ بِقَدَرٍ". Yani insaan ki qudrat aur bebasi, ilm aur jahalat, sab pehle se muqarrar ho chuke hain.
+
+## Hadith 81
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=81`; `source_id=208`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وعَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ الله صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «اِحْتَجَّ اٰدَمُ وَمُوْسٰى عِنْدَ رَبِّهِمَا فَحَجَّ آدَمُ مُوْسٰى قَالَ مُوْسٰى أَنْتَ اٰدَمُ الَّذِيْ خَلَقَكَ اللّٰهُ  بِيَدِهٖ وَنَفَخَ فِيْكَ مِنْ رُوْحِهٖ وَأَسْجَدَ لَكَ مَلَائِكَتَهٗ وَأَسْكَنَكَ فِيْ جَنَّتِهٖ ثُمَّ أَهَبَطْتَ النَّاسَ بِخَطِيْئَتِكَ إِلیٰ الأَرْضِ قَالَ اٰدَمُ أَنْتَ مُوسَى الَّذِيْ اصْطَفَاكَ اللّٰهُ بِرِسَالَتِهٖ وَبِكَلَامِهٖ وَأَعْطَاكَ الْأَلْوَاحَ فِيْهَا تِبْيَانُ كُلِّ شَيْءٍ وَقَرَّبَكَ نَجِيًّا فَبِكَمْ وَجَدَتَ اللهَ كَتَبَ التَّوْرَاةَ قَبْلَ أَنْ أُخْلَقَ قَالَ مُوسٰى بِأَرْبَعِيْنَ عَامًا قَالَ اٰدَمُ فَهَلْ وَجَدْتَ فِيْهَا (وَعَصٰٓى اٰدَمُ رَبَّهٗ فَغَوٰى)
+قَالَ نَعَمْ قَالَ أَفَتَلُوْمُنِيْ عَلٰى أَنْ عَمِلْتُ عَمَلًا كَتَبَهُ اللّٰهُ  عَلَيَّ أَنْ أَعْمَلَهُ قَبْلَ أَنْ يَخْلُقَنِيْ بِأَرْبَعِينَ سَنَةٍ قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   فَحَجَّ اٰدَمُ مُوسٰى» .رَوَاهُمُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Hazrat Adam aur Hazrat Musa apne Rab ke huzoor guftagu mein aaye, to Hazrat Adam Hazrat Musa par ghalib rahe. Hazrat Musa ne kaha: Aap woh Adam hain jinhein Allah ne apne dast-e-qudrat se paida kiya, aap mein apni rooh phoonki, apne farishton se aap ko sajdah karaya aur aap ko Jannat mein rakha. **1** Phir aap ki لغزش ki wajah se logon ko zameen par utaar diya gaya. **2** Hazrat Adam ne farmaya: Aap hi woh Musa hain jinhein Allah ne apni risalat aur kalaam ke liye chuna, aap ko woh takhtiyan di jin mein har cheez ka khula bayan hai aur aap ko khaas ham-kalami se qareeb kiya. Bataiye, aap ne meri paidaish se kitne pehle dekha ke Rab ne Taurat likhi? **3** Hazrat Musa ne kaha: Chalees saal pehle. **4** Hazrat Adam ne farmaya: Kya aap ne us mein yeh bhi dekha ke Adam ne apne Rab ki ita'at se لغزش ki aur kamyab na hue? **5** Unhon ne kaha: Haan. Farmaya: Kya aap mujhe us kaam par malamat karte hain jo meri paidaish se chalees saal pehle hi mere liye likh diya gaya tha? **6** Rasool Allah ﷺ ne farmaya: Hazrat Adam Hazrat Musa par ghalib rahe. (Muslim)
+
+**Poori wazahat:**
+
+**1.** Yeh mulaqat ya to aalam-e-arwah mein hui, ya Hazrat Musa ke zamane mein Hazrat Adam ko zinda karke hui, ya dono ki mulaqat aalam-e-quds mein hui. Mirqat mein hai ke Ambiya apni qabron mein zinda hote hain aur namaz padhte hain. Huzoor ﷺ ne Meraj mein tamam Ambiya se mulaqat ki aur unhein namaz padhai. Is se maloom hua ke Huzoor ﷺ ki nigah aalam-e-arwah par bhi hai aur aap wahan ke halaat dekh kar bayan farmate hain.
+
+**2.** Yani aap ka mubarak jism farishte aur maa-baap ke zariye ke baghair dast-e-qudrat se banaya gaya aur aap mein tamam kamalat zahir kiye gaye. Rooh jo Allah ne paida ki, use aap ke jism mein jaari farmaya gaya. Yahan rooh ki nisbat izzat ke liye hai; Allah Ta'ala rooh se paak hai. Awliya Allah ka jhaad-phoonk karna aisi hi ahadith aur ayaton se liya gaya hai.
+
+**3.** Tamam farishton ne, chahe muqarrab farishte hon ya tadbeer-e-amr par muqarrar, zameen ke hon ya aasman ke, ta'zeemi sajdah kiya. Yeh sajdah ibadat ka nahi tha; ibadat Allah ke liye aur Adam علیہ السلام qibla the. Isi liye Iblis ne inkar kiya, warna woh ibadat se inkar na karta. Rab Ta'ala farmata hai: "فَقَعُوۡا لَہٗ سٰجِدِیۡنَ".
+
+**4.** Yani kuch arse ke liye tarbiyat ke taur par zameen par tashreef laana hua, warna aap ki paidaish zameen ki khilafat ke liye thi. Is ki tafseel hamari Tafsir-e-Naeemi mein dekhiye.
+
+**5.** Yani bhool aur khata-e-ijtihadi ki wajah se gandum kha li, jis ke sabab aap zameen par tashreef laaye. Aap Jannat mein rehte to hum sab wahin paida hote.
+
+**6.** Hazrat Musa علیہ السلام ki guftagu gustakhi ke taur par nahi thi; Ambiya apne jad-e-amjad ki gustakhi se masoom hain. Aap ki nazar zahiri sabab par thi aur Hazrat Adam علیہ السلام ka jawab haqeeqat par mabni tha. Aaj gunahgaar log apne gunahon se bari hone ke liye taqdeer ko bahana nahi bana sakte. Hazrat Adam ka ma'ni yeh tha ke meri yeh khata aur Jannat se zameen par aana Allah ke irade aur maslihat se tha, jis mein bahut se asraar the.
+
+## Hadith 82
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=82`; `source_id=210`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ اِبْنِ مَسْعُوْدٍ قَالَ: حَدَّثَنَا رَسُوْلُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   وَهُوَ الصَّادِقُ الْمَصْدُوْقُ: «إِنَّ خَلْقَ أَحَدِكُمْ يُجْمَعُ فِيْ بَطْنِ أُمِّهٖ أَرْبَعِيْنَ يَوْمًا نُطْفَۃً  ثُمَّ يَكُوْنُ عَلَقَةً مِثْلَ ذٰلِكَ ثُمَّ يَكُوْنُ مُضْغَةً مِثْلَ ذٰلِكَ ثُمَّ یَبْعَثَ اللّٰهُ اِلَیْہِ مَلَكاً بِأَرْبَعِ كَلِمَاتٍ فَیَكْتُبُ عَمَلَہٗ وَأَجَلَهٗ وَ رِزْقَهٗ وَشَقِيٌ أَوْ سَعِيْدٌ ثُمَّ یَنْفَخُ فِیْہِ الرُّوْحَ فَوَ الَّذِیْ لَااِلٰہَ غَیْرَہٗ إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتّٰى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتّٰى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ بِعَمَلِ  الْجَنَّةِ فَيَدْخُلُهَا»  (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ibn Masud se. Farmate hain ke sachche aur musaddaq Nabi ﷺ ne khabar di: Tum mein se har ek ka madah-e-paidaish maa ke pait mein chalees din nutfah rehta hai, phir itne hi din alaqah aur phir itne hi din gosht ka lothra rehta hai. **1** Phir Allah ek farishta bhejta hai jo us ke amal, maut, rizq aur badbakht ya nekbakht hone ko likhta hai. **2** Phir us mein rooh phoonki jaati hai. Us Zaat ki qasam jis ke siwa koi mabood nahi, tum mein se koi Jannat walon ke kaam karta rehta hai, yahan tak ke us ke aur Jannat ke darmiyan sirf ek haath ka fasla reh jata hai, phir taqdeer ka likha us par sabqat le jata hai aur woh Dozakh walon ke kaam karke us mein dakhil ho jata hai. Aur koi Dozakh walon ke kaam karta rehta hai, yahan tak ke us ke aur Dozakh ke darmiyan sirf ek haath ka fasla reh jata hai, phir taqdeer ka likha us par sabqat le jata hai aur woh Jannat walon ke kaam karke us mein dakhil ho jata hai. **3** (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Sadiq woh hai jis ke tamam aqwal sachche hon aur Musaddaq woh jis ke tamam af'aal sachche hon. Ya Sadiq woh jo hosh sambhal kar sach bole aur Musaddaq woh jo pehle se sachcha ho. Ya Sadiq woh jo waqia ke mutabiq khabar de aur Musaddaq woh jis ki mubarak zaban se nikli hui baat waqia ke mutabiq ho. Huzoor ﷺ mein yeh tamam sifaat jama hain.
+
+**2.** Maa ke rahm mein mani chalees din tak safed rehti hai, phir surkh khoon aur phir chalees din baad jam kar gosht ban jaati hai. Sufiya-e-Kiram farmate hain ke Hazrat Adam علیہ السلام ka khameer chalees saal aur Hazrat Musa علیہ السلام ka Toor par qayam chalees din raha, is liye nutfah har marhale ke baad badalta hai. Paidaish ke baad nifas ki muddat bhi chalees din aur kamal-e-aql chalees saal mein hota hai. Yeh hadith Sufiya ke chillon aur Ahl-e-Sunnat ke mayyit ke chaleeswen ki asal bhi batati hai.
+
+**3.** Taqdeer likhne wala farishta woh hai jo rahmon par muqarrar hai aur tamam aalam ki hamila aurton ki nigrani karta hai. Is se us ke haazir-o-naazir hone ka bhi pata chalta hai.
+
+**4.** Woh farishta likhta hai ke banda kya karega, kab aur kahan inteqal karega, kya khayega aur kya piyega, aur us ka khatma kufr par hoga ya iman par. Yeh woh paanch ghaibi umoor hain jin ke baare mein farmaya gaya: "وَعِنۡدَہٗ مَفَاتِحُ الْغَیۡبِ". Farishta Allah ki taleem se insano ke yeh umoor jaanta hai. Mirqat mein hai ke woh yeh sab ek takhti par likh kar bachche ke gale mein daal deta hai. Rab Ta'ala farmata hai: "وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ". Jab farishte ka itna ilm hai to Huzoor ﷺ, jo اعلم الخلق hain, un ka ilm hamare khayalon se bahut buland hai. Yeh likhai Lauh-e-Mahfooz, Shab-e-Qadr ke sahifon aur bachche ki peshani, gale ki takhti ya haath par hoti hai, lekin yeh alag alag likhaiyan hain.
+
+**5.** Jannat aur Dozakh se ek haath ka fasla sirf maut ke qareeb hone ki misaal ke liye kaha gaya hai.
+
+**6.** Yani woh kafir ban jata hai. Is mein ishara hai ke Rab Ta'ala bad-amali ke baghair kisi ko Dozakh mein nahi bhejta; is liye zahir yahi hai ke kafiron ke bachche Jahannami nahi. وَاللّٰهُ أَعْلَمُ!
+
+**7.** Yani woh iman la kar muttaqi ban kar inteqal karta hai. Is liye badkar Allah se mayoos na ho aur nek aadmi apne taqwa par fakhr na kare. Allah Ta'ala husn-e-khatimah naseeb farmaye. Jannat kabhi amal ke zariye, kabhi ata aur kabhi wahb ke zariye milti hai; yahan amal se milne wali Jannat ka zikr hai. Musalmanon ke bachche to Jannati hain. Rab farmata hai: "اَلْحَقْنَا بِہِمْ ذُرِّیَّتَہُمْ".
+
+## Hadith 83
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=83`; `source_id=212`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ سَهْلِ بْنِ سَعْدٍ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «إِنَّ الْعَبْدَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارِ وَإِنَّهُ مِنْ أَهْلِ الْجَنَّةِ وَيَعْمَلُ عَمَلَ أَهْلِ الْجنَّةِ وَإنَّهُ مِنْ أَهْلِ النَّارِ وَإِنَّمَا الْأَعْمَالُ بِالْخَوَاتِيْمِ»   (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Sahl ibn Sa'd se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Koi banda Dozakh walon ke kaam karta hai, halanke woh Jannat walon mein se hota hai, aur koi Jannat walon ke kaam karta hai, halanke woh Dozakh walon mein se hota hai. Amaal ka aitbaar sirf anjaam par hai. (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aap Sa'idi aur Ansari hain. Aap ka pehla naam Hazn tha, Huzoor ﷺ ne Sahl rakha. Aap ki kuniyat Abul Abbas ya Abu Yahya thi. Aap bhi Sahabi the aur aap ke walid bhi Sahabi the. Huzoor ﷺ ke wisaal ke waqt aap ki umr pandrah saal thi. 91 Hijri mein Madinah Munawwarah mein aap ka inteqal hua. Madinah Tayyibah mein sab se aakhri Sahabi aap hi the; aap ke inteqal se Madinah Sahaba se khaali ho gaya.
+
+**2.** Marne ke waqt jaisa amal hoga, waisa hi anjaam hoga. Is liye bande ko har waqt nek amal karna chahiye, shayad wahi us ka aakhri waqt ho.
+
+## Hadith 84
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=84`; `source_id=214`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وعَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا قَالَتْ: «دُعِيَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   إِلٰى جِنَازَةِ صَبِيٍّ مِنَ  الْأَنْصَارِ فَقُلْتُ يَا رَسُوْلَ اللهِ طُوْبىٰ لِهٰذَا عُصْفُوْرٌ مِنْ عَصَافِيْرِ الْجَنَّةِ لَمْ يَعْمَلِ السُّوْءَ وَلَمْ يُدْرِكْهُ فقَالَ أَوَ غَيْرُ ذٰلِكَ يَا عَائِشَةُ إِنَّ اللهَ خَلَقَ لِلْجَنَّةِ أَهْلًا خَلَقَهُمْ لَهَا وَهُمْ فِي أَصْلَابِ آبَائِهِمْ وَخَلَقَ لِلنَّارِ أَهْلًا خَلَقَهُمْ لَهَا وَهُمْ فِيْ أَصْلَابِ آبَائِهِمْ».رَوَاهُمُسْلِمٌ
+
+**Lafzi tarjuma:** Riwayat hai Umm-ul-Momineen Hazrat Aishah Siddiqah رضی اللہ عنہا se. Farmati hain ke Rasool Allah ﷺ ko ek Ansari bachche ke janaze par bulaya gaya. Main ne arz ki: Ya Rasool Allah! Is ke liye khushkhabri hai, yeh Jannat ki chiryon mein se ek chiriya hai; is ne na bura kaam kiya aur na use buraai ka mauqa mila. Farmaya: Aishah! Is ke siwa bhi kuch ho sakta hai. Allah ne kuch log Jannat ke liye paida kiye aur unhein un ke baapon ki pushton mein hi Jannat ke liye bana diya, aur kuch log Dozakh ke liye paida kiye aur unhein un ke baapon ki pushton mein hi Dozakh ke liye bana diya. (Muslim)
+
+**Poori wazahat:**
+
+**1.** Hazrat Aishah رضی اللہ عنہا Umm-ul-Momineen, Hazrat Abu Bakr Siddiq ki sahibzadi aur Umm-e-Roman ki beti thin. Hijrat se teen saal pehle, nabuwat ke daswein saal Shaban ke mahine mein Huzoor ﷺ ki zaujiat mein aayin. Saat saal ki umr mein rukhsat hui aur nau saal tak Huzoor ﷺ ke saath rahin. Huzoor ﷺ ke wisaal ke waqt aap ki umr atharah saal thi. Huzoor ﷺ ne aap ke siwa kisi kunwari se nikah nahi farmaya. Aap faqihah, fasihah, hadith ki hafizah aur Quran ki behtareen mufassirah thin. Huzoor ﷺ ne aap ke seene par wisaal farmaya aur aap ke hujre mein madfoon hue. Aap par tohmat lagne par aap ki bara'at mein unnis ayatein nazil huin. Aap se 1210 ahadith riwayat hain. Aap 17 Ramadan, 57 Hijri mein 53 saal ki umr pa kar wafat paayin. Hazrat Abu Hurairah ne namaz-e-janazah padhai aur Jannat-ul-Baqi mein dafn huin. Aap ke liye kaha gaya:
+
+ہے سورۂ نور جن کی گواہ   اُن کی پُر نور صورت پہ لاکھوں سلام
+
+**2.** Yani woh Jannat ke baaghon mein jahan chahe shaheedon ki tarah sair karega.
+
+**3.** Yani us ke Jannati hone ka yaqeen nahi kiya ja sakta; mumkin hai woh kisi aur kaam ke liye paida kiya gaya ho. Musalmanon ke bachche apne maa-baap ke saath Jannat mein honge. Kafiron ke bachchon ke baare mein ikhtilaf hai; is ki tafseel hamari Hashiyah-e-Quran mein dekhiye.
+
+**4.** Jo jahan ke liye banaya gaya hai, woh wahin pahunchega, amal kare ya na kare. Is ke bawajood Allah ke fazl se yeh door hai ke baghair gunah kisi ko Jahannam mein bheje. Rab farmata hai: "وَمَا تُجْزَوْنَ اِلَّا مَا کُنۡتُمْ تَعْمَلُوۡنَ". Ibn Hajar farmate hain ke Musalmanon ke bachchon ke Jannati hone par ijma hai aur kafiron ke bachchon ke Jannati hone ko jumhoor ka qoul kaha gaya hai. Yeh hadith mansookh hai.
+
+## Hadith 85
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=85`; `source_id=215`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَ عَنْ عَليٍّرَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  مَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا وَقَدْ كُتِبَ مَقْعَدُهُ مِنَ النَّارِ، وَمَقْعَدُهُ مِنَ الْجَنَّةِ"، قَالُوا: يَا رَسُولَ اللهِ! أَفَلَا نَتَّكِلُ عَلٰی كِتَابِنَا وَنَدَعُ الْعَمَلَ   قَالَ: "اِعْمَلُوْا فَكُلٌّ مُيَسِّرٌ لِمَا خُلِقَ لَهٗ أمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَسَيُيَسَّرُ لِعَمَلِ السَّعَادَةِ، وَأَمَّا مِنْ أَهْلِ الشَّقَاوَةِ فَسَيُيَسَّرُ لِعَمَلِ الشَّقَاوَةِ"، ثُمَّ قَرَأَ: فَأَمَّا مَنْ أَعْطٰى وَاتَّقٰى  وَصَدَّقَ بِالْحُسْنٰى اَلْآيَہْ (مُتَّفَقٌ عَلَيْهِ)
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ali رضی اللہ عنہ se. Farmate hain, Rasool Allah ﷺ ne farmaya: Tum mein se har ek ka Jannat mein aur Dozakh mein thikana likha ja chuka hai. Logon ne arz ki: Ya Rasool Allah! Kya hum apni likhi hui taqdeer par bharosa karke amal chhor dein? Farmaya: Amal karte raho. Har ek ke liye wahi kaam aasaan kiya jayega jis ke liye woh paida kiya gaya hai. Jo khush-naseebon mein se hoga, us ke liye khush-naseebi ke kaam aasaan honge, aur jo bad-naseebon mein se hoga, us ke liye bad-naseebi ke kaam aasaan honge. Phir yeh ayat tilawat farmayi: "To jis ne khairaat di, parhezgari ki aur achchi baat ko sach maana" (Muslim, Bukhari)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam-e-mubarak Ali ibn Abi Talib, kuniyat Abul Hasan aur Abu Turab, aur laqab Haidar-e-Karrar hai. Aap Quraishi, Hashmi aur Mutallibi hain. Aap Islam ke chauthe khalifah aur bachchon mein sab se pehle iman lane wale hain; aap aath ya das saal ki umr mein iman laye. Ghazwa-e-Tabuk ke siwa Huzoor ﷺ ke saath tamam ghazwat mein shareek rahe. Aap ke fazail ginne se bahar hain. Aap hi Janab-e-Mustafa ﷺ ki nasal ki asal, Akhi-ur-Rasool aur Zauj-e-Batool hain. Yani ek haath Chaar Yaar mein aur doosra Panjtan Pak mein hai. Aap Shah-e-Khaibar-shikan hain. Sher hai:
+
+شیر شمشیر زن شاہ خیبر شکن  پرتودستِ قدرت پہ لاکھوں سلام
+
+Aap 18 Zul Hijjah 35 Hijri ko, Juma ke din, yani Hazrat Usman ki shahadat ke bilkul usi din khalifah hue. Chaar saal nau mahine khilafat ki. 63 saal ki umr pa kar 17 Ramadan 40 Hijri, Juma ke din, Kufa ki Jami Masjid mein shahid kiye gaye. Abdur Rahman ibn Muljam Muradi ne ek aurat Qatam ke ishq mein mubtala hokar us ke kehne par aap ko shahid kiya. Shahadat ke teesre din inteqal farmaya. Imam Hasan, Imam Husain aur Abdullah ibn Jafar ne ghusl diya, Imam Hasan ne namaz padhai aur Kufa ke qabristan Najaf mein dafn hue. Aap ki qabr-e-anwar khalq ki ziyarat-gah hai; faqeer ne bhi ziyarat ki hai. Aap ki nau biwiyan thin: (1) Fatimah Zahra, (2) Umm-e-Baneen, (3) Laila bint Masud, (4) Asma bint Umays, (5) Umamah bint Abi al-As, (6) Khaulah bint Jafar, (7) Sahba bint Rabiah, (8) Umm Saeed bint Urwah, (9) Muhayyah bint Amr-ul-Qais. In biwiyon se 12 bete aur nau betiyan huin. Hasan, Husain, Zainab aur Umm Kulsum Hazrat Fatimah Zahra se hain.
+
+**2.** Yahan "و" ke ma'ni "اَوْ" hain. Yani Lauh-e-Mahfooz mein har shakhs ke baare mein pehle hi likha ja chuka hai ke woh Jannati hai ya Dozakhi; Jannati hai to kis darje ka, aur Dozakhi hai to kis tabqe ka. Yahan yahi ma'ni murad hai, jaisa ke agle mazmoon se wazeh hai.
+
+**3.** Kyunke hoga wahi jo likha ja chuka hai. Banda chahe jaisa amal kare, Allah ka faisla nahi badalta.
+
+**4.** Yani duniya mein aam taur par amal anjaam ki alamat hote hain. Jannati ko nekiyan aasaan aur gunah bhaari lagte hain. Dozakhi ko is ke baraks. Lekin yeh aksari qaida hai, kulli nahi. Kabhi umr bhar ka mujrim Jannati hokar marta hai aur kabhi is ke baraks bhi. Is liye yeh hadith pichhli Hadith-e-Sahl ibn Sa'd ke khilaf nahi.
+
+**5.** Yani Lauh-e-Mahfooz mein kaam aur anjaam dono likhe ja chuke hain: falan nekiyan karega aur Jannat mein jayega, aur falan kufr waghera karega is liye Dozakhi hoga. Bandon par Rab Ta'ala ki ita'at farz hai. Koi shakhs Dozakhi ya Jannati banne par majboor nahi.
+
+**6.** Yeh ayat agarche Hazrat Abu Bakr Siddiq ke iman aur sakhawat ke baare mein nazil hui, lekin ibarat aam hai, is liye har maqam par lagu ho sakti hai.
+
+## Hadith 86
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=86`; `source_id=217`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ الله  صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  إِنَّ الله كَتَبَ عَلَى ابْنِ اٰدَمَ حَظَّهُ مِنَ الزِّنَا، أَدْرَكَ ذٰلِكَ لَا مَحَالَةَ، فَزِنَا الْعَيْنِ النَّظَرُ، وَزِنَا اللِّسَانِ الْمَنْطِقُ، وَالنَّفْسُ تَمَنّٰى وَتَشْتَهِيْ، وَالْفَرْجُ يُصَدِّقُ ذٰلِكَ وَيُكَذِّبُهُ". مُتَّفَقٌ عَلَيْهِ   وَفِي رِوَايَةٍ لِمُسْلِمٍ قَالَ: "كُتِبَ عَلَى ابْنِ آدَمَ نَصِيبُهُ مِنَ الزِّنَا، مُدْرِكٌ ذٰلِكَ لَا مَحَالَةَ، العَيْنَانِ زِنَاهُمَا النَّظَرُ، وَالأُذُنَانِ زِنَاهُمَا الْاِسْتِمَاعُ، وَاللِّسَانُ زِنَاهُ الْكَلَامُ، وَالْيَدُ زِنَاهَا الْبَطْشُ، وَالرِّجْلُ زِنَاهَا الْخُطَا، وَالْقَلْبُ يَهْوٰى وَيَتَمَنّٰى، وَيُصَدِّقُ ذَلِكَ الْفَرْجُ وَيُكَذِّبُهُ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain, Rasool Allah ﷺ ne farmaya: Allah Ta'ala ne har insaan ke liye zina mein us ka hissa likh diya hai, jise woh zaroor pa lega. Aankh ka zina buri nazar hai, zaban ka zina baat karna hai, nafs tamanna aur khwahish karta hai, aur sharmgah us khwahish ko sach ya jhoot bana deti hai. (Muslim, Bukhari) Muslim ki ek riwayat mein hai: Ibn-e-Adam ke liye zina ka hissa likha ja chuka hai, woh use zaroor pa lega. Dono aankhon ka zina dekhna, dono kaanon ka zina sunna, zaban ka zina baat karna, haath ka zina pakadna, paon ka zina chalna hai. Dil chahta aur tamanna karta hai, aur sharmgah us ko sach ya jhoot bana deti hai.
+
+**Poori wazahat:**
+
+**1.** Yahan har insaan se aam insaan murad hai. Bachpan mein inteqal karne wale bachche, khaas Awliya aur tamam Ambiya-e-Kiram, khaas taur par Hazrat Yahya aur Hazrat Isa علیہما السلام, is mein shamil nahi. Jo Ambiya ko is mein shamil maane woh be-deen hai. Matlab yeh hai ke aam taur par insaan zina ya zina ke muqaddamat mein phans jate hain. Rab Ta'ala ka fazl hai ke aaza ki ghair-ikhtiyari harkaton aur gande khayalon par pakad nahi karta. Hazrat Sheikh ne Ashi'ah mein farmaya ke zina ke hisse se murad zina ke asbab hain. Insaan mein shahwat aur aurton ki taraf mailan fitri taur par rakha gaya hai, magar Allah jise chahe is se bachata hai. Yaad rahe ke Hazrat Yusuf علیہ السلام ke qalb-e-pak mein is khaas mauqe par Zulaikha ki taraf mailan bhi paida nahi hua. Rab Ta'ala farmata hai: "وَهَمَّ بِهَا لَوْلَا أَنْ رَأَى بُرْهَانَ رَبِّهِ" yani woh bhi mailan karte agar apne Rab ki daleel na dekh lete.
+
+**2.** Ghair aurton ko shahwat se dekhna murad hai. Achanak padne wali nazar maaf hai; jaan-bujh kar dekhne par pakad hai. Yahan doosri nazar murad hai.
+
+**3.** Na-mahram aurton ke husn-o-jamal ki tareef karna zaban ka zina hai. Use shauq se aur lذت ke liye sunna kaan ka zina hai. Baaz aurtein apne shoharon se doosri aurton ka husn bayan karti hain; yeh sakht jurm hai.
+
+**4.** Kaan laga kar tawajjoh se sunna murad hai. Isi liye yahan "استماع" bab "افتعال" se farmaya gaya hai.
+
+**5.** Khulasa yeh hai ke ek zina bahut se chhote chhote zinaaon ka majmua hai. Har uzw ka zina alag hai. Zani zina ke waqt aankh, kaan, zaban, haath, paon aur sharmgah sab ka zina karta hai. Isi liye use sangsar kiya jata hai, sirf khassi nahi kiya jata.
+
+**6.** Is liye insaan ko chahiye ke zina ke muqaddamat se bhi bache. Cinema aur aam radio par filmi gaanon ki nashr-o-ishaat ka anjaam saamne hai. Mirqat mein hai ke na-mahram aurton ko na-jaiz khat likhna ya pahunchana, doosri taraf kankar phenkna aur ishare karna sab haath ka zina hai.
+
+## Hadith 87
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=87`; `source_id=218`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ عِمْرَانَ ابْنِ حُصُيْنٍ: إِنَّ رَجُلَيْنِ مِنْ مُزَيْنَةَ قَالَا: يَا رَسُولَ اللهِ! أَرَأَيْتَ مَا يَعْمَلُ النَّاسُ الْيَوْمَ وَيَكْدَحُونَ فِيهِ؟ أَشَيْءٌ قُضِيَ عَلَيْهِمْ وَمَضٰى فِيهِمْ مِنْ قَدَرٍ سَبَقَ، أَوْ فِيمَا يَسْتَقْبِلُوْنَ بِهٖ مِمَّا أَتَاهُمْ بِهٖ نَبِيُّهُمْ وَثَبَتَتِ الْحُجَّةُ عَلَيْهِمْ فَقَالَ: "لَا، بَلْ شَيْءٌ قُضِيَ عَلَيْهِمْ وَمَضٰى فِيهِمْ، وَتَصْدِيقُ ذٰلِكَ فِيْ  كِتَابِ اللهِ عَزَّ وَجَلَّ: وَنَفْسٍ وَمَا سَوَّاهَا   فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ".رَوَاهُمُسْلِمٌ.
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Imran ibn Husain se. Mazinah ke do aadmiyon ne arz ki: Ya Rasool Allah! Batayiye, log aaj jo amal kar rahe hain aur jis mein mehnat kar rahe hain, kya woh aisi cheez hai jis ka faisla un par ho chuka hai aur pehle ki hui taqdeer un mein guzar chuki hai? Ya woh un ke mustaqbil ke kaamon ke baare mein hai jo un ke Nabi un ke paas laye aur un par hujjat qayam ho gayi? Huzoor ﷺ ne farmaya: Nahi, balki amal woh cheez hai jis ka faisla un par ho chuka aur taqdeer un mein guzar chuki. Is ki tasdeeq Allah ki Kitab mein hai: "Qasam jaan ki aur us ki jis ne use durust banaya, phir us ke dil mein us ki badkari aur parhezgari daal di." (Muslim)
+
+**Poori wazahat:**
+
+**1.** Aap ki kuniyat Abu Najid, Khuza'i aur Ka'bi hain. Aap Khyber ke saal Hazrat Abu Hurairah ke saath iman laye. Basrah mein qiyam raha aur 52 Hijri mein wahin inteqal hua. Aap jaleel-ul-qadr Sahabi hain. Aap 30 saal beemar rahe. Is zamane mein farishte aap ko salam karne aate the. (Mirqat wa Ashi'ah)
+
+**2.** Sawal ka khulasa yeh hai ke kya pehle likhai hoti hai aur baad mein kotahi, ya is ka ulta hai ke pehle hum khud kaam karte hain aur phir aage likha jata hai. Likhai se murad taqdeer ki likhai hai, na ke aamaal-nama ki likhai; aamaal-nama to amal karne ke baad hi likha jata hai. Yaad rahe, Qadriyyah ka aqeeda hai ke qaza-o-qadar koi cheez nahi, na pehle kuch likha gaya hai. Hum khud mustaqil, Qadir-e-Mutlaq hokar amal karte hain, phir un ki likhai hoti hai. Yeh sakht be-deeni hai.
+
+**3.** Yani hamare amal is likhai aur taqdeer ke baad us ke mutabiq hote hain, is ka ulta nahi. Yahi Ahl-e-Sunnat ka mazhab hai.
+
+**4.** Daleel yeh hai ke yahan "أَلْهَمَهَا" maazi ka sigha hai. Is se maloom hota hai ke yeh ilham amal se bahut pehle ho chuka tha.
+
+## Hadith 88
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=88`; `source_id=219`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ أَبِي هُرَيْرَةَ  قَالَ قُلْتُ يَا رَسُوْلَ اللهِ إِنِّيْ رَجُلٌ شَابٌّ وَأَنَا أَخَافُ عَلٰى نَفْسِيْ الْعَنَتَ وَلَا أَجِدُ مَا أَتَزَوَّجُ بِهِ النِّسَاءَ كأَنَّهُ يَسْتَأْذِنُهُ فِي الِاخْتِصَاءِ قَالَ: فَسَكَتَ عَنِّيْ ثُمَّ قُلْتُ مِثْلَ ذٰلِكَ فَسَكَتَ عَنِّي ثُمَّ قُلْتُ مِثْلَ ذٰلِكَ فَسَكَتَ عَنِّي ثُمَّ قُلْتُ مِثْلَ ذٰلِكَ فَقَالَ النَّبِيُّ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «يَا أَبَا هُرَيْرَةَ جَفَّ الْقَلَمُ بِمَا أَنْتَ لَاقٍ فَاخْتَصِ عَلٰى ذٰلِكَ أَو  ذَرْ».رَوَاهُالبُخَارِيُّ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain, main ne arz ki: Ya Rasool Allah! Main jawan aadmi hoon aur apne nafs par zina se darta hoon. Mere paas nikah karne ki qudrat nahi. Aisa lagta tha ke woh Huzoor ﷺ se khassi hone ki ijazat maang rahe the. Farmate hain: Huzoor ﷺ mujh se khamosh rahe. Main ne phir wahi kaha, aap phir khamosh rahe. Main ne phir wahi kaha, aap phir khamosh rahe. Main ne phir isi tarah kaha, to Nabi ﷺ ne farmaya: Aye Abu Hurairah! Qalam woh cheez likh kar sookh chuka hai jo tumhein pesh aane wali hai. Ab khassi ho jao ya rehne do. (Bukhari)
+
+**Poori wazahat:**
+
+**1.** Yani main biwi ke nafaqe aur mahr par bhi qadir nahi, chah jaaye ke laundi khareed sakun. Masla: Jo shakhs huqooq-e-zaujain ada karne par qadir na ho, us ke liye nikah mana hai. Huqooq mein jismani quwwat aur maali qudrat dono shamil hain.
+
+**2.** Yeh kisi raawi ka qoul hai. Yani Abu Hurairah ki yeh guzarish is liye thi ke Huzoor ﷺ unhein khassi ho jane ki ijazat de dein, taake zina ka imkaan hi baqi na rahe. Sahaba-e-Kiram ka yeh intehai taqwa tha ke woh ma'siyat par musibat ko tarjeeh dete the. Khassi hokar apne aap ko naaqis aur fasid kar lena manzoor tha, magar fasiq banna manzoor nahi.
+
+**3.** Baar baar khamoshi ya to masle ki ahmiyat batane ke liye thi, taake Abu Hurairah jawab ghaur se sunein, ya unhein sawal se rokne ke liye thi. Yani khassi hona to door, us ka zikr bhi na karo.
+
+**4.** Yani agar tumhari taqdeer mein zina likha ja chuka hai to khassi hone ke baad bhi kar loge, warna baghair khassi hue bhi nahi kar paoge. Is kalam mein khassi hone ki ijazat nahi di ja rahi, balki achche tareeqe se roka ja raha hai. Insaan ka khassi hona mutilah hai, yani badan bigaadna. Mutilah Islam mein haram hai. Be-kaari ki cheez ke liye haram ka irtikab kyun karte ho?
+
+## Hadith 89
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=89`; `source_id=221`; source book `مرآۃ المناجیح شرح مشکوٰۃ المصابیح`; lesson `ایمان کا بیان`; chapter `باب: تقدیر پر ایمان لانے کا باب`; sub-chapter `پہلی فصل`.
+
+**Arabic hadith:**
+
+وَعَنْ عَبْدِ الله بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ الله صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : "إِنَّ قُلُوبَ بَنِيْ اٰدَمَ كُلَّهَا بَيْنَ أُصْبُعَيْنِ مِنْ أَصَابِعِ الرَّحْمٰنِ كَقَلْبٍ وَاحِدٍ يَصْرِفُهُ كَيْفَ يَشَاءُ"، ثُمَّ قَالَ رَسُولُ اللهِ -صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  -: "اَللّٰهُمَّ   مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ".رَوَاهُمُسْلِمٌ.
+
+**Lafzi tarjuma:** Riwayat hai Abdullah ibn Amr se. Farmate hain, Rasool Allah ﷺ ne farmaya: Bani Adam ke tamam dil Rahman ki ungliyon mein se do ungliyon ke darmiyan ek dil ki tarah hain; Allah jis tarah chahta hai unhein pher deta hai. Phir Rasool Allah ﷺ ne farmaya: Aye Allah! Aye dilon ko pherne wale! Hamare dil apni ita'at ki taraf pher de. (Muslim)
+
+**Poori wazahat:**
+
+**1.** Is mein Ambiya, Awliya, momineen aur kafir sab shamil hain. Koi bhi Rab ke qabze se bahar nahi. Chunke aam shar'i ahkam ke mukallaf sirf insaan hain, is liye khaas taur par insaanon ke dil ka zikr hua. Warna farishton, jinn aur doosron ke dil bhi Rab ke qabze mein hain.
+
+**2.** Yeh ibarat mutashabihat mein se hai, kyunke Rab Ta'ala ungliyon, haathon aur doosre aaza se paak hai. Maqsad yeh hai ke tamam dil Allah ke qabze mein hain aur woh nihayat aasani se unhein pher deta hai. Jaise kaha jata hai: Tumhara kaam meri ungliyon mein hai, ya main sawalon ka jawab chutkiyon mein de sakta hoon. Mutashabihat ki poori bahs hamari Tafseer Naeemi ke teesre pare mein dekho.
+
+**3.** Burai ya bhalai ki taraf. Banda apne irade se achche ya bure kaam karne lagta hai. Is liye banda majboor nahi; kaam irade se hote hain aur irada Rab ki taraf se hai. Warna banda saza aur jaza ka mustahiq na hota aur ikhtiyari aur ghair-ikhtiyari af'aal mein farq na hota. Larazne mein haath be-ikhtiyar hilta hai, aur likhte waqt ikhtiyar se. Kuttay ko pathar maaro to kutta tumhein kaat-ta hai, pathar ko nahi, halanke lagta pathar hai; kyunke woh jaanta hai ke pathar be-ikhtiyar hai aur maarne wala mukhtar. Agar hum apne aap ko pathar ki tarah majboor samjhein to janwar se bhi zyada be-waqoof hain. Baharhaal, is hadith se jabr sabit nahi hota.
+
+**4.** Yeh dua kafir, momin, nek aur badkaar sab ke liye hai: Badkaaron ke dil neki ki taraf pher de aur nek logon ke dil ko neki par qayam rakh. Yaad rahe ke yeh dua asal mein doosron ke liye hai. Huzoor ﷺ Sayyid-ul-Ma'sumeen hain; un se gunah namumkin hai. Allah Ta'ala ne un ke liye hidayat aisi lazim kar di hai jaise suraj ke liye roshni aur aag ke liye garmi. Un ki shaan bahut buland hai. Un ke khaas ghulamon se hidayat aur taqwa lazim hai. Rab Ta'ala Sahaba-e-Kiram ke baare mein farmata hai: "وَ اَلْزَمَہُمْ کَلِمَۃَ التَّقْوٰی". Ismat-e-Ambiya ki bahs hamari kitab "جاءالحق" aur azmat-e-Sahaba ki bahs hamari kitab "امیر معاویہ" mein dekho.

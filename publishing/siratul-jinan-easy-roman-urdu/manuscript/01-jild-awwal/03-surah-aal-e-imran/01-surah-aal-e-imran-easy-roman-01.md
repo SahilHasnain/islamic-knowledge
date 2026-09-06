@@ -861,3 +861,83 @@ Jis tarah Hazrat Adam عَلَیْہِ الصَّلٰوۃُ وَالسَّلَا
 **Tarjumah-e-Kanz-ul-Irfan:** Ae sunne wale! Haq tere Rab ki taraf se hai, pas tum shak karne walon mein se na hona.
 
 **Easy Roman Urdu:** {اَلْحَقُّ مِنْ رَّبِّكَ: Haq tere Rab ki taraf se hai.} Is aayat ka ek ma'ni yeh ho sakta hai ke Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka jo waaqia bayan hua, yeh haq hai aur tumhare Rab عَزَّوَجَلَّ ki taraf se hai, is liye is mein shak na karo. Doosra ma'ni yeh ho sakta hai ke har haq tumhare Rab عَزَّوَجَلَّ ki taraf se hai, is liye is mein shak na karo. Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka waaqia bhi usi haq mein se hai jo tumhare Rab عَزَّوَجَلَّ ki taraf se hai, is liye is mein bhi shak na karo.
+
+## Ayat 3:61
+
+`Source: tafseerId=50461; ayatId=357; surah=3; ayat=61; para=3; volume=1`
+
+**Arabic:** فَمَنْ حَآجَّكَ فِیْهِ مِنْۢ بَعْدِ مَا جَآءَكَ مِنَ الْعِلْمِ فَقُلْ تَعَالَوْا نَدْعُ اَبْنَآءَنَا وَ اَبْنَآءَكُمْ وَ نِسَآءَنَا وَ نِسَآءَكُمْ وَ اَنْفُسَنَا وَ اَنْفُسَكُمْ- ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَّعْنَتَ اللّٰهِ عَلَى الْكٰذِبِیْنَ(61)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Phir Aye Habeeb! Tumhare paas ilm aa jaane ke baad jo tum se Isa ke baare mein jhagdein to tum un se farma do: Aa'o hum apne beton ko aur tumhare beton ko aur apni aurton ko aur tumhari aurton ko aur apni jaanon ko aur tumhari jaanon ko (muqaable mein) bula lete hain, phir mubahala karte hain aur jhooton par Allah ki laanat daalte hain.
+
+**Easy Roman Urdu:** {فَمَنْ حَآجَّكَ فِیْهِ: Jo tum se Isa ke baare mein jhagdein.} Yahan mubahale ka zikr hai. Mubahala ka aam matlab yeh hai ke do muqaabil afraad is tarah dua karein: Agar tum haq par aur main baatil hoon to Allah mujhe halaak kare, aur agar main haq par aur tum baatil ho to Allah tumhein halaak kare. Phir doosra fareeq bhi yahi kahe.
+
+Jab Sarkar-e-Aali Waqaar صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ne Najran ke Isaiyon ko yeh aayat suna kar mubahale ki da'wat di to unhone kaha: “Hum ghaur aur mashware kar lein, kal aap ko jawaab denge.” Jab woh jama hue to unhone apne sab se bade aalim aur sahib-e-raaye shakhs Aaqib se kaha: “Aye Abdul Masih! Mubahala karne ke baare mein aap ki kya raaye hai?” Us ne kaha: “Aye Nasara ki jamaat! Tum pehchaan chuke ho ke Muhammad Nabi-e-Mursal to zaroor hain. Agar tum ne un se mubahala kiya to sab halaak ho jaaoge. Ab agar Nasraniyat par qaaim rehna chahte ho to unhein chhor do aur apne gharon ko laut chalo.”
+
+Yeh mashwara hone ke baad woh Rasool-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki khidmat mein haazir hue. Unhone dekha ke Huzoor Anwar صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki god mein Imam Husain رَضِیَ اللہُ تَعَالٰی عَنْہُ hain, Aap ke dast-e-mubarak mein Imam Hasan رَضِیَ اللہُ تَعَالٰی عَنْہُ ka haath hai, Hazrat Fatimah رَضِیَ اللہُ تَعَالٰی عَنْہا aur Hazrat Ali کَرَّمَ اللہ تَعَالٰی وَجْہَہُ الْکَرِیْم Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke peechhe hain, aur Huzoor Pur-Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ un sab se farma rahe hain: “Jab main dua karoon to tum sab Aameen kehna.”
+
+Najran ke sab se bade Isai paadri ne jab in buzurgon ko dekha to kaha: “Aye Nasara ki jamaat! Main aise chehre dekh raha hoon ke agar yeh log Allah عَزَّوَجَلَّ se pahaad hata dene ki dua karein to Allah Ta'ala pahaad ko us ki jagah se hata de. In se mubahala na karna, warna halaak ho jaaoge aur Qayamat tak rooye zameen par koi Isai baaqi na rahega.” Yeh sun kar Nasara ne Sarkar-e-Kaainaat صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ki khidmat mein arz ki: “Mubahale ke baare mein hamari raaye nahin hai.” Aakhirkaar unhone jizya dena manzoor kiya, lekin mubahale ke liye tayyar na hue. (خازن، اٰل عمران، تحت الآیۃ: ۶۱، ۱ / ۲۵۸)
+
+Sarkar-e-Do Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne farmaya: “Us Zaat ki qasam jis ke dast-e-qudrat mein meri jaan hai, Najran walon par azaab qareeb aa hi chuka tha. Agar woh mubahala karte to bandaron aur suaron ki soorat mein masakh kar diye jaate, jungle aag se bhadak uthta, Najran aur wahan rehne wale parinde tak barbaad ho jaate aur ek saal ke arse mein tamaam Nasara halaak ho jaate.” (ابو سعود، اٰل عمران، تحت الآیۃ: ۶۱، ۱ / ۳۷۳)
+
+### Mubahala Kis Maamle Mein Hona Chahiye
+
+Is se do masle maloom hue. Pehla yeh ke mubahala munazare se ooncha darja hai, yaani mukhaalif-e-deen ke saath bad-dua karna. Doosra yeh ke mubahala deen ke yaqini masail mein hona chahiye, ghair-yaqini masail mein nahin. Is liye Islam ki haqqaniyat par mubahala ho sakta hai, lekin Hanafi-Shafii ikhtilaafi masail mein nahin.
+
+## Ayat 3:62
+
+`Source: tafseerId=50462; ayatId=358; surah=3; ayat=62; para=3; volume=1`
+
+**Arabic:** اِنَّ هٰذَا لَهُوَ الْقَصَصُ الْحَقُّۚ-وَ مَا مِنْ اِلٰهٍ اِلَّا اللّٰهُؕ-وَ اِنَّ اللّٰهَ لَهُوَ الْعَزِیْزُ الْحَكِیْمُ(62)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Beshak yahi sachcha bayaan hai aur Allah ke siwa koi ma'bood nahin aur beshak Allah hi ghaalib hai, hikmat wala hai.
+
+**Easy Roman Urdu:** {اِنَّ هٰذَا لَهُوَ الْقَصَصُ الْحَقُّ: Beshak yahi sachcha bayaan hai.} Yaani yeh baat sach hai ke Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Allah عَزَّوَجَلَّ ke bande aur us ke Rasool hain, aur Allah عَزَّوَجَلَّ ke siwa koi ma'bood nahin. Is mein Nasara ka bhi radd hai aur tamaam mushrikeen ka bhi.
+
+## Ayat 3:64
+
+`Source: tafseerId=50463; ayatId=360; surah=3; ayat=64; para=3; volume=1`
+
+**Arabic:** قُلْ یٰۤاَهْلَ الْكِتٰبِ تَعَالَوْا اِلٰى كَلِمَةٍ سَوَآءٍۭ بَیْنَنَا وَ بَیْنَكُمْ اَلَّا نَعْبُدَ اِلَّا اللّٰهَ وَ لَا نُشْرِكَ بِهٖ شَیْــٴًـا وَّ لَا یَتَّخِذَ بَعْضُنَا بَعْضًا اَرْبَابًا مِّنْ دُوْنِ اللّٰهِؕ-فَاِنْ تَوَلَّوْا فَقُوْلُوا اشْهَدُوْا بِاَنَّا مُسْلِمُوْنَ(64)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aye Habeeb! Tum farmaao, Aye Ahle Kitaab! Aise kalme ki taraf aao jo hamare aur tumhare darmiyaan baraabar hai. Woh yeh ke hum Allah ke siwa kisi ki ibaadat na karein aur kisi ko us ka shareek na thehraayen aur hum mein koi ek Allah ke siwa kisi doosre ko Rab na banaaye. Phir agar woh munh pherein to Aye Musalmano! Tum keh do: “Tum gawaah raho ke hum sachche Musalman hain.”
+
+**Easy Roman Urdu:** {قُلْ یٰۤاَهْلَ الْكِتٰبِ: Tum farmaao, Aye Ahle Kitaab!} Ahle Kitaab ko teen baaton ki da'wat di gayi. Pehli yeh ke Allah عَزَّوَجَلَّ ke siwa hum kisi ki ibaadat na karein. Quran, Taurat aur Injeel sab is baat par muttahid hain aur is mein koi ikhtilaaf nahin.
+
+Doosri yeh ke hum kisi ko Allah Ta'ala ka shareek na thehraayen. Na Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko, na Hazrat Uzair عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko aur na kisi aur ko. Yeh baat pehli baat ko maan-ne ke hi barabar hai. Teesri yeh ke hum mein se koi kisi ko apna Rab na banaaye, jaise Yahood-o-Nasara ne apne ulama aur paadriyon ko bana rakha tha aur un ke ahkaam ko Allah عَزَّوَجَلَّ ke hukm ke barabar samajhte the.
+
+### Ikhtilaaf Khatm Karne Ka Behtareen Tareeqa
+
+Is aayat mein ikhtilaaf khatam karne ka ek behtareen tareeqa bataya gaya hai: Jo baatein mushtarak aur muttafiq hon, pehle unhein tay kar liya jaaye. Is se ikhtilaafi baatein alag ho jaayengi, un ki tadaad kam ho jaayegi aur bahs sirf unhi baaton tak mehdood rahegi. Warna bahs ke dauraan kabhi ikhtilaafi mauzu' saamne aata hai aur kabhi muttafiq baat par behs shuru ho jaati hai.
+
+## Ayat 3:65
+
+`Source: tafseerId=50464; ayatId=361; surah=3; ayat=65; para=3; volume=1`
+
+**Arabic:** یٰۤاَهْلَ الْكِتٰبِ لِمَ تُحَآجُّوْنَ فِیْۤ اِبْرٰهِیْمَ وَ مَاۤ اُنْزِلَتِ التَّوْرٰىةُ وَ الْاِنْجِیْلُ اِلَّا مِنْۢ بَعْدِهٖؕ-اَفَلَا تَعْقِلُوْنَ(65)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aye Ahle Kitaab! Tum Ibrahim ke baare mein kyun jhagadte ho? Haalanke Taurat aur Injeel to un ke baad hi utri hain. To kya tumhein aqal nahin?
+
+**Easy Roman Urdu:** {لِمَ تُحَآجُّوْنَ فِیْۤ اِبْرٰهِیْمَ: Tum Ibrahim ke baare mein kyun jhagadte ho?} Najran ke Isaiyon aur Yahoodi ulama ke darmiyaan Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke baare mein munazara hua. Yahoodi kehte the ke Aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Yahoodi the, is liye hamara deen bada hai. Isai kehte the ke Aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام Isai the, is liye hamara deen bada hai. Aakhirkaar dono ne Sarkar-e-Aali Waqaar صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ko apna haakim banaya. Is par yeh aayat naazil hui. (خازن، اٰل عمران، تحت الآیۃ: ۶۵، ۱ / ۲۶۰)
+
+Is aayat mein un bewakoofon ki intehaai jahalat zahir ki gayi ke Yahoodiyat Hazrat Musa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se aur Nasraniyat Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se jaari hui, jabke Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام in dono buzurgon se kai sau saal pehle aaye the. To Aap Yahoodi ya Isai kaise ho sakte hain? Is liye farmaya gaya: Aye Ahle Kitaab! Tum Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke baare mein kyun jhagadte ho ke woh Yahoodi ya Isai the, haalanke Taurat aur Injeel to un ke baad hi utri hain? Kya tum itni bhi aqal nahin rakhte ke kai sau saal pehle hone wala shakhs baad mein paida hone wale giroh mein shaamil nahin ho sakta?
+
+### Buzurgon Par Hone Wale Aitraaz Door Karna Allah Ta'ala Ki Sunnat Hai
+
+Is se maloom hua ke Allah Ta'ala buzurgon par logon ke ilzaam door karta hai aur un ki azmat ki himayat karna pasandeeda hai. Allah Ta'ala ne Hazrat Ibrahim, Hazrat Sulaiman aur bahut se doosre Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام par kiye gaye aitraaz door farmaaye hain.
+
+### Ilm-e-Tareekh Ki Ahmiyat
+
+Is aayat se ilm-e-tareekh ki ahmiyat bhi wazeh hoti hai, kyunke yahan haqeeqat ka daromadaar tareekh par hai. Aaj ke zamaane mein bhi tareekh ki bahut zaroorat hai. Bahut se gumraah log tareekh ko bigaad kar hi logon ko gumraah kar rahe hain. Isi tarah ilm-e-Asma-ur-Rijaal bhi haqeeqat mein tareekh par hi mabni hai. Qaumon ka urooj-o-zawaal aur us ke asbaab bhi tareekh se maloom hote hain. Lekin har shakhs ko apni taraf se tareekh padhne ki ijaazat nahin, kyunke maujooda tareekh mein bahut si gumraah karne wali baatein shaamil hain. Be-ilm aadmi padhega to nuqsaan uthaayega. Kisi mustanad aalim ki rehnumaai mein tareekh padhni chahiye.
+
+## Ayat 3:66
+
+`Source: tafseerId=50465; ayatId=362; surah=3; ayat=66; para=3; volume=1`
+
+**Arabic:** هٰۤاَنْتُمْ هٰۤؤُلَآءِ حَاجَجْتُمْ فِیْمَا لَكُمْ بِهٖ عِلْمٌ فَلِمَ تُحَآجُّوْنَ فِیْمَا لَیْسَ لَكُمْ بِهٖ عِلْمٌؕ-وَ اللّٰهُ یَعْلَمُ وَ اَنْتُمْ لَا تَعْلَمُوْنَ(66)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Sun lo: Tum wohi log ho jo pehle is maamle mein jhagadte the jis ka tumhein ilm tha to ab is mein kyun jhagadte ho jis ka tumhein ilm hi nahin? Aur Allah jaanta hai aur tum nahin jaante.
+
+**Easy Roman Urdu:** {هٰۤاَنْتُمْ هٰۤؤُلَآءِ: Sun lo: Tum wohi log ho.} Is aayat aur is ke baad wali aayat ka khulasa yeh hai ke tumhari kitaabon mein Nabi-e-Aakhir-uz-Zamaan صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ ke zahoor aur Aap ki na'at-o-sifat ka bayaan maujood hai. Is ke bawajood tum Huzoor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہ وَسَلَّمَ par imaan nahin laaye aur tum ne is mein jhagda kiya. Jab tum maloom baaton mein jhagadte ho to un baaton mein kyun jhagadte ho jin ka tumhein ilm hi nahin? Yaani Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko Yahoodi ya Nasrani kehte ho, haalanke tumhein is ka ilm hi nahin.
+
+Haqeeqat yeh hai ke kisi Yahoodi, Isai ya mushrik ka apne aap ko Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka pairwi karne wala kehna durust nahin. Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام na Yahoodi the, na Isai aur na mushrik. Balki Aap har baatil se juda aur khaalis Allah Ta'ala ke farmabardaar Muslim bande the.
