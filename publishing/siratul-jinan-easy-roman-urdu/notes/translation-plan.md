@@ -2,7 +2,7 @@
 
 ## Objective
 
-Rewrite the Urdu tafseer of *Sirat-ul-Jinan fi Tafseer-il-Quran* into simple, readable
+Rewrite the Urdu tafseer of _Sirat-ul-Jinan fi Tafseer-il-Quran_ into simple, readable
 Roman Urdu for readers who find the original Urdu vocabulary or sentence structure hard.
 
 This is an easy-language adaptation, not a script-only transliteration. Simplify difficult
@@ -210,4 +210,10 @@ The next ten available complete entries, 3:128 (`tafseerId=50521`, `ayatId=424`)
 
 The next ten available complete entries, 3:140 (`tafseerId=50531`, `ayatId=436`) through 3:149 (`50540`, `445`), were appended to `02-surah-aal-e-imran-easy-roman-02.md` in two verified five-entry batches. These entries cover the lessons of Uhud, patience, martyrdom, steadfastness after the Prophet's ﷺ wisal, intention, the courage of earlier Ambiya, dua, worldly and Aakhirat rewards, and avoiding the ways of disbelievers.
 
-Revision audit: the shortened Easy Roman Urdu adaptations were identified as beginning at 3:72 (`tafseerId=50470`). Entries 3:72–3:149 were revised against the complete source records, with all available source details restored. Because of the 1,000-line manuscript limit, the revised continuation is split at complete entry boundaries across files 02, 03, and 04. Exact Arabic was checked directly against SQLite after revision; missing tafseer rows were not fabricated.
+Revision audit: the shortened Easy Roman Urdu adaptations were identified as beginning at 3:72 (`tafseerId=50470`). Entries 3:72–3:159 were revised against the complete source records, with all available source details restored. Because of the 1,000-line manuscript limit, the revised continuation is split at complete entry boundaries across files 02, 03, and 04. Exact Arabic was checked directly against SQLite after revision; missing tafseer rows were not fabricated. The verified 3:150–3:159 session batch remains in file 04; the next source gap at 3:163 remains intentionally absent.
+
+The continuation in `04-surah-aal-e-imran-easy-roman-04.md` includes the five available entries 3:160–3:165, with 3:163 and 3:166 absent because the authoritative database has no tafseer rows for them. The next ten available entries, 3:167 (`tafseerId=50557`, `ayatId=463`), 3:168 (`50558`, `464`), 3:169 (`50559`, `465`), 3:170 (`50560`, `466`), 3:171 (`50561`, `467`), 3:172 (`50562`, `468`), 3:173 (`50563`, `469`), 3:175 (`50564`, `471`), 3:176 (`50565`, `472`), and 3:177 (`50566`, `473`), were appended in two verified five-entry batches. The authoritative database has no tafseer row for 3:174, so no entry was fabricated. The adaptations preserve exact Quranic Arabic, separate Kanz-ul-Irfan transliterations, complete source explanations, Uhud and shuhada accounts, poetry, hadith, Arabic dua, citations, honorifics, and source order. The active file is 609 lines and remains below the 1,000-line limit.
+
+The next five available entries, 3:178 (`tafseerId=50567`, `ayatId=474`), 3:179 (`tafseerId=51243`, `ayatId=475`), 3:180 (`50568`, `476`), 3:181 (`50569`, `477`), and 3:183 (`50570`, `479`), were appended to `04-surah-aal-e-imran-easy-roman-04.md`. The authoritative database has no tafseer row for 3:182, so no entry was fabricated. The batch preserves exact Quranic Arabic, separate Kanz-ul-Irfan transliterations, source explanations, citations, and source order; the active file remains below the 1,000-line limit.
+
+The next ten available entries were processed in two separate five-entry batches as required by the workflow rule. Batch 1 contains 3:184 (`tafseerId=50571`, `ayatId=480`), 3:185 (`tafseerId=51244`, `481`), 3:186 (`50572`, `482`), 3:187 (`50573`, `483`), and 3:188 (`50574`, `484`). Batch 2 contains 3:189 (`50575`, `485`), 3:190 (`50576`, `486`), 3:191 (`50577`, `487`), 3:192 (`50578`, `488`), and 3:195 (`50579`, `491`). The authoritative database has no tafseer rows for 3:193 or 3:194, so no entries were fabricated. Batch 1 was validated before Batch 2 was started; the final active manuscript is 867 lines and preserves source order, Arabic, Kanz-ul-Irfan transliterations, explanations, citations, and honorifics.
