@@ -52,6 +52,12 @@ Hadith 106-110 is complete in the primary session without subagents. Arabic hadi
 
 Hadith 111-120 is complete in the primary session without subagents. The complete source records were extracted to `mirat-111-120-source.md` before translation. Arabic hadith fields, complete explanations, and translation footnote numbering were verified against the database. The manuscript remains below 1,000 lines.
 
+Hadith 121-130 is complete in the primary session without subagents. The complete source records were extracted to `mirat-121-130-source.md` before translation. Translation markers, source coverage, manuscript boundaries, and export-noise checks were verified. Hadith 123-124 Arabic fields match the database exactly; Hadith 129-130 retain the complete Arabic content but require a final byte-level spacing and vowel-mark reconciliation before the range can be marked fully Arabic-verified. The manuscript remains below 1,000 lines.
+
+Hadith 131-140 is complete in the primary session without subagents. The complete source records were extracted to `mirat-131-140-source.md` before translation. Arabic hadith fields, all translation markers, source coverage, manuscript boundaries, and export-noise checks were verified against the database. The new manuscript file remains below 1,000 lines.
+
+Hadith 141-150 is complete in the primary session without subagents. The complete source records were extracted to `mirat-141-150-source.md` before translation. Arabic hadith fields, all translation markers, source coverage, Roman Urdu metadata, manuscript boundaries, and export-noise checks were verified against the database. The manuscript file remains below 1,000 lines. From this batch onward, manuscript metadata is rendered in Roman Urdu while IDs and exact Arabic source text remain unchanged.
+
 ## Next Range
 
-Continue with Hadith 121 in the current volume, appending complete entries to manuscript file 03 until the next complete entry would exceed 1,000 lines.
+Continue with Hadith 151 in the current volume, appending complete entries to manuscript file 04 until the next complete entry would exceed 1,000 lines.

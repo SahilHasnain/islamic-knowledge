@@ -4,7 +4,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ -صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  -: "مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟ ثُمَّ يَقُوْلُ: فِطْرَتَ اللهِ الَّتِيْ فَطَرَ النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللهِ ذٰلِكَ الدِّينُ الْقَيِّمُ  " مُتَّفَقٌ عَلَيْهِ.
+وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ -صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ -: "مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟ ثُمَّ يَقُوْلُ: فِطْرَتَ اللهِ الَّتِيْ فَطَرَ النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللهِ ذٰلِكَ الدِّينُ الْقَيِّمُ " مُتَّفَقٌ عَلَيْهِ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Farmate hain, Rasool Allah ﷺ ne farmaya: Har bachcha deen-e-fitrat par hi paida hota hai. Phir us ke maa-baap use Yahudi, Isai ya Majusi bana dete hain. Jaise jaanwar bilkul theek bachcha janta hai, kya tum us mein koi naak-kaan kata hua paate ho? Phir farmate the: "Allah ki fitrat hai jis par us ne logon ko paida kiya. Allah ki paidaish mein tabdeeli nahi. Yahi seedha deen hai." (Muslim wa Bukhari)
 
@@ -24,7 +24,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ مُوْسٰى قَالَ قَامَ فِيْنَا رَسُوْلُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   بِخَمْسِ كَلِمَاتٍ فَقَالَ: «إِنَّ اللهَ لَا يَنَامُ وَلَا يَنْبَغِي لَهُ أَنْ يَنَامَ يَخْفِضُ الْقِسْطَ وَيَرْفَعُهُ يُرْفَعُ إِلَيْهِ عَمَلُ اللَّيْلِ قَبْلَ عَمَلِ النَّهَارِ وَعَمَلُ النَّهَارِ قَبْلَ عَمَلِ اللَّيْلِ حِجَابُهٗ النُّوْرُ لَوْ کَشَفَہٗ لَأَحْرَقَتْ سَبْحَاتَ وَجْهِهٖ مَاانْتَهٰي إِلِيْهِ بَصَرُهٗ مِنْ خَلْقِهٖ » .رَوَاهُمُسْلِمٌ
+وَعَنْ أَبِيْ مُوْسٰى قَالَ قَامَ فِيْنَا رَسُوْلُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ بِخَمْسِ كَلِمَاتٍ فَقَالَ: «إِنَّ اللهَ لَا يَنَامُ وَلَا يَنْبَغِي لَهُ أَنْ يَنَامَ يَخْفِضُ الْقِسْطَ وَيَرْفَعُهُ يُرْفَعُ إِلَيْهِ عَمَلُ اللَّيْلِ قَبْلَ عَمَلِ النَّهَارِ وَعَمَلُ النَّهَارِ قَبْلَ عَمَلِ اللَّيْلِ حِجَابُهٗ النُّوْرُ لَوْ کَشَفَہٗ لَأَحْرَقَتْ سَبْحَاتَ وَجْهِهٖ مَاانْتَهٰي إِلِيْهِ بَصَرُهٗ مِنْ خَلْقِهٖ » .رَوَاهُمُسْلِمٌ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Musa se. Huzoor ﷺ ne hamare darmiyan khade hokar paanch baatein bayan farmayin: **1** Allah Ta'ala na sota hai aur na sona us ke laaiq hai. **2** Woh tarazu ke palle ko jhukata aur uthata hai. **3** Raat ke amal din ke amal se pehle aur din ke amal raat ke amal se pehle us ki bargah mein pesh kiye jate hain. **4** Us ka parda noor hai. **5** Agar woh parda khol de to us ke chehre ki tajalliyan us ki makhluq mein se jahan tak us ki nazar pahunchti hai, sab ko jala dein. **6** (Muslim)
 
@@ -48,7 +48,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : "يَدُ اللهِ مَلأَى لَا تَغِيضُهَا نَفَقَةٌ سَحَّاءُ اللَّيْلِ وَالنَّهَارِ، أرَأَيْتُمْ مَا أَنْفَقَ مُذْ خَلَقَ السَّمَاءَ وَالأَرْضَ؟ فَإِنَّهُ لَمْ يَغِضْ مَا فِيْ يَدِهٖ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ، وَبِيَدِهِ الْمِيزَانُ، يَخْفِضُ وَيَرْفَعُ". مُتَّفَقٌ عَلَيْهِ.
+وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : "يَدُ اللهِ مَلأَى لَا تَغِيضُهَا نَفَقَةٌ سَحَّاءُ اللَّيْلِ وَالنَّهَارِ، أرَأَيْتُمْ مَا أَنْفَقَ مُذْ خَلَقَ السَّمَاءَ وَالأَرْضَ؟ فَإِنَّهُ لَمْ يَغِضْ مَا فِيْ يَدِهٖ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ، وَبِيَدِهِ الْمِيزَانُ، يَخْفِضُ وَيَرْفَعُ". مُتَّفَقٌ عَلَيْهِ.
 وَفِي رِوَايَةٍ لِمُسْلِمٍ: "يَمِيْنُ اللهِ مَلأَى -قَالَ ابْنُ نُمَيْرٍ: مَلْآنُ- سَحَّاءُ لَا يُغِيضُهَا شَيْءُ اللَّيْلِ وَالنَّهَارِ"
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Rasool Allah ﷺ ne farmaya: Allah ka dast-e-karam bhara hua hai. **1** Kharch karna us mein kami nahi karta; us ki ata-pashi raat aur din jari hai. **2** Ghaur karo, jab se us ne aasman aur zameen banaye hain tab se kitna kharch farmaya, lekin is kharch ne us ke dast-e-karam mein koi kami nahi ki. Us ka Arsh pani par tha **3** aur tarazu us ke qabze mein hai; woh use buland aur past karta hai. **4** (Muslim wa Bukhari) Muslim ki ek riwayat mein hai: Allah ka dast-e-karam bhara hua hai. Ibn Numair ne "مَلْآنُ" farmaya. Raat aur din ki koi cheez us ki ata mein kami nahi karti.
@@ -69,7 +69,7 @@
 
 **Arabic hadith:**
 
-وَعَنْهُ قَالَ: سُئِلَ رَسُولُ الله صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   عَنْ ذَرَارِيِّ الْمُشْرِكِيْنَ قَالَ: «اللّٰهُ  أَعْلَمُ بِمَا كَانُوْا عَامِلِيْنَ» مُتَّفَقٌ عَلَيْهِ.
+وَعَنْهُ قَالَ: سُئِلَ رَسُولُ الله صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَرَارِيِّ الْمُشْرِكِيْنَ قَالَ: «اللّٰهُ أَعْلَمُ بِمَا كَانُوْا عَامِلِيْنَ» مُتَّفَقٌ عَلَيْهِ.
 
 **Lafzi tarjuma:** Riwayat hai unhi se. Rasool Allah ﷺ se kafiron ke bachchon ke baare mein poocha gaya to farmaya: Allah jaanta hai ke woh kya aamaal karte. **1** (Muslim wa Bukhari)
 
@@ -83,7 +83,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عُبَادَةِ بْنِ الصَّامِتِ قَالَ  قَالَ رَسُولُ الله صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ : «إِنَّ أَوَّلَ مَا خَلَقَ اللّٰهُ  الْقَلَمَ فَقَالَ لَهٗ اُكْتُبْ فَقَالَ مَا أَكْتُبُ قَالَ اُكْتُبِ الْقَدَرَ فَكَتَبَ مَا كَانَ وَمَا هُوَ كَائِنٌ إِلَى الْأَبَدِ».رَوَاهُ التِّرْمِذِيُّ وَقَالَ هَذَا حَدِيثٌ غَرِيبٌ إِسْنَادًا
+وَعَنْ عُبَادَةِ بْنِ الصَّامِتِ قَالَ قَالَ رَسُولُ الله صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : «إِنَّ أَوَّلَ مَا خَلَقَ اللّٰهُ الْقَلَمَ فَقَالَ لَهٗ اُكْتُبْ فَقَالَ مَا أَكْتُبُ قَالَ اُكْتُبِ الْقَدَرَ فَكَتَبَ مَا كَانَ وَمَا هُوَ كَائِنٌ إِلَى الْأَبَدِ».رَوَاهُ التِّرْمِذِيُّ وَقَالَ هَذَا حَدِيثٌ غَرِيبٌ إِسْنَادًا
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ubadah ibn Samit se. Farmate hain ke Rasool Allah ﷺ ne farmaya: Allah ne sab se pehle qalam paida kiya. **1** Phir us se farmaya: Likh. Us ne arz ki: Kya likhun? **2** Farmaya: Taqdeer likh. Chunanche us ne jo kuch ho chuka aur jo hamesha tak hoga, sab likh diya. **3** (Tirmizi) Tirmizi ne farmaya: Yeh hadith sanad ke aitibar se gharīb hai.
 
@@ -101,7 +101,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ مُسْلِمِ بْنِ يَسَارٍ قَالَ: سُئِلَ عُمَرُ بْنُ الْخَطَّابِ عَنْ هَذِهٖ الآيَةِ: وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ اَلْآيَةْ ، قَالَ عُمَرُ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  يُسْأَلُ عَنْهَا فَقَالَ: "إِنَّ الله خَلَقَ آدَمَ، ثُمَّ مَسَحَ ظَهْرَهُ بِيَمِينِهِ، فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً، فَقَالَ: خَلَقْتُ هَؤُلَاءِ لِلْجَنَّةِ، وَبِعَمَلِ أَهْلِ الْجَنَّةِ يَعْمَلُونَ، ثُمَّ مَسَحَ ظَهْرَهُ، فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً، فَقَالَ: خَلَقْتُ هَؤُلَاءِ لِلنَّارِ وَبِعَمَلِ أَهْلِ النَّارِ يَعْمَلُونَ"، فقَالَ رَجُلٌ فَفِيمَ الْعَمَلُ يَا رَسُولَ الله؟ فَقَالَ رَسُولُ الله صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : "إِنَّ الله إِذَا خَلَقَ الْعَبْدَ لِلْجَنَّةِ، اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ الْجَنَّةِ، فَيُدْخِلُهُ بِهِ الْجَنَّةَ، وَإِذَا خَلَقَ الْعَبْدَ لِلنَّارِ، اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ النَّارِ فَيُدْخِلُهُ بِهِ النَّارَ". رَوَاهُ مَالِكٌ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ
+وَعَنْ مُسْلِمِ بْنِ يَسَارٍ قَالَ: سُئِلَ عُمَرُ بْنُ الْخَطَّابِ عَنْ هَذِهٖ الآيَةِ: وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ اَلْآيَةْ ، قَالَ عُمَرُ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُسْأَلُ عَنْهَا فَقَالَ: "إِنَّ الله خَلَقَ آدَمَ، ثُمَّ مَسَحَ ظَهْرَهُ بِيَمِينِهِ، فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً، فَقَالَ: خَلَقْتُ هَؤُلَاءِ لِلْجَنَّةِ، وَبِعَمَلِ أَهْلِ الْجَنَّةِ يَعْمَلُونَ، ثُمَّ مَسَحَ ظَهْرَهُ، فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً، فَقَالَ: خَلَقْتُ هَؤُلَاءِ لِلنَّارِ وَبِعَمَلِ أَهْلِ النَّارِ يَعْمَلُونَ"، فقَالَ رَجُلٌ فَفِيمَ الْعَمَلُ يَا رَسُولَ الله؟ فَقَالَ رَسُولُ الله صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : "إِنَّ الله إِذَا خَلَقَ الْعَبْدَ لِلْجَنَّةِ، اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ الْجَنَّةِ، فَيُدْخِلُهُ بِهِ الْجَنَّةَ، وَإِذَا خَلَقَ الْعَبْدَ لِلنَّارِ، اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ النَّارِ فَيُدْخِلُهُ بِهِ النَّارَ". رَوَاهُ مَالِكٌ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ
 
 **Lafzi tarjuma:** Riwayat hai Muslim ibn Yasar se. **1** Farmate hain ke Hazrat Umar ibn Khattab se is ayat ke baare mein poocha gaya: "Aur jab tumhare Rab ne Bani Adam ki pushton se un ki aulaad nikali". **2** Hazrat Umar ne farmaya: Main ne Rasool Allah ﷺ ko suna, aap ﷺ se bhi yahi sawal kiya gaya tha. Aap ﷺ ne farmaya: Allah ne Adam علیہ السلام ko paida farmaya, phir apne dast-e-qudrat se un ki pusht par haath phera **3** aur un se un ki aulaad nikali. **4** Farmaya: Main ne inhein Jannat ke liye banaya hai aur yeh Jannatiyon ke aamaal karenge. **5** Phir un ki pusht par haath phera aur un se aulaad nikali. **6** Farmaya: Main ne inhein Aag ke liye banaya hai aur yeh Dozakhiyon ke aamaal karenge. **7** Ek shakhs ne arz ki: Ya Rasool Allah! Phir amal kis liye hai? **8** Rasool Allah ﷺ ne farmaya: Allah jis bande ko Jannat ke liye paida farmata hai, us se Jannatiyon ke aamaal karwata hai, yahan tak ke woh Jannatiyon ke kisi amal par wafat pata hai aur us amal ki wajah se use Jannat mein dakhil farmata hai. **9** Aur jab bande ko Dozakh ke liye paida farmata hai to us se Dozakhiyon ke aamaal karwata hai, **10** yahan tak ke woh Dozakhiyon ke kisi amal par wafat pata hai aur us ki wajah se use Dozakh mein dakhil farmata hai. **11** (Malik, Tirmizi, Abu Dawud)
 
@@ -135,7 +135,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَبْدِ الله بْنِ عَمْرٍو قَالَ: خَرَجَ رَسُولُ الله -صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  - وَفِي يَدَيْهِ كِتَابَانِ فَقَالَ: "أَتَدْرُونَ مَا هَذَانِ الكِتَابَانِ؟ " قُلْنَا: لَا، يَا رَسُولَ اللهِ إِلَّا أَنْ تُخْبِرَنَا، فَقَالَ لِلَّذِيْ فِي يَدِهِ الْيُمْنَى: "هَذٰا كِتَابٌ مِنْ رَبِّ الْعَالَمِينَ، فِيهِ أَسْمَاءُ أَهْلِ الْجَنَّةِ وَأَسْمَاءُ آبَائِهِم وقَبَائِلِهِمْ، ثُمَّ أُجْمِلَ عَلٰی آخِرِهِمْ، فَلَا يُزَادُ فِيهِمْ وَلَا يُنْقَصُ مِنْهُمْ أَبَدًا ثُمَّ قَالَ لِلَّذِيْ فِي شِمَالِهٖ: "هَذَا كِتَابٌ مِنْ رَبِّ الْعَالَمِيْنَ، فِيهِ أَسْمَاءُ أَهْلِ النَّارِ وَأَسْمَاءُ آبَائِهِمْ وَقَبَائِلِهِمْ، ثُمَّ أُجْمِلَ عَلَى آخِرهِمْ، فَلَا يُزَادُ فِيهِمْ وَلَا يُنْقَصُ مِنْهُمْ أَبَدًا"، فَقَالَ أَصْحَابُهُ: فَفِيمَ الْعَمَلُ يَا رَسُوْلَ اللهِ إِنْ كَانَ أَمْرٌ قَدْ فُرِغَ مِنْهُ؟ فَقَالَ: "سَدِّدُوْا وَقَارِبُوْا، فَإِنَّ صَاحِبَ الْجَنَّةِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ وَإِنْ عَمِلَ أَيَّ عَمَلٍ، وَإنَّ صَاحِبَ النَّارِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ النَّارِ وَإِنْ عَمِلَ أَيَّ عَمَلٍ"، ثُمَّ قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   بِيَدَيْهِ فَنَبَذَهُمَا، ثُمَّ قَالَ: "فَرَغَ رَبُّكُمْ مِنَ الْعِبَادِ، فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ.رَوَاهُ التِّرْمِذِيُّ
+وَعَنْ عَبْدِ الله بْنِ عَمْرٍو قَالَ: خَرَجَ رَسُولُ الله -صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ - وَفِي يَدَيْهِ كِتَابَانِ فَقَالَ: "أَتَدْرُونَ مَا هَذَانِ الكِتَابَانِ؟ " قُلْنَا: لَا، يَا رَسُولَ اللهِ إِلَّا أَنْ تُخْبِرَنَا، فَقَالَ لِلَّذِيْ فِي يَدِهِ الْيُمْنَى: "هَذٰا كِتَابٌ مِنْ رَبِّ الْعَالَمِينَ، فِيهِ أَسْمَاءُ أَهْلِ الْجَنَّةِ وَأَسْمَاءُ آبَائِهِم وقَبَائِلِهِمْ، ثُمَّ أُجْمِلَ عَلٰی آخِرِهِمْ، فَلَا يُزَادُ فِيهِمْ وَلَا يُنْقَصُ مِنْهُمْ أَبَدًا ثُمَّ قَالَ لِلَّذِيْ فِي شِمَالِهٖ: "هَذَا كِتَابٌ مِنْ رَبِّ الْعَالَمِيْنَ، فِيهِ أَسْمَاءُ أَهْلِ النَّارِ وَأَسْمَاءُ آبَائِهِمْ وَقَبَائِلِهِمْ، ثُمَّ أُجْمِلَ عَلَى آخِرهِمْ، فَلَا يُزَادُ فِيهِمْ وَلَا يُنْقَصُ مِنْهُمْ أَبَدًا"، فَقَالَ أَصْحَابُهُ: فَفِيمَ الْعَمَلُ يَا رَسُوْلَ اللهِ إِنْ كَانَ أَمْرٌ قَدْ فُرِغَ مِنْهُ؟ فَقَالَ: "سَدِّدُوْا وَقَارِبُوْا، فَإِنَّ صَاحِبَ الْجَنَّةِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ وَإِنْ عَمِلَ أَيَّ عَمَلٍ، وَإنَّ صَاحِبَ النَّارِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ النَّارِ وَإِنْ عَمِلَ أَيَّ عَمَلٍ"، ثُمَّ قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ بِيَدَيْهِ فَنَبَذَهُمَا، ثُمَّ قَالَ: "فَرَغَ رَبُّكُمْ مِنَ الْعِبَادِ، فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ.رَوَاهُ التِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Abdullah ibn Amr se. Ek martaba Rasool Allah ﷺ tashreef laaye aur aap ﷺ ke dono haathon mein do kitabein thin. **1** Farmaya: Kya tum jaante ho yeh dono kitabein kya hain? **2** Hum ne arz ki: Ya Rasool Allah ﷺ! Aap ﷺ bataye baghair hum nahi jaante. **3** Phir aap ﷺ ne daayein haath wali kitab ke baare mein farmaya: Yeh Rab-ul-Alameen ki taraf se kitab hai. Is mein Jannatiyon ke naam, un ke baap-dada aur qabeele likhe hain. **4** Phir sab ka aakhri hisaab laga diya gaya hai. **5** Ab in mein kabhi kami-beshi nahi hogi. **6** Phir baayein haath wali kitab ke baare mein farmaya: **7** Yeh bhi Rab-ul-Alameen ki taraf se kitab hai. Is mein Dozakhiyon ke naam, un ke baap-dada aur qabeele likhe hain. Phir sab ka aakhri hisaab laga diya gaya hai. **8** Ab in mein kabhi kami-beshi nahi hogi. Sahaba ne arz ki: Ya Rasool Allah ﷺ! Phir amal kis liye hai, jab maamla tay ho chuka? **9** Farmaya: Seedhe raho aur qurb-e-Ilahi hasil karne ke qareeb raho. **10** Jannati ka anjaam Jannatiyon ke amal par hota hai, chahe pehle woh koi bhi amal karta raha ho, aur Dozakhi ka anjaam Dozakhiyon ke amal par hota hai, chahe pehle woh koi bhi amal karta raha ho. Phir Rasool Allah ﷺ ne apne dono haathon se ishara karke unhein jhatak diya **11** aur farmaya: Tumhare Rab ne bandon ka faisla kar diya: ek giroh Jannat mein hai aur ek giroh bhadakti aag mein. **12** (Tirmizi)
 
@@ -191,7 +191,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أبِيْ هُرَيْرَة قَالَ: خَرَجَ عَلَيْنَا رَسُوْلُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   وَنَحْنُ نَتَنَازَعُ فِي الْقَدَرِ فَغَضِبَ حَتَّى احْمَرَّ وَجْهُهُ حَتَّى كَأَنَّمَا فُقِئَ  وَجْنَتَيْهِ حَبَّ الرُّمَّانِ فَقَالَ أَبِهَذٰا: «أُمِرْتُمْ أَمْ بِهَذٰا أُرْسِلْتُ إِلَيْكُمْ إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ حِيْنَ تَنَازَعُوْا فِيْ هَذٰا الْأَمْرِ عَزَمْتُ عَلَيْكُمْ عَزَمْتُ عَلَيْكُمْ أَنْ لَا تَنَازَعُوْا فِيْهِ».رَوَاهُ التِّرْمِذِيُّ
+وَعَنْ أبِيْ هُرَيْرَة قَالَ: خَرَجَ عَلَيْنَا رَسُوْلُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَنَحْنُ نَتَنَازَعُ فِي الْقَدَرِ فَغَضِبَ حَتَّى احْمَرَّ وَجْهُهُ حَتَّى كَأَنَّمَا فُقِئَ وَجْنَتَيْهِ حَبَّ الرُّمَّانِ فَقَالَ أَبِهَذٰا: «أُمِرْتُمْ أَمْ بِهَذٰا أُرْسِلْتُ إِلَيْكُمْ إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ حِيْنَ تَنَازَعُوْا فِيْ هَذٰا الْأَمْرِ عَزَمْتُ عَلَيْكُمْ عَزَمْتُ عَلَيْكُمْ أَنْ لَا تَنَازَعُوْا فِيْهِ».رَوَاهُ التِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Abu Hurairah se. Rasool Allah ﷺ hamare paas tashreef laaye, jabke hum taqdeer ke masle mein jhagadh rahe the. **1** Aap ﷺ naraz hue, yahan tak ke aap ﷺ ka chehra anwar surkh ho gaya, **2** goya dono rukhsaron mein anar ke dane nichod diye gaye hon. Farmaya: Kya tumhein is ka hukm diya gaya hai ya main isi ke saath tumhari taraf bheja gaya hoon? **3** Tum se pehle log jab is masle mein jhagde to halak ho gaye. **4** Main tum par lazim karta hoon, main tum par lazim karta hoon ke is masle mein na jhagdo. **5** (Tirmizi)
 
@@ -227,7 +227,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ مُوسٰى قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يَقُولُ: «إِنَّ اللهَ خَلَقَ آدَمَ مِنْ قَبْضَةٍ قَبَضَهَا مِنْ جَمِيعِ الْأَرْضِ فَجَاءَ بَنُوْ آدَمَ عَلَى قَدْرِ الْأَرْضِ مِنْهُمُ الْأَحْمَرُ وَالْأَبْيَضُ والْأَسْوَدُ وَبَيْنَ ذٰلِكَ وَالسَّهْلُ وَالْحُزْنُ وَالْخَبِيثُ وَالطَّيِّبُ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ
+وَعَنْ أَبِيْ مُوسٰى قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ اللهَ خَلَقَ آدَمَ مِنْ قَبْضَةٍ قَبَضَهَا مِنْ جَمِيعِ الْأَرْضِ فَجَاءَ بَنُوْ آدَمَ عَلَى قَدْرِ الْأَرْضِ مِنْهُمُ الْأَحْمَرُ وَالْأَبْيَضُ والْأَسْوَدُ وَبَيْنَ ذٰلِكَ وَالسَّهْلُ وَالْحُزْنُ وَالْخَبِيثُ وَالطَّيِّبُ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Musa se. Farmate hain: Main ne Rasool Allah ﷺ ko farmate hue suna: Allah Ta'ala ne Adam علیہ السلام ko ek muthi mitti se paida farmaya jo poori zameen se li gayi thi. **1** Is liye Adam علیہ السلام ki aulaad zameen ke rang aur mizaj ke mutabiq aayi. **2** Un mein surkh, safed, siyah aur in ke darmiyan rang wale hain. **3** Un mein narm, sakht, bad aur paak fitrat wale bhi hain. **4** Is hadith ko Ahmad, Tirmizi aur Abu Dawud ne riwayat kiya.
 
@@ -247,7 +247,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَبْدِ الله بْنِ عَمْرٍو قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يَقُولُ:  إِنَّ الله خَلَقَ خَلْقَهُ فِي ظُلْمَةٍ فَأَلْقٰى عَلَيْهِمْ مِنْ نُورِهٖ فَمَنْ أَصَابَهٗ مِنْ ذٰلِكَ النُّورِ اِهْتَدٰى وَمَنْ أَخْطَأَهٗ ضَلَّ فَلِذٰلِكَ أَقُوْلُ: جَفَّ الْقَلَمُ عَلٰى عِلْمِ اللهِ . رَوَاهُ أَحْمدُ وَالتِّرْمِذِيُّ
+وَعَنْ عَبْدِ الله بْنِ عَمْرٍو قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: إِنَّ الله خَلَقَ خَلْقَهُ فِي ظُلْمَةٍ فَأَلْقٰى عَلَيْهِمْ مِنْ نُورِهٖ فَمَنْ أَصَابَهٗ مِنْ ذٰلِكَ النُّورِ اِهْتَدٰى وَمَنْ أَخْطَأَهٗ ضَلَّ فَلِذٰلِكَ أَقُوْلُ: جَفَّ الْقَلَمُ عَلٰى عِلْمِ اللهِ . رَوَاهُ أَحْمدُ وَالتِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abdullah ibn Amr se. Farmate hain: Main ne Rasool Allah ﷺ ko farmate hue suna: Allah ne apni makhluq ko andhere mein paida kiya. **1** Phir un par apne noor ki shua daali. **2** Jise is noor mein se kuchh mila woh hidaayat paa gaya. **3** Aur jo is se reh gaya woh gumraah ho gaya. **4** Isi liye main kehta hoon ke qalam Allah ke ilm par sookh chuka. **5** (Ahmad wa Tirmizi)
 
@@ -269,7 +269,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَنَسٍ قَالَ: كَانَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يُكْثِرُ أَنْ يَقُولَ: «يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ»فَقُلْتُ: يَا نَبِيَّ الله اٰمَنَّا بِكَ وَبِمَا جِئْتَ بِهٖ فَهَلْ تَخَافُ عَلَيْنَا قَالَ: «نَعَمْ إِنَّ الْقُلُوبَ بَيْنَ أُصْبُعَيْنِ مِنْ أَصَابِعِ اللهِ يُقَلِّبُهَا كَيْفَ يَشَاءُ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ
+وَعَنْ أَنَسٍ قَالَ: كَانَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُكْثِرُ أَنْ يَقُولَ: «يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ»فَقُلْتُ: يَا نَبِيَّ الله اٰمَنَّا بِكَ وَبِمَا جِئْتَ بِهٖ فَهَلْ تَخَافُ عَلَيْنَا قَالَ: «نَعَمْ إِنَّ الْقُلُوبَ بَيْنَ أُصْبُعَيْنِ مِنْ أَصَابِعِ اللهِ يُقَلِّبُهَا كَيْفَ يَشَاءُ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Anas se ke Rasool Allah ﷺ aksar yeh farmate the: “Ae dilon ko pherne wale! Mere dil ko apne deen par saabit rakh.” **1** Main ne arz ki: Ae Nabi Allah! Hum aap par aur jo kuchh aap laaye hain us sab par iman la chuke hain, to kya ab bhi aap ko hamare baare mein andesha hai? **2** Farmaya: Haan, logon ke dil Allah ki ungliyon mein se do ungliyon ke darmiyan hain; woh jis taraf chahe unhein pher deta hai. **3** (Tirmizi wa Ibn Majah)
 
@@ -277,7 +277,7 @@
 
 **1.** Yeh dua ummat ko sikhaane ke liye hai, taake log sun kar seekh lein. Warna Nabi-e-Kareem ﷺ ka deen-e-haq se hatna isi tarah namumkin hai jaise Allah ka shareek hona. Jis par Huzoor ﷺ nigah-e-karam farma dein, woh nahin phisal sakta. Hazrat Usman Ghani se farmaya gaya ke jo chaho karo, magar woh gunah na kar sake, jaisa ke agle mazmoon se zahir hai.
 
-**2.** SubhanAllah! Yeh Sahaba-e-Kiram ka iman hai. Unhone dua sunte hi samajh liya ke yeh dua hamare liye hai, Huzoor ﷺ ke liye nahin. “عَلَيْنَا” se murad Qayamat tak ke aam Musalman hain; kuchh Sahaba Huzoor ﷺ ke karam se is se mustasna hain. Huzoor ﷺ ne farmaya ke Umar ke saaye se Shaitan bhaagta hai aur Huzoor ﷺ ki nigah se dagmagaate hue log jam jaate hain. Rab Ta'ala farmata hai: “اَلَاۤ اِنَّ اَوْلِیَآءَ الله  لَاخَوْفٌ عَلَیۡہِمْ وَلَا هُمْ یَحْزَنُوۡنَ”.
+**2.** SubhanAllah! Yeh Sahaba-e-Kiram ka iman hai. Unhone dua sunte hi samajh liya ke yeh dua hamare liye hai, Huzoor ﷺ ke liye nahin. “عَلَيْنَا” se murad Qayamat tak ke aam Musalman hain; kuchh Sahaba Huzoor ﷺ ke karam se is se mustasna hain. Huzoor ﷺ ne farmaya ke Umar ke saaye se Shaitan bhaagta hai aur Huzoor ﷺ ki nigah se dagmagaate hue log jam jaate hain. Rab Ta'ala farmata hai: “اَلَاۤ اِنَّ اَوْلِیَآءَ الله لَاخَوْفٌ عَلَیۡہِمْ وَلَا هُمْ یَحْزَنُوۡنَ”.
 
 **3.** Yaani jinn aur insaan ke dil. Is ki tafseer pehle kai baar guzar chuki hai.
 
@@ -287,7 +287,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ مُوسٰى قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : «مَثَلُ الْقَلْبِ كَرِيشَةٍ بِأَرْضِ فَلَاةٍ يُقَلِّبُهَا الرِّيَاحُ ظَهْرَالْبَطْنِ» . رَوَاهُ أَحْمَدُ
+وَعَنْ أَبِيْ مُوسٰى قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : «مَثَلُ الْقَلْبِ كَرِيشَةٍ بِأَرْضِ فَلَاةٍ يُقَلِّبُهَا الرِّيَاحُ ظَهْرَالْبَطْنِ» . رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Abu Musa se. Rasool Allah ﷺ ne farmaya: Dil ki misaal us par ki si hai jo maidaani zameen mein ho aur hawaen use ulat-palat karti hon. **1** (Ahmad)
 
@@ -301,7 +301,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَلِيٍّ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  :  لَا يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِأَرْبَعٍ: يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللّٰهُ  وَأَنِّيْ رَسُولُ اللهِ بَعَثَنِيْ بِالْحَقِّ وَيُؤْمِنُ بِالْمَوْتِ وَالْبَعْثِ بَعْدَ الْمَوْتِ وَيُؤْمِنُ بِالْقَدَرِ . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ
+وَعَنْ عَلِيٍّ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : لَا يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِأَرْبَعٍ: يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللّٰهُ وَأَنِّيْ رَسُولُ اللهِ بَعَثَنِيْ بِالْحَقِّ وَيُؤْمِنُ بِالْمَوْتِ وَالْبَعْثِ بَعْدَ الْمَوْتِ وَيُؤْمِنُ بِالْقَدَرِ . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ali se. Rasool Allah ﷺ ne farmaya: Banda us waqt tak Momin nahin hota jab tak chaar baaton par iman na laaye: **1** Gawahi de ke Allah ke siwa koi ma'bood nahin aur main Allah ka Rasool hoon; Allah ne mujhe haq ke saath bheja hai. **2** Aur maut, maut ke baad dobara uthne aur taqdeer par iman laaye. (Tirmizi wa Ibn Majah)
 
@@ -317,7 +317,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : صِنْفَانِ مِنْ أُمَّتِي لَيْسَ لَهُمَا فِي الْإِسْلَامِ نَصِيبٌ: الْمُرْجِئَةُ وَ الْقَدَرِيَّةُ . رَوَاهُ التِّرْمِذِيُّ وَقَالَ هٰذَا حَدِيثٌ غَرِيبٌ
+وَعَنْ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللهِ صَلّٰى اللّٰهُ عَلَيْهِ وَسَلَّمَ : صِنْفَانِ مِنْ أُمَّتِي لَيْسَ لَهُمَا فِي الْإِسْلَامِ نَصِيبٌ: الْمُرْجِئَةُ وَ الْقَدَرِيَّةُ . رَوَاهُ التِّرْمِذِيُّ وَقَالَ هٰذَا حَدِيثٌ غَرِيبٌ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abbas se. Rasool Allah ﷺ ne farmaya: Meri ummat ke do giroh aise hain jin ka Islam mein koi hissa nahin: Murji'ah aur Qadriya. **1** (Tirmizi ne riwayat ki aur farmaya: Yeh hadith ghareeb hai.) **2**
 
@@ -333,13 +333,13 @@
 
 **Arabic hadith:**
 
-وَعَنِ ابْنِ عُمَرَ قَالَ: سَمِعْتُ رَسُوْلَ اللهِ  صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ  يَقُوْلُ: « یَکُوْنُ فِیْۤ اُمَّتِیْ خَسْفٌ وَّمَسْخٌ وَذٰلِکَ فِی الْمُکَذِّبِیْنَ بِالْقَدْرِ » .  رَوَاُہ اَبُوْدَاؤدَ وَرَوَی التِّرْمِذِیُّ نَحْوَہٗ
+وَعَنِ ابْنِ عُمَرَ قَالَ: سَمِعْتُ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ يَقُوْلُ: « یَکُوْنُ فِیْۤ اُمَّتِیْ خَسْفٌ وَّمَسْخٌ وَذٰلِکَ فِی الْمُکَذِّبِیْنَ بِالْقَدْرِ » . رَوَاُہ اَبُوْدَاؤدَ وَرَوَی التِّرْمِذِیُّ نَحْوَہٗ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ibn Umar se. Farmate hain: Main ne Huzoor ﷺ ko farmate hue suna: Meri ummat mein zameen mein dhansna aur sooratein badalna hoga, aur yeh taqdeer ko jhutlane walon ke saath hoga. **1** (Abu Dawud ne riwayat kiya aur Tirmizi ne isi ke qareeb riwayat ki.)
 
 **Poori wazahat:**
 
-**1.** Zahir yahi hai ke yahan khasf aur maskh ke haqeeqi ma'ni murad hain. Aakhir zamane mein taqdeer ke baaz munkir Qaroon ki tarah zameen mein dhansa diye jaayenge aur baaz Ayla walon ki tarah bandar aur suar bana diye jaayenge. Yaad rahe ke Huzoor ﷺ ki tashreef-aawari ke baad is qisam ke aam azaab Qayamat tak band ho gaye, lekin khaas azaab aayenge. Is liye yeh hadith is aayat ke khilaaf nahin: "مَا كَانَ  اللهُ  لِیُعَذِّبَهُمْ". Wahan aam azaab ki nafi hai aur yahan khaas azaab ka saboot. Baaz ne farmaya ke matlab yeh hai ke agar meri ummat mein maskh aur khasf hota to Qadriyon mein hota. Baaz ne farmaya ke Qadriyon ko yeh azaab Qayamat mein hoga: Maidan-e-Hashr mein un ke chehre kaale honge aur Pul-Siraat se gira kar Jahannam mein dhansa diye jaayenge. Lekin pehla ma'ni zyaada qawi hai. (Lam'aat)
+**1.** Zahir yahi hai ke yahan khasf aur maskh ke haqeeqi ma'ni murad hain. Aakhir zamane mein taqdeer ke baaz munkir Qaroon ki tarah zameen mein dhansa diye jaayenge aur baaz Ayla walon ki tarah bandar aur suar bana diye jaayenge. Yaad rahe ke Huzoor ﷺ ki tashreef-aawari ke baad is qisam ke aam azaab Qayamat tak band ho gaye, lekin khaas azaab aayenge. Is liye yeh hadith is aayat ke khilaaf nahin: "مَا كَانَ اللهُ لِیُعَذِّبَهُمْ". Wahan aam azaab ki nafi hai aur yahan khaas azaab ka saboot. Baaz ne farmaya ke matlab yeh hai ke agar meri ummat mein maskh aur khasf hota to Qadriyon mein hota. Baaz ne farmaya ke Qadriyon ko yeh azaab Qayamat mein hoga: Maidan-e-Hashr mein un ke chehre kaale honge aur Pul-Siraat se gira kar Jahannam mein dhansa diye jaayenge. Lekin pehla ma'ni zyaada qawi hai. (Lam'aat)
 
 ## Hadith 107
 
@@ -347,7 +347,7 @@
 
 **Arabic hadith:**
 
-وَعَنْهُ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ  :« اَلْقَدَرِیَّۃُ مَجُوْسُ ھٰذِہِ الْاُمَّۃِ اِنْ مَرِضُوْافَلَا تَعُوْدُوْھُمْ وَاِنْ مَاتُوْا فَلَا تَشْھَدُوْھُمْ» . رَوَاهُ أَحْمَدُ وَأَبُوْ دَاوُدَ.
+وَعَنْهُ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ :« اَلْقَدَرِیَّۃُ مَجُوْسُ ھٰذِہِ الْاُمَّۃِ اِنْ مَرِضُوْافَلَا تَعُوْدُوْھُمْ وَاِنْ مَاتُوْا فَلَا تَشْھَدُوْھُمْ» . رَوَاهُ أَحْمَدُ وَأَبُوْ دَاوُدَ.
 
 **Lafzi tarjuma:** Riwayat hai unhi se. Rasool Allah ﷺ ne farmaya: Qadriya is ummat ka Majusi giroh hai. **1** Agar woh beemar hon to un ki mizaj-pursi na karo aur agar wafat pa jaayen to un ke janazon mein na jao. **2** (Ahmad, Abu Dawud)
 
@@ -363,7 +363,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عُمَرَ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ  : « لَا تُجَالِسُوْاَھْلَ الْقَدْرِوَ لَا تُفَاتِحُوْھُمْ » رَوَاهُ أَبُو دَاوُدَ
+وَعَنْ عُمَرَ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ : « لَا تُجَالِسُوْاَھْلَ الْقَدْرِوَ لَا تُفَاتِحُوْھُمْ » رَوَاهُ أَبُو دَاوُدَ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Umar se. Rasool Allah ﷺ ne farmaya: Qadriyon ke saath uthna-baithna na rakho. **1** Un se baat ki ibtida na karo. **2** (Abu Dawud)
 
@@ -379,7 +379,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَائِشَةَ  قَالَتْ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ :  سِتَّةٌ لَعَنْتُهُمْ وَلَعَنَهُمُ  اللهُ  وَكُلُّ نَبِيٍّ يُجَابُ: اَلزَّائِدُ فِي كِتَابِ  اللهِ   وَالْمُكَذِّبُ بِقَدَرِ  اللهِ    وَالْمُتَسَلِّطُ بِالْجَبَرُوْتِ لِيُذِلَّ مَنْ أَعَزَّهُ  اللهُ   و لِيُعِزَّ مَنْ أَذَلَّهُ  اللهُ   وَالْمُسْتَحِلُّ لِحَرَمِ  اللهِ   وَالْمُسْتَحِلُّ مِنْ عِتْرَتِيْ مَا حَرَّمَ  اللهُ   وَالتَّارِكُ لِسُنَّتِيْ. رَوَاہُ الْبَیْھَقِیُّ فِی الْمَدْخَلِ وَرَزِیْنٌ فِی کِتَابِہٖ.
+وَعَنْ عَائِشَةَ قَالَتْ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ : سِتَّةٌ لَعَنْتُهُمْ وَلَعَنَهُمُ اللهُ وَكُلُّ نَبِيٍّ يُجَابُ: اَلزَّائِدُ فِي كِتَابِ اللهِ وَالْمُكَذِّبُ بِقَدَرِ اللهِ وَالْمُتَسَلِّطُ بِالْجَبَرُوْتِ لِيُذِلَّ مَنْ أَعَزَّهُ اللهُ و لِيُعِزَّ مَنْ أَذَلَّهُ اللهُ وَالْمُسْتَحِلُّ لِحَرَمِ اللهِ وَالْمُسْتَحِلُّ مِنْ عِتْرَتِيْ مَا حَرَّمَ اللهُ وَالتَّارِكُ لِسُنَّتِيْ. رَوَاہُ الْبَیْھَقِیُّ فِی الْمَدْخَلِ وَرَزِیْنٌ فِی کِتَابِہٖ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Aishah se. Rasool Allah ﷺ ne farmaya: Chhe log aise hain jin par main aur Allah laanat farmate hain. **1** Har Nabi ki dua maqbool hoti hai. **2** Allah ki Kitaab mein izafa karne wala. **3** Allah ki taqdeer ko jhutlane wala, aur zabardasti qabza jamaane wala taake Allah ke izzat diye hue logon ko zaleel kare aur Allah ke zaleel kiye hue logon ko izzat de. **4** Allah ke Haram ko halal samajhne wala. **5** Meri Aal ke baare mein un cheezon ko halal samajhne wala jinhein Allah ne haram kiya. **6** Aur meri Sunnat chhorne wala. **7** (Bayhaqi ne Al-Madkhal mein aur Razin ne apni kitab mein riwayat kiya.)
 
@@ -405,7 +405,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ مَطَرِ بْنِ عُکَامِسِ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ:« إِذَا قَضَى  اللهُ   لِعَبْدٍ أَنْ يَمُوْتَ بِأَرْضٍ جَعَلَ لَهٗ إِلَيْهَا حَاجَةً».رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ
+وَعَنْ مَطَرِ بْنِ عُکَامِسِ قَالَ: قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ:« إِذَا قَضَى اللهُ لِعَبْدٍ أَنْ يَمُوْتَ بِأَرْضٍ جَعَلَ لَهٗ إِلَيْهَا حَاجَةً».رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Matar ibn Ukamis se. **1** Farmate hain: Rasool Allah ﷺ ne farmaya: Jab Allah Ta'ala kisi bande ke baare mein kisi zameen mein inteqal ka faisla farmata hai to us ke liye wahan koi zaroori kaam paida kar deta hai. **2** (Ahmad wa Tirmizi)
 
@@ -421,7 +421,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَائِشَةَ رَضِيَ  اللهُ  عَنْهَا قَالَتْ: قُلْتُ: يَا رَسُولَ  اللهِ   ذَرَارِيُّ الْمُؤْمِنِيْنَ؟ قَالَ: «مِنْ آبَائِهِمْ». فَقُلْتُ: يَا رَسُولَ  اللهِ   بِلَا عَمَلٍ قَالَ: « اَللهُ  أَعْلَمُ بِمَا كَانُوْا عَامِلِيْنَ». قُلْتُ فَذَرَارِيُّ الْمُشْرِكِيْنَ قَالَ:« مِنْ آبَائِهِمْ».قُلْتُ:بِلَا عَمَلٍ قَالَ:« اَللهُ  أَعْلَمُ بِمَا كَانُوا عَامِلِيْنَ». رَوَاهُ أَبُوْ دَاوُدَ
+وَعَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا قَالَتْ: قُلْتُ: يَا رَسُولَ اللهِ ذَرَارِيُّ الْمُؤْمِنِيْنَ؟ قَالَ: «مِنْ آبَائِهِمْ». فَقُلْتُ: يَا رَسُولَ اللهِ بِلَا عَمَلٍ قَالَ: « اَللهُ أَعْلَمُ بِمَا كَانُوْا عَامِلِيْنَ». قُلْتُ فَذَرَارِيُّ الْمُشْرِكِيْنَ قَالَ:« مِنْ آبَائِهِمْ».قُلْتُ:بِلَا عَمَلٍ قَالَ:« اَللهُ أَعْلَمُ بِمَا كَانُوا عَامِلِيْنَ». رَوَاهُ أَبُوْ دَاوُدَ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Aishah رضی اللہ عنہا se. Farmati hain: Main ne arz ki, "Ya Rasool Allah ﷺ! Musalmanon ke bachche **1** kahan jaayenge?" Farmaya, "Apne baap-dada ke saath." **2** Main ne arz ki, "Bina amal ke?" Farmaya, "Allah jaanta hai ke woh kya karte." **3** Main ne arz ki, "To mushrikon ke bachche?" Farmaya, "Apne baap-dada ke saath." **4** Main ne arz ki, "Bina kuch kiye?" Farmaya, "Allah khoob jaanta hai jo woh karte." **5** (Abu Dawud)
 
@@ -443,7 +443,7 @@
 
 **Arabic hadith:**
 
-وَعَنِ ابْنِ مَسْعُودٍ قَالَ: رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ: اَلْوَائِدَۃُ وَالْمَوْءُ وْدَۃُ فِی النَّارِ. رَوَاهُ أَبُوْ دَاوُدَ  وَالتِّرْمِذِيُّ .
+وَعَنِ ابْنِ مَسْعُودٍ قَالَ: رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ: اَلْوَائِدَۃُ وَالْمَوْءُ وْدَۃُ فِی النَّارِ. رَوَاهُ أَبُوْ دَاوُدَ وَالتِّرْمِذِيُّ .
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ibn Masood se. Farmate hain: Rasool Allah ﷺ ne farmaya: Zinda dafan karne wali maa aur zinda dafan ki hui bachchi dono Dozakh mein hain. **1** (Abu Dawud)
 
@@ -457,7 +457,7 @@
 
 **Arabic hadith:**
 
-عَنْ اَبِی الدَّرْدَآءِ قَالَ:قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ : إِنَّ اللَّهَ عَزَّ وَجَلَّ  فَرَغَ اِلٰی کُلِّ عَبْدِ مِنْ خَلْقِہٖ مِنْ خَمْسِ: مِنْ اَجَلِہٖ وَعَمَلِہٖ وَمَضْجَعِہٖ وَاَثَرِہٖ وَرِزْقِہٖ. رَوَاهُ أَحْمَدُ
+عَنْ اَبِی الدَّرْدَآءِ قَالَ:قَالَ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَ : إِنَّ اللَّهَ عَزَّ وَجَلَّ فَرَغَ اِلٰی کُلِّ عَبْدِ مِنْ خَلْقِہٖ مِنْ خَمْسِ: مِنْ اَجَلِہٖ وَعَمَلِہٖ وَمَضْجَعِہٖ وَاَثَرِہٖ وَرِزْقِہٖ. رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Darda se. **1** Rasool Allah ﷺ ne farmaya: Allah Ta'ala apni makhlooq mein har bande ke baare mein paanch cheezon ka faisla farigh kar chuka hai: **2** us ki maut, us ka amal, **3** us ki har harkat-o-sukoon, **4** aur us ka rizq. (Ahmad)
 
@@ -477,7 +477,7 @@
 
 **Arabic hadith:**
 
-وَعَنْ عَائِشَةَ  قَالَتْ: سَمِعْتُ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَاللهاللّٰهُ    يَقُوْلُ: «مَنْ تَكَلَّمَ فِيْ شَيْءٍ مِنَ الْقَدَرِ سُئِلَ عَنْهُ يَوْمَ الْقِيَامَةِ وَمَنْ لَمْ يَتَكَلَّمْ فِيْهِ لَمْ يسْأَلْ عَنْهُ» . رَوَاهُ ابْنُ مَاجَهْ.
+وَعَنْ عَائِشَةَ قَالَتْ: سَمِعْتُ رَسُوْلَ اللهِ صَلَّی اللهُ عَلَیْہِ وَسَلَّمَاللهاللّٰهُ يَقُوْلُ: «مَنْ تَكَلَّمَ فِيْ شَيْءٍ مِنَ الْقَدَرِ سُئِلَ عَنْهُ يَوْمَ الْقِيَامَةِ وَمَنْ لَمْ يَتَكَلَّمْ فِيْهِ لَمْ يسْأَلْ عَنْهُ» . رَوَاهُ ابْنُ مَاجَهْ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Aishah se. Farmati hain: Main ne Nabi ﷺ ko farmate suna: Jo taqdeer ke kisi masle mein behas karega, Qayamat ke din us se is ki baaz-purs hogi. **1** Aur jo is mein behas nahin karega, us se pooch-gachh nahin hogi. **2** (Ibn Majah)
 
@@ -500,7 +500,7 @@ Pehchaan gaya main, teri pehchaan yahi hai
 **Arabic hadith:**
 
 وَعَنِ ابْنِ الدَّيْلَمِيِّ قَالَ: أَتَيْتُ أُبَيَّ بْنَ كَعْبٍ فَقُلْتُ لَهٗ: قَدْ وَقَعَ فِيْ نَفْسِيْ شَيْءٌ مِنَ الْقَدَرِ فَحَدِثْنِیْ لَعَلَّ اللهَ اَنْ یُّذْھِبَہٗ
-مِنْ قَلْبِیْ فَقَالَ لَوْ اَنَّ اللهَ عَزَّوَجَلَّ عَذَّبَ أَهْلَ سَمَاوَاتِهٖ وأَهْلَ أَرْضِهٖ عَذَّبَهُمْ وَهُوَ غَيْرُ ظَالِمٍ وَلَوْ رَحِمَهُمْ كَانَتْ رَحْمَتُهٗ خَيْرًا لَهُمْ مِنْ أَعْمَالِهِمْ وَلَوْ أَنْفَقْتَ مِثْلَ أُحُدٍ ذَهَبًا فِيْ سَبِيلِ اللهِ مَا قَبِلَهُ اللّٰهُ  مِنْكَ حَتّٰى تُؤْمِنَ بِالْقَدَرِ وَتَعْلَمَ أَنَّ مَا أَصَابَكَ لَمْ يَكُنْ لِيُخْطِئَكَ وَأَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيْبَكَ وَلَوْ مُتَّ عَلٰى غَيْرِ هٰذَا لَدَخَلْتَ النَّارَ قَالَ ثُمَّ أَتَيْتُ عَبْدَ اللهِ بْنَ مَسْعُودٍ فَقَالَ مِثْلَ ذٰلِكَ قَالَ ثُمَّ أَتَيْتُ حُذَيْفَةَ بْنَ الْيَمَانِ فَقَالَ مِثْلَ ذٰلِكَ قَالَ ثُمَّ أَتَيْتُ زَيْدَ بْنَ ثَابِتٍ فَحَدَّثَنِيْ عَنِ النَّبِيِّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   مِثْلَ ذَلِكَ. رَوَاهُ أَحْمَدُ وَأَبُوْ دَاوُدَ وَابْنُ مَاجَهْ.
+مِنْ قَلْبِیْ فَقَالَ لَوْ اَنَّ اللهَ عَزَّوَجَلَّ عَذَّبَ أَهْلَ سَمَاوَاتِهٖ وأَهْلَ أَرْضِهٖ عَذَّبَهُمْ وَهُوَ غَيْرُ ظَالِمٍ وَلَوْ رَحِمَهُمْ كَانَتْ رَحْمَتُهٗ خَيْرًا لَهُمْ مِنْ أَعْمَالِهِمْ وَلَوْ أَنْفَقْتَ مِثْلَ أُحُدٍ ذَهَبًا فِيْ سَبِيلِ اللهِ مَا قَبِلَهُ اللّٰهُ مِنْكَ حَتّٰى تُؤْمِنَ بِالْقَدَرِ وَتَعْلَمَ أَنَّ مَا أَصَابَكَ لَمْ يَكُنْ لِيُخْطِئَكَ وَأَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيْبَكَ وَلَوْ مُتَّ عَلٰى غَيْرِ هٰذَا لَدَخَلْتَ النَّارَ قَالَ ثُمَّ أَتَيْتُ عَبْدَ اللهِ بْنَ مَسْعُودٍ فَقَالَ مِثْلَ ذٰلِكَ قَالَ ثُمَّ أَتَيْتُ حُذَيْفَةَ بْنَ الْيَمَانِ فَقَالَ مِثْلَ ذٰلِكَ قَالَ ثُمَّ أَتَيْتُ زَيْدَ بْنَ ثَابِتٍ فَحَدَّثَنِيْ عَنِ النَّبِيِّ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ مِثْلَ ذَلِكَ. رَوَاهُ أَحْمَدُ وَأَبُوْ دَاوُدَ وَابْنُ مَاجَهْ.
 
 **Lafzi tarjuma:** Riwayat hai Ibn Dailami se. **1** Main Ubayy ibn Ka'b ki khidmat mein haazir hua. **2** Main ne arz ki, "Mere dil mein taqdeer ke baare mein kuch shak paida ho gaye hain. **3** Mujhe koi hadith sunaaiye, shayad Allah mere dil se unhein door farma de." **4** Unhon ne farmaya: Agar Allah Ta'ala aasmanon aur zameen walon ko azaab de to woh un par zulm nahin karega. **5** Aur agar un par rahm farma de to us ki rahmat un ke aamaal se behtar hogi. **6** Agar tum Uhud ke barabar sona Allah ki raah mein kharch karo, Allah tum se qabool nahin karega jab tak tum taqdeer par iman na lao. **7** Aur yeh na jaan lo ke jo tumhein pahuncha, woh tum se bach nahin sakta tha, aur jo tum se bach gaya, woh tumhein pahuncha nahin sakta tha. **8** Agar tum is aqeede ke ilawa kisi aur aqeede par inteqal kar gaye to Dozakh mein jaoge. Phir main Abdullah ibn Masood, Huzaifah ibn Yaman aur Zaid ibn Saabit ke paas gaya; unhon ne bhi isi ma'ni ki baat kahi. **9** Zaid ibn Saabit ne Nabi ﷺ se yahi hadith bayan ki. **10** (Ahmad, Abu Dawud, Ibn Majah)
 
@@ -534,7 +534,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ نَافِعٍ أَنَّ رَجُلًا أَتَى ابْنَ عُمَرَ فَقَالَ: إِنَّ فُلَانًا يَقْرَأُ عَلَيْكَ السَّلَامَ، فَقَالَ: إِنَّهٗ بَلَغَنِيْ أَنَّهٗ قَدْ أَحْدَثَ، فَإِنْ كَانَ قَدْ أَحْدَثَ فَلَا تُقْرِئْهٗ مِنِّي السَّلَامَ، فَإِنِّيْ سَمِعْتُ رَسُولَ اللَّهِاللهِ -صَلَّى اللَّهُاللّٰهُ  عَلَيْهِ وَسَلَّمَ  - يَقُوْلُ: "يَكُوْنُ فِيْ أُمَّتِيْ -أَوْ فِيْ هٰذِهِ الأمَّةِ- خَسْفٌ ومَسْخٌ، أَوْ قَذْفٌ فِي أَهْلِ الْقَدَرِ". رَوَاهُ التِّرْمِذِيُّ وَأَبُوْ دَاوُدَ وَابْنُ مَاجَهْ، وَقَالَ التِّرْمِذِيُّ: هٰذَا حَدِيْثٌ حَسَنٌ غَرِيْبٌ.
+وَعَنْ نَافِعٍ أَنَّ رَجُلًا أَتَى ابْنَ عُمَرَ فَقَالَ: إِنَّ فُلَانًا يَقْرَأُ عَلَيْكَ السَّلَامَ، فَقَالَ: إِنَّهٗ بَلَغَنِيْ أَنَّهٗ قَدْ أَحْدَثَ، فَإِنْ كَانَ قَدْ أَحْدَثَ فَلَا تُقْرِئْهٗ مِنِّي السَّلَامَ، فَإِنِّيْ سَمِعْتُ رَسُولَ اللَّهِاللهِ -صَلَّى اللَّهُاللّٰهُ عَلَيْهِ وَسَلَّمَ - يَقُوْلُ: "يَكُوْنُ فِيْ أُمَّتِيْ -أَوْ فِيْ هٰذِهِ الأمَّةِ- خَسْفٌ ومَسْخٌ، أَوْ قَذْفٌ فِي أَهْلِ الْقَدَرِ". رَوَاهُ التِّرْمِذِيُّ وَأَبُوْ دَاوُدَ وَابْنُ مَاجَهْ، وَقَالَ التِّرْمِذِيُّ: هٰذَا حَدِيْثٌ حَسَنٌ غَرِيْبٌ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Nafi se. **1** Ek shakhs Hazrat Ibn Umar ke paas aaya aur bola: Falan aap ko salam kehta hai. **2** Farmaya: Mujhe maloom hua hai ke woh bad'ati ho gaya hai. **3** Agar waqai woh bad'ati ho gaya hai to use meri taraf se salam na kehna. **4** Main ne Huzoor ﷺ ko farmate suna: Meri ummat mein, ya is ummat mein, zameen mein dhansna, soorat badalna ya pathar barsna hoga, Qadriyon mein. Tirmizi, Abu Dawud aur Ibn Majah ne ise naqal kiya. Tirmizi ne farmaya: Yeh hadith Hasan Ghareeb hai. **5**
 
@@ -556,7 +556,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ عَلِيٍّ قَالَ: سَأَلَتْ خَدِيجَةُ النَّبِيَّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   عَنْ وَلَدَيْنِ مَاتَا لَهَا فِي الْجَاهِلِيَّةِ، فَقَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ : "هُمَا فِي النَّارِ"، قَالَ: فَلَمَّا رَأَى الْكَرَاهَةَ فِيْ وَجْهِهَا قَالَ: "لَوْ رَأَيْتِ مَكَانَهُمَا لأَبْغَضْتِهِمَا"، قَالَتْ: يَا رَسُوْلَ اللّٰهِ فَوَلَدِيْ مِنْكَ، قَالَ: "فِي الْجَنَّةِ"، ثُمَّ قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ: "إِنَّ الْمُؤْمِنِيْنَ وَأَوْلَادَهُمْ فِي الْجَنَّةِ، وَإِنَّ الْمُشْرِكينَ وَأَوْلَادَهُمْ فِي النَّارِ"، ثُمَّ قَرَأَ رَسُولُ اللّٰهِ  صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ اللّٰهُ وَالَّذِيْنَ آمَنُوْا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ .رَوَاهُ أَحْمَدُ.
+وَعَنْ عَلِيٍّ قَالَ: سَأَلَتْ خَدِيجَةُ النَّبِيَّ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ عَنْ وَلَدَيْنِ مَاتَا لَهَا فِي الْجَاهِلِيَّةِ، فَقَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ : "هُمَا فِي النَّارِ"، قَالَ: فَلَمَّا رَأَى الْكَرَاهَةَ فِيْ وَجْهِهَا قَالَ: "لَوْ رَأَيْتِ مَكَانَهُمَا لأَبْغَضْتِهِمَا"، قَالَتْ: يَا رَسُوْلَ اللّٰهِ فَوَلَدِيْ مِنْكَ، قَالَ: "فِي الْجَنَّةِ"، ثُمَّ قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ: "إِنَّ الْمُؤْمِنِيْنَ وَأَوْلَادَهُمْ فِي الْجَنَّةِ، وَإِنَّ الْمُشْرِكينَ وَأَوْلَادَهُمْ فِي النَّارِ"، ثُمَّ قَرَأَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ اللّٰهُ وَالَّذِيْنَ آمَنُوْا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ .رَوَاهُ أَحْمَدُ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ali se. Bibi Khadijah ne **1** Nabi ﷺ se apne un bachchon ke baare mein poocha jo zamana-e-Jahiliyyat mein inteqal kar gaye the. **2** Huzoor ﷺ ne farmaya: Woh dono Aag mein hain. **3** Jab Huzoor ﷺ ne un ke chehre par na-pasandgi dekhi to farmaya: Agar tum un ka thikana dekhtin to un se nafrat kartin. **4** Unhon ne arz ki: Aur jo bachche aap ﷺ se hain? **5** Farmaya: Woh Jannat mein hain. Phir Huzoor ﷺ ne farmaya: Momin aur un ki aulaad Jannat mein hai. **6** Aur kafir aur un ki aulaad Dozakh mein hai. Phir Nabi ﷺ ne yeh aayat padhi: "Aur jo iman laaye aur un ki aulaad un ke taabe ho". **7** (Ahmad)
 
@@ -582,7 +582,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ: "لَمَّا خَلَقَ اللَّهُاللّٰهُ  آدَمَ مَسَحَ ظَهْرَهٗ فَسَقَطَ عَنْ ظَهْرِهٖ كُلُّ نَسَمَةٍ هُوَ خَالِقُهَا مِنْ ذُرَّيَّتِهٖ إِلٰى يَوْمِ الْقِيَامَةِ، وَجَعَلَ بَيْنَ عَيْنَيْ كُلِّ إِنْسَانٍ مِنْهُمْ وَبِيصًا مِنْ نُوْرٍ، ثُمَّ عَرَضَهُمْ عَلٰى آدَمَ فَقَالَ: أَيْ رَبِّ مَنْ هٰؤُلَاءِ؟ قَالَ: ذُرِّيَّتُكَ، فَرَأٰى رَجُلًا مِنْهُمْ فَأَعْجَبَهٗ وَبِيْصُ مَا بَيْنَ عَيْنَيْهِ قَالَ: أَيْ رَبِّ مَنْ هٰذَا؟ قَالَ: دَاوُدُ، فَقَالَ: أَيْ رَبِّ كَمْ جَعَلْتَ عُمْرَهٗ؟ قَالَ: سِتِّيْنَ سَنَةً، قَالَ: رَبِّ زِدْهُ مِنْ عُمْرِيْ أَرْبَعِيْنَ سَنَةً"، قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ: "فَلَمَّا انْقَضٰى عُمَرُ آدَمَ إِلَّا أَرْبَعِيْنَ جَاءَهٗ مَلَكُ الْمَوْتِ، فَقَالَ آدَمُ: أَوَ لَمْ يَبْقَ مِنْ عُمُرِيْ أَرْبَعُوْنَ سَنَةً؟ قَالَ: أَوَ لَمْ تُعْطِهَا اِبْنَكَ دَاوُدَ؟ قَالَ: فَجَحَدَ آدَمُ، فَجَحَدَتْ ذُرَّيتُهٗ، وَنَسِيَ آدَمُ فَأَكَلَ مِنَ الشَّجَرَةِ فَنَسِيَتْ ذُريَّتُهٗ، وَخَطَأَ آدَمُ وَخَطأَتْ ذُرِّيَّتُهٗ".رَوَاهُ التِّرْمِذِيُّ
+وَعَنْ أَبِيْ هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ: "لَمَّا خَلَقَ اللَّهُاللّٰهُ آدَمَ مَسَحَ ظَهْرَهٗ فَسَقَطَ عَنْ ظَهْرِهٖ كُلُّ نَسَمَةٍ هُوَ خَالِقُهَا مِنْ ذُرَّيَّتِهٖ إِلٰى يَوْمِ الْقِيَامَةِ، وَجَعَلَ بَيْنَ عَيْنَيْ كُلِّ إِنْسَانٍ مِنْهُمْ وَبِيصًا مِنْ نُوْرٍ، ثُمَّ عَرَضَهُمْ عَلٰى آدَمَ فَقَالَ: أَيْ رَبِّ مَنْ هٰؤُلَاءِ؟ قَالَ: ذُرِّيَّتُكَ، فَرَأٰى رَجُلًا مِنْهُمْ فَأَعْجَبَهٗ وَبِيْصُ مَا بَيْنَ عَيْنَيْهِ قَالَ: أَيْ رَبِّ مَنْ هٰذَا؟ قَالَ: دَاوُدُ، فَقَالَ: أَيْ رَبِّ كَمْ جَعَلْتَ عُمْرَهٗ؟ قَالَ: سِتِّيْنَ سَنَةً، قَالَ: رَبِّ زِدْهُ مِنْ عُمْرِيْ أَرْبَعِيْنَ سَنَةً"، قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ: "فَلَمَّا انْقَضٰى عُمَرُ آدَمَ إِلَّا أَرْبَعِيْنَ جَاءَهٗ مَلَكُ الْمَوْتِ، فَقَالَ آدَمُ: أَوَ لَمْ يَبْقَ مِنْ عُمُرِيْ أَرْبَعُوْنَ سَنَةً؟ قَالَ: أَوَ لَمْ تُعْطِهَا اِبْنَكَ دَاوُدَ؟ قَالَ: فَجَحَدَ آدَمُ، فَجَحَدَتْ ذُرَّيتُهٗ، وَنَسِيَ آدَمُ فَأَكَلَ مِنَ الشَّجَرَةِ فَنَسِيَتْ ذُريَّتُهٗ، وَخَطَأَ آدَمُ وَخَطأَتْ ذُرِّيَّتُهٗ".رَوَاهُ التِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Rasool Allah ﷺ ne farmaya: Jab Allah ne Hazrat Adam ko paida kiya aur un ki peeth par haath phera, to Qayamat tak paida hone wali un ki aulaad ki roohen un ki pusht se niklin. Har insaan ki dono aankhon ke darmiyan Noor ki chamak rakhi gayi. **1** Phir unhein Adam ke saamne pesh kiya gaya. Aap ne arz ki: Aye Rab! Yeh kaun hain? Farmaya: Tumhari aulaad. **2** Un mein ek shakhs ko dekha aur us ki aankhon ke darmiyan ki chamak pasand aayi. **3** Arz ki: Yeh kaun hai? Farmaya: Dawud. Arz ki: Is ki umr kitni rakhi hai? Farmaya: Saath saal. **4** Arz ki: Meri umr mein se chalees saal is ki umr mein badha de. **5** Rasool Allah ﷺ ne farmaya: Jab Adam ki umr mein se chalees saal baqi reh gaye to Malak-ul-Maut haazir hue. **6** Adam ne kaha: Kya meri umr ke chalees saal baqi nahin? Farmaya: Kya tum apne bete Dawud ko nahin de chuke? **7** Adam ne inkar kiya, is liye un ki aulaad inkar karne lagi. **8** Adam bhool gaye aur darakht se kha liya, is liye un ki aulaad bhoolne lagi. Adam ne khata ki to un ki aulaad khataein karne lagi. **9** (Tirmizi)
 
@@ -612,7 +612,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ أَبِي الدَّرْدَاءَ عَنِ النَّبِيِّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   قَالَ: «خَلَقَ اللّٰهُ  آدَمَ حِيْنَ خَلَقَهٗ فَضَرَبَ كَتِفَهُ الْيُمْنٰى فَأَخْرَجَ ذُرِّيَّةً بَيْضَاءَ كَأَنَّهُمُ الذَّرُّ وَضَرَبَ كَتِفَهُ الْيُسْرٰى فَأَخْرَجَ ذُرِّيَّةً سَوْدَاءَ كَأَنَّهُمُ الْحُمَمُ فَقَالَ لِلَّذِيْ فِيْ يَمِيْنِهٖ إِلَى الْجَنَّةِ وَلَا أُبَالِيْ وَقَالَ لِلَّذِيْ فِيْ کَتِفِہِ الْیُسْرٰی إِلَى النَّارِ وَلَا أُبَالِيْ» . رَوَاهُ أَحْمَدُ
+وَعَنْ أَبِي الدَّرْدَاءَ عَنِ النَّبِيِّ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ قَالَ: «خَلَقَ اللّٰهُ آدَمَ حِيْنَ خَلَقَهٗ فَضَرَبَ كَتِفَهُ الْيُمْنٰى فَأَخْرَجَ ذُرِّيَّةً بَيْضَاءَ كَأَنَّهُمُ الذَّرُّ وَضَرَبَ كَتِفَهُ الْيُسْرٰى فَأَخْرَجَ ذُرِّيَّةً سَوْدَاءَ كَأَنَّهُمُ الْحُمَمُ فَقَالَ لِلَّذِيْ فِيْ يَمِيْنِهٖ إِلَى الْجَنَّةِ وَلَا أُبَالِيْ وَقَالَ لِلَّذِيْ فِيْ کَتِفِہِ الْیُسْرٰی إِلَى النَّارِ وَلَا أُبَالِيْ» . رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Darda se, woh Huzoor ﷺ se raavi hain: Jab Allah ne Adam ko paida kiya to un ke daahne kandhe par dast-e-qudrat lagaya, jis se safed rang ki aulaad cheentiyon ki tarah nikli. Baayen kandhe par haath lagaya to kaali aulaad koyle ki tarah nikli. **1** Phir daahne walon ke baare mein farmaya: Yeh Jannat ki taraf hain, mujhe parwah nahin. Baayen walon ke baare mein farmaya: Yeh Dozakh ki taraf hain, mujhe parwah nahin. **2** (Ahmad)
 
@@ -628,7 +628,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ اَبِیْ نَضْرَۃَ أَنَّ رَجُلًا مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يُقَالُ لَهٗ أَبُوْ عَبْدِ اللّٰهِ دَخَلَ عَلَيْهِ أَصْحَابُهٗ يَعُوْدُوْنَهٗ وَهُوَ يَبْكِيْ فَقَالُوْا لَهٗ مَا يُبْكِيْكَ أَلَمْ يَقُلْ لَكَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   خُذْ مِنْ شَارِبِكَ ثُمَّ أَقِرَّهٗ حَتّٰى تَلْقَانِيْ قَالَ بَلٰى وَلٰكِنْ سَمِعْتُ رَسُولَ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   يَقُوْلُ: «إِنَّ اللّٰهَ عَزَّوَجَلَّ قَبَضَ بِيَمِينِهٖ قَبْضَةً وَأُخْرٰى بِالْيَدِ الْأُخْرٰى وَقَالَ هٰذِهٖ لِهٰذِهٖ وَهٰذِهٖ لهٰذِهٖ وَلَا أُبَالِيْ ولَا أَدْرِيْ فِيْ أَيِّ الْقَبْضَتَيْنِ أَنَا» . رَوَاهُ أَحْمَدُ
+وَعَنْ اَبِیْ نَضْرَۃَ أَنَّ رَجُلًا مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُقَالُ لَهٗ أَبُوْ عَبْدِ اللّٰهِ دَخَلَ عَلَيْهِ أَصْحَابُهٗ يَعُوْدُوْنَهٗ وَهُوَ يَبْكِيْ فَقَالُوْا لَهٗ مَا يُبْكِيْكَ أَلَمْ يَقُلْ لَكَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ خُذْ مِنْ شَارِبِكَ ثُمَّ أَقِرَّهٗ حَتّٰى تَلْقَانِيْ قَالَ بَلٰى وَلٰكِنْ سَمِعْتُ رَسُولَ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ يَقُوْلُ: «إِنَّ اللّٰهَ عَزَّوَجَلَّ قَبَضَ بِيَمِينِهٖ قَبْضَةً وَأُخْرٰى بِالْيَدِ الْأُخْرٰى وَقَالَ هٰذِهٖ لِهٰذِهٖ وَهٰذِهٖ لهٰذِهٖ وَلَا أُبَالِيْ ولَا أَدْرِيْ فِيْ أَيِّ الْقَبْضَتَيْنِ أَنَا» . رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abi Nazrah se. **1** Huzoor ﷺ ke Sahaba mein se ek Sahabi, jinhein Abu Abdullah kaha jaata tha, beemar the. Un ke dost ayadat ke liye aaye aur woh ro rahe the. **2** Unhon ne poocha: Kyun rote ho? Kya Huzoor ﷺ ne tum se nahin farmaya tha ke apni moochhein katwao aur isi haal par qayam raho, yahan tak ke mujh se milo? **3** Unhon ne kaha: Haan, lekin main ne Rasool Allah ﷺ ko farmate suna ke Allah عزوجل ne apne daahne haath mein ek muthi li aur doosri doosre haath mein. **4** Farmaya: Yeh is ke liye hai aur yeh us ke liye. **5** Mujhe parwah nahin aur mujhe maloom nahin ke main in dono muthiyon mein se kis mein hoon. **6** (Ahmad)
 
@@ -652,7 +652,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُ  عَنِ النَّبِيِّ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   قَالَ:  أَخَذَ اللهُ الْمِيْثَاقَ مِنْ ظَھْرِ آدَمَ بِنَعْمَانَ يَعْنِيْ عَرَفَةَ فَاَخْرَجَ مِنْ صُلْبِہٖ کُلَّ ذُرِّيَّةِ ذَرَاهَا فَنَثَرَهُمْ بَيْنَ يَدَيْهِ كَالذَّرِّ ثُمَّ كَلَّمَهُمْ قِبَلًا قَالَ: (أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلٰى شَهِدْنَا أَنْ تَقُوْلُوْا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هٰذَا غَافِلِيْنَ أَوْ تَقُوْلُوْا إِنَّمَا أَشْرَكَ آبَاؤُنَا مِنْ قَبْلُ وَكُنَّا ذُرِّيَّةً مِنْ بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُوْنَ) رَوَاهُ أَحْمَدُ
+وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ قَالَ: أَخَذَ اللهُ الْمِيْثَاقَ مِنْ ظَھْرِ آدَمَ بِنَعْمَانَ يَعْنِيْ عَرَفَةَ فَاَخْرَجَ مِنْ صُلْبِہٖ کُلَّ ذُرِّيَّةِ ذَرَاهَا فَنَثَرَهُمْ بَيْنَ يَدَيْهِ كَالذَّرِّ ثُمَّ كَلَّمَهُمْ قِبَلًا قَالَ: (أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلٰى شَهِدْنَا أَنْ تَقُوْلُوْا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هٰذَا غَافِلِيْنَ أَوْ تَقُوْلُوْا إِنَّمَا أَشْرَكَ آبَاؤُنَا مِنْ قَبْلُ وَكُنَّا ذُرِّيَّةً مِنْ بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُوْنَ) رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ibn Abbas رضی اللہ عنہما se, woh Nabi ﷺ se raavi hain: Allah Ta'ala ne Adam ki pusht se Na'maan, yani Arafat, mein ahd liya. **1** Un ki pusht se saari aulaad nikali aur unhein Adam ke saamne cheentiyon ki tarah bikhair diya. **2** Phir un se aamne-saamne guftagu farmayi: Kya main tumhara Rab nahin hoon? Sab bole: Kyun nahin, hum gawah hain. **3** Taake Qayamat ke din yeh na kaho ke hum is se ghaafil the, ya yeh kaho ke shirk hamare baap-dada ne kiya tha aur hum un ke baad paida hue; kya Tu humein jhooton ke jurm par halaak karega? **4** (Ahmad)
 
@@ -672,7 +672,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ أُبَيِّ بْنِ كَعْبٍ فِي قَوْلِ اللّٰهِ عَزَّ وَجَلَّ: {وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِيْ آدَمَ مِنْ ظُهُوْرِهِمْ ذُرِّيَّتَهُمْ} الآيَةَ، قَالَ: جَمَعَهُمْ فَجَعَلَهُمْ أزْوَاجًاثُمَّ صَوَّرَهُمْ فَاسْتَنْطَقَهُمْ، فَتَكَلَّمُوا، ثُمَّ أَخَذَ عَلَيْهِمُ الْعَهْدَ وَالْمِيْثَاقَ، {وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلٰى}، قَالَ: فَإِنِّيْ أَشْهِدُ عَلَيْكُمُ السَّمٰوَاتِ السَّبْعَ وَالأَرَضِينَ السَّبْعَ، وَأُشْهِدُ عَلَيْكُمْ أَبَاكُمْ آدَمَ أَنْ تَقُوْلُوْا يَوْمَ الْقِيَامَةِ: لَمْ نَعْلَمْ بِهٰذَا، اِعْلَمُوْا أَنَّهٗ لَا إِلٰهَ غَيْرِيْ، وَلَا رَبَّ غَيْرِيْ، فَلَا تُشْرِكُوْا بِيْ شَيْئًا، إِنِّيْ سَأُرْسِلُ إِلَيْكُمْ رُسُلِيْ يُذكِّرُوْنَكُمْ عَهْدِيْ وَمِيثَاقِيْ، وَأُنْزِلُ عَلَيْكُمْ كُتُبِيْ، قَالُوْا: شَهِدْنَا بِأَنَّكَ رَبُّنَا وَإِلٰهُنَا، لَا رَبَّ لَنَا غَيْرُكَ فَأَقَرُّوْا بِذٰلِكَ، وَرُفِعَ عَلَيْهِمْ آدَمُ عَلَيْهِ السَّلَامُ يَنْظُرُ إِلَيْهِمْ، فَرَأَى الْغَنِيَّ وَالْفَقِيْرَ،َحَسَنَ الصُّوْرَةِ وَدُوْنَ ذٰلِكَ، فَقَالَ: رَبِّ لَوْلَا سَوَّيْتَ بَيْنَ عِبَادِكَ؟ . قَالَ: إِنِّيْ أَحْبَبْتُ أَنْ أُشْكَرَ، وَرَأَى الأَنْبِيَاءَ فِيهِمْ مِثْلَ السُّرُجِ، عَلَيْهِمُ النُّوْرُ، خُصُّوْا بِمِيثَاقٍ آخَرَ فِي الرِّسَالَةِ وَالنُّبُوَّةِ، وَهُوَ قَوْلُهٗ تَبَارَكَ وَتَعَالٰى وَإِذْ أَخَذْنَا مِنَ النَّبِيِّيْنَ مِيثَاقَهُمْ  إِلٰى قَوْلِهٖ: عِيسَى ابْنِ مَرْيَمَ  كَانَ فِي تِلْكَ الأَرْوَاحِ، فَأَرْسَلَهٗ إِلٰى مَرْيَمَ عَلَيْهَا السَّلامُ فَحُدِّثَ عَنْ أُبَيٍّ أَنَّهٗ دَخَلَ مِنْ فِيهَا. رَوَاهُ أَحْمَدُ
+وَعَنْ أُبَيِّ بْنِ كَعْبٍ فِي قَوْلِ اللّٰهِ عَزَّ وَجَلَّ: {وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِيْ آدَمَ مِنْ ظُهُوْرِهِمْ ذُرِّيَّتَهُمْ} الآيَةَ، قَالَ: جَمَعَهُمْ فَجَعَلَهُمْ أزْوَاجًاثُمَّ صَوَّرَهُمْ فَاسْتَنْطَقَهُمْ، فَتَكَلَّمُوا، ثُمَّ أَخَذَ عَلَيْهِمُ الْعَهْدَ وَالْمِيْثَاقَ، {وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلٰى}، قَالَ: فَإِنِّيْ أَشْهِدُ عَلَيْكُمُ السَّمٰوَاتِ السَّبْعَ وَالأَرَضِينَ السَّبْعَ، وَأُشْهِدُ عَلَيْكُمْ أَبَاكُمْ آدَمَ أَنْ تَقُوْلُوْا يَوْمَ الْقِيَامَةِ: لَمْ نَعْلَمْ بِهٰذَا، اِعْلَمُوْا أَنَّهٗ لَا إِلٰهَ غَيْرِيْ، وَلَا رَبَّ غَيْرِيْ، فَلَا تُشْرِكُوْا بِيْ شَيْئًا، إِنِّيْ سَأُرْسِلُ إِلَيْكُمْ رُسُلِيْ يُذكِّرُوْنَكُمْ عَهْدِيْ وَمِيثَاقِيْ، وَأُنْزِلُ عَلَيْكُمْ كُتُبِيْ، قَالُوْا: شَهِدْنَا بِأَنَّكَ رَبُّنَا وَإِلٰهُنَا، لَا رَبَّ لَنَا غَيْرُكَ فَأَقَرُّوْا بِذٰلِكَ، وَرُفِعَ عَلَيْهِمْ آدَمُ عَلَيْهِ السَّلَامُ يَنْظُرُ إِلَيْهِمْ، فَرَأَى الْغَنِيَّ وَالْفَقِيْرَ،َحَسَنَ الصُّوْرَةِ وَدُوْنَ ذٰلِكَ، فَقَالَ: رَبِّ لَوْلَا سَوَّيْتَ بَيْنَ عِبَادِكَ؟ . قَالَ: إِنِّيْ أَحْبَبْتُ أَنْ أُشْكَرَ، وَرَأَى الأَنْبِيَاءَ فِيهِمْ مِثْلَ السُّرُجِ، عَلَيْهِمُ النُّوْرُ، خُصُّوْا بِمِيثَاقٍ آخَرَ فِي الرِّسَالَةِ وَالنُّبُوَّةِ، وَهُوَ قَوْلُهٗ تَبَارَكَ وَتَعَالٰى وَإِذْ أَخَذْنَا مِنَ النَّبِيِّيْنَ مِيثَاقَهُمْ إِلٰى قَوْلِهٖ: عِيسَى ابْنِ مَرْيَمَ كَانَ فِي تِلْكَ الأَرْوَاحِ، فَأَرْسَلَهٗ إِلٰى مَرْيَمَ عَلَيْهَا السَّلامُ فَحُدِّثَ عَنْ أُبَيٍّ أَنَّهٗ دَخَلَ مِنْ فِيهَا. رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Ubayy ibn Ka'b se, Rab Ta'ala ke is farman ke baare mein: "Aur jab tumhare Rab ne aulaad-e-Adam ki pushton se un ki aulaad nikali." Farmaya: Allah ne unhein jama kiya aur jode banaye. **1** Phir unhein soorat aur goyai di. **2** Woh bole, phir un se ahd-o-misaq liya aur unhein khud un ki zaat par gawah banaya. **3** Poocha: Kya main tumhara Rab nahin? Bole: Kyun nahin. Farmaya: Main tum par saat aasmanon, saat zameenon aur tumhare walid Adam ko gawah banata hoon. **4** Taake Qayamat mein yeh na kaho ke humein khabar na thi. Jaan lo ke mere siwa koi Ma'bood aur Rab nahin, kisi ko mera shareek na banana. **5** Main tumhare paas Rasool bhejunga jo mera ahd yaad dilaayenge. **6** Aur tum par apni kitaben utaarunga. **7** Woh bole: Hum gawah hain ke Tu hamara Rab aur Ma'bood hai; Tere siwa koi Rab nahin. **8** Sab ne iqraar kiya. Adam علیہ السلام ko unhein dekhne ke liye buland kiya gaya. **9** Aap ne ameer, faqeer, khoobsurat aur doosre log dekhe. **10** Arz ki: Aye Rab! Tu ne apne bandon mein barabari kyun na ki? Farmaya: Main chahta tha ke mera shukr kiya jaaye. **11** Un mein Ambiya ko chiraghon ki tarah dekha jin par Noor tha. **12** Un se risalat aur nubuwwat ka doosra khaas ahd liya gaya: "Aur jab hum ne Nabiyon se un ka ahd liya" se Hazrat Isa ibn Maryam tak. **13** Hazrat Isa bhi un roohon mein the; unhein Bibi Maryam ki taraf bheja gaya. Ubayy se manqool hai ke woh Hazrat Maryam ke munh se dakhil hue. **14** (Ahmad)
 
@@ -712,7 +712,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ أَبِي الدَّرْدَاءِ قَالَ بَيْنَمَا نَحْنُ عِنْدَ رَسُوْلِ اللّٰه ِصَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   نَتَذَاكَرُ مَا يَكُوْنُ إِذْ قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ:إِذَا سَمِعْتُمْ بِجَبَلٍ زَالَ عَن مَكَانَهٗ فَصَدِّقُوْا وَإِذَا سَمِعْتُمْ بِرَجُلٍ تَغَيَّرَ عَنْ خُلُقِهٖ فَلَا تُصَدِّقُوْا بِہٖ فَإنَّهٗ يَصِيْرُ إِلٰى مَا جُبِلَ عَلَيْهِ ". رَوَاهُ أَحْمَدُ
+وَعَنْ أَبِي الدَّرْدَاءِ قَالَ بَيْنَمَا نَحْنُ عِنْدَ رَسُوْلِ اللّٰه ِصَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ نَتَذَاكَرُ مَا يَكُوْنُ إِذْ قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ:إِذَا سَمِعْتُمْ بِجَبَلٍ زَالَ عَن مَكَانَهٗ فَصَدِّقُوْا وَإِذَا سَمِعْتُمْ بِرَجُلٍ تَغَيَّرَ عَنْ خُلُقِهٖ فَلَا تُصَدِّقُوْا بِہٖ فَإنَّهٗ يَصِيْرُ إِلٰى مَا جُبِلَ عَلَيْهِ ". رَوَاهُ أَحْمَدُ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Darda se. Hum Huzoor ﷺ ki bargah mein duniya mein hone wali baaton ka zikr kar rahe the. **1** Rasool Allah ﷺ ne farmaya: Agar tum suno ke pahad apni jagah se hat gaya to maan lo, lekin agar suno ke koi aadmi apni jibilli aadat se badal gaya to na maano; woh phir usi taraf laut jaayega jis par paida hua. **2** (Ahmad)
 
@@ -746,7 +746,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-عَنِ الْبَرَاءِ بْنِ عَازِبٍ عَنِ النَّبِيِّ -صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  - قَالَ: "الْمُسْلِمُ إِذَا سُئِلَ فِي الْقَبْرِ، يَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ  وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، فَذٰلِكَ قَوْلُهٗ: يُثَبِّتُ اللّٰهُ  الَّذِيْنَ آمَنُوْا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ وَفِيْ رِوَايَةٍ عَنِ النَّبِيِّ -صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   قَالَ:"{يُثَبِّتُ اللّٰهُ  الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِت ِنَزَلَتْ فِي عَذَابِ الْقَبْرِ، يُقَالُ لَهٗ: مَنْ رَبُّكَ   فَيَقُوْلُ: رَبِّيَ اللّٰهُ ، وَنَبِيِّيْ مُحَمَّدٌ". مُتَّفَقٌ عَلَيْهِ
+عَنِ الْبَرَاءِ بْنِ عَازِبٍ عَنِ النَّبِيِّ -صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ - قَالَ: "الْمُسْلِمُ إِذَا سُئِلَ فِي الْقَبْرِ، يَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، فَذٰلِكَ قَوْلُهٗ: يُثَبِّتُ اللّٰهُ الَّذِيْنَ آمَنُوْا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ وَفِيْ رِوَايَةٍ عَنِ النَّبِيِّ -صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ قَالَ:"{يُثَبِّتُ اللّٰهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِت ِنَزَلَتْ فِي عَذَابِ الْقَبْرِ، يُقَالُ لَهٗ: مَنْ رَبُّكَ فَيَقُوْلُ: رَبِّيَ اللّٰهُ ، وَنَبِيِّيْ مُحَمَّدٌ". مُتَّفَقٌ عَلَيْهِ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Bara ibn Aazib se. **1** Woh Nabi ﷺ se raavi hain: Muslim se jab qabr mein pooch-gachh hoti hai to woh gawahi deta hai ke Allah ke siwa koi Ma'bood nahin aur Muhammad Allah ke Rasool hain. **2** Yeh Rab Ta'ala ka farman hai ke Allah Momineen ko duniya aur Aakhirat mein mazboot baat par qayam rakhta hai. **3** Nabi ﷺ se ek riwayat hai ke yeh aayat azaab-e-qabr ke baare mein naazil hui. **4** Murde se kaha jaata hai: Tera Rab kaun hai? Woh kehta hai: Mera Rab Allah aur mere Nabi Muhammad ﷺ hain. **5** (Muttafaq Alaih)
 
@@ -768,7 +768,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ : إِنَّ الْعَبْدَ إِذَا وُضعَ فِي قَبْرِهٖ  وَتَوَلّٰى عَنْهُ أَصْحَابُهٗ إِنَّهٗ لَيَسْمَعُ قَرْعَ نِعَالِهِمْ،أَتَاهُ مَلَكَانِ فَيُقْعِدَانِهٖ، فَيَقُولَانِ: مَا كُنْتَ تَقُولُ فِي هٰذَا الرَّجُلِ لِمُحَمَّدٍ؟ فَأَمَّا الْمُؤْمِنُ فَيَقُوْلُ: أَشْهَدُ أَنَّهٗ عَبْدُ اللّٰهِ وَرَسُولُهٗ، فَيُقَالُ لَهٗ: اُنْظُرْ إِلٰى مَقْعَدِكَ مِنَ النَّارِ قَدْ أَبْدَلَكَ اللّٰهُ  بِهٖ مَقْعَدًا مِنَ الْجنَّة، فَيَرَاهُمَا جَمِيْعًا، وَأَمَّا الْمُنَافِقُ وَالْكَافِرُ، فَيُقَالُ لَهٗ: مَا كُنْتَ تَقُوْلُ فِيْ هٰذَا الرَّجُلِ؟ فَيَقُوْلُ: لَا أَدْرِيْ، كُنْتُ أَقُوْلُ: مَا يَقُوْلُ النَّاسُ، فَيُقَالُ: لَا دَرَيْتَ لَا تَلَيْتَ وَيُضْرَبُ بِمَطَارِقَ مِنْ حَدِيْدٍ ضَرْبَةً، فَيَصِيْحُ صَيْحَةً يَسْمَعُهَا مَنْ يَلِيْهِ غَيْرَ الثَّقَلَيْنِ" مُتَّفَقٌ عَلَيْهِ، وَلَفْظُهٗ لِلْبُخَارِيِّ
+وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ : إِنَّ الْعَبْدَ إِذَا وُضعَ فِي قَبْرِهٖ وَتَوَلّٰى عَنْهُ أَصْحَابُهٗ إِنَّهٗ لَيَسْمَعُ قَرْعَ نِعَالِهِمْ،أَتَاهُ مَلَكَانِ فَيُقْعِدَانِهٖ، فَيَقُولَانِ: مَا كُنْتَ تَقُولُ فِي هٰذَا الرَّجُلِ لِمُحَمَّدٍ؟ فَأَمَّا الْمُؤْمِنُ فَيَقُوْلُ: أَشْهَدُ أَنَّهٗ عَبْدُ اللّٰهِ وَرَسُولُهٗ، فَيُقَالُ لَهٗ: اُنْظُرْ إِلٰى مَقْعَدِكَ مِنَ النَّارِ قَدْ أَبْدَلَكَ اللّٰهُ بِهٖ مَقْعَدًا مِنَ الْجنَّة، فَيَرَاهُمَا جَمِيْعًا، وَأَمَّا الْمُنَافِقُ وَالْكَافِرُ، فَيُقَالُ لَهٗ: مَا كُنْتَ تَقُوْلُ فِيْ هٰذَا الرَّجُلِ؟ فَيَقُوْلُ: لَا أَدْرِيْ، كُنْتُ أَقُوْلُ: مَا يَقُوْلُ النَّاسُ، فَيُقَالُ: لَا دَرَيْتَ لَا تَلَيْتَ وَيُضْرَبُ بِمَطَارِقَ مِنْ حَدِيْدٍ ضَرْبَةً، فَيَصِيْحُ صَيْحَةً يَسْمَعُهَا مَنْ يَلِيْهِ غَيْرَ الثَّقَلَيْنِ" مُتَّفَقٌ عَلَيْهِ، وَلَفْظُهٗ لِلْبُخَارِيِّ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Anas se. Rasool Allah ﷺ ne farmaya: Jab bande ko qabr mein rakha jaata hai aur us ke saathi laut jaate hain to woh un ke jooton ki aahat sunta hai. **1** Us ke paas do Farishte aate hain aur use bitha kar poochte hain: Tum is shakhs, yani Muhammad ﷺ, ke baare mein kya kaha karte the? **2** Momin kehta hai: Main gawahi deta hoon ke woh Allah ke bande aur us ke Rasool hain. **3** Us se kaha jaata hai: Apna Dozakh ka thikana dekho, Allah ne us ke badle tumhein Jannat ka thikana diya hai. **4** Woh dono thikane dekhta hai. **5** Lekin munafiq aur kafir se kaha jaata hai: Tum is shakhs ke baare mein kya kaha karte the? **6** Woh kehta hai: Mujhe nahin maloom; log jo kehte the, main bhi wahi kehta tha. **7** Us se kaha jaata hai: Na tum ne pehchana aur na Quran padha. **8** Phir use lohe ke hathoron se maara jaata hai. Woh aisi cheekh maarta hai ke us ke qareeb rehne wale jinn-o-insaan ke siwa sab sunte hain. **9** (Muttafaq Alaih, lafz Bukhari ke hain.)
 
@@ -800,7 +800,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ عَبْدِ اللَّهِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : "إِنَّ أَحَدَكُمْ إِذَا مَاتَ عُرِضَ عَلَيْهِ مَقْعَدُهٗ بِالْغَدَاةِ وَالْعَشِيِّ، إِنْ كَانَ مِنْ أَهْلِ الْجَنَّةِ فَمِنْ أَهْلِ الْجَنَّةِ، وَإِنْ كَانَ مِنْ أَهْلِ النَّارِ فَمِنْ أَهْلِ النَّارِ، فَيُقَالُ: هَذَا مَقْعَدُكَ حَتّٰى يَبْعَثَكَ اللّٰهُ  إِلَيْهِ يَوْمَ الْقِيَامَةِ" مُتَّفقٌ عَلَيْهِ.
+وَعَنْ عَبْدِ اللَّهِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ : "إِنَّ أَحَدَكُمْ إِذَا مَاتَ عُرِضَ عَلَيْهِ مَقْعَدُهٗ بِالْغَدَاةِ وَالْعَشِيِّ، إِنْ كَانَ مِنْ أَهْلِ الْجَنَّةِ فَمِنْ أَهْلِ الْجَنَّةِ، وَإِنْ كَانَ مِنْ أَهْلِ النَّارِ فَمِنْ أَهْلِ النَّارِ، فَيُقَالُ: هَذَا مَقْعَدُكَ حَتّٰى يَبْعَثَكَ اللّٰهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ" مُتَّفقٌ عَلَيْهِ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abdullah ibn Umar se. Rasool Allah ﷺ ne farmaya: Jab tum mein se koi inteqal karta hai to subah-o-shaam us par us ka thikana pesh kiya jaata rehta hai. **1** Agar woh Jannati hai to Jannat ka thikana, aur agar Dozakhiyon mein se hai to Dozakh ka thikana. **2** Phir us se kaha jaata hai: Yeh tumhara thikana hai, yahan tak ke Qayamat ke din Allah tumhein is mein bhej dega. **3** (Muttafaq Alaih)
 
@@ -818,7 +818,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ عَائِشَةَ -رَضِيَ اللّٰهُ عَنْهَا: أَنَّ يَهُوْدِيَّةً دَخَلَتْ عَلَيْهَا، فَذَكَرَتْ عَذَابَ الْقَبْرِ، فَقَالَتْ لَهَا: أَعَاذَكِ اللّٰهُ  مِنْ عَذَابِ الْقَبْرِ، فَسَأَلَتْ عَائِشَةُ رَسُولَ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   عَنْ عَذَابِ الْقَبْرِ، فَقَالَ: "نَعَمْ عَذَابُ الْقَبْرِ حَقٌّ"، قَالَتْ عَائِشَةُ: فَمَا رَأَيْتُ رَسُولَ اللّٰه ِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  بَعْدُ صَلّٰى صَلَاةً إِلَّا تَعَوَّذَ بِاللّٰهِ  مِنْ عَذَابِ الْقَبْرِ. مُتَّفَقٌ عَلَيْهِ.
+وَعَنْ عَائِشَةَ -رَضِيَ اللّٰهُ عَنْهَا: أَنَّ يَهُوْدِيَّةً دَخَلَتْ عَلَيْهَا، فَذَكَرَتْ عَذَابَ الْقَبْرِ، فَقَالَتْ لَهَا: أَعَاذَكِ اللّٰهُ مِنْ عَذَابِ الْقَبْرِ، فَسَأَلَتْ عَائِشَةُ رَسُولَ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ عَنْ عَذَابِ الْقَبْرِ، فَقَالَ: "نَعَمْ عَذَابُ الْقَبْرِ حَقٌّ"، قَالَتْ عَائِشَةُ: فَمَا رَأَيْتُ رَسُولَ اللّٰه ِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ بَعْدُ صَلّٰى صَلَاةً إِلَّا تَعَوَّذَ بِاللّٰهِ مِنْ عَذَابِ الْقَبْرِ. مُتَّفَقٌ عَلَيْهِ.
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Aishah رضی اللہ عنہا se ke ek Yahudiyyah aurat un ki khidmat mein aayi. **1** Us ne azaab-e-qabr ka zikr kiya. **2** Us ne Hazrat Aishah se kaha: Allah tumhein azaab-e-qabr se bachaye. Hazrat Aishah ne Nabi ﷺ se azaab-e-qabr ke baare mein poocha. **3** Aap ﷺ ne farmaya: Haan, azaab-e-qabr haq hai. **4** Hazrat Aishah farmati hain: Is ke baad main ne jab bhi dekha ke Nabi ﷺ ne koi namaz padhi ho, aap ﷺ ne azaab-e-qabr se Allah ki panaah na maangi ho. **5** (Muslim, Bukhari)
 
@@ -840,9 +840,9 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-وَعَنْ زَيْدِ بْنِ ثَابِتٍ قَالَ: بَيْنَا رَسُولُ اللّٰهِ  صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   فِيْ حَائِطٍ لِبَنِي النَّجَّارِ عَلٰى بَغْلَةٍ لَهٗ، وَنَحْنُ مَعَهٗ إِذْ حَادَتْ بِهٖ فَكَادَتْ تُلْقِيهِ، وَإِذَا أَقْبُرٌ سِتَّةٌ أَو خَمْسَةٌ، فَقَالَ: "مَنْ يَعْرِفُ أَصْحَابَ هٰذِهِ الأقْبُرِ؟ "، قَالَ رَجُلٌ: أَنا، قَالَ"فَمَتٰى مَاتُوا؟ " قَالَ: فِي الشِّرْكِ، فَقَالَ: "إِنَّ هَذِهِ الأُمَّةَ تُبْتَلٰى فِيْ قُبُوْرِهَا، فَلَوْلَا أَنْ لَا تَدَافَنُوْا لَدَعَوْتُ اللّٰهَ أَنْ يُسْمِعَكُمْ مِنْ عَذَابِ الْقَبْرِ الَّذِيْ أَسْمَعُ مِنْهُ", ثُمَّ أَقْبَلَ عَلَيْنَا بِوَجْهِهٖ، فَقَالَ: "تَعَوَّذُوْا بِاللّٰهِ  مِنْ عَذَابِ النَّارِ", قَالُوْا: نَعُوذُ بِاللّٰهِ  مِنْ عَذَابِ النَّارِ، قَالَ: "تَعَوَّذُوْا  بِاللّٰهِ  مِنْ عَذَابِ الْقَبْرِ", قَالُوْا: نَعُوذُ بِاللَّهِ  مِنْ عَذَابِ الْقَبْرِ، قَالَ: "تَعَوَّذُوْا بِاللَّهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ", قَالُوْا: نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ، قَالَ: "تَعَوَّذُوْا بِاللَّهِ   مِنْ فِتْنَةِ الدَّجَّالِ", قَالُوْا: نَعُوذُ بِاللّٰهِ مِنْ فِتْنَةِ الدَّجَّالِ. رَوَاهُ مُسْلِمٌ.
+وَعَنْ زَيْدِ بْنِ ثَابِتٍ قَالَ: بَيْنَا رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ فِيْ حَائِطٍ لِبَنِي النَّجَّارِ عَلٰى بَغْلَةٍ لَهٗ، وَنَحْنُ مَعَهٗ إِذْ حَادَتْ بِهٖ فَكَادَتْ تُلْقِيهِ، وَإِذَا أَقْبُرٌ سِتَّةٌ أَو خَمْسَةٌ، فَقَالَ: "مَنْ يَعْرِفُ أَصْحَابَ هٰذِهِ الأقْبُرِ؟ "، قَالَ رَجُلٌ: أَنا، قَالَ"فَمَتٰى مَاتُوا؟ " قَالَ: فِي الشِّرْكِ، فَقَالَ: "إِنَّ هَذِهِ الأُمَّةَ تُبْتَلٰى فِيْ قُبُوْرِهَا، فَلَوْلَا أَنْ لَا تَدَافَنُوْا لَدَعَوْتُ اللّٰهَ أَنْ يُسْمِعَكُمْ مِنْ عَذَابِ الْقَبْرِ الَّذِيْ أَسْمَعُ مِنْهُ"، ثُمَّ أَقْبَلَ عَلَيْنَا بِوَجْهِهٖ، فَقَالَ: "تَعَوَّذُوْا بِاللّٰهِ مِنْ عَذَابِ النَّارِ", قَالُوْا: نَعُوذُ بِاللّٰهِ مِنْ عَذَابِ النَّارِ، قَالَ: "تَعَوَّذُوْا بِاللّٰهِ مِنْ عَذَابِ الْقَبْرِ", قَالُوْا: نَعُوذُ بِاللَّهِ مِنْ عَذَابِ الْقَبْرِ، قَالَ: "تَعَوَّذُوْا بِاللَّهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ", قَالُوْا: نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ، قَالَ: "تَعَوَّذُوْا بِاللَّهِ مِنْ فِتْنَةِ الدَّجَّالِ", قَالُوْا: نَعُوذُ بِاللّٰهِ مِنْ فِتْنَةِ الدَّجَّالِ. رَوَاهُ مُسْلِمٌ.
 
-**Lafzi tarjuma:** Riwayat hai Hazrat Zaid ibn Thabit se. **1** Farmate hain: Nabi ﷺ Bani Najjar ke baagh mein apne khachar par sawar the aur hum aap ﷺ ke saath the. **2** Achanak khachar badka aur qareeb tha ke aap ﷺ ko gira deta. **3** Wahan paanch ya chhe qabrein thin. Huzoor ﷺ ne farmaya: In qabron walon ko kaun pehchanta hai? **4** Ek aadmi ne arz ki: Main pehchanta hoon. Huzoor ﷺ ne farmaya: Yeh kab mare? Us ne arz ki: Zamana-e-shirk mein. **5** Huzoor ﷺ ne farmaya: Yeh log apni qabron mein aazmaish aur azaab mein mubtala hain. **6** Agar yeh khatra na hota ke tum dafn karna chhor doge to main Allah se dua karta ke jo azaab main sun raha hoon us mein se kuch tumhein bhi suna de. **7** Phir aap ﷺ ne hamari taraf chehra karke farmaya: Dozakh ke azaab se Allah ki panaah maango. Sab ne kaha: Hum Dozakh ke azaab se Allah ki panaah maangte hain. Farmaya: Azaab-e-qabr se Allah ki panaah maango. Sab ne kaha: Hum azaab-e-qabr se Allah ki panaah maangte hain. **8** Farmaya: Khule aur chhupe fitnon se Allah ki panaah maango. Sab ne kaha: Hum khule aur chhupe fitnon se Allah ki panaah maangte hain. **9** Farmaya: Dajjal ke fitne se Allah ki panaah maango. Sab ne kaha: Hum Dajjal ke fitne se Allah ki panaah maangte hain. **10** (Muslim)
+**Lafzi tarjuma:** Riwayat hai Hazrat Zaid ibn Thabit se. **1** Farmate hain: Nabi ﷺ Bani Najjar ke baagh mein apne khachar par sawar the aur hum aap ﷺ ke saath the. **2** Achanak khachar badka aur qareeb tha ke aap ﷺ ko gira deta. **3** Wahan paanch ya chhe qabrein thin. Huzoor ﷺ ne farmaya: In qabron walon ko kaun pehchanta hai? **4** Ek aadmi ne arz ki: Main pehchanta hoon. Huzoor ﷺ ne farmaya: Yeh kab mare? Us ne arz ki: Zamana-e-shirk mein. **5** Huzoor ﷺ ne farmaya: Yeh log apni qabron mein aazmaish aur azaab mein mubtala hain. **6** Agar yeh khatra na hota ke tum dafn karna chhor doge to main Allah se dua karta ke jo azaab main sun raha hoon us mein se kuch tumhein bhi suna de. **7** Phir aap ﷺ ne hamari taraf chehra karke farmaya: Dozakh ke azaab se Allah ki panaah maango. Sab ne kaha: Hum Dozakh ke azaab se Allah ki panaah maangte hain. Farmaya: Azaab-e-qabr se Allah ki panaah maango. Sab ne kaha: Hum azaab-e-qabr se Allah ki panaah maangte hain. **8** Farmaya: Khule aur chhupe fitnon se Allah ki panaah maango. Sab ne kaha: Hum khule aur chhupe fitnon se Allah ki panaah maangte hain. **9** Farmaya: Dajjal ke fitne se Allah ki panaah maango. **10** Sab ne kaha: Hum Dajjal ke fitne se Allah ki panaah maangte hain. **11** (Muslim)
 
 **Poori wazahat:**
 
@@ -874,7 +874,7 @@ Is jagah sirf bil-farz yeh kaha gaya hai ke agar unhein azaab diya jaaye to bhi 
 
 **Arabic hadith:**
 
-عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ  : "إِذَا أُقْبِرَ الْمَيِّتُ أَتَاهُ مَلَكَانِ أَسْوَدَانِ أَزْرَقَانِ، يُقَالُ لِأَحَدِهِمَا: الْمُنْكَرُ، وَللآخَرِ: النَّكَيرُفَيَقُوْلَانِ: مَا كُنْتَ تَقُوْلُ فِي هٰذَا الرَّجُلِ؟ فَيَقُوْلُ:هٰذَا عَبْدُ اللّٰهِ وَرَسُولُهٗ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ  وَأَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُهٗ، فَيَقُوْلَانِ: قَدْ كُنَّا نَعْلَمُ أَنَّكَ تَقُوْلُ هٰذَا، ثُمَّ يُفْسَحُ لَهٗ فِيْ قَبْرِهٖ سَبْعُوْنَ ذِرَاعًا فِيْ سَبْعِيْنَ، ثُمَّ يُنَوَّرُ لَهٗ فِيْهِ، ثُمَّ يُقَالُ لَهٗ: نَمْ، فَيَقُولُ: أَرْجِعُ إِلٰى أَهْلِيْ فَأُخْبِرُهُمْ، فَيَقُولَانِ: نَمْ كَنَوْمَةِ الْعَرُوسِ الَّذِي لَا يُوقِظُهٗ إِلَّا أَحَبُّ أَهْلِهٖ إِلَيْهِ،حَتّٰى يَبْعَثَهُ اللّٰهُ  مِنْ مَضْجَعِهٖ ذٰلِكَ، وَإِنْ كَانَ مُنَافِقًا قَالَ: سَمِعْتُ النَّاسَ يَقُوْلُوْنَ قَوْلًا فَقُلْتُ مِثْلَهٗ لَا أَدْرِيْ، فَيَقُوْلَانِ: قَدْ كنَّا نَعْلَمُ أَنَّكَ تَقُوْلُ ذٰلِكَ، فَيُقَالُ لِلأَرْضِ: الْتَئِمِي عَلَيْهِ، فَتَلْتَئِمُ عَلَيْهِ، فَتَخْتَلِفُ أَضْلَاعُهٗ، فَلَا يَزَالُ فِيْهَا مُعَذَّبًا حَتّٰى يَبْعَثَهُ اللّٰهُ  مِنْ مَضْجَعِهٖ ذٰلِكَ". رَوَاهُ التِّرْمِذِيُّ 
+عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ : "إِذَا أُقْبِرَ الْمَيِّتُ أَتَاهُ مَلَكَانِ أَسْوَدَانِ أَزْرَقَانِ، يُقَالُ لِأَحَدِهِمَا: الْمُنْكَرُ، وَللآخَرِ: النَّكَيرُفَيَقُوْلَانِ: مَا كُنْتَ تَقُوْلُ فِي هٰذَا الرَّجُلِ؟ فَيَقُوْلُ:هٰذَا عَبْدُ اللّٰهِ وَرَسُولُهٗ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهٗ، فَيَقُوْلَانِ: قَدْ كُنَّا نَعْلَمُ أَنَّكَ تَقُوْلُ هٰذَا، ثُمَّ يُفْسَحُ لَهٗ فِيْ قَبْرِهٖ سَبْعُوْنَ ذِرَاعًا فِيْ سَبْعِيْنَ، ثُمَّ يُنَوَّرُ لَهٗ فِيْهِ، ثُمَّ يُقَالُ لَهٗ: نَمْ، فَيَقُولُ: أَرْجِعُ إِلٰى أَهْلِيْ فَأُخْبِرُهُمْ، فَيَقُولَانِ: نَمْ كَنَوْمَةِ الْعَرُوسِ الَّذِي لَا يُوقِظُهٗ إِلَّا أَحَبُّ أَهْلِهٖ إِلَيْهِ،حَتّٰى يَبْعَثَهُ اللّٰهُ مِنْ مَضْجَعِهٖ ذٰلِكَ، وَإِنْ كَانَ مُنَافِقًا قَالَ: سَمِعْتُ النَّاسَ يَقُوْلُوْنَ قَوْلًا فَقُلْتُ مِثْلَهٗ لَا أَدْرِيْ، فَيَقُوْلَانِ: قَدْ كنَّا نَعْلَمُ أَنَّكَ تَقُوْلُ ذٰلِكَ، فَيُقَالُ لِلأَرْضِ: الْتَئِمِي عَلَيْهِ، فَتَلْتَئِمُ عَلَيْهِ، فَتَخْتَلِفُ أَضْلَاعُهٗ، فَلَا يَزَالُ فِيْهَا مُعَذَّبًا حَتّٰى يَبْعَثَهُ اللّٰهُ مِنْ مَضْجَعِهٖ ذٰلِكَ". رَوَاهُ التِّرْمِذِيُّ
 
 **Lafzi tarjuma:** Riwayat hai Hazrat Abu Hurairah se. Rasool Allah ﷺ ne farmaya: Jab mayyit ko dafn kiya jaata hai **1** to us ke paas do siyah rang aur neeli aankhon wale Farishte aate hain. **2** Ek ka naam Munkar aur doosre ka Nakeer kaha jaata hai. **3** Woh poochte hain: Tum is shakhs ke baare mein kya kaha karte the? **4** Mayyit kehti hai: Yeh Allah ke bande aur us ke Rasool hain. Main gawahi deti hoon ke Allah ke siwa koi Ma'bood nahin aur yaqeenan Muhammad ﷺ Allah ke bande aur us ke Rasool hain. **5** Woh dono kehte hain: Hamein pehle se maloom tha ke tum yahi kahoge. **6** Phir us ki qabr sattar gaz lambi aur sattar gaz chaudi kar di jaati hai. **7** Phir us ke liye qabr mein roshni kar di jaati hai. **8** Phir us se kaha jaata hai: So jao. Woh kehti hai: Main apne ghar walon ke paas jaakar unhein khabar doon. **9** Woh dono kehte hain: Dulhan ki tarah so jao, jise us ke sab se pyare ghar wale ke siwa koi nahin jagata. **10** Yahan tak ke Allah use isi jagah se uthayega. Agar mayyit munafiq ho to kehti hai: Main ne logon ko ek baat kehte suna tha aur main ne bhi wahi keh di; mujhe maloom nahin. **11** Woh dono kehte hain: Hamein pehle se maloom tha ke tum yahi kahoge. **12** Phir zameen se kaha jaata hai: Is par mil ja. Zameen us par mil jaati hai aur us ki pasliyan ek doosre mein ghus jaati hain. **13** Woh isi mein azaab diya jaata rehta hai, yahan tak ke Allah use isi thikane se uthaye. **14** (Tirmizi)
 

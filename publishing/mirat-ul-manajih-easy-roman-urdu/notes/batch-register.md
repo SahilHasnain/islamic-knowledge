@@ -1,25 +1,28 @@
 # Batch Register
 
-| Batch | Source | Status | Manuscript |
-|---|---|---|---|
-| 01 | Volume 1, Hadith 1-10 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md` |
-| 02 | Volume 1, Hadith 11-20 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md` |
-| 03 | Volume 1, Hadith 21-30 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md` |
-| 04 | Volume 1, Hadith 31-40 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md` |
-| 05 | Volume 1, Hadith 41-45 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 06 | Volume 1, Hadith 46-50 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 07 | Volume 1, Hadith 51-60 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 08 | Volume 1, Hadith 61-65 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 09 | Volume 1, Hadith 66-70 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 10 | Volume 1, Hadith 71-75 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 11 | Volume 1, Hadith 76-80 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 12 | Volume 1, Hadith 81-85 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md` |
-| 13 | Volume 1, Hadith 86-90 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`; Hadith 90 continues in `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
-| 14 | Volume 1, Hadith 91-95 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
-| 15 | Volume 1, Hadith 96-100 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
-| 16 | Volume 1, Hadith 101-105 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
-| 17 | Volume 1, Hadith 106-110 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
-| 18 | Volume 1, Hadith 111-120 | Complete and verified | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
+| Batch | Source                   | Status                                                                 | Manuscript                                                                                                                                                                      |
+| ----- | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01    | Volume 1, Hadith 1-10    | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md`                                                                                                     |
+| 02    | Volume 1, Hadith 11-20   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md`                                                                                                     |
+| 03    | Volume 1, Hadith 21-30   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md`                                                                                                     |
+| 04    | Volume 1, Hadith 31-40   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/01-mirat-ul-manajih-easy-roman-01.md`                                                                                                     |
+| 05    | Volume 1, Hadith 41-45   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 06    | Volume 1, Hadith 46-50   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 07    | Volume 1, Hadith 51-60   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 08    | Volume 1, Hadith 61-65   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 09    | Volume 1, Hadith 66-70   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 10    | Volume 1, Hadith 71-75   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 11    | Volume 1, Hadith 76-80   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 12    | Volume 1, Hadith 81-85   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`                                                                                                     |
+| 13    | Volume 1, Hadith 86-90   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/02-mirat-ul-manajih-easy-roman-02.md`; Hadith 90 continues in `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md` |
+| 14    | Volume 1, Hadith 91-95   | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 15    | Volume 1, Hadith 96-100  | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 16    | Volume 1, Hadith 101-105 | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 17    | Volume 1, Hadith 106-110 | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 18    | Volume 1, Hadith 111-120 | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 19    | Volume 1, Hadith 121-130 | Translation complete; Arabic reconciliation pending for Hadith 129-130 | `manuscript/01-jild-awwal/01-volume-1/03-mirat-ul-manajih-easy-roman-03.md`                                                                                                     |
+| 20    | Volume 1, Hadith 131-140 | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md`                                                                                                     |
+| 21    | Volume 1, Hadith 141-150 | Complete and verified; metadata rendered in Roman Urdu                 | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md`                                                                                                     |
 
 ## Verification Record
 
@@ -84,6 +87,41 @@
 - Export markers and tab artifacts: removed
 - Devanagari: none
 - Manuscript line count: 647, under 1,000 lines in file 03
+
+## Batch 19 Verification Record
+
+- Source records: complete Hadith 121-130 extraction in `mirat-121-130-source.md`
+- Ordered range: 121-130
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold Roman numerals
+- Hadith 121-128 Arabic fields: match the database exactly
+- Hadith 129-130 Arabic fields: content present; final byte-level spacing and vowel-mark reconciliation remains
+- Export markers and tab artifacts: removed
+- Devanagari: none
+- Manuscript line count: 909, under 1,000 lines in file 03
+
+## Batch 20 Verification Record
+
+- Source records: complete Hadith 131-140 extraction in `mirat-131-140-source.md`
+- Ordered range: 131-140
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold Roman numerals
+- Export markers and tab artifacts: removed
+- Devanagari: none
+- Manuscript line count: 231, under 1,000 lines in file 04
+
+## Batch 21 Verification Record
+
+- Source records: complete Hadith 141-150 extraction in `mirat-141-150-source.md`
+- Ordered range: 141-150
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold Roman numerals
+- Manuscript metadata: rendered in Roman Urdu; IDs preserved numerically
+- Export markers and tab artifacts: removed
+- Devanagari: none
+- Manuscript line count: 443, under 1,000 lines in file 04
 
 ## Batch 15 Verification Record
 

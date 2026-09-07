@@ -6,6 +6,8 @@ Preserve Arabic script from the source exactly as-is. Do NOT romanize/transliter
 
 This preservation rule applies only to genuine Arabic text that the project requires us to retain: Quranic Arabic, Arabic duas, Arabic hadith quotations, Arabic honorifics, and other explicitly preserved Arabic quotations or terms. Urdu prose written in the Arabic-derived Urdu script is not covered by this exception and must be converted into Roman Urdu. Do not leave Urdu sentences, Urdu explanations, Urdu headings, or Urdu connective prose in script merely because they use Arabic letters.
 
+For translated manuscripts, metadata must be written in the translated language and script style as well. In Easy Roman Urdu projects, render metadata labels and values such as lesson, chapter, sub-chapter, and source descriptions in Roman Urdu, while preserving IDs and exact Arabic source text unchanged.
+
 ### Adab for the Prophet ﷺ in translations
 
 1. **Death reference** — Never attribute death directly to the Prophet. Use *"departed (from this world)"*, *"passed away"*, or *"was called back"*, never *"died"* or *"death of the Prophet"*.
