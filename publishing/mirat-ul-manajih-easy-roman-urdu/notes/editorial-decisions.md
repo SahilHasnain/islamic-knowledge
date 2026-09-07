@@ -8,5 +8,5 @@
 - `رَوَاهُ مُسْلِمٌ`, `(مُتَّفَقٌ عَلَيْهِ)`, and similar Arabic citations remain Arabic.
 - The source uses varied spellings of honorifics; the Roman Urdu adaptation consistently preserves respectful honorifics and `ﷺ`.
 - No manuscript file is split within a hadith entry.
-- Work is performed in the primary session without subagents.
+- Subagents are the default workflow; complete extracted Markdown records remain the source of truth.
 - Each `next` or `continue` session processes 10 hadith as two verified sub-batches of 5. Complete source records are first extracted into Markdown and used as the translation source.

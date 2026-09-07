@@ -10,12 +10,17 @@ This preservation rule applies only to genuine Arabic text that the project requ
 
 1. **Death reference** — Never attribute death directly to the Prophet. Use *"departed (from this world)"*, *"passed away"*, or *"was called back"*, never *"died"* or *"death of the Prophet"*.
 2. **No diminishing phrasing** — Never use *"no more than"* for the Prophet. Use *"but"*, *"purely"*, or *"indeed"* (e.g., *"Muhammad is but a Messenger"*).
-3. **Preserve ﷺ** — Always keep the `ﷺ` symbol after the Prophet's name wherever it appears in the source.
-4. **Vocative address** — Where the Arabic has `قُلْ`, `يَا أَيُّهَا النَّبِيُّ`, or similar, render as *"Say (O Beloved)"* or *"O Prophet"*, not a bare *"Say:"*. This maintains reverent direct address.
-5. **Elevated epithets** — Prefer honorific renderings consistent with Ahlus-Sunnah convention (e.g., *"Present Eyewitness (Haazir and Naazir)"* for *shahidan*, *"distinctive bondsman of Ours"* for *abdina*).
-6. **Reference** — When uncertain about adab, compare against `content/books/kanzul-iman-english.json` (Kanzul Iman English) as the benchmark for appropriate reverence.
-7. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"* for the final prophet. Render it as *"unschooled"*. For roman urdu, the alternative is bepadha .
-8. **Anpadh** can be used for ordinary person like disbelievers . 
+3. **No incapacity wording** — Never translate a divine instruction in a way that suggests the Prophet ﷺ is powerless, unable, or lacks authority, such as *"Aap un ke liye koi faisla nahin kar sakte"*. Distinguish an instruction or divinely appointed matter from incapacity. Preserve the source's precise wording, such as *"un ke liye koi dua na karein"* and *"un ka maamla Allah Ta'ala par chhor dein"*.
+4. **Preserve ﷺ** — Always keep the `ﷺ` symbol after the Prophet's name wherever it appears in the source.
+5. **Vocative address** — Where the Arabic has `قُلْ`, `يَا أَيُّهَا النَّبِيُّ`, or similar, render as *"Say (O Beloved)"* or *"O Prophet"*, not a bare *"Say:"*. This maintains reverent direct address.
+6. **Elevated epithets** — Prefer honorific renderings consistent with Ahlus-Sunnah convention (e.g., *"Present Eyewitness (Haazir and Naazir)"* for *shahidan*, *"distinctive bondsman of Ours"* for *abdina*).
+7. **Reference** — When uncertain about adab, compare against `content/books/kanzul-iman-english.json` (Kanzul Iman English) as the benchmark for appropriate reverence.
+8. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"* for the final prophet. Render it as *"unschooled"*. For roman urdu, the alternative is bepadha .
+9. **Anpadh** can be used for ordinary person like disbelievers .
+
+### Roman Urdu transliteration preference
+
+When transliterating Urdu prose, use `s` rather than `th` for the ث sound where the project style calls for simplified pronunciation. Prefer `Sabit` over `Thabit`, `sawab` over `thawab`, and similar forms. Preserve Arabic script in quoted Arabic text as required below.
 
 ## Batch translation workflow
 
