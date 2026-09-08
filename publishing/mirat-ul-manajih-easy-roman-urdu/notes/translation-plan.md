@@ -58,6 +58,16 @@ Hadith 131-140 is complete in the primary session without subagents. The complet
 
 Hadith 141-150 is complete in the primary session without subagents. The complete source records were extracted to `mirat-141-150-source.md` before translation. Arabic hadith fields, all translation markers, source coverage, Roman Urdu metadata, manuscript boundaries, and export-noise checks were verified against the database. The manuscript file remains below 1,000 lines. From this batch onward, manuscript metadata is rendered in Roman Urdu while IDs and exact Arabic source text remain unchanged.
 
+Hadith 151-160 is complete in the standard workflow using two verified sub-batches of five. The complete source records were extracted to `mirat-151-160-source.md` before translation. Arabic hadith fields, source metadata, translation markers, full source coverage, script hygiene, export-noise checks, and Markdown whitespace were verified against the database. The manuscript file remains below 1,000 lines.
+
+Hadith 161-165 is complete as the first verified sub-batch of the standard 10-hadith session. The complete source records were extracted to `mirat-161-170-source.md` before translation. Arabic hadith fields, source metadata, translation markers, full source coverage, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript file remains below 1,000 lines.
+
+Hadith 166-170 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-161-170-source.md`. Arabic hadith fields, source metadata, translation markers, full source coverage, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript file remains below 1,000 lines.
+
+Hadith 171-175 is complete as the first verified sub-batch of the standard 10-hadith session. The complete source records were extracted to `mirat-171-180-source.md` before translation. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript file remains below 1,000 lines.
+
+Hadith 176-180 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-171-180-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript file remains below 1,000 lines.
+
 ## Next Range
 
-Continue with Hadith 151 in the current volume, appending complete entries to manuscript file 04 until the next complete entry would exceed 1,000 lines.
+Continue with Hadith 181 in the current volume, appending complete entries to manuscript file 04 until the next complete entry would exceed 1,000 lines.

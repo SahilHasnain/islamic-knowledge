@@ -75,12 +75,10 @@
 - **Ahl al-Bayt** (اهل البيت): The blessed Household of the Prophet ﷺ, including his wives, children, and descendants.
 - **Maliki** / **Hanafi** / **Shafi'i** / **Hanbali**: The four Sunni schools of jurisprudence, named after their eponymous imams.
 - **Khawarij** (خوارج): An early sect that seceded from the Muslim community, known for their extreme position on sin and rebellion.
-- **Rafidi** (رافضي, pl. *Rawafid*): A term used for those who reject the legitimacy of the first three Caliphs.
+- **Rafidi** (رافضي, pl. *Rawafid*): A deviant sect identified by its rejection of the legitimacy of the first three Caliphs.
 - **Qadari** (قدري): An early theological sect that affirmed absolute free will, denying divine decree.
-- **Mu'tazilah** (معتزلة): A rationalist theological school.
-- **Batin** (باطن): The inward or esoteric dimension. A *Batini* is one who emphasizes esoteric interpretation.
-- **Zahiri** (ظاهري): The literalist school of jurisprudence.
-- **Dahriyah** (دهرية): Materialists or atheists who believe only in the temporal world.
+- **Mu'tazilah** (معتزلة): A misguided theological sect known for giving human reasoning precedence over revealed belief in matters of creed.
+- **Dahriyah** (دهرية): Materialists and atheists who deny the existence of Allah and believe that only the temporal, material world exists.
 
 ## Books And Scripture
 

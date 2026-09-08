@@ -18,7 +18,6 @@
 - **Khadijah** (رضي الله عنها) — her support, her status
 - **Musa** (عليه السلام) — comparison with the Prophet ﷺ, his striking of the angel of death
 - **Qadi Iyad** (رحمة الله عليه) — the author; his qualifications, his methodology
-- **Shatibi** (رحمة الله عليه) — quoted in ch. 4
 - **Umar ibn al-Khattab** (رضي الله عنه) — his firmness, his question on Tabuk
 - **Yusuf** (عليه السلام) — his beauty, his patience, comparison with the Prophet
 

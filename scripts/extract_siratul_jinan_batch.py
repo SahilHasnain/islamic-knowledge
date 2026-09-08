@@ -1,7 +1,9 @@
 """Extract a traceable Sirat-ul-Jinan transliteration batch from SQLite."""
 
 import argparse
+import html
 import os
+import re
 import sqlite3
 from pathlib import Path
 
@@ -14,6 +16,15 @@ DEFAULT_QURAN_DB = Path(r"D:\Projects\live-quran\reference\decompiled\resources\
 
 def volume_for_para(para_no):
     return ((para_no - 1) // 3) + 1
+
+
+def plain_source(value):
+    """Return readable source text, falling back from the missing plain column."""
+    value = value or ""
+    value = re.sub(r"<br\s*/?>", "\n", value, flags=re.I)
+    value = re.sub(r"</(?:p|div|li|h[1-6])\s*>", "\n", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", "", value)
+    return html.unescape(value).strip()
 
 
 def build_parser():
@@ -57,7 +68,8 @@ def main():
     limit = f"LIMIT {int(args.limit)}" if args.limit else ""
     rows = db.execute(
         f"""
-        SELECT t.tafseerId, t.ayatId, t.tafseerNumber, t.tafseerNotHTML AS tafseerTextPlain,
+        SELECT t.tafseerId, t.ayatId, t.tafseerNumber,
+               COALESCE(t.tafseerNotHTML, t.tafseerText) AS tafseerTextPlain,
                a.ayatNumber, a.surahId, a.paraId, a.arabicText,
                s.roman_name, s.surahName, p.paraName
         FROM tafseer t
@@ -130,7 +142,7 @@ def main():
                 ),
                 "**Urdu source:**",
                 "",
-                row["tafseerTextPlain"].strip(),
+                plain_source(row["tafseerTextPlain"]),
                 "",
             ]
         )

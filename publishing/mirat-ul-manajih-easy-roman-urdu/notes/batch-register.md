@@ -24,6 +24,30 @@
 | 20    | Volume 1, Hadith 131-140 | Complete and verified                                                  | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md`                                                                                                     |
 | 21    | Volume 1, Hadith 141-150 | Complete and verified; metadata rendered in Roman Urdu                 | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md`                                                                                                     |
 
+| 22    | Volume 1, Hadith 151-160 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
+| 23    | Volume 1, Hadith 161-170 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
+| 24    | Volume 1, Hadith 171-180 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
+
+## Batch 23 Verification Record
+
+- Source records: complete Hadith 161-170 extraction in `mirat-161-170-source.md`
+- Ordered range: 161-170
+- Arabic hadith fields: preserved exactly from the database
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place
+- Export markers, tabs, and Devanagari: none
+- Manuscript line count: 805, under 1,000 lines in file 04
+
+## Batch 22 Verification Record
+
+- Source records: complete Hadith 151-160 extraction in `mirat-151-160-source.md`
+- Ordered range: 151-160
+- Arabic hadith fields: preserved exactly from the database
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold Arabic-numeral markers
+- Export markers, tabs, and Devanagari: none
+- Manuscript line count: 607, under 1,000 lines in file 04
+
 ## Verification Record
 
 - Source rows: 10

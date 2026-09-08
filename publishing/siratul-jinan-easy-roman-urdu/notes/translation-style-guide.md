@@ -1,4 +1,4 @@
-# Easy Roman Urdu Style Guide
+﻿# Easy Roman Urdu Style Guide
 
 ## Adaptation Method
 
@@ -19,6 +19,16 @@
 - Keep the translation separate from the Easy Roman Urdu tafseer adaptation.
 - Preserve the translation's ayat mapping and include its source text in the extracted batch
   for traceability.
+
+## Missing-Tafseer Aayat Records
+
+- A missing tafseer row must not cause the aayat to be omitted. Fetch its Arabic from the
+  Quran/aayaat table and its `translation.trans_type=2` translation from the translation
+  table.
+- Create a separate entry for the aayat, containing only its exact Arabic and its
+  `trans_type=2` Quran translation. Do not add tafseer prose.
+- Its metadata must explicitly contain `tafseerId=null`, together with the individual
+  `surah`, `ayat`, and `ayatId` values.
 
 ## Arabic and Islamic Content
 
@@ -64,3 +74,4 @@ citation fidelity, honorific fidelity, and accidental Urdu or HTML leftovers.
 - Process each ten-ayat session as two sequential batches of five aayaat.
 - Complete and verify the first five-ayat batch before starting the second five-ayat batch.
 - This batching workflow does not override manuscript continuity or the 1,000-line rule.
+

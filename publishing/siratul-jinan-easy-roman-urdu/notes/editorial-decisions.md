@@ -1,4 +1,4 @@
-# Easy Roman Urdu Editorial Decisions
+﻿# Easy Roman Urdu Editorial Decisions
 
 ## Project Distinction
 
@@ -8,7 +8,7 @@ preserve the source's complete meaning, explanations, evidence, citations, and t
 
 ## Source Authority
 
-The repository QuranDB at `db/qurandb.db` is authoritative for source text, identifiers, Quranic mapping,
+The copied repository QuranDB at `db/qurandb.db` is authoritative for source text, identifiers, Quranic mapping,
 and ordering. The Urdu text is authoritative for the meaning of every adaptation.
 
 ## Quran Translation Source
@@ -80,3 +80,18 @@ completeness and editorial style review are finished.
 
 The second production entry is Al-Baqarah 2:3. Ayat 2:2 is not fabricated or filled by
 adaptation because the authoritative database has no tafseer row for it.
+
+### Merged and missing-tafseer coverage decision
+
+If an aayat has no tafseer row, create a separate entry containing only its Arabic from the
+Quran/aayaat table and its `translation.trans_type=2` translation. Its metadata must use
+`tafseerId=null` and list the individual `surah`, `ayat`, and `ayatId`. No tafseer prose may
+be fabricated or copied into that entry.
+
+For the current QuranDB copy, `tafseerNotHTML` is NULL for the Sirat-ul-Jinan rows even
+though `tafseerText` contains the complete source as HTML. With explicit authorization,
+the extraction workflow falls back to `tafseerText` and removes HTML markup for source
+review. This fallback does not permit shortening, summarizing, or omitting any source
+content. Apparent gaps such as An-Nisa 4:12 and 4:14 must be checked against the
+preceding source record before coverage is declared unavailable.
+
