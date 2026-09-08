@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_DB = ROOT / "publishing" / "siratul-jinan-roman-urdu" / "source" / "siratul-jinan.db"
+DEFAULT_DB = ROOT / "db" / "qurandb.db"
 DEFAULT_OUT = ROOT / "publishing" / "siratul-jinan-roman-urdu" / "manuscript" / "00-pilot" / "01-surah-al-fatihah.md"
 DEFAULT_QURAN_DB = Path(r"D:\Projects\live-quran\reference\decompiled\resources\assets\databases\QuranDB.db")
 
@@ -57,14 +57,15 @@ def main():
     limit = f"LIMIT {int(args.limit)}" if args.limit else ""
     rows = db.execute(
         f"""
-        SELECT t.tafseerId, t.ayatId, t.tafseerNumber, t.tafseerTextPlain,
+        SELECT t.tafseerId, t.ayatId, t.tafseerNumber, t.tafseerNotHTML AS tafseerTextPlain,
                a.ayatNumber, a.surahId, a.paraId, a.arabicText,
                s.roman_name, s.surahName, p.paraName
         FROM tafseer t
         JOIN aayaat a ON a.ayatId = t.ayatId
         JOIN surah s ON s.surahId = a.surahId
         JOIN para p ON p.paraId = a.paraId
-        {where}
+        WHERE t.tafseertypeId = 3
+          {('AND ' + ' AND '.join(clauses)) if clauses else ''}
         ORDER BY a.paraId, a.surahId, a.ayatNumber, t.tafseerId
         {limit}
         """,

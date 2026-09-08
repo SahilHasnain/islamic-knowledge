@@ -14,15 +14,16 @@ source explanation may be summarized, omitted, or replaced with unrelated commen
 
 ## Source
 
-The authoritative source remains the existing SQLite database:
+The authoritative source is the repository copy of the complete QuranDB database:
 
-`../siratul-jinan-roman-urdu/source/siratul-jinan.db`
+`../../db/qurandb.db`
 
-The database is referenced, not duplicated. Every adapted entry must remain traceable to
-its `tafseerId`, `ayatId`, surah, ayat number, para, and volume.
+Use `tafseer.tafseertypeId = 3` for Sirat-ul-Jinan. The complete source explanation is in
+`tafseer.tafseerNotHTML` (or `tafseer.tafseerText` when HTML is needed). Every adapted entry
+must remain traceable to its `tafseerId`, `ayatId`, surah, ayat number, para, and volume.
 
-The broader QuranDB source also contains the selected `Kanz-ul-Irfan (Sirat)` Quran
-translation (`trans_type=2`). Extract it with each batch and transliterate it from Urdu
+The same database contains the selected `Kanz-ul-Irfan (Sirat)` Quran translation
+(`translation.trans_type=2`). Extract it with each batch and transliterate it from Urdu
 script into Roman Urdu. This is transliteration, not translation or paraphrasing.
 
 ## Workflow

@@ -17,13 +17,16 @@ transliteration with this adaptation.
 
 ## Source and Traceability
 
-Use the shared database at:
+Use the repository QuranDB at:
 
-`publishing/siratul-jinan-roman-urdu/source/siratul-jinan.db`
+`db/qurandb.db`
+
+Use `tafseer.tafseertypeId = 3` for Sirat-ul-Jinan and read the complete explanation from
+`tafseer.tafseerNotHTML`.
 
 Each adapted entry must preserve its `tafseerId`, `ayatId`, surah, ayat number, para, and
 volume in the working batch. The Urdu source remains the authority for meaning and content.
-Each batch must also extract the corresponding Quran translation from the broader QuranDB
+Each batch must also extract the corresponding Quran translation from the same QuranDB
 source using `translation.trans_type=2` (Kanz-ul-Irfan, Sirat). That translation is to be
 transliterated into Roman Urdu, not translated or paraphrased.
 

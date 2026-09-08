@@ -43,8 +43,9 @@ When translating a book, always read the book's own rule files in its `notes/` d
 The separate Easy Roman Urdu project is `publishing/siratul-jinan-easy-roman-urdu/`. Read its
 `notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`, and
 `translation-plan.md` before working on it. This project is an easy-language adaptation of the
-tafseer, but its Quran translation is transliteration, not translation: use the broader
-QuranDB `translation` table with `trans_type=2` (Kanz-ul-Irfan, Sirat), preserve its meaning
+tafseer, but its Quran translation is transliteration, not translation: use `db/qurandb.db`,
+the QuranDB `translation` table with `trans_type=2` (Kanz-ul-Irfan, Sirat), and
+`tafseer.tafseertypeId=3` for Sirat-ul-Jinan. Preserve its meaning
 and wording, and transliterate it into Roman Urdu. Keep that translation separate from the
 Easy tafseer adaptation. Preserve Arabic Quranic text, Arabic quotations, duas, honorifics,
 citations, and `ﷺ` exactly as required by the project rules. Do not fabricate Ayat 2:2, which

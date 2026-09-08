@@ -8,13 +8,13 @@ preserve the source's complete meaning, explanations, evidence, citations, and t
 
 ## Source Authority
 
-The shared SQLite database is authoritative for source text, identifiers, Quranic mapping,
+The repository QuranDB at `db/qurandb.db` is authoritative for source text, identifiers, Quranic mapping,
 and ordering. The Urdu text is authoritative for the meaning of every adaptation.
 
 ## Quran Translation Source
 
-The Quran translation is sourced from the broader QuranDB database rather than the focused
-Sirat-ul-Jinan database. Use `translation.trans_type=2`, Kanz-ul-Irfan (Sirat). The translation
+Use `tafseer.tafseertypeId=3` for Sirat-ul-Jinan and `translation.trans_type=2` for the
+Kanz-ul-Irfan (Sirat) translation. The translation
 must be transliterated from Urdu script into Roman Urdu, not translated or rewritten. The
 extraction script supports this with `--include-translation`.
 

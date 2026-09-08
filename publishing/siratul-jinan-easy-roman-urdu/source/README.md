@@ -1,8 +1,9 @@
-# Shared Source Database
+# QuranDB Source Database
 
-This project uses the authoritative database at:
+This project uses the repository copy of the authoritative database at:
 
-`../../siratul-jinan-roman-urdu/source/siratul-jinan.db`
+`../../../../db/qurandb.db`
 
-Do not copy, replace, or manually edit the database here. Source extraction scripts must
-read the shared database and preserve all identifiers needed to trace each adaptation.
+Use `tafseer.tafseertypeId = 3` for Sirat-ul-Jinan. Read complete source text from
+`tafseer.tafseerNotHTML` and Quran translations from `translation` with `trans_type = 2`.
+Do not manually edit the database; preserve all identifiers needed to trace each adaptation.
