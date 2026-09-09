@@ -33,7 +33,7 @@ Each batch must also extract the corresponding Quran translation from the same Q
 source using `translation.trans_type=2` (Kanz-ul-Irfan, Sirat). That translation is to be
 transliterated into Roman Urdu, not translated or paraphrased.
 
-### Merged aayaat and missing tafseer rows
+### Missing tafseer rows
 
 An aayat with no tafseer row must receive its own separate manuscript entry. Extract its
 Arabic from the Quran/aayaat table and its Kanz-ul-Irfan translation using
@@ -219,10 +219,34 @@ five-entry batches in `02-surah-an-nisa-easy-roman-02.md`. The first batch cover
 `tafseerId=50617–50621` and the second covers `tafseerId=50622–50626`; the active file remains
 below the 1,000-line limit at 285 lines.
 
-The next ten available entries, Ayat 4:48–4:51, 4:53, and 4:54–4:58, were completed in two
-verified five-entry batches in the same file. Ayat 4:52 has no tafseer row and was not
-fabricated. The first batch uses `tafseerId=50627–50630` and `50631`; the second uses
-`tafseerId=50632–50636`. The active file remains below the 1,000-line limit at 473 lines.
+The entries Ayat 4:48–4:58 were completed in two five-entry batches in the same file. Ayat
+4:52 has no tafseer row, so it was added as a standalone entry with `tafseerId=null`,
+`ayatId=549`, its exact Arabic, and its `trans_type=2` translation. The active file remains
+below the 1,000-line limit.
+
+The consecutive ten-ayat session for Ayat 4:59–4:68 was completed in two verified batches in
+`02-surah-an-nisa-easy-roman-02.md`. Ayat 4:59–4:61 and 4:64–4:66 contain complete tafseer;
+Ayat 4:62–4:63 and 4:67–4:68 were added as standalone `tafseerId=null` entries with exact
+Arabic and `trans_type=2` translations. The active file is 690 lines.
+
+The next consecutive session, Ayat 4:69–4:78, was completed in two verified batches in the
+same file. Ayat 4:69–4:72 and 4:74–4:76, 4:78 contain complete tafseer; Ayat 4:73 and 4:77
+were added as standalone `tafseerId=null` entries with exact Arabic and `trans_type=2`
+translations. The active file is 868 lines.
+
+The next five-entry batch, Ayat 4:79–4:83 (`tafseerId=50650–50654`, `ayatId=576–580`), was
+appended to the same active file. All five rows have complete Sirat-ul-Jinan tafseer and use
+the complete `tafseerText` fallback because `tafseerNotHTML` is NULL; only HTML/export markup
+was removed. The batch preserves exact Arabic, directly transliterated Kanz-ul-Irfan
+translations, complete explanations, quotations, citations, honorifics, and source order. The
+active file is 941 lines and remains below the 1,000-line limit.
+
+The following five-entry batch, Ayat 4:84–4:88 (`tafseerId=50655–50659`, `ayatId=581–585`),
+was added to `03-surah-an-nisa-easy-roman-03.md` because the next complete entry would have
+exceeded the 1,000-line limit in the previous file. All five rows have complete Sirat-ul-Jinan
+tafseer and preserve exact Arabic, directly transliterated Kanz-ul-Irfan translations,
+complete explanations, quotations, citations, honorifics, and source order. The new file is
+132 lines.
 
 2:212 (`tafseerId=50338`, `ayatId=221`) through 2:216 (`tafseerId=50342`, `ayatId=225`) were appended to `05-surah-al-baqarah-easy-roman-05.md` as the first five-ayat batch. The next complete entry would exceed the 1,000-line boundary, so 2:217 (`tafseerId=50343`, `ayatId=226`) through 2:221 (`tafseerId=50347`, `ayatId=230`) were added to `06-surah-al-baqarah-easy-roman-06.md` as the second five-ayat batch. All ten entries remain draft adaptations with extracted Kanz-ul-Irfan translations, Arabic, explanations, quotations, citations, and source order preserved.
 
@@ -267,3 +291,11 @@ The next five available entries, 3:178 (`tafseerId=50567`, `ayatId=474`), 3:179 
 
 The next ten available entries were processed in two separate five-entry batches as required by the workflow rule. Batch 1 contains 3:184 (`tafseerId=50571`, `ayatId=480`), 3:185 (`tafseerId=51244`, `481`), 3:186 (`50572`, `482`), 3:187 (`50573`, `483`), and 3:188 (`50574`, `484`). Batch 2 contains 3:189 (`50575`, `485`), 3:190 (`50576`, `486`), 3:191 (`50577`, `487`), 3:192 (`50578`, `488`), and 3:195 (`50579`, `491`). The authoritative database has no tafseer rows for 3:193 or 3:194, so no entries were fabricated. Batch 1 was validated before Batch 2 was started; the final active manuscript is 867 lines and preserves source order, Arabic, Kanz-ul-Irfan transliterations, explanations, citations, and honorifics.
 
+The second five-entry batch for An-Nisa contains 4:94 (`tafseerId=50665`, `ayatId=591`), 4:95 (`50666`, `592`), 4:96 (`50667`, `593`), 4:97 (`50668`, `594`), and 4:98 (`50669`, `595`). These entries were appended to `03-surah-an-nisa-easy-roman-03.md` after the preceding 4:84–4:88 batch. All five preserve exact Arabic, directly transliterated Kanz-ul-Irfan translations, complete `tafseerText` explanations, rulings, hadith, quotations, citations, honorifics, and source order. `tafseerNotHTML` is NULL for these rows, so only HTML/export markup was removed; the active file is 356 lines and remains below the 1,000-line limit.
+
+The complete consecutive session for Ayat 4:89–4:98 was verified in two five-entry batches in
+`03-surah-an-nisa-easy-roman-03.md`. Ayat 4:89–4:93 (`tafseerId=50660–50664`, `ayatId=586–590`)
+and Ayat 4:94–4:98 (`tafseerId=50665–50669`, `ayatId=591–595`) all have complete tafseer
+rows. Exact Arabic, directly transliterated Kanz-ul-Irfan translations, complete source
+explanations, citations, honorifics, and source order were preserved. The active file is 356
+lines.

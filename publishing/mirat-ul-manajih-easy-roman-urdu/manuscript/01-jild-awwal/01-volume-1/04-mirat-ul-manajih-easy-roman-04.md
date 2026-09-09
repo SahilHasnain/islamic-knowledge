@@ -964,3 +964,23 @@
 **Poori wazahat:**
 
 **1.** Yani jo log sachche deen se bhatak jaate hain woh apne baatil deen ko phailane ke liye taassub, zid aur jhagde se kaam lete hain, kyunki Rab ki taraf se un ki madad nahin hoti. Aaj bhi bedinon ke tarz-e-amal se yahi zahir hai ke woh Quran aur hadith ko zabardasti apne mutabiq banana chahte hain; khud Quran aur hadith ke mutabiq nahin hote. Jo aayat pesh ki gayi hai, us ka shan-e-nuzool yeh hai ke jab yeh aayat-e-karima naazil hui: "اِنَّکُمْ وَمَا تَعْبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ حَصَبُ جَہَنَّمَ" yani Ae kafiro! Tum aur Allah ke siwa tumhare sab mabood Dozakh ka indhan hain, to kafiron ne Huzoor ﷺ se arz ki: Phir Hazrat Isa aur Hazrat Uzair علیہما السلام bhi Dozakhi hue, kyunki Ahl-e-Kitab ne un ki bhi pooja ki thi. Tab yeh aayat utri aur usi waqt Huzoor ﷺ ne yeh irshad farmaya. Yani yeh kafir jaante hain ke "مَا" be-aqal cheezon ke liye aata hai, phir Anbiya-e-Kiram is mein kaise shamil honge? Magar phir bhi kaj-bahsi karte hue apni baat par ade rehte hain. Aaj is ki bahut si misaalein dekhne mein aa rahi hain.
+
+## Hadith 181
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=181`; `source_id=413`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Imaan ka bayan`; chapter `Quran-o-Sunnat mazbooti se pakarne ka baab`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَعَن أَنَسٍ أَنَّ رَسُولَ اللهِ صَلَّى اللّٰهُ  عَلَيْهِ وَسَلَّمَ   كَانَ يَقُولُ: لَا تُشَدِّدُوْا عَلٰى أَنْفُسِكُمْ فَيُشَدِّدَ اللّٰهُ  عَلَيْكُمْ فَإِنَّ قَوْمًا شَدَّدُوْا عَلٰی أَنْفُسِهِمْ فَشَدَّدَ اللّٰهُ  عَلَيْهِمْ فَتِلْكَ بَقَايَاهُمْ فِي الصَّوَامِعِ وَالدِّيَارِ (رَهْبَانِيَّةٌ اِبْتَدَعُوْهَا مَا كَتَبْنَاهَا عَلَيْهِمْ)رَوَاهُ أَبُو دَاوٗدَ
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Anas se ke Rasool Allah ﷺ farmaya karte the: Apni jaanon par sakhti na karo **1**, warna Allah tum par sakhti karega **2**. Ek qaum ne apni jaanon par sakhti ki thi to Allah ne bhi un par sakhti kar di **3**. Pas girjon aur deron mein unhi ke baqaya log hain. Unhon ne khud tark-e-duniya ijad kiya tha, Hum ne un par lazim nahin kiya tha **4**. (Abu Dawood)
+
+**Poori wazahat:**
+
+**1.** Yani apne upar ghair-zaroori ibaadaten lazim na kar lo, jaise hamesha roze rakhna ya saari raat jaagna. Aur shar'i mubah cheezon ko haraam na kar lo, jaise nikah aur lazeez ne'maton se parhez karna. Halaal se bachne ka naam taqwa nahin; haraam se bachne ka naam parhezgaari hai. Baaz log gosht se bachte hain lekin gheebat nahin chhorte.
+
+**2.** Jaise koi umr bhar roze rakhne ya shab-bedaari ki nazr maan le. Ab yeh dono nazr ki wajah se farz ho gaye; nahin karega to gunahgaar hoga. Is qism ki nazron se bacho. Is liye hadith bilkul wazeh hai. Is ka matlab yeh nahin ke Huzoor ﷺ ke baad koi Nabi aayega jis ke zariye woh sakhtiyan farz ho jaayengi.
+
+**3.** Jaise Bani Israeel ko ek mauqe par gaay zibaah karne ka hukm diya gaya. Woh jaisi bhi gaay zibaah kar dete to kaafi tha, lekin woh Hazrat Musa علیہ السلام se poochte hi rahe ke us ka rang kaisa ho, umr kitni ho aur waghera. Jawab aate rahe aur sakhtiyan badhti gayin. Ya jaise Isaai paadriyon ne apne liye tark-e-duniya ko ibadat bana liya, phir woh use nibha na sake balki haraamkaariyon mein mubtala ho gaye.
+
+**4.** Yani Yahud-o-Nasara par rahib ya nun banna Rab ka hukm nahin tha. Unhon ne khud josh-e-aqeedat mein yeh tareeqa ijad kiya ke auraten Bibi Maryam ke naam par kunwariyan aur mard Hazrat Isa علیہ السلام ke naam par kunware ban kar girjon mein rehne lage. Phir in kunwaron aur kunwariyon ke ijtima' se jo nateeja nikla woh zahir hai. Dekho kitab "ازبلا". Is aayat aur hadith se ishare ke taur par maloom hota hai ke bid'at-e-hasanah ijad karne par sawab milta hai, kyunki Rab Ta'ala ne un rahibon ke baare mein jinhon ne apne ahd poore kiye sawab ka waada farmaya: "فَاٰتَیۡنَا الَّذِیۡنَ اٰمَنُوۡا مِنْہُمْ اَجْرَھُمْ ۚ وَکَثِیۡرٌ مِّنْہُمْ فٰسِقُوۡنَ".

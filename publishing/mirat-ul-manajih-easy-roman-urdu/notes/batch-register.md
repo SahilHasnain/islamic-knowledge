@@ -27,6 +27,66 @@
 | 22    | Volume 1, Hadith 151-160 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
 | 23    | Volume 1, Hadith 161-170 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
 | 24    | Volume 1, Hadith 171-180 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/04-mirat-ul-manajih-easy-roman-04.md` |
+| 25    | Volume 1, Hadith 181-190 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+| 26    | Volume 1, Hadith 191-200 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+| 27    | Volume 1, Hadith 201-210 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+| 28    | Volume 1, Hadith 211-220 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+| 29    | Volume 1, Hadith 221-230 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+
+## Batch 29 Verification Record
+
+- Source records: complete Hadith 221-230 extraction in `mirat-221-230-source.md`
+- Ordered range: 221-230; second sub-batch completed here: 226-230
+- Source IDs for Hadith 226-230: 2722, 2740, 2794, 2803, 2821
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript line count: 922, under 1,000 lines in file 05
+
+## Batch 28 Verification Record
+
+- Source records: complete Hadith 211-220 extraction in `mirat-211-220-source.md`
+- Ordered range: 211-220; second sub-batch completed here: 216-220
+- Source IDs for Hadith 216-220: 1237, 1842, 1866, 2148, 2156
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript line count: under 1,000 lines in file 05
+
+## Batch 27 Verification Record
+
+- Source records: complete Hadith 201-210 extraction in `mirat-201-210-source.md`
+- Ordered range: 201-210; second sub-batch completed here: 206-210
+- Source IDs for Hadith 206-210: 3769, 3785, 3801, 3809, 3817
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript line count: 586, under 1,000 lines in file 05
+
+## Batch 26 Verification Record
+
+- Source records: complete Hadith 191-200 extraction in `mirat-191-200-source.md`
+- Ordered range: 191-200; second sub-batch completed here: 196-200
+- Source IDs for Hadith 196-200: 435, 436, 443, 444, 445
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript line count: 345, under 1,000 lines in file 05
+
+## Batch 25 Verification Record
+
+- Source records: complete Hadith 181-190 extraction in `mirat-181-190-source.md`
+- Ordered range: 181-190; second sub-batch completed here: 186-190
+- Source IDs for Hadith 186-190: 425, 426, 427, 428, 429
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript line count: under 1,000 lines in file 05
 
 ## Batch 23 Verification Record
 

@@ -20,9 +20,14 @@ For translated manuscripts, metadata must be written in the translated language 
 8. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"* for the final prophet. Render it as *"unschooled"*. For roman urdu, the alternative is bepadha .
 9. **Anpadh** can be used for ordinary person like disbelievers .
 
-### Roman Urdu transliteration preference
+### Roman Urdu transliteration or translation preference
 
 When transliterating Urdu prose, use `s` rather than `th` for the ث sound where the project style calls for simplified pronunciation. Prefer `Sabit` over `Thabit`, `sawab` over `thawab`, and similar forms. Preserve Arabic script in quoted Arabic text as required below.
+
+Do not form Roman Urdu plurals by adding the English suffix `-s` to a singular word. Use the
+source's established Urdu or Arabic plural form instead, such as `aayat` / `aayaat`,
+`hadees` / `ahadees`, and `mas'alah` / `masail`, rather than `aayats`, `hadeess`, or
+`mas'alahs`.
 
 ## Batch translation workflow
 
@@ -34,7 +39,7 @@ sentences, quotations, citations, or traceable transliteration entries. Existing
 that already exceed 1,000 lines are grandfathered and do not need to be rewritten solely
 to satisfy this rule.
 
-When a book chapter is too large for a single batch file, split into sequential sub-batches (`01-batch.md`, `02-batch.md`, etc.). Each sub-batch should cover a logically self-contained portion of the narrative (e.g., "introduction through first major event", "second major event", "remaining story"). Always check the last sub-batch's end point before starting the next one to ensure continuity. Keep each batch focused and complete enough to verify independently. Never summarize the source. Always preserve the tone of the author.
+When a book chapter is too large for a single batch file, split into sequential sub-batches. Each sub-batch should cover a logically self-contained portion of the narrative (e.g., "introduction through first major event", "second major event", "remaining story"). Always check the last sub-batch's end point before starting the next one to ensure continuity. Keep each batch focused and complete enough to verify independently. Never summarize the source. Always preserve the tone of the author.
 
 When translating a book, always read the book's own rule files in its `notes/` directory (`publishing/<book>/notes/translation-style-guide.md`, `glossary.md`, `editorial-decisions.md`) before starting — these book-level rules take precedence over the generic rules in this file. Create/update them as translation decisions are made.
 
@@ -56,6 +61,29 @@ When an aayat has no tafseer row, create a separate manuscript entry for that aa
 only its exact Arabic from the Quran table and its `translation.trans_type=2` translation.
 Do not add tafseer prose. Its metadata must explicitly use `tafseerId=null`, alongside the
 `surah`, `ayat`, and `ayatId` values.
+
+### Mirat-ul-Manajih Easy Roman Urdu workflow
+
+The separate Easy Roman Urdu project is `publishing/mirat-ul-manajih-easy-roman-urdu/`. Before
+every translation or continuation task, read its `notes/translation-style-guide.md`,
+`glossary.md`, `editorial-decisions.md`, and `translation-plan.md`. The source of truth is
+`db/hadees_content.db`; preserve each hadith's database metadata and keep the manuscript
+traceable to its source record.
+
+Subagents are the default workflow. One user session processes 10 hadith, divided into two
+sequential sub-batches of 5. Complete and verify the first sub-batch before starting the second.
+Extract the complete source records for the session into a Markdown source file and translate
+only from that complete extraction, never from terminal previews, shortened output, or summaries.
+
+This is a complete Easy Roman Urdu adaptation, not a summary. Preserve every translation,
+explanation, belief, ruling, example, quotation, citation, narrator detail, and numbered note.
+Preserve Arabic hadith text exactly as stored in the database, including Arabic quotations,
+duas, honorifics, citations, and `ﷺ`. Keep every translation marker in its source position as
+`**1**`, `**2**`, and so on. Remove only export noise such as `€`, `∞`, `¥`, `α`, stray tabs,
+and obvious spacing artifacts. Verify Arabic equality, marker counts, ordering, metadata,
+source coverage, Roman Urdu script hygiene, export-noise removal, and manuscript line limits
+after every sub-batch. Append complete hadith boundaries to the current manuscript file and
+create the next sequential file only when the next complete entry would exceed 1,000 lines.
 
 ### Manuscript File Splitting Rule
 
@@ -164,4 +192,3 @@ example, quotation, reference, and fasl boundary.
   lost `ﷺ`, and changed Arabic quotations or references.
 - Record newly approved wording decisions in the project glossary and editorial
   decisions files so the next agent can follow them.
-
