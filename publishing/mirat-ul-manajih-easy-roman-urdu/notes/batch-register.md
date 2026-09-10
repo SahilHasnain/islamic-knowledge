@@ -32,6 +32,32 @@
 | 27    | Volume 1, Hadith 201-210 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
 | 28    | Volume 1, Hadith 211-220 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
 | 29    | Volume 1, Hadith 221-230 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
+| 30    | Volume 1, Hadith 231-240 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md`; Hadith 236-240 continue in `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+| 31    | Volume 1, Hadith 241-250 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+
+## Batch 31 Verification Record
+
+- Source records: complete Hadith 241-250 extraction in `mirat-241-250-source.md`
+- Ordered range: 241-250; second sub-batch completed here: 246-250
+- Source IDs for Hadith 246-250: 3802, 3818, 3850, 3866, 3874
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript boundary: Hadith 246-250 appended after Hadith 245 in file 06
+- Manuscript line count: file 06 is under 1,000 lines
+
+## Batch 30 Verification Record
+
+- Source records: complete Hadith 231-240 extraction in `mirat-231-240-source.md`
+- Ordered range: 231-240; second sub-batch completed here: 236-240
+- Source IDs for Hadith 236-240: 2911, 2938, 2956, 2974, 2983
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript boundary: file 05 ends at Hadith 235; file 06 begins at Hadith 236
+- Manuscript line count: file 06 is under 1,000 lines
 
 ## Batch 29 Verification Record
 

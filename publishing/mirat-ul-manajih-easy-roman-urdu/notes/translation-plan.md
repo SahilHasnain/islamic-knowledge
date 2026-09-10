@@ -82,6 +82,14 @@ Hadith 221-225 is complete as the first verified sub-batch of the standard 10-ha
 
 Hadith 226-230 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-221-230-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript remains below 1,000 lines at 922 lines.
 
+Hadith 231-235 is complete as the first verified sub-batch of the standard 10-hadith session. The complete source records were extracted to `mirat-231-240-source.md` before translation. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. Hadith 231-235 remain in manuscript file 05, which reached 994 lines.
+
+Hadith 236-240 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-231-240-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the complete-hadith manuscript boundary were verified against the database. Hadith 236-240 begin manuscript file 06.
+
+Hadith 241-245 is complete as the first verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-241-250-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the manuscript boundary were verified against the database. The manuscript remains below 1,000 lines.
+
+Hadith 246-250 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-241-250-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the complete-hadith manuscript boundary were verified against the database. Hadith 246-250 continue in manuscript file 06, which remains below 1,000 lines.
+
 ## Next Range
 
-Continue with Hadith 231 in the current volume, appending complete entries to manuscript file 05 until the next complete entry would exceed 1,000 lines.
+Hadith 241-250 is complete. Continue with Hadith 251 in the current volume, appending complete entries to manuscript file 06 until the next complete entry would exceed 1,000 lines.

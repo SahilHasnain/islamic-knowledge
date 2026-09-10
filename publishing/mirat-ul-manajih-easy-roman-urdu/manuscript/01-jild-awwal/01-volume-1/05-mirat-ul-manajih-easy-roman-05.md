@@ -920,3 +920,75 @@ Imam Shafi'i farmate hain: "فَاِنَّ الْعِلْمَ نُوْرٌ مِ�
 **2.** Is tarah ke ma'ni na badlein aur hadith ke alfaaz mein aisa farq na paida ho jo ma'ni badal de. Yaad rahe ke Ibn Umar, Malik bin Anas, Ibn Sirin aur doosre buzurgon ke nazdeek hadith ko ma'ni ke saath riwayat karna haraam hai, kyunki aksar lafz badalne se ma'ni badal jaata hai aur raawi ko iska pata nahin hota. Imam Hasan, Sha'bi, Nakha'i aur Mujahid waghera ke nazdeek ma'ni ke saath riwayat karna jaaiz hai, jab raawi hadith ke alfaaz is tarah badle ke ma'ni na badlein. Pehle qaul mein ehtiyaat hai aur doosre mein gunjaish. Behtar yahi hai ke alfaaz bhi na badle jaayen.
 
 Dekhiye Hazrat Wa'il bin Hujr ne namaz ki Aameen ke baare mein farmaya: "مَدَّبِھَا صَوتَہٗ"۔ Baaz raawiyon ne ise "رَفَعَ بِھَا صَوتَہٗ" ke alfaaz se riwayat kiya. Unhon ne samjha ke dono ke ma'ni ek hi hain, lekin baad walon ko dhoka hua ke shayad is ka matlab buland aawaaz se Aameen kehna hai. Haalanki is ka tarjuma yeh tha ke Aameen ko khench kar, alif ke madd ke saath kaha. Ma'ni ke saath riwayat mein yeh khatre hain. Isi liye farmaya gaya ke jaisi sune waisi hi pahunchaaye.
+
+## Hadith 231
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=231`; `source_id=2830`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Ilm ki kitab`; chapter `Ilm ka bayan`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَرَوَاهُ الدَّارمِيُّ عَنْ أَبِى الدَّرْدَاءِ
+
+**Lafzi tarjuma:** Aur Darimi ne Hazrat Abu Darda رضی اللہ عنہ se riwayat kiya hai.
+
+**Poori wazahat:** Wazahat: Is hadith aur pichhli hadith mein sirf kitab aur sanad ka farq hai.
+
+## Hadith 232
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=232`; `source_id=2857`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Ilm ki kitab`; chapter `Ilm ka bayan`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ -صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ  -: "اتَّقُوا الْحَدِيثَ عَنِّي إِلَّا مَا عَلِمْتُمْ، فَمَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ". رَوَاهُ التِّرْمِذِيُّ.
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Ibn Abbas رضی اللہ عنہ se. Farmate hain, Rasool Allah ﷺ ne farmaya: Meri hadith riwayat karne se bacho, siwaye un ke jin ke baare mein tum jaante ho **1**, kyunki jo jaan-boojh kar mujh par jhoot baandhe, woh apna thikana Aag mein bana le **2**. Ise Tirmizi ne riwayat kiya hai.
+
+**Poori wazahat:**
+
+**1.** Yani yaqeen se ya ghalib gumaan se maloom ho ke yeh meri hadith hai. Is liye mutawatir aur mashhoor hadith be-jhijhak riwayat karo. Hadith-e-zaeef ki kamzori bayan karke riwayat karo aur hadith-e-mawdu ko haath na lagao. Haan, logon ko bachane ke liye yeh bata sakte ho ke yeh hadith ghadi hui hai. Isi wajah se baaz muhaddiseen ne mumkin had tak hadith-e-zaeef riwayat hi nahin ki, jaise Imam Bukhari aur Muslim. Aur baaz ne riwayat ki, magar us ki kamzori bayan karna lazim rakha, jaise Imam Tirmizi. Gharz yeh hai ke hadith ke maamle mein badi ehtiyat chahiye. Mirqaat ne farmaya ke tehreer par bharosa karke hadith riwayat karna jaaiz hai.
+
+**2.** Agarche har kisi par jhoot baandhna bohtan aur gunah hai, magar Huzoor Anwar ﷺ par jhoot baandhna bahut bada gunah hai, kyunki is se Deen bigadta hai. `مُتَعَمِّدًا` ki qaid se maloom hua ke bhool ya ghalati par pakad nahin. Agar kisi ko hadith ke mawdu hone ki khabar na hui aur us ne riwayat kar di to woh mujrim nahin.
+
+## Hadith 233
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=233`; `source_id=2866`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Ilm ki kitab`; chapter `Ilm ka bayan`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَرَوَاهُ ابْنُ مَاجَهْ عَنِ ابْنِ مَسْعُودٍ وَجَابِرٍ وَلَمْ يَذْكُرِ: "اتَّقُوا الْحَدِيثَ عَنِّي. إِلَّا مَا عَلِمْتُمْ".
+
+**Lafzi tarjuma:** Aur Ibn Majah ne Hazrat Ibn Mas'ood aur Jabir رضی اللہ عنہما se naql kiya hai aur `"اتقوا الحدیث" الخ` ka zikr nahin kiya.
+
+**Poori wazahat:** Wazahat: Is hadith aur pichhli hadith mein sirf kitab aur sanad ka farq hai.
+
+## Hadith 234
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=234`; `source_id=2884`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Ilm ki kitab`; chapter `Ilm ka bayan`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ -صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ  -: "مَنْ قَالَ فِي الْقُرْآنِ بِرَأْيِهِ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ". وَفِي رِوَايَةٍ: "مَنْ قَالَ فِي الْقُرْآنِ بِغَيْرِ عِلْمٍ فَليَتَبَوَّأ مَقْعَدَهُ مِنَ النَّارِ" رَوَاهُ التِّرْمِذِيُّ.
+
+**Lafzi tarjuma:** Riwayat hai unhi se. Farmate hain, Rasool Allah ﷺ ne farmaya: Jo Quran ke baare mein apni raye se kuch kahe, woh apna thikana Aag mein bana le **1**. Aur ek riwayat mein hai: Jo Quran ke baare mein baghair ilm kuch kahe, woh apna thikana Aag mein bana le **2**. (Tirmizi)
+
+**Poori wazahat:**
+
+**1.** Yani Quran ki tafseer bil-raye karne wala Jahannami hai. Yaad rakho ke Quran ki kuch baatein naql par mauqoof hain, jaise shan-e-nuzool, naasikh-o-mansookh aur tajweed ke qawaid. Inhein raye se bayan karna haraam hai; yahan isi ki murad hai. Aur kuch baatein shar'i aqal se bhi maloom ki ja sakti hain, jaise aayaat ke ilmi nukat, achchi aur durust taweelaat aur paida hone wale aitraazaat ke jawab waghera. In mein naql lazim nahin. Gharz yeh hai ke Quran ki tafseer bil-raye haraam hai, aur taweel bil-raye ulama-e-Deen ke liye sawab ka sabab hai. Is ki tahqiq hamari kitab `جاء الحق` aur Mirqaat mein isi maqam par dekho. Rab Ta'ala farmata hai: `اَفَلَا یَتَدَبَّرُوۡنَ الْقُرْاٰنَ`۔ Is se maloom hua ke Quran mein tadabbur aur tafakkur ka hukm hai.
+
+**2.** Is mein ishare ke taur par farmaya gaya hai ke ulama ko Quran ki taweelaat ki ijazat hai, lekin jahilon ke liye yeh bhi haraam hai. Is se woh log ibrat pakdein jo sirf Quran ke tarjume se ghalat masail nikaal kar logon ko gumrah karte hain. Hadith aur Quran ke sirf tarjume, fiqh ki roshni ke baghair, awam ke liye zehr-e-qaatil hain.
+
+## Hadith 235
+
+**Source metadata:** `book_id=1`; `volume_id=1`; `hadith_no=235`; `source_id=2893`; source book `Mirat-ul-Manajih Sharh Mishkat-ul-Masabih`; lesson `Ilm ki kitab`; chapter `Ilm ka bayan`; sub-chapter `Doosri fasl`.
+
+**Arabic hadith:**
+
+وَعَنْ جُنْدُبٍ قَالَ: قَالَ رَسُولُ اللَّهِ -صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ  -: "مَنْ قَالَ فِي الْقُرْآنِ بِرَأْيِهِ فَأَصَابَ فقد أَخْطَأَ". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ.
+
+**Lafzi tarjuma:** Riwayat hai Hazrat Jundub se **1**. Farmate hain, Rasool Allah ﷺ ne farmaya: Jo Quran ke baare mein apni raye se kahe, phir theek bhi keh de, tab bhi ghalati kar gaya **2**. (Tirmizi wa Abu Dawood)
+
+**Poori wazahat:**
+
+**1.** Aap ka naam Jundub ibn Abdullah ibn Sufyan Alfi Bajali hai. Alaf qabeela Bajal ka ek hissa hai. Aap mashhoor Sahabi hain. Hazrat Abdullah ibn Zubair رضی اللہ عنہما ki wisaal ke chaar saal baad aap ka wisaal hua.
+
+**2.** Yani agar Aalim Quran ki raye se tafseer kare, ya Jaahil raye se taweel kare, aur ittefaq se woh tafseer aur taweel durust bhi ho, tab bhi dono gunahgaar honge, kyunki unhon ne najaaiz kaam kiya. Mumkin hai ke aage chal kar isi jurat ki wajah se ghalati bhi kar baithen. Ulama farmate hain ke Quran ki tafseer ke liye Aalim ko pandrah uloom mein poori maharat chahiye; tab woh Quran ko haath lagaaye. Aisa Aalim agar Quran ki taweel mein ghalati bhi kare to bhi sawab paayega. Mujtahid ki ghalati par ek sawab hai aur durusti par do, jaisa ke aane wali ahadith mein aayega. Tafseer aur taweel ka farq hum upar bayan kar chuke hain. Tafseer mein yaqeen hota hai aur woh naql par mauqoof hoti hai, jabke taweel mein ghalib gumaan hota hai. Yaad rakho ke Quran ki woh taweel jo naql ke khilaaf ho haraam hai.
