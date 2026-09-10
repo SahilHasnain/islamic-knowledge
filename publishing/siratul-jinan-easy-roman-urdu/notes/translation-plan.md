@@ -299,3 +299,24 @@ and Ayat 4:94–4:98 (`tafseerId=50665–50669`, `ayatId=591–595`) all have co
 rows. Exact Arabic, directly transliterated Kanz-ul-Irfan translations, complete source
 explanations, citations, honorifics, and source order were preserved. The active file is 356
 lines.
+
+The consecutive session for Ayat 4:99–4:108 was completed in two verified five-entry batches
+in `03-surah-an-nisa-easy-roman-03.md`. Ayat 4:99 and 4:106 had no tafseer rows and were added
+as standalone `tafseerId=null` entries with exact Arabic and `trans_type=2` translations.
+The remaining entries used complete Sirat-ul-Jinan tafseer rows. Exact Arabic, translations,
+source explanations, citations, honorifics, and source order were preserved; the active file
+is 566 lines.
+
+The consecutive session for Ayat 4:109–4:118 was completed in two verified five-entry batches
+in `03-surah-an-nisa-easy-roman-03.md`. Ayat 4:111 and 4:112 had no tafseer rows and were
+added as standalone `tafseerId=null` entries with exact Arabic and `trans_type=2` translations.
+The remaining entries used complete Sirat-ul-Jinan tafseer rows. Exact Arabic, translations,
+source explanations, citations, honorifics, and source order were preserved; the active file
+is 768 lines.
+
+The consecutive session for Ayat 4:119–4:128 was completed in two verified five-entry batches
+in `03-surah-an-nisa-easy-roman-03.md`. Ayat 4:121, 4:122, and 4:124 had no tafseer rows and
+were added as standalone `tafseerId=null` entries with exact Arabic and `trans_type=2`
+translations. The remaining entries used complete Sirat-ul-Jinan tafseer rows, including
+`tafseerId=51442` for Ayat 4:127. Exact Arabic, translations, source explanations, citations,
+honorifics, and source order were preserved; the active file is 952 lines.

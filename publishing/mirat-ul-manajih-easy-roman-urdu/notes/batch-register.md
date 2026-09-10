@@ -34,6 +34,19 @@
 | 29    | Volume 1, Hadith 221-230 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md` |
 | 30    | Volume 1, Hadith 231-240 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md`; Hadith 236-240 continue in `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
 | 31    | Volume 1, Hadith 241-250 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+| 32    | Volume 1, Hadith 251-260 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+
+## Batch 32 Verification Record
+
+- Source records: complete Hadith 251-260 extraction in `mirat-251-260-source.md`
+- Ordered range: 251-260; second sub-batch completed here: 256-260
+- Source IDs for Hadith 256-260: 3946, 3954, 3962, 3978, 3986
+- Arabic hadith fields: preserved exactly from `c9with_araab`, with the source trailing tab removed from Hadith 257 as export whitespace
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers, including the repeated Hadith 260 explanation markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript boundary: Hadith 256-260 appended after Hadith 255 in file 06
+- Manuscript line count: file 06 remains under 1,000 lines
 
 ## Batch 31 Verification Record
 
