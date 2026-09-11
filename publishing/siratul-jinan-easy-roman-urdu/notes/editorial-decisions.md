@@ -69,8 +69,8 @@ Manuscript files remain active across batches and sessions. Always append to the
 create the next sequential file only when the current file reaches 1,000 lines or the next
 complete entry would exceed 1,000 lines. Do not switch files merely because a batch is complete.
 
-Each session targets ten aayaat in two sequential five-ayat batches. Verify the first batch
-before beginning the second; this does not permit switching manuscript files early.
+Each session targets twenty aayaat in four sequential five-ayat batches. Verify each batch
+before beginning the next; this does not permit switching manuscript files early.
 
 Poetry and shair must never be altered. Preserve the source wording, line breaks, punctuation,
 and order exactly, without simplification, paraphrase, or inserted explanation.

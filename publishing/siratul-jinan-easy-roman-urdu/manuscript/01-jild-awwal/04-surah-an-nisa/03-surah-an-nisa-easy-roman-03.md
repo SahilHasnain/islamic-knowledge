@@ -950,3 +950,29 @@ Aur farmaya:
 Hadees Shareef mein hai, Hazrat Anas bin Maalik رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai, Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne farmaya: "Jo tum se ta'alluq tode tum us se rishta joro, jo tum par zulm kare tum us se dar-guzar karo." (Shu'ab-ul-Imaan, As-Saadis wal-Khamsoon min Shu'ab-il-Imaan, 6/222, hadees: 7957)
 
 **{وَ اِنْ تُحْسِنُوْا: Aur agar tum neki karo.}** Yahan khaas taur par auraton ke baare mein farmaya gaya: Ae mardo! Agar tum neki aur khauf-e-Khuda ikhtiyaar karo, na-pasand hone ke bawajood apni maujooda biwiyon par sabr karo, un ke saath achha bartao karo, unhein takleef dene aur jhagda paida karne wali baaton se bacho, un ke saath zindagi guzaarne mein nek sulook karo aur yeh jaante raho ke woh tumhare paas amaanatein hain, to Allah عَزَّوَجَلَّ tumhein tumhare aamaal ki jaza dega.
+
+## Ayat 4:129
+
+`Source: tafseerId=50692; ayatId=626; surah=4; ayat=129; para=5; volume=2`
+
+**Arabic:** وَ لَنْ تَسْتَطِیْعُوْۤا اَنْ تَعْدِلُوْا بَیْنَ النِّسَآءِ وَ لَوْ حَرَصْتُمْ فَلَا تَمِیْلُوْا كُلَّ الْمَیْلِ فَتَذَرُوْهَا كَالْمُعَلَّقَةِؕ-وَ اِنْ تُصْلِحُوْا وَ تَتَّقُوْا فَاِنَّ اللّٰهَ كَانَ غَفُوْرًا رَّحِیْمًا(129)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur tum se hargiz na ho sakega ke auraton ko barabar rakho agarche tum kitni hi (is ki) hirs karo to yeh na karo ke (ek hi biwi ki taraf) poore poore jhuk jao aur doosri latakti hui chhor do aur agar tum neki aur parhezgaari ikhtiyar karo to beshak Allah bakhshne wala meherban hai.
+
+**Easy Roman Urdu:** **{وَ لَنْ تَسْتَطِیْعُوْۤا اَنْ تَعْدِلُوْا بَیْنَ النِّسَآءِ: Aur tum se hargiz na ho sakega ke auraton ko barabar rakho.}** Yani agar tumhari ek se zyada biwiyan hon to tumhare liye yeh mumkin nahin ke har cheez mein unhein bilkul barabar rakho aur kisi baat mein ek ko doosri par tarjeeh na do. Na dil ki mohabbat mein, na raghbat mein aur na nazar aur tawajjuh mein. Tum koshish karke bhi aisa nahin kar sakte. Lekin agar yeh tumhari qudrat mein nahin aur isi wajah se tum par in sab baaton ki pabandi nahin rakhi gayi, aur dil ki mohabbat aur fitri mailaan jo tumhare ikhtiyar mein nahin us mein barabari ka hukm nahin diya gaya, to yeh na karo ke sirf ek biwi ki taraf poori tarah jhuk jao aur doosri biwi ke zaroori huqooq bhi ada na karo. Balki tum par laazim hai ke jahan tak tumhari qudrat aur ikhtiyar hai wahan tak dono ke saath barabar bartao karo. Mohabbat ikhtiyari cheez nahin, lekin baat-cheet, achha akhlaaq, khaana, kapra, apne paas rakhna aur is tarah ke jin umoor mein barabari karna tumhare ikhtiyar mein hai, un mein dono ke saath zaroor ek jaisa sulook karo.
+
+## Ayat 4:130
+
+`Source: tafseerId=50693; ayatId=627; surah=4; ayat=130; para=5; volume=2`
+
+**Arabic:** وَ اِنْ یَّتَفَرَّقَا یُغْنِ اللّٰهُ كُلًّا مِّنْ سَعَتِهٖؕ-وَ كَانَ اللّٰهُ وَاسِعًا حَكِیْمًا(130)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur agar woh dono juda ho jaayen to Allah apni wus'at se har ek ko doosre se be-niyaaz kar dega aur Allah wus'at wala, hikmat wala hai.
+
+**Easy Roman Urdu:** **{وَ اِنْ یَّتَفَرَّقَا: Aur agar woh dono juda ho jaayen.}** Yani agar miyan-biwi mein sulah na ho sake aur talaaq ho jaaye to dono Allah عَزَّوَجَلَّ par bharosa karein. Allah Kareem aurat ko achha shohar aur mard ko achhi biwi ata farma dega aur unhein wus'at bhi dega. Aurat aur mard ek doosre ke bilkul mohtaaj nahin. Is aayat se maloom hua ke na aurat bilkul mard ki mohtaaj hai aur na mard bilkul aurat ka haajatmand. Sab Rab عَزَّوَجَلَّ ke mohtaaj hain aur ek doosre ke baghair bhi zindagi chal sakti hai.
+
+Aam taur par talaaq ke baad aurat aur us ke ghar wale bahut ghamgeen hote hain. Aise mauqe par agar yeh aayat-e-mubarakah baar baar padhi jaaye to اِنْ شَآءَ اللہ عَزَّوَجَلَّ dil ko taskeen milegi aur Allah عَزَّوَجَلَّ munasib hal bhi ata farma dega. Is mein shoharon ke liye bhi hidayat hai ke woh apne aap ko biwiyon ka maalik aur mukhtaar na samjhein aur yeh na samjhein ke agar unhone unhein chhor diya to ab kainaat mein in auraton ka koi sahaara nahin rahega. Nahin, Allah عَزَّوَجَلَّ unhein sahaara dega.
+
+Isi silsile mein yahan ek mufeed wazifa pesh kiya ja raha hai. Umm-ul-Mu'mineen Hazrat Umm-e-Salamah رَضِیَ اللہُ تَعَالٰی عَنْہَا farmati hain: "Maine Rasoolullah صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ko yeh irshaad farmate hue suna: Jis bande ko koi museebat pahunche aur woh yeh dua padh le: **اِنَّا لِلّٰہِ وَاِنَّا اِلَیْہِ رَاجِعُونَ اللّٰہُمَّ اْجُرْنِیْ فِیْ مُصِیْبَتِیْ وَاَخْلِفْ لِیْ خَیْرًا مِّنْہَا** to Allah Ta'ala use museebat par sawab ata farmayega aur is se behtar cheez use ata farmayega."
+
+Hazrat Umm-e-Salamah رَضِیَ اللہُ تَعَالٰی عَنْہَا farmati hain: "Jab mere shohar Hazrat Abu Salamah رَضِیَ اللہُ تَعَالٰی عَنْہُ ka inteqaal hua to maine yahi dua padhi. Is ki barkat se Allah Ta'ala ne mujhe un se behtareen shohar, yani Rasoolullah صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ, ata farma diya." (Muslim, Kitaab-ul-Janaa'iz, Baab Ma Yuqaalu Indal-Museebah, s. 457, hadees: 4 (918))

@@ -70,8 +70,8 @@ citation fidelity, honorific fidelity, and accidental Urdu or HTML leftovers.
 
 ## Session Batches
 
-- Target ten aayaat per translation session.
-- Process each ten-ayat session as two sequential batches of five aayaat.
-- Complete and verify the first five-ayat batch before starting the second five-ayat batch.
+- Target twenty aayaat per translation session.
+- Process each twenty-ayat session as four sequential batches of five aayaat.
+- Complete and verify each five-ayat batch before starting the next batch.
 - This batching workflow does not override manuscript continuity or the 1,000-line rule.
 

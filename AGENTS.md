@@ -70,8 +70,8 @@ every translation or continuation task, read its `notes/translation-style-guide.
 `db/hadees_content.db`; preserve each hadith's database metadata and keep the manuscript
 traceable to its source record.
 
-Subagents are the default workflow. One user session processes 10 hadith, divided into two
-sequential sub-batches of 5. Complete and verify the first sub-batch before starting the second.
+Subagents are the default workflow. One user session processes 20 hadith, divided into four
+sequential sub-batches of 5. Complete and verify each sub-batch before starting the next.
 Extract the complete source records for the session into a Markdown source file and translate
 only from that complete extraction, never from terminal previews, shortened output, or summaries.
 

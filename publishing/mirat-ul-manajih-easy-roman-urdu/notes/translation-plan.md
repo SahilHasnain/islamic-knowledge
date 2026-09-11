@@ -94,6 +94,10 @@ Hadith 251-255 is complete as the first verified sub-batch of the standard 10-ha
 
 Hadith 256-260 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-251-260-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the complete-hadith manuscript boundary were verified against the database. Hadith 256-260 continue in manuscript file 06, which remains below 1,000 lines.
 
+Hadith 261-265 is complete as the first verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-261-270-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the complete-hadith manuscript boundary were verified against the database. Hadith 261-265 continue in manuscript file 06, which remains below 1,000 lines at 579 lines.
+
+Hadith 266-270 is complete as the second verified sub-batch of the standard 10-hadith session. The complete source records were translated from `mirat-261-270-source.md`. Arabic hadith fields, source metadata, translation markers, full explanations, script hygiene, export-noise checks, and the complete-hadith manuscript boundary were verified against the database. Hadith 266-270 continue in manuscript file 06, which remains below 1,000 lines.
+
 ## Next Range
 
-Hadith 251-260 is complete. Continue with Hadith 261 in the current volume, appending complete entries to manuscript file 06 until the next complete entry would exceed 1,000 lines.
+Hadith 261-270 is complete. The complete session extraction for Hadith 271-290 is `mirat-271-290-source.md`. Hadith 271-285 are complete in manuscript file 06. Hadith 286-290 are complete in manuscript file 07 after Hadith 286 would have exceeded the 1,000-line limit in file 06. Arabic hadith fields, source metadata, translation markers, complete explanations, source coverage, script hygiene, export-noise removal, and complete-hadith boundaries were verified for the full 271-290 session. The next range begins with Hadith 291.

@@ -35,6 +35,33 @@
 | 30    | Volume 1, Hadith 231-240 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/05-mirat-ul-manajih-easy-roman-05.md`; Hadith 236-240 continue in `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
 | 31    | Volume 1, Hadith 241-250 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
 | 32    | Volume 1, Hadith 251-260 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+| 33    | Volume 1, Hadith 261-270 | Complete and verified in two sub-batches of five | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md` |
+| 34    | Volume 1, Hadith 271-290 | Complete and verified in four sub-batches of five; Hadith 286-290 begin file 07 at a complete boundary | `manuscript/01-jild-awwal/01-volume-1/06-mirat-ul-manajih-easy-roman-06.md`; Hadith 286-290 in `manuscript/01-jild-awwal/01-volume-1/07-mirat-ul-manajih-easy-roman-07.md` |
+
+## Batch 34 Verification Record
+
+- Source records: complete Hadith 271-290 extraction in `mirat-271-290-source.md`
+- Ordered range: 271-290; completed session sub-batch: 286-290
+- Source IDs for Hadith 286-290: 4370, 4377, 4384, 4391, 4398
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted across all four sub-batches
+- Source translation markers: preserved in place as `**1**`, `**2**`, and so on
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Existing `(shovel)` wording and `Hazrat Hawwa رضی اللہ عنہا` were preserved unchanged
+- Manuscript boundary: file 06 ends at Hadith 285; file 07 begins at Hadith 286
+- Manuscript line counts: file 06 is 939 lines; file 07 is under 1,000 lines
+
+## Batch 33 Verification Record
+
+- Source records: complete Hadith 261-270 extraction in `mirat-261-270-source.md`
+- Ordered range: 261-270; second sub-batch completed here: 266-270
+- Source IDs for Hadith 266-270: 4223, 4230, 4237, 4244, 4251
+- Arabic hadith fields: preserved exactly from `c9with_araab`
+- Translation and explanation fields: complete and adapted in two sub-batches of five
+- Source translation markers: preserved in place as bold numeric markers
+- Export markers, tabs, Urdu prose, and Devanagari: none in the appended entries
+- Manuscript boundary: Hadith 266-270 appended after Hadith 265 in file 06
+- Manuscript line count: file 06 remains under 1,000 lines
 
 ## Batch 32 Verification Record
 

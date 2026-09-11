@@ -9,4 +9,4 @@
 - The source uses varied spellings of honorifics; the Roman Urdu adaptation consistently preserves respectful honorifics and `ﷺ`.
 - No manuscript file is split within a hadith entry.
 - Subagents are the default workflow; complete extracted Markdown records remain the source of truth.
-- Each `next` or `continue` session processes 10 hadith as two verified sub-batches of 5. Complete source records are first extracted into Markdown and used as the translation source.
+- Each `next` or `continue` session processes 20 hadith as four verified sub-batches of 5. Complete source records are first extracted into Markdown and used as the translation source.

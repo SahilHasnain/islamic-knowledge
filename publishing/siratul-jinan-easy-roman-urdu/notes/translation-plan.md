@@ -184,7 +184,7 @@ quotations, citations, or numbered discussions between files.
 
 ## Session Workflow Rule
 
-Each translation session targets ten aayaat, processed as two sequential five-ayat batches.
+Each translation session targets twenty aayaat, processed as four sequential five-ayat batches.
 The first five-ayat batch must be completed and verified before the second batch begins. The
 session workflow is independent of manuscript files: both batches must append to the current
 active manuscript file unless the manuscript continuity rule requires a new file.
@@ -320,3 +320,49 @@ were added as standalone `tafseerId=null` entries with exact Arabic and `trans_t
 translations. The remaining entries used complete Sirat-ul-Jinan tafseer rows, including
 `tafseerId=51442` for Ayat 4:127. Exact Arabic, translations, source explanations, citations,
 honorifics, and source order were preserved; the active file is 952 lines.
+
+The consecutive session for Ayat 4:129–4:138 was completed in two verified five-entry batches.
+Ayat 4:132 and 4:133 had no tafseer rows and were added as standalone `tafseerId=null`
+entries with exact Arabic and `trans_type=2` translations. Ayat 4:129–4:130 were appended to
+`03-surah-an-nisa-easy-roman-03.md`, which reached 978 lines; Ayat 4:131–4:138 continued in
+`04-surah-an-nisa-easy-roman-04.md`, which is 105 lines. The remaining entries used complete
+Sirat-ul-Jinan tafseer rows. Exact Arabic, translations, source explanations, citations,
+honorifics, and source order were preserved.
+
+The first five-ayat batch of the next twenty-ayat session, Ayat 4:139–4:143, was appended to
+`04-surah-an-nisa-easy-roman-04.md`. Ayat 4:139 has no Sirat-ul-Jinan tafseer row and was added
+as a standalone `tafseerId=null` entry with exact Arabic and the `trans_type=2` translation.
+Ayat 4:140–4:143 use the complete `tafseerText` fallback because `tafseerNotHTML` is NULL;
+only HTML markup was removed. The batch preserves complete explanations, rulings, examples,
+hadith, quotations, poetry, footnote, citations, honorifics, and source order. The active file
+is 183 lines.
+
+The second five-ayat batch of the same twenty-ayat session, Ayat 4:144–4:148, was appended to
+`04-surah-an-nisa-easy-roman-04.md`. Ayat 4:147 has no Sirat-ul-Jinan tafseer row and was added
+as a standalone `tafseerId=null` entry with exact Arabic and the `trans_type=2` translation.
+Ayat 4:144–4:146 and 4:148 use the complete `tafseerText` fallback because `tafseerNotHTML` is
+NULL; only HTML markup and export spacing were removed. The batch preserves the complete
+explanations, rulings, occasions of revelation, guest guidance, three ahadees, quotations,
+citations, honorifics, and source order. The active file is 261 lines.
+
+The third verified five-ayat batch of this twenty-ayat session, Ayat 4:149–4:153, was appended
+to `04-surah-an-nisa-easy-roman-04.md`. Ayat 4:151 has no Sirat-ul-Jinan tafseer row and was
+added as a standalone `tafseerId=null` entry with exact Arabic and the `trans_type=2`
+translation. Ayat 4:149, 4:150, 4:152, and 4:153 use the complete `tafseerText` fallback
+because `tafseerNotHTML` is NULL; only HTML markup was removed. The batch preserves complete
+explanations, aqeedah discussion, rulings, historical details, ahadees, quotations, citations,
+honorifics, and source order. The active file is 385 lines.
+
+The fourth verified five-ayat batch of this twenty-ayat session, Ayat 4:154–4:158, was
+appended to `04-surah-an-nisa-easy-roman-04.md`. All five entries use complete Sirat-ul-Jinan
+tafseer rows (`tafseerId=50712–50716`, `ayatId=651–655`). The batch preserves exact Arabic,
+directly transliterated Kanz-ul-Irfan translations, complete explanations, citations,
+honorifics, and source order. The active file is 457 lines.
+
+The next twenty-ayat session was processed in four sequential batches for all available source
+records from Ayat 4:159–4:176. Batches covered 4:159–4:163, 4:164–4:168, 4:169–4:173,
+and 4:174–4:176. Ayat 4:169 had no tafseer row and was added as a standalone `tafseerId=null`
+entry with exact Arabic and its `trans_type=2` translation. The final batch contained only
+three entries because the authoritative database has no aayat, translation, or tafseer records
+for 4:177–4:178; no entries were fabricated. The verified active file is
+`04-surah-an-nisa-easy-roman-04.md` at 741 lines.

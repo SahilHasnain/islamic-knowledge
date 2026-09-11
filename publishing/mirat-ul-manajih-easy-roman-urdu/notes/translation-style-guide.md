@@ -7,7 +7,7 @@ This is a complete Easy Roman Urdu adaptation of the Urdu translation and explan
 ## Workflow
 
 - Subagents are the default workflow for this project. Source reading, adaptation, editing, and verification must still use the complete extracted Markdown records.
-- One user session begins with `next` or `continue` and covers 10 hadith. Process those 10 hadith as two sequential sub-batches of 5; complete and verify the first sub-batch before starting the second.
+- One user session begins with `next` or `continue` and covers 20 hadith. Process those 20 hadith as four sequential sub-batches of 5; complete and verify each sub-batch before starting the next.
 - Extract each session's complete source records into a Markdown source file and translate from that file, not from terminal previews or shortened output.
 
 ## Text Rules
