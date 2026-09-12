@@ -366,3 +366,46 @@ entry with exact Arabic and its `trans_type=2` translation. The final batch cont
 three entries because the authoritative database has no aayat, translation, or tafseer records
 for 4:177–4:178; no entries were fabricated. The verified active file is
 `04-surah-an-nisa-easy-roman-04.md` at 741 lines.
+
+The next twenty-ayat session continued from the end of the available An-Nisa records into
+Surah Al-Ma'idah. An-Nisa Ayat 4:177–4:178 have no aayat, translation, or tafseer records in
+the authoritative database, so no entries were fabricated. Al-Ma'idah Ayat 5:1–5:20 were
+processed in four verified five-ayat batches. Ayat 5:10 had no tafseer row and was added as a
+standalone `tafseerId=null` entry with exact Arabic and its `trans_type=2` translation. The new
+file `01-surah-al-maidah-easy-roman-01.md` contains 551 lines. Exact Arabic, translations,
+complete tafseer, citations, honorifics, and source order were preserved.
+
+The next twenty-ayat session covered Al-Ma'idah Ayat 5:81–5:100 in four verified five-ayat
+batches. Missing tafseer entries were added as translation-only records for Ayat 5:85, 5:86,
+and 5:88, each with `tafseerId=null`, exact Arabic, and its `trans_type=2` translation.
+Ayat 5:81–5:85 were appended to `02-surah-al-maidah-easy-roman-02.md`, which reached 904
+lines; Ayat 5:86–5:100 continued in `03-surah-al-maidah-easy-roman-03.md`, which is now 393
+lines. Exact Arabic, translations, complete tafseer, citations, honorifics, and source order
+were preserved.
+
+The next twenty-ayat session covered Al-Ma'idah Ayat 5:61–5:80 in four verified five-ayat
+batches. Ayat 5:74 had no tafseer row and was added as a standalone `tafseerId=null` entry
+with exact Arabic and its `trans_type=2` translation. Ayat 5:61–5:80 were appended to
+`02-surah-al-maidah-easy-roman-02.md`, which now contains 810 lines. Exact Arabic,
+translations, complete tafseer, citations, honorifics, and source order were preserved.
+
+The next twenty-ayat session covered Al-Ma'idah Ayat 5:21–5:40 in four verified five-ayat
+batches. Missing tafseer entries were added as translation-only records for Ayat 5:28, 5:29,
+5:31, and 5:37, each with `tafseerId=null`, exact Arabic, and its `trans_type=2` translation.
+Ayat 5:21–5:37 were added to `01-surah-al-maidah-easy-roman-01.md`, which reached 882 lines;
+Ayat 5:38–5:40 continued in `02-surah-al-maidah-easy-roman-02.md`, which is 55 lines. Exact
+Arabic, translations, complete tafseer, citations, honorifics, and source order were preserved.
+
+The next twenty-ayat session covered Al-Ma'idah Ayat 5:41–5:60 in four verified five-ayat
+batches. Ayat 5:56 had no tafseer row and was added as a standalone `tafseerId=null` entry with
+exact Arabic and its `trans_type=2` translation. Ayat 5:41–5:45 were appended to
+`02-surah-al-maidah-easy-roman-02.md`, which reached 175 lines; Ayat 5:46–5:60 continued in
+the same file, which is now 481 lines. Exact Arabic, translations, complete tafseer, citations,
+honorifics, and source order were preserved.
+
+The next five-ayat batch covered Al-Ma'idah Ayat 5:86–5:90. Ayat 5:86 and 5:88 have no
+Sirat-ul-Jinan tafseer rows and were added as standalone `tafseerId=null` entries with exact
+Arabic and their `trans_type=2` translations. Ayat 5:87, 5:89, and 5:90 use the complete
+source adaptations from the extracted batch. All five entries were added at complete boundaries
+to `03-surah-al-maidah-easy-roman-03.md`, which contains 213 lines. Exact Arabic, translations,
+complete tafseer content, citations, honorifics, and source order were preserved.
