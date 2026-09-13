@@ -1,0 +1,516 @@
+- generic [active] [ref=f1e1]:
+  - link "Skip to content" [ref=f1e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f1e3]:
+    - banner [ref=f1e4]:
+      - generic [ref=f1e9]:
+        - link [ref=f1e14] [cursor=pointer]:
+          - /url: https://allamaiqbal.org/
+          - img "allamaiqbal" [ref=f1e15]
+        - navigation "Primary Site Navigation" [ref=f1e21]:
+          - list [ref=f1e23]:
+            - listitem [ref=f1e24]:
+              - link "Home" [ref=f1e25] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/
+            - listitem [ref=f1e26]:
+              - link "Bang-e-Dra" [ref=f1e27] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bang-e-dra/
+            - listitem [ref=f1e28]:
+              - link "Bal-e-Jibril" [ref=f1e29] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bal-e-jibril/
+            - listitem [ref=f1e30]:
+              - link "Zarb-e-Kaleem" [ref=f1e31] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/
+            - listitem [ref=f1e32]:
+              - link "Armaghan-e-Hijaz" [ref=f1e33] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/armaghan-e-hijaz/
+        - generic [ref=f1e34]:
+          - button "Search button" [ref=f1e39] [cursor=pointer]:
+            - generic [ref=f1e40]: Search
+          - generic [ref=f1e46]:
+            - link "Urdu Keyboard" [ref=f1e47] [cursor=pointer]:
+              - /url: https://type-in-urdu.com/
+            - link "YouTube" [ref=f1e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@EagleClawPK
+    - main [ref=f1e58]:
+      - article [ref=f1e59]:
+        - generic [ref=f1e60]:
+          - generic [ref=f1e62]:
+            - heading [level=2] [ref=f1e64]:
+              - strong [ref=f1e65]:
+                - strong [ref=f1e66]: Bal-e-Jibril
+            - separator [ref=f1e67]
+            - heading [level=2] [ref=f1e69]:
+              - strong [ref=f1e70]:
+                - strong [ref=f1e71]:
+                  - strong [ref=f1e72]: بال جبریل
+          - separator [ref=f1e73]
+          - paragraph [ref=f1e74]: Urdu Tashreeh(Explanation), English Translation, Roman Urduرومن اردو ، انگلش ترجمہ، اردو تشریح
+          - separator [ref=f1e75]
+          - generic [ref=f1e77]:
+            - insertion [ref=f1e78]:
+              - iframe [ref=f1e80]:
+                - generic [ref=f4e1]:
+                  - generic [ref=f4e6]:
+                    - generic [ref=f4e7]:
+                      - generic "Gemini Notebook" [ref=f4e9]:
+                        - link "Free for students" [ref=f4e10] [cursor=pointer]:
+                          - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CtZsVnxSmapbtD66B9fwPy-WR-AjGuc7LiQGpte23rxa58YLKkw4QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgT9AU_QlqsUfi1s9nQQGi1ClS8gOyjX1LeJMqIhqagMO6EA1iqOzL8MCV2gDmTa3IosfutfYn2ppZnMflB8EuGQqGYaUPyj0o-q4aiFAqbQ9rc5T3MoU2RQqWR05UPD6XoVGo_BO_qiAHuU2X-xcu8TuIaUUuFmY5YDP9PSLpfoXsa8SNoGAOdWPLLUg7siz0sh8rtpmPQ75xXA1qHISB1zTq-V-UtroO-lTxwA2rF1EGHppQ4j_bADYYfwN7LIMRwHOcXAQtinD6S4e5Y-fhZEiDMIG3t84HQ1G3OgYwrdluLZWOdg2KBi_DfxWv1soKT9rlSxSqJPIYyJL5S4sObABLeD6N3oBYgF6O_OxVmAB8fNkZ8ZqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj06auBy-qWA2ABsQl5udVmTpy3-oAKAZgLAcgLAaIMXyoKCgiO37ECleKxAmIXChVjb20uZ29vZ2xlLk5vdGVib29rTE1qMAouY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubGFicy5sYW5ndWFnZS50YWlsd2luZHgBiAEBkAEBqg0CSU7IDQHqDRMI38CsgcvqlgMVrkCdCR3LcgSP8A0CiA4JsA6gxauPGdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjUxNDY2MTI5ODVQBroXAjgBqhgXCQAAAADAXQRBEgo1MTQ2NjEyOTg1GAGyGAkSAptfGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE&num=1&cid=CAQSiAIAQM4h3HU938ek5fDxBvLi1xANsRdMRI6JsEN_dW7bboHEA8L2593eFOPrRDiP-WOIorSHwvrgdEi2Hc9XVfQ4pwMG5RbMt2jExxAO7mYs90QNUcmc3p1NDf7nIcEm00-wvwWpDrKNvlGp7KoUeTXt7B3BUekMH_YtgwqlU9v8TtD5yXtQBb2JKZ5TlooY7vogr07Ha1KKvo4dlZpXS8fM5diP3eAOL_cRjg5zH7C8Fe2pDnP7EjoINfPruyBblzy_R4kkTMmYKnsrJAGue-qFu05f6RfRht87lPcMRhCApWo2K1MsAe5WatFYH7EjWCZ-BA4DRBTVndP2-S5evXfAWLN0opiPY6cYAQ&sig=AOD64_2CkmMaLFb1T4QqtayA8ltKOLfk4w&client=ca-pub-7480625869080470&rf=1&nb=0&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE
+                      - generic [ref=f4e11]:
+                        - link "We built the AI, they got the A." [ref=f4e13] [cursor=pointer]:
+                          - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CtZsVnxSmapbtD66B9fwPy-WR-AjGuc7LiQGpte23rxa58YLKkw4QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgT9AU_QlqsUfi1s9nQQGi1ClS8gOyjX1LeJMqIhqagMO6EA1iqOzL8MCV2gDmTa3IosfutfYn2ppZnMflB8EuGQqGYaUPyj0o-q4aiFAqbQ9rc5T3MoU2RQqWR05UPD6XoVGo_BO_qiAHuU2X-xcu8TuIaUUuFmY5YDP9PSLpfoXsa8SNoGAOdWPLLUg7siz0sh8rtpmPQ75xXA1qHISB1zTq-V-UtroO-lTxwA2rF1EGHppQ4j_bADYYfwN7LIMRwHOcXAQtinD6S4e5Y-fhZEiDMIG3t84HQ1G3OgYwrdluLZWOdg2KBi_DfxWv1soKT9rlSxSqJPIYyJL5S4sObABLeD6N3oBYgF6O_OxVmAB8fNkZ8ZqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj06auBy-qWA2ABsQl5udVmTpy3-oAKAZgLAcgLAaIMXyoKCgiO37ECleKxAmIXChVjb20uZ29vZ2xlLk5vdGVib29rTE1qMAouY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubGFicy5sYW5ndWFnZS50YWlsd2luZHgBiAEBkAEBqg0CSU7IDQHqDRMI38CsgcvqlgMVrkCdCR3LcgSP8A0CiA4JsA6gxauPGdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjUxNDY2MTI5ODVQBroXAjgBqhgXCQAAAADAXQRBEgo1MTQ2NjEyOTg1GAGyGAkSAptfGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE&num=1&cid=CAQSiAIAQM4h3HU938ek5fDxBvLi1xANsRdMRI6JsEN_dW7bboHEA8L2593eFOPrRDiP-WOIorSHwvrgdEi2Hc9XVfQ4pwMG5RbMt2jExxAO7mYs90QNUcmc3p1NDf7nIcEm00-wvwWpDrKNvlGp7KoUeTXt7B3BUekMH_YtgwqlU9v8TtD5yXtQBb2JKZ5TlooY7vogr07Ha1KKvo4dlZpXS8fM5diP3eAOL_cRjg5zH7C8Fe2pDnP7EjoINfPruyBblzy_R4kkTMmYKnsrJAGue-qFu05f6RfRht87lPcMRhCApWo2K1MsAe5WatFYH7EjWCZ-BA4DRBTVndP2-S5evXfAWLN0opiPY6cYAQ&sig=AOD64_2CkmMaLFb1T4QqtayA8ltKOLfk4w&client=ca-pub-7480625869080470&rf=1&nb=7&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE
+                        - link [ref=f4e14] [cursor=pointer]:
+                          - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CtZsVnxSmapbtD66B9fwPy-WR-AjGuc7LiQGpte23rxa58YLKkw4QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgT9AU_QlqsUfi1s9nQQGi1ClS8gOyjX1LeJMqIhqagMO6EA1iqOzL8MCV2gDmTa3IosfutfYn2ppZnMflB8EuGQqGYaUPyj0o-q4aiFAqbQ9rc5T3MoU2RQqWR05UPD6XoVGo_BO_qiAHuU2X-xcu8TuIaUUuFmY5YDP9PSLpfoXsa8SNoGAOdWPLLUg7siz0sh8rtpmPQ75xXA1qHISB1zTq-V-UtroO-lTxwA2rF1EGHppQ4j_bADYYfwN7LIMRwHOcXAQtinD6S4e5Y-fhZEiDMIG3t84HQ1G3OgYwrdluLZWOdg2KBi_DfxWv1soKT9rlSxSqJPIYyJL5S4sObABLeD6N3oBYgF6O_OxVmAB8fNkZ8ZqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj06auBy-qWA2ABsQl5udVmTpy3-oAKAZgLAcgLAaIMXyoKCgiO37ECleKxAmIXChVjb20uZ29vZ2xlLk5vdGVib29rTE1qMAouY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubGFicy5sYW5ndWFnZS50YWlsd2luZHgBiAEBkAEBqg0CSU7IDQHqDRMI38CsgcvqlgMVrkCdCR3LcgSP8A0CiA4JsA6gxauPGdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjUxNDY2MTI5ODVQBroXAjgBqhgXCQAAAADAXQRBEgo1MTQ2NjEyOTg1GAGyGAkSAptfGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE&num=1&cid=CAQSiAIAQM4h3HU938ek5fDxBvLi1xANsRdMRI6JsEN_dW7bboHEA8L2593eFOPrRDiP-WOIorSHwvrgdEi2Hc9XVfQ4pwMG5RbMt2jExxAO7mYs90QNUcmc3p1NDf7nIcEm00-wvwWpDrKNvlGp7KoUeTXt7B3BUekMH_YtgwqlU9v8TtD5yXtQBb2JKZ5TlooY7vogr07Ha1KKvo4dlZpXS8fM5diP3eAOL_cRjg5zH7C8Fe2pDnP7EjoINfPruyBblzy_R4kkTMmYKnsrJAGue-qFu05f6RfRht87lPcMRhCApWo2K1MsAe5WatFYH7EjWCZ-BA4DRBTVndP2-S5evXfAWLN0opiPY6cYAQ&sig=AOD64_2CkmMaLFb1T4QqtayA8ltKOLfk4w&client=ca-pub-7480625869080470&rf=1&nb=8&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE
+                    - generic "Gemini Notebook" [ref=f4e17]:
+                      - link "Gemini Notebook" [ref=f4e18] [cursor=pointer]:
+                        - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CtZsVnxSmapbtD66B9fwPy-WR-AjGuc7LiQGpte23rxa58YLKkw4QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgT9AU_QlqsUfi1s9nQQGi1ClS8gOyjX1LeJMqIhqagMO6EA1iqOzL8MCV2gDmTa3IosfutfYn2ppZnMflB8EuGQqGYaUPyj0o-q4aiFAqbQ9rc5T3MoU2RQqWR05UPD6XoVGo_BO_qiAHuU2X-xcu8TuIaUUuFmY5YDP9PSLpfoXsa8SNoGAOdWPLLUg7siz0sh8rtpmPQ75xXA1qHISB1zTq-V-UtroO-lTxwA2rF1EGHppQ4j_bADYYfwN7LIMRwHOcXAQtinD6S4e5Y-fhZEiDMIG3t84HQ1G3OgYwrdluLZWOdg2KBi_DfxWv1soKT9rlSxSqJPIYyJL5S4sObABLeD6N3oBYgF6O_OxVmAB8fNkZ8ZqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj06auBy-qWA2ABsQl5udVmTpy3-oAKAZgLAcgLAaIMXyoKCgiO37ECleKxAmIXChVjb20uZ29vZ2xlLk5vdGVib29rTE1qMAouY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubGFicy5sYW5ndWFnZS50YWlsd2luZHgBiAEBkAEBqg0CSU7IDQHqDRMI38CsgcvqlgMVrkCdCR3LcgSP8A0CiA4JsA6gxauPGdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjUxNDY2MTI5ODVQBroXAjgBqhgXCQAAAADAXQRBEgo1MTQ2NjEyOTg1GAGyGAkSAptfGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE&num=1&cid=CAQSiAIAQM4h3HU938ek5fDxBvLi1xANsRdMRI6JsEN_dW7bboHEA8L2593eFOPrRDiP-WOIorSHwvrgdEi2Hc9XVfQ4pwMG5RbMt2jExxAO7mYs90QNUcmc3p1NDf7nIcEm00-wvwWpDrKNvlGp7KoUeTXt7B3BUekMH_YtgwqlU9v8TtD5yXtQBb2JKZ5TlooY7vogr07Ha1KKvo4dlZpXS8fM5diP3eAOL_cRjg5zH7C8Fe2pDnP7EjoINfPruyBblzy_R4kkTMmYKnsrJAGue-qFu05f6RfRht87lPcMRhCApWo2K1MsAe5WatFYH7EjWCZ-BA4DRBTVndP2-S5evXfAWLN0opiPY6cYAQ&sig=AOD64_2CkmMaLFb1T4QqtayA8ltKOLfk4w&client=ca-pub-7480625869080470&rf=1&nb=1&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMI1risgcvqlgMVrkCdCR3LcgSPEAEYASAAEgIJsvD_BwE
+                  - generic [ref=f4e19] [cursor=pointer]
+                  - button [ref=f4e24] [cursor=pointer]
+                  - iframe
+            - separator [ref=f1e81]
+          - generic [ref=f1e83]:
+            - group [ref=f1e85]:
+              - generic "Urdu Books" [ref=f1e86] [cursor=pointer]
+            - generic [ref=f1e87]:
+              - paragraph [ref=f1e88]
+              - list [ref=f1e89]:
+                - listitem [ref=f1e90]:
+                  - link "(میری نوا شوق سے شور حریم ذات میں) Meri Nawa-e-Shauq Se Shor Hareem-e-Zaat Mein" [ref=f1e91] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/meri-nawa-e-shauk/
+                - listitem [ref=f1e92]:
+                  - link "(اگر کج رو ہیں انجم, آسمان تیرا ہے یا میرا) Agar Kaj Ro Hain Anjum, Asman Tera Hai Ya Mera" [ref=f1e93] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/agar-kaj-ro-hain-anjum-asman-tera-hai-ya-mera/
+                - listitem [ref=f1e94]:
+                  - link "(تیرے شیشے میں مے باقی نہیں ہے) Tere Shishe Mein Mai Baqi Nahin Hai" [ref=f1e95] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tere-shishe-mein-mai-baqi-nahin-hai/
+                - listitem [ref=f1e96]:
+                  - link "(گیسوۓ تابدار کو اور بھی تابدار کر) Gaisu-e-Tabdar Ko Aur Bhi Tabdar Kar" [ref=f1e97] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/gaisu-e-tabdar-ko-aur-bhi-tabdar-kar/
+                - listitem [ref=f1e98]:
+                  - link "(اثر کرے نہ کرے، سن تو لے میری فریاد) Asar Kare Na Kare, Sun To Le Meri Faryad" [ref=f1e99] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/asar-kare-na-kare-sun-to-le-meri-faryad/
+                - listitem [ref=f1e100]:
+                  - link "(کیا عشق ایک زندگی مستعار کا) Kya Ishq Aik Zindagi-e-Mastaar Ka" [ref=f1e101] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kya-ishq-aik-zindagi-e-mastaar-ka/
+                - listitem [ref=f1e102]:
+                  - link "(دلوں کو مرکز مہر و وفا کر) Dilon Ko Markaz-e-Mehar-o-Wafa Kar" [ref=f1e103] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/dilon-ko-markaz-e-mehar-o-wafa-kar/
+                - listitem [ref=f1e104]:
+                  - link "(پریشان ہو کے میری خاک آخر دل نہ بن جائے) Preshan Ho Ke Meri Khak Akhir Dil Na Ban Jaye" [ref=f1e105] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/preshaan-ho-ke-meri-khaak/
+                - listitem [ref=f1e106]:
+                  - link "(دگرگوں ہے جہاں، تاروں کی گردش تیز ہے ساقی) Digargoon Hai Jahan, Taron Ki Gardish Taez Hai Saqi" [ref=f1e107] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/digargoon-hai-jahan-taron-ki-gardish-taez-hai-saqi/
+                - listitem [ref=f1e108]:
+                  - link "(لا پھر ایک بار وہی بادہ و جام اے ساقی) La Phir Aik Bar Wohi Badah-o-Jaam Ae Saqi" [ref=f1e109] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/la-phir-aik-bar-wohi-badah-o-jaam-ae-saqi/
+                - listitem [ref=f1e110]:
+                  - link "(مٹا دیا میرے ساقی نے عالم من و تو) Mita Diya Mere Saqi Ne Alam-e-Mann-o-Tu" [ref=f1e111] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/mita-diya-mere-saqi-ne-alam-e-maan-o-tu/
+                - listitem [ref=f1e112]:
+                  - link "(متاع بےبہا ہے درد و سوز آرزو مندی) Mata-e-Bebaha Hai Dard-o-Souz-e-Arzoo Mandi" [ref=f1e113] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/mata-e-bebaha-hai-dard-o-souz-e-arzoo-mandi/
+                - listitem [ref=f1e114]:
+                  - link "(تجھے یاد کیا نہیں ہے میرے دل کا وہ زمانہ) Tujhe Yaad Kya Nahin Hai Mere Dil Ka Woh Zamana" [ref=f1e115] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tujhe-yaad-kya-nahin-hai-mere-dil-ka-woh-zamana/
+                - listitem [ref=f1e116]:
+                  - link "(ضمیر لالہ مے لعل سے ہوا لبریز) Zameer-e-Lala Mai-e-Laal Se Huwa Labraiz" [ref=f1e117] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/zameer-e-lala-mai-e-laal-se-huwa-labraiz/
+                - listitem [ref=f1e118]:
+                  - link "(وہی میری کم نصیبی، وہی تیری بے نیازی) Wohi Meri Kam Naseebi, Wohi Teri Be-Niazi" [ref=f1e119] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/wohi-meri-kam-naseebi-wohi-teri-be-niazi/
+                - listitem [ref=f1e120]:
+                  - link "(اپنی جولاں گاہ زیر آسمان سمجھا تھا) Apni Jolangah Zair-e-Asman Samjha Tha Main" [ref=f1e121] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/apni-jolangah-zair-e-asman-samjha-tha-main/
+                - listitem [ref=f1e122]:
+                  - link "(اک دانش نورانی، اک دانش برہانی) Ek Danish-e-Noorani, Ek Danish-e-Burhani" [ref=f1e123] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ek-danish-e-noorani-ek-danish-e-burhani/
+                - listitem [ref=f1e124]:
+                  - link "(یا رب ! یہ جہاں گزرن خوب ہے لیکن) Ya Rab ! Ye Jahan-e-Guzran Khoob Hai Lekin" [ref=f1e125] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ya-rab-ye-jahan-e-guzran-khoob-hai-lekin/
+                - listitem [ref=f1e126]:
+                  - link "(سما سکتا نہیں پہناے فطرت میں میرا سودا) Sama Sakta Nahin Pehna’ay Fitrat Mein Mera Soda" [ref=f1e127] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/sama-sakta-nahin-pehnaay-fitrat-mein-mera-soda/
+                - listitem [ref=f1e128]:
+                  - link "(بہت دیکھے ہیں میں نے مشرق و مغرب کے مے خانے) Bohat Dekhe Hain Main Ne Mashriq-o-Maghrib Ke Maikhane" [ref=f1e129] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/bohat-dekhe-hain-main-ne-mashriq-o-maghrib-ke-maikhane/
+                - listitem [ref=f1e130]:
+                  - link "(غلامی کیا ہے؟ ذوق و حسن و زیبائی سے محرومی) Ghulami Kya Hai? Zauq-e-Husn-o-Zaibai Se Mehroomi" [ref=f1e131] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ghulami-kya-hai/
+                - listitem [ref=f1e132]:
+                  - link "(یہ کون غزل خواں ہے ، پر سوز و نشاط انگیز) Ye Kon Ghazal Khawan Hai, Pur Soz-o-Nishat Angaiz" [ref=f1e133] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-kon-ghazal-khawan-hai-pur-soz-o-nishat-angaiz/
+                - listitem [ref=f1e134]:
+                  - link "(وہ حرف راز کے مجھ کو سکھا گیا ہے جنوں) Woh Harf-e-Raaz Ke Mujh Ko Sikha Gaya Hai Junoon" [ref=f1e135] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/woh-harf-e-raaz-ke-mujh-ko-sikha-gaya-hai-junoon/
+                - listitem [ref=f1e136]:
+                  - link "(عالم و آب و خاک و باد! سر عیاں ہے تو کہ میں) Alam-e-Aab-o-Khak-o-Bad ! Sir-e-Ayan Hai Tu Ke Main" [ref=f1e137] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/alam-e-aab-o-khak-o-bad-sir-e-ayan-hai-tu-ke-main/
+                - listitem [ref=f1e138]:
+                  - link "(تو ابھی رہ گزر میں ہے، قید مقام سے گزر) Tu Abhi Reh Guzar Mein Hai, Qaid-e-Maqam Se Guzar" [ref=f1e139] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tu-abhi-reh-guzar-mein-hai/
+                - listitem [ref=f1e140]:
+                  - link "(امین راز ہے مردان حر کی درویشی) Amin-e-Raaz Hai Mardan-e-Hur Ki Darvaishi" [ref=f1e141] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/amin-e-raaz-hai-mardan-e-hur-ki-darvaishi/
+                - listitem [ref=f1e142]:
+                  - link "(پھر چراغ لالہ سے روشن ھوۓ کوہ و دمن) Phir Charagh-e-Lala Se Roshan Huay Koh-o-Daman" [ref=f1e143] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/phir-charagh-e-lala-se-roshan-huay-koh-o-daman/
+                - listitem [ref=f1e144]:
+                  - link "(مسلمان کے لہو میں ہے، سلیقہ دل نوازی کا) Musalman Ke Lahoo Mein Hai, Saliqa Dil Nawazi Ka" [ref=f1e145] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/musalman-ke-lahoo-mein-hai-saliqa-dil-nawazi-ka/
+                - listitem [ref=f1e146]:
+                  - link "(عشق سے پیدا نواۓ زندگی میں زیر و بم) Ishq Se Paida Nuwa’ay Zindagi Mein Zair-o-Bam" [ref=f1e147] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ishq-se-paida-nuwaay-zindagi-mein-zair-o-bam/
+                - listitem [ref=f1e148]:
+                  - link "(دل سوز سے خالی ہے ، نگاہ پاک نہیں ہے) Dil Soz Se Khali Hai, Nigah Pak Nahin Hai" [ref=f1e149] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/dil-soz-se-khali-hai-nigah-pak-nahin-hai/
+                - listitem [ref=f1e150]:
+                  - link "(ہزار خوف ہو لیکن زبان ہو دل کی رفیق) Hazar Khof Ho Lekin Zuban Ho Dil Ki Rafeeq" [ref=f1e151] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/hazar-khof-ho-lekin-zuban-ho-dil-ki-rafeeq-2/
+                - listitem [ref=f1e152]:
+                  - link "(پوچھ اس سے کے مقبول ہے فطرت کی گواہی) Pooch Iss Se Ke Maqbool Hai Fitrat Ki Gawahi" [ref=f1e153] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/pooch-iss-se-ke-maqbool-hai-fitrat-ki-gawahi/
+                - listitem [ref=f1e154]:
+                  - link "(یہ حوریں فرنگی، دل و نظر کا حجاب) Ye Hooriyan-e-Farangi, Dil-o-Nazar Ka Hijab" [ref=f1e155] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-hooriyan-e-farangi/
+                - listitem [ref=f1e156]:
+                  - link "(دل بیدار فاروقی، دل بیدار کراری) Dil-e-Baidar Farooqi, Dil-e-Baidar Karrari" [ref=f1e157] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/dil-e-baidar-farooqi/
+                - listitem [ref=f1e158]:
+                  - link "(خودی کی شوخی و تندی میں کبر و ناز نہیں) Khudi Ki Shaukhi-o-Tundi Mein Kibar-o-Naz Nahin" [ref=f1e159] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-ki-shokhi-o-tundi-mein-kubr-o-naaz-nahin/
+                - listitem [ref=f1e160]:
+                  - link "(میر سپاہ نا سزا، لشکر یاں شکستہ صف) Mir-e-Sipah Na Saza, Lashkar Yaan Shakistah Saf" [ref=f1e161] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/mir-e-sipah-na-saza-lashkar-yaan-shakistah-saf/
+                - listitem [ref=f1e162]:
+                  - link "(زمستانی ہوا میں گرچہ تھی شمشیر کی تیزی) Zamistani Hawa Mein Garcha Thi Shamsheer Ki Taizi" [ref=f1e163] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/zamistani-hawa-mein-garcha-thi-shamsheer-ki-taizi/
+                - listitem [ref=f1e164]:
+                  - link "(یہ دیر کہن ہے، عنبر خس و خاشاک) Ye Dair-e-Kuhan Hai, Anbar-e-Khas-o-Khashaak" [ref=f1e165] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-dair-e-kuhan-hai-anbar-e-khas-o-khashaak/
+                - listitem [ref=f1e166]:
+                  - link "(کمال ترک نہیں آب و گل سے مہجوری) Kamal-e-Tark Nahin Aab-o-Gill Se Mahjoori" [ref=f1e167] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kamal-e-tark-nahin-aab-o-gill-se-mahjoori/
+                - listitem [ref=f1e168]:
+                  - link "(عقل گو آستان سے دور نہیں) Aqal Go Aastan Se Door Nahin" [ref=f1e169] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/aqal-go-aastan-se-door-nahin/
+                - listitem [ref=f1e170]:
+                  - link "(خودی وہ بحر ہے جس کا کوئی کنارہ نہیں) Khudi Woh Beher Hai Jis Ka Koi Kinara Nahin" [ref=f1e171] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-woh-beher-hai-jis-ka-koi-kinara-nahin/
+                - listitem [ref=f1e172]:
+                  - link "(یہ پیام دے گئی ہے مجھے باد صبح گاہی) Ye Peyam De Gayi Hai Mujhe Bad-e-Subah Gahi" [ref=f1e173] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-peyam-de-gayi-hai-mujhe-bad-e-subah-gahi/
+                - listitem [ref=f1e174]:
+                  - link "(تیری نگاہ فرو مایہ، ہاتھ ہے کوتاہ) Teri Nigah Firo Maya, Hath Hai Kotah" [ref=f1e175] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/teri-nigah-firo-maya-hath-hai-kotah/
+                - listitem [ref=f1e176]:
+                  - link "(خرد کے پاس خبر کے سوا کچھ بھی نہیں) Kirad Ke Paas Khabar Ke Siwa Kuch Aur Nahin" [ref=f1e177] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kirad-ke-paas-khabar-ke-siwa-kuch-aur-nahin/
+                - listitem [ref=f1e178]:
+                  - link "(نگاہ فقر میں شان سکندری کیا ہے) Nigah-e-Faqar Mein Shan-e-Sikandari Kya Hai" [ref=f1e179] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/nigah-e-faqar-mein-shan-e-sikandari-kya-hai/
+                - listitem [ref=f1e180]:
+                  - link "(نہ تو زمین کے لئے ہے نہ آسمان کے لئے) Na Tu Zameen Ke Liye Hai Na Asman Ke Liye" [ref=f1e181] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/na-tu-zameen-ke-liye-hai-na-asman-ke-liye/
+                - listitem [ref=f1e182]:
+                  - link "(تو اے اسیر مکان ! لا مکان سے دور نہیں) Tu Ae Aseer-e-Makan ! La Makan Se Door Nahin" [ref=f1e183] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tu-ae-aseer-e-makan/
+                - listitem [ref=f1e184]:
+                  - link "(خرد نے مجھ کو عطا کی نظر حکیمانہ) Kirad Ne Mujh Ko Atta Ki Nazar Hakeemana" [ref=f1e185] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kirad-ne-mujh-ko-atta-ki-nazar-hakeemana/
+                - listitem [ref=f1e186]:
+                  - link "(افلاک سے اتا ہے نالوں کا جواب آخر) Aflak Se Ata Hai Nalon Ka Jawab Akhir" [ref=f1e187] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/aflak-se-ata-hai-nalon-ka-jawab-akhir/
+                - listitem [ref=f1e188]:
+                  - link "(ہر شے مسافر، ہر چیز راہی) Har Shay Musafir, Har Cheez Rahi" [ref=f1e189] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/armaghan-e-hijaz/har-shay-musafir-har-cheez-rahi/
+                - listitem [ref=f1e190]:
+                  - link "(ہر چیز ہے محو خود نمائی) Har Cheez Hai Mehew-e-Khud Numai" [ref=f1e191] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/har-cheez-hai-mehew-e-khud-numai/
+                - listitem [ref=f1e192]:
+                  - link "(اعجاز ہے کسی کا یا گردش زمانہ) Ejaz Hai Kissi Ka Ya Gardish-e-Zamana !" [ref=f1e193] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ejaz-hai-kissi-ka-ya-gardish-e-zamana/
+                - listitem [ref=f1e194]:
+                  - link "(خرد مندوں سے کیا پوچھوں کہ میری ابتدا کیا ہے) Khirad Mandon Se Kya Poochun Ke Meri Ibtada Kya Hai" [ref=f1e195] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khirad-mandon-se-kya-poochun-ke-meri-ibtada-kya-hai/
+                - listitem [ref=f1e196]:
+                  - link "(جب عشق سکھاتا ہے آداب خود آگاہی) Jab Ishq Sikhata Hai Adab-e-Khud Agahi" [ref=f1e197] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/jab-ishq-sikhata-hai-adab-e-khud-agahi/
+                - listitem [ref=f1e198]:
+                  - link "(مجھے آہ و فغاں نیم شب کا پھر پیام آیا) Mujhe Aah-o-Fighan-e-Neem Shab Ka Phir Peyam Aya" [ref=f1e199] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/mujhe-aah-o-fighan-e-neem-shab-ka-phir-peyam-aya/
+                - listitem [ref=f1e200]:
+                  - link "(نہ ہو طغیانی مشتاقی تو میں رہتا نہیں باقی) Na Ho Tughyan-e-Mushtaqi To Main Rehta Nahin Baqi" [ref=f1e201] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/na-ho-tughyan-e-mushtaqi-to-main-rehta-nahin-baqi/
+                - listitem [ref=f1e202]:
+                  - link "(فطرت کو خرد کے رو برو کر) Fitrat Ko Khirad Ke Ru-Ba-Ru Kar" [ref=f1e203] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/fitrat-ko-khirad-ke-ru-ba-ru-kar/
+                - listitem [ref=f1e204]:
+                  - link "(یہ پیران کلیسا و حرم، اے واے مجبوری) Ye Piran-e-Kaleesa-o-Haram, Ae Waye Majboori !" [ref=f1e205] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-piran-e-kaleesa-o-haram-ae-waye-majboori/
+                - listitem [ref=f1e206]:
+                  - link "(تازہ پھر دانش حاضر نے کیا سحر قدیم) Taza Phir Danish-e-Hazir Ne Kiya Sehar-e-Qadeem" [ref=f1e207] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/taza-phir-danish-e-hazir-ne-kiya-sehar-e-qadeem/
+                - listitem [ref=f1e208]:
+                  - link "(ستاروں سے آگے جہاں اور بھی ہیں) Sitaron Se Agay Jahan Aur Bhi Hain" [ref=f1e209] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/sitaron-se-agay-jahan-aur-bhi-hain/
+                - listitem [ref=f1e210]:
+                  - link "(ڈھونڈ رہا ہے فرنگ عیش جہاں کا دوام) Dhoond Raha Hai Farang Aysh-e-Jahan Ka Dawam" [ref=f1e211] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/dhoond-raha-hai-farang-aysh-e-jahan-ka-dawam/
+                - listitem [ref=f1e212]:
+                  - link "(خودی ہو علم سے محکم تو غیرت جبریل) Khudi Ho Ilm Se Mohkam To Ghairat-e-Jibreel" [ref=f1e213] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-ho-ilm-se-mohkam-to-ghairat-e-jibreel/
+                - listitem [ref=f1e214]:
+                  - link "(مکتبوں میں کہیں رعنائی افکار بھی ہے؟) Maktabon Mein Kahin Ra’anai-e-Afkar Bhi Hai?" [ref=f1e215] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/maktabon-mein-kahin-raanai-e-afkar-bhi-hai/
+                - listitem [ref=f1e216]:
+                  - link "(حادثہ وہ جو ابھی پردہ افلاک میں ہے) Hadsa Woh Jo Abhi Parda’ay Aflak Mein Hai" [ref=f1e217] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/hadsa-woh-jo-abhi-pardaay-aflak-mein-hai/
+                - listitem [ref=f1e218]:
+                  - link "(رہا نہ حلقہ صوفی میں سوز مشتاقی) Raha Na Halqa-e-Sufi Mein Soz-e-Mushtaqi" [ref=f1e219] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/raha-na-halqa-e-sufi-mein-soz-e-mushtaqi/
+                - listitem [ref=f1e220]:
+                  - link "(ہوا نہ زور سے اس کے، کوئی گریبان چاک) Huwa Na Zor Se Uss Ke, Koi Gireban Chaak" [ref=f1e221] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/huwa-na-zor-se-uss-ke-koi-gireban-chaak/
+                - listitem [ref=f1e222]:
+                  - link "(یوں ہاتھ نہیں عطا وہ گوہر یک دانہ) Yun Hath Nahin Ata Vo Gohar-e-Yak Dana" [ref=f1e223] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/yun-hath-nahin-ata-vo-gohar-e-yak-dana/
+                - listitem [ref=f1e224]:
+                  - link "(نہ تخت و تاج میں نے لشکر و سپاہ میں ہے) Na Takht-o-Taj Mein Ne Lashkar-o-Sipah Mein Hai" [ref=f1e225] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/na-takht-o-taj-mein-ne-lashkar-o-sipah-mein-hai/
+                - listitem [ref=f1e226]:
+                  - link "(فطرت نے نہ بخشا مجھے اندیشہ چالاک) Fitrat Ne Na Bakhsha Mujhe Andesha’ay Chalak" [ref=f1e227] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/fitrat-ne-na-bakhsha-mujhe-andeshaay-chalak/
+                - listitem [ref=f1e228]:
+                  - link "(کریں گے اہل نظر تازہ بستیاں آباد) Karain Ge Ahl-e-Nazar Taza Bastiyan Abad" [ref=f1e229] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/karain-ge-ahl-e-nazar-taza-bastiyan-abad/
+                - listitem [ref=f1e230]:
+                  - link "(کی حق سے فرشتوں نے اقبال کی غمازی) Ki Haq Se Farishton Ne Iqbal Ki Ghamazi" [ref=f1e231] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ki-haq-se-farishton-ne-iqbal-ki-ghamazi/
+                - listitem [ref=f1e232]:
+                  - link "(نے مہرہ باقی، نے مہرہ بازی) Ne Muhrah Baqi, Ne Muhrah Bazi" [ref=f1e233] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ne-muhrah-baqi-ne-muhrah-bazi/
+                - listitem [ref=f1e234]:
+                  - link "(گرم فغاں ہے جرس، اٹھ کے گیا قافلہ) Garam-e-Faghan Hai Jaras, Uth Ke Gya Qafla" [ref=f1e235] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/garam-e-faghan-hai-jaras-uth-ke-gya-qafla/
+                - listitem [ref=f1e236]:
+                  - link "(میری نوا سے ہوے زندہ عارف و عامی) Meri Nawa Se Huay Zinda Arif-o-Aami" [ref=f1e237] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/meri-nawa-se-huay-zinda-arif-o-aami/
+                - listitem [ref=f1e238]:
+                  - link "(ہر ایک مقام سے آگے گزر گیا مہ نو) Har Ek Maqam Se Agay Guzar Gya Mah-e-Nau" [ref=f1e239] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/har-ek-maqam-se-agay-guzar-gya-mah-e-nau/
+                - listitem [ref=f1e240]:
+                  - link "(کھو نہ جا اس سحر و شہر میں اے صاحب ہوش) Kho Na Ja Iss Sehar-o-Sham Mein Ae Sahib-e-Hosh !" [ref=f1e241] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kho-na-ja-iss-sehar-o-sham-mein-ae-sahib-e-hosh/
+                - listitem [ref=f1e242]:
+                  - link "(تھا جہاں مدرسہ شیری و شہنشاہی) Tha Jahan Madrasa-e-Sheri-o-Shahanshahi" [ref=f1e243] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tha-jahan-madrasa-e-sheri-o-shahanshahi/
+                - listitem [ref=f1e244]:
+                  - link "(ہے یاد مجھے نکتہ سلمان خوش آہنگ) Hai Yaad Mujhe Nukta’ay Salman-e-Khush Ahang" [ref=f1e245] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/hai-yaad-mujhe-nuktaay-salman-e-khush-ahang/
+                - listitem [ref=f1e246]:
+                  - link "(فقر کے ہیں معجزات تاج و سریر و سپاہ) Faqar Ke Hain Maujazat Taj-o-Sareer-o-Sipah" [ref=f1e247] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/faqar-ke-hain-maujazat-taj-o-sareer-o-sipah/
+                - listitem [ref=f1e248]:
+                  - link "(کمال جوش جنوں میں رہا گرم طواف) Kamal-e-Josh-e-Junoon Main Raha Garam-e-Tawaf" [ref=f1e249] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kamal-e-josh-e-junoon-main-raha-garam-e-tawaf/
+                - listitem [ref=f1e250]:
+                  - link "(شعور و ہوش و خرد کا معاملہ ہے عجیب) Shaur-o-Hosh-o-Khird Ka Ma’amla Hai Ajeeb" [ref=f1e251] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/shaur-o-hosh-o-khird-ka-maamla-hai-ajeeb/
+                - listitem [ref=f1e252]:
+                  - link "(قطعہ – انداز بیان گرچہ بہت شوخ نہیں ہے) Qataa (Andaz-e-Bayan Garcha Bohat Shokh Nahin Hai)" [ref=f1e253] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/andaz-e-bayan-garcha-bohat-shokh-nahin-hai/
+                - listitem [ref=f1e254]:
+                  - link "(رباعیات – رہ رسم حرم نا محرمانہ) Rubaiyat – Reh-e-Rasm-e-Haram Na-Mehramana" [ref=f1e255] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/reh-e-rasm-e-haram-na-mehramana/
+                - listitem [ref=f1e256]:
+                  - link "(ظلام بحر میں کھو کر سنبھل جا) Zulaam-e-Behar Mein Kho Kar Sanbhal Ja" [ref=f1e257] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/zulaam-e-behar-mein-kho-kar-sanbhal-ja/
+                - listitem [ref=f1e258]:
+                  - link "(مکانی ہوں کہ آزاد مکان ہوں) Makani Hun Ke Azad-e-Makan Hun" [ref=f1e259] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/makani-hun-ke-azad-e-makan-hun/
+                - listitem [ref=f1e260]:
+                  - link "(خودی کی خلوتوں میں گم رہا میں) Khudi Ki Khalwaton Mein Gum Raha Main" [ref=f1e261] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-ki-khalwaton-mein-gum-raha-main/
+                - listitem [ref=f1e262]:
+                  - link "(پریشاں کاروبار آشنائی) Preshan Karobar-e-Aashanai" [ref=f1e263] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/preshan-karobar-e-aashanai/
+                - listitem [ref=f1e264]:
+                  - link "(یقین، مثل خلیل آتش نشینی) Yaqeen, Misl-e-Khalil Aatish Nasheeni" [ref=f1e265] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/yaqeen-misl-e-khalil-aatish-nasheeni/
+                - listitem [ref=f1e266]:
+                  - link "(عرب کے سوز میں ساز عجم ہے) Arab Ke Soz Mein Saaz-e-Ajam Hai" [ref=f1e267] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/arab-ke-soz-mein-saaz-e-ajam-hai/
+                - listitem [ref=f1e268]:
+                  - link "(کوئی دیکھے تو میری نے نوازی) Koi Dekhe To Meri Ne Nawazi" [ref=f1e269] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/koi-dekhe-to-meri-ne-nawazi/
+                - listitem [ref=f1e270]:
+                  - link "(ہر اک ذرے میں ہے شاید مکیں دل) Har Ek Zarre Mein Hai Shaid Makeen Dil" [ref=f1e271] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/har-ek-zarre-mein-hai-shaid-makeen-dil/
+                - listitem [ref=f1e272]:
+                  - link "(تیرا اندیشہ افلاکی نہیں ہے) Tera Andesha Aflaki Nahin Hai" [ref=f1e273] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tera-andesha-aflaki-nahin-hai/
+                - listitem [ref=f1e274]:
+                  - link "(نہ مومن ہے نہ مومن کے امیری) Na Momin Hai Na Momin Ki Ameeri" [ref=f1e275] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/na-momin-hai-na-momin-ki-ameeri/
+                - listitem [ref=f1e276]:
+                  - link "(خودی کی جلوتوں میں مصطفائی) Khudi Ki Jalwaton Mein Mustafai" [ref=f1e277] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-ki-jalwaton-mein-mustafai/
+                - listitem [ref=f1e278]:
+                  - link "(نگاہ الجھی ہوئی ہے رنگ و بو میں) Nigah Uljhi Huwi Hai Rang-o-Bu Mein" [ref=f1e279] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/nigah-uljhi-huwi-hai-rang-o-bu-mein/
+                - listitem [ref=f1e280]:
+                  - link "(جمال عشق و مستی نے نوازی) Jamal-e-Ishq-o-Masti Ne Nawazi" [ref=f1e281] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/jamal-e-ishq-o-masti-ne-nawazi/
+                - listitem [ref=f1e282]:
+                  - link "(وہ میرا رونق محفل کہاں ہے) Vo Mera Ronaq-e-Mehfil Kahan Hai" [ref=f1e283] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/vo-mera-ronaq-e-mehfil-kahan-hai/
+                - listitem [ref=f1e284]:
+                  - link "(سوار ناقہ و محمل نہیں میں) Sawar-e-Naqa-o-Mohmil Nahin Main" [ref=f1e285] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/sawar-e-naqa-o-mohmil-nahin-main/
+                - listitem [ref=f1e286]:
+                  - link "(تیرے سینے میں دم ہے، دل نہیں ہے) Tere Sine Mein Dam Hai, Dil Nahin Hai" [ref=f1e287] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tere-sine-mein-dam-hai-dil-nahin-hai/
+                - listitem [ref=f1e288]:
+                  - link "(تیرا جوہر ہے نوری، پاک ہے تو) Tera Johar Hai Noori, Pak Hai Tu" [ref=f1e289] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tera-johar-hai-noori-pak-hai-tu/
+                - listitem [ref=f1e290]:
+                  - link "(محبت کا جنوں باقی نہیں ہے) Mohabbat Ka Junoon Baqi Nahin Hai" [ref=f1e291] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/mohabbat-ka-junoon-baqi-nahin-hai/
+                - listitem [ref=f1e292]:
+                  - link "(خودی کے زور سے دنیا پہ چھا جا) Khudi Ke Zor Se Dunya Pe Cha Ja" [ref=f1e293] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudi-ke-zor-se-dunya-pe-cha-ja/
+                - listitem [ref=f1e294]:
+                  - link "(چمن میں رخت گل شبنم سے تر ہے) Chaman Mein Rakht-e-Gul Shabnam Se Tar Hai" [ref=f1e295] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/chaman-mein-rakht-e-gul-shabnam-se-tar-hai/
+                - listitem [ref=f1e296]:
+                  - link "(خرد سے رہرو روشن بصر ہے) Khirad Se Rahru Roshan Basar Hai" [ref=f1e297] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khirad-se-rahru-roshan-basar-hai/
+                - listitem [ref=f1e298]:
+                  - link "(جوانوں کو میری آہ سحر دے) Jawanon Ko Meri Aah-e-Sehar De" [ref=f1e299] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/jawanon-ko-meri-aah-e-sehar-de/
+                - listitem [ref=f1e300]:
+                  - link "(تیری دنیا جہاں مرغ و ماہی) Teri Dunya Jahan-e-Murgh-o-Mahi" [ref=f1e301] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/teri-dunya-jahan-e-murgh-o-mahi/
+                - listitem [ref=f1e302]:
+                  - link "(کرم تیرا کہ بے جوہر نہیں میں) Karam Tera Ke Be-Johar Nahin Main" [ref=f1e303] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/karam-tera-ke-be-johar-nahin-main/
+                - listitem [ref=f1e304]:
+                  - link "(وہی اصل مکان و لا مکان ہے) Wohi Asal-e-Makan-o-La-Makan Hai" [ref=f1e305] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/wohi-asal-e-makan-o-la-makan-hai/
+                - listitem [ref=f1e306]:
+                  - link "(کبھی آوارہ و بے خانماں عشق) Kabhi Awara-o-Be Khanman Ishq" [ref=f1e307] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kabhi-awara-o-be-khanman-ishq/
+                - listitem [ref=f1e308]:
+                  - link "(کبھی تنہائی کوہ و دمن عشق) Kabhi Tanhai-e-Koh-o-Daman Ishq" [ref=f1e309] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/kabhi-tanhai-e-koh-o-daman-ishq/
+                - listitem [ref=f1e310]:
+                  - link "(عطا اسلاف کا جذب درون کر) Atta Aslaf Ka Jazb-e-Darun Kar" [ref=f1e311] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/atta-aslaf-ka-jazb-e-darun-kar/
+                - listitem [ref=f1e312]:
+                  - link "(یہ نکتہ میں نے سیکھا بو الحسن سے) Ye Nukta Main Ne Sikha Bu-Al-Hassan Se" [ref=f1e313] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ye-nukta-main-ne-sikha-bu-al-hassan-se/
+                - listitem [ref=f1e314]:
+                  - link "(خرد واقف نہیں ہے نیک و بد سے) Khirad Waqif Nahin Hai Naik-o-Bad Se" [ref=f1e315] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khirad-waqif-nahin-hai-naik-o-bad-se/
+                - listitem [ref=f1e316]:
+                  - link "(خدائی اہتمام خشک و تر ہے) Khudai Ehtemam-e-Khushk-o-Tar Hai" [ref=f1e317] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khudai-ehtemam-e-khushk-o-tar-hai/
+                - listitem [ref=f1e318]:
+                  - link "(یہی آدم ہے سلطاں بحر و بر کا) Yehi Adam Hai Sultan Behar-o-Bar Ka" [ref=f1e319] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/yehi-adam-hai-sultan-behar-o-bar-ka/
+                - listitem [ref=f1e320]:
+                  - link "(دم عارف نسیم صبحدم ہے) Dam-e-Arif Nasim-e-Subah-Dam Hai" [ref=f1e321] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/dam-e-arif-nasim-e-subah-dam-hai/
+                - listitem [ref=f1e322]:
+                  - link "(رگوں میں وہ لہو باقی نہیں ہے) Ragon Mein Vo Lahoo Baqi Nahin Hai" [ref=f1e323] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/ragon-mein-vo-lahoo-baqi-nahin-hai/
+                - listitem [ref=f1e324]:
+                  - link "(کھلے جاتے ہیں اسرار نہانی) Khule Jate Hain Asrar-e-Nihani" [ref=f1e325] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/khule-jate-hain-asrar-e-nihani/
+                - listitem [ref=f1e326]:
+                  - link "(زمانے کی یہ گردش جاودانہ) Zamane Ki Ye Gardish Javidana" [ref=f1e327] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/zamane-ki-ye-gardish-javidana/
+                - listitem [ref=f1e328]:
+                  - link "(حکیمی نا مسلمانی خودی کی) Hakeemi, Na Musalmani Khudi Ki" [ref=f1e329] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/hakeemi-na-musalmani-khudi-ki/
+                - listitem [ref=f1e330]:
+                  - link "(تیرا تن روح سے نا آشنا ہے) Tera Tan Rooh Se Na-Aashna Hai" [ref=f1e331] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/tera-tan-rooh-se-na-aashna-hai/
+                - listitem [ref=f1e332]:
+                  - link "(قطعہ – اقبال نے کل اہل خیابان کو سنایا) Qataa – Iqbal Ne Kal Ahl-e-Khiyaban Ko Sunaya" [ref=f1e333] [cursor=pointer]:
+                    - /url: https://allamaiqbal.org/bal-e-jibril/iqbal-ne-kal-ahl-e-khayaban-ko-sunaya/
+                - listitem [ref=f1e334]: (دعا) Dua
+                - listitem [ref=f1e335]: (مسجد قرطبہ) Masjid-e-Qurtuba
+                - listitem [ref=f1e336]: (قید خانے میں معتمد کی فریاد) Qaid Khane Mein Ma’utmid Ki Faryad
+                - listitem [ref=f1e337]: (عبد ارحمن اول کا بویا ہوا کھجور کا پہلا درخت سرزمین اندلس میں) Abdur Rehman Awal Ka Boya Huwa Khajoor Ka Pehla Darakht Sarzameen-e-Andlus Mein
+                - listitem [ref=f1e338]: (ہسپانیہ) Haspania
+                - listitem [ref=f1e339]: (طارق کی دعا) Tariq Ki Dua
+                - listitem [ref=f1e340]: (لینن – خدا کے حضور میں) Lenin (Khuda Ke Hazoor Mein)
+                - listitem [ref=f1e341]: (فرشتوں کا گیت) Farishton Ka Geet
+                - listitem [ref=f1e342]: (فرمان خدا – فرشتوں سے) Farman-e-Khuda (Farishton Se)
+                - listitem [ref=f1e343]: (ذوق و شوق) Zauq-o-Shauq (Ecstasy)
+                - listitem [ref=f1e344]: (پروانہ اور جگنو) Parwana Aur Juggnu
+                - listitem [ref=f1e345]: (جاوید کے نام) Javed Ke Naam
+                - listitem [ref=f1e346]: (گدائی) Gadai
+                - listitem [ref=f1e347]: (ملا اور بہشت) Mullah Aur Bahisht
+                - listitem [ref=f1e348]: (دین و سیاست) Deen-o-Siasat
+                - listitem [ref=f1e349]: (ال ارض اللہ) Al-Ardullah !
+                - listitem [ref=f1e350]: (ایک نوجوان کے نام) Aik Naujawan Ke Naam
+                - listitem [ref=f1e351]: (نصیحت) Nasihat
+                - listitem [ref=f1e352]: (لالہ صحرا) Lala’ay Sehra
+                - listitem [ref=f1e353]: (ساقی نامہ) Saqi Nama
+                - listitem [ref=f1e354]: (زمانہ) Zamana
+                - listitem [ref=f1e355]: (فرشتےآدم کو جنت سے رخصت کرتے ہیں) Farishtay Adam Ko Jannat Se Rukhsat Kartay Hain
+                - listitem [ref=f1e356]: (روح ارضی آدم کا استقبال کرتی ہے) Rooh-e-Arzi Adam Ka Istaqbal Karti Hai
+                - listitem [ref=f1e357]: (پیر و مرید) Peer-o-Mureed
+                - listitem [ref=f1e358]: (جبریل و ابلیس) Jibreel-o-Iblees
+                - listitem [ref=f1e359]: (آذان ) Azaan
+                - listitem [ref=f1e360]: (محبت) Mohabbat
+                - listitem [ref=f1e361]: (ستارے کا پیغام) Sitare Ka Pegham
+                - listitem [ref=f1e362]: (جاوید کے نام) Javed Ke Naam
+                - listitem [ref=f1e363]: (فلسفہ و مذہب) Falsafa-o-Mazhab
+                - listitem [ref=f1e364]: (یورپ سے ایک خط) Yorup Se Aik Khat
+                - listitem [ref=f1e365]: (جواب) Jawab
+                - listitem [ref=f1e366]: (نپولین کے مزار پر) Napoleon Ke Mazar Par
+                - listitem [ref=f1e367]: (مسولینی) Mussolini
+                - listitem [ref=f1e368]: (سوال)Sawal
+                - listitem [ref=f1e369]: (پنجاب کے دہقان سے) Punjab Ke Dehqan Se
+                - listitem [ref=f1e370]: (نادر شاہ افغان) Nadir Shah Afghan
+                - listitem [ref=f1e371]: (خوشحال خان کی وصیت) Khushal Khan Ki Wasiyat
+                - listitem [ref=f1e372]: (تاتاری کا خواب) Tatari Ka Khawab
+                - listitem [ref=f1e373]: (حال و مقام) Haal-o-Maqam
+                - listitem [ref=f1e374]: (ابو الاعلامعری) Abbu-Al-Allama’ari
+                - listitem [ref=f1e375]: (سینما) Cinema
+                - listitem [ref=f1e376]: (پنجاب کے پیرزادوں سے) Punjab Ke Peerzadon Se
+                - listitem [ref=f1e377]: (سیاست) Siasat
+                - listitem [ref=f1e378]: (فقر) Faqr
+                - listitem [ref=f1e379]: (خودی) Khudi
+                - listitem [ref=f1e380]: (جدائی) Judai
+                - listitem [ref=f1e381]: (خانقاہ) Khanqah
+                - listitem [ref=f1e382]: (ابلیس کی عرضداشت) Iblees Ki Arzdasht
+                - listitem [ref=f1e383]: (لہو) Lahoo
+                - listitem [ref=f1e384]: (پرواز) Parwaz
+                - listitem [ref=f1e385]: (شیخ مکتب) Sheikh-e-Maktab
+                - listitem [ref=f1e386]: (فلسفہ) Falsafi
+                - listitem [ref=f1e387]: (شاہین) Shaheen
+                - listitem [ref=f1e388]: (باغی مرید) Baghi Mureed
+                - listitem [ref=f1e389]: (ہارون کی آخری نصیحت) Haroon Ki Akhari Nasihat
+                - listitem [ref=f1e390]: (ماہر نفسیات) Mahir-e-Nafsiyat
+                - listitem [ref=f1e391]: (یورپ) Yorup
+                - listitem [ref=f1e392]: (آزادی افکار) Azadi-e-Afkar
+                - listitem [ref=f1e393]: (شیر اور خچر) Sher Aur Khachar
+                - listitem [ref=f1e394]: (چونتی اور عقاب) Chionti Aur Auqab
+                - listitem [ref=f1e395]: (قطعہ – فطرت میری مانند نسیم سحری ہے) Qataa – Fitrat Meri Manind-e-Nasim-e-Sehri Hai
+                - listitem [ref=f1e396]: (قطعہ – کل اپنے مریدوں سے کہا پیر مغان نے) Qataa – Kal Apne Mureedon Se Kaha Peer-e-Mughan Ne
+          - paragraph
+    - contentinfo [ref=f1e397]:
+      - region "Footer Widget 2" [ref=f1e402]:
+        - generic [ref=f1e404]:
+          - button "facebook" [ref=f1e406] [cursor=pointer]
+          - button "twitter" [ref=f1e412] [cursor=pointer]
+          - button "pinterest" [ref=f1e418] [cursor=pointer]
+          - button "linkedin" [ref=f1e424] [cursor=pointer]
+          - button "whatsapp" [ref=f1e430] [cursor=pointer]
+      - paragraph [ref=f1e441]: © 2026 allamaiqbal.org
+  - insertion [ref=f1e443]

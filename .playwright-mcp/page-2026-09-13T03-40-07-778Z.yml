@@ -1,0 +1,94 @@
+- generic [active] [ref=f56e1]:
+  - link "Skip to content" [ref=f56e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f56e3]:
+    - banner [ref=f56e4]:
+      - generic [ref=f56e9]:
+        - link [ref=f56e14] [cursor=pointer]:
+          - /url: https://allamaiqbal.org/
+          - img "allamaiqbal" [ref=f56e15]
+        - navigation "Primary Site Navigation" [ref=f56e21]:
+          - list [ref=f56e23]:
+            - listitem [ref=f56e24]:
+              - link "Home" [ref=f56e25] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/
+            - listitem [ref=f56e26]:
+              - link "Bang-e-Dra" [ref=f56e27] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bang-e-dra/
+            - listitem [ref=f56e28]:
+              - link "Bal-e-Jibril" [ref=f56e29] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bal-e-jibril/
+            - listitem [ref=f56e30]:
+              - link "Zarb-e-Kaleem" [ref=f56e31] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/
+            - listitem [ref=f56e32]:
+              - link "Armaghan-e-Hijaz" [ref=f56e33] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/armaghan-e-hijaz/
+        - generic [ref=f56e34]:
+          - button "Search button" [ref=f56e39] [cursor=pointer]:
+            - generic [ref=f56e40]: Search
+          - generic [ref=f56e46]:
+            - link "Urdu Keyboard" [ref=f56e47] [cursor=pointer]:
+              - /url: https://type-in-urdu.com/
+            - link "YouTube" [ref=f56e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@EagleClawPK
+    - main [ref=f56e58]:
+      - article [ref=f56e59]:
+        - generic [ref=f56e60]:
+          - generic [ref=f56e63]:
+            - heading "تمہید" [level=1] [ref=f56e64]
+            - paragraph [ref=f56e66]:
+              - text: Tamheed(
+              - strong [ref=f56e67]: The Prologue
+              - text: )
+          - separator [ref=f56e68]
+          - paragraph [ref=f56e69]: Allama Iqbal Poetry Urdu Tashreeh(Explanation), English Translation, Roman Urduرومن اردو ، انگلش ترجمہ، اردو تشریح
+          - separator [ref=f56e70]
+          - generic [ref=f56e72]:
+            - insertion:
+              - generic:
+                - iframe
+            - heading "اردو" [level=2] [ref=f56e76]
+            - generic [ref=f56e77]: (1)نہ دیر میں نہ حرم میں خودی کی بیداریکہ خاوراں میں ہے قوموں کی رُوح تریاکیاگر نہ سہل ہوں تجھ پر زمیں کے ہنگامےبُری ہے مستیِ اندیشہ ہائے افلاکیتری نجات غمِ مرگ سے نہیں ممکنکہ تُو خودی کو سمجھتا ہے پیکرِ خاکیزمانہ اپنے حوادث چھُپا نہیں سکتاترا حِجاب ہے قلب و نظر کی ناپاکیعطا ہُوا خس و خاشاکِ ایشیا مجھ کوکہ میرے شُعلے میں ہے سرکشی و بے باکی!(2)ترا گُناہ ہے اقبالؔ! مجلس آرائیاگرچہ تُو ہے مثالِ زمانہ کم پیوندجو کوکنار کے خُوگر تھے، اُن غریبوں کوتری نَوا نے دیا ذوقِ جذبہ ہائے بلندتڑپ رہے ہیں فضاہائے نیلگوں کے لیےوہ پَر شکستہ کہ صحنِ سرا میں تھے خورسندتری سزا ہے نوائے سحَر سے محرومیمقامِ شوق و سروُر و نظر سے محرومی
+            - heading "Transliteration" [level=4] [ref=f56e81]
+            - generic [ref=f56e82]: (1)Na Dair Mein Na Haram Mein Khudi Ki BaidariKe Khawaran Mein Hai Qoumon Ki Rooh TaryakiAgar Na Sehal Hon Tujh Par Zameen Ke HangameBuri Hai Masti-e-Andaisa Haye AflakiTeri Nijat Gham-e-Marg Se Nahin MumkinKe Tu Khudi Ko Samajhta Hai Paikar-e-KhakiZamana Apne Hawadas Chupa Nahin SaktaTera Hijab Hai Qalb-o-Nazar Ki Na-PakiAtta Huwa Khs-o-Khashak-e-Asia Mujh KoKe Mere Shaole Mein Hai Sarkashi-o-Bebaki! (2)Tera Gunah Hai Iqbal! Majlis ArayiAgarche Tu Hai Misal-e-Zamana Kam PewandJo Ko Kinar Ke Khugar The, In Ghareebon KoTeri Nawa Ne Dia Zauq-e-Jazba Haye BulandTarap Rahe Hain Faza Haye Neelgoon Ke LiyeWoh Par Shakista Ke Sehan Sara Mein The KhorsandTeri Saza Hai Nawa-e-Sehar Se MehroomiMaqam-e-Shauq-o-Suroor-o-Nazar Se Mehroomi
+            - heading "Urdu Tashreeh & translation" [level=4] [ref=f56e86]
+            - region "Slider" [ref=f56e89]:
+              - generic [ref=f56e100]:
+                - note [ref=f56e101]: Coming soon
+                - generic [ref=f56e102]: Coming Soon – جلد ہی
+            - separator [ref=f56e107]
+      - generic [ref=f56e109]:
+        - heading "Leave a Reply" [level=3] [ref=f56e110]
+        - generic [ref=f56e111]:
+          - paragraph [ref=f56e112]:
+            - text: Your email address will not be published.
+            - generic [ref=f56e113]: Required fields are marked *
+          - paragraph [ref=f56e114]:
+            - generic [ref=f56e115]: Comment *
+            - textbox "Comment *" [ref=f56e116]
+          - generic:
+            - paragraph [ref=f56e117]:
+              - generic [ref=f56e118]: Name*
+              - textbox "Name*" [ref=f56e119]
+            - paragraph [ref=f56e120]:
+              - generic [ref=f56e121]: Email*
+              - textbox "Email*" [ref=f56e122]
+            - paragraph [ref=f56e123]:
+              - generic [ref=f56e124]: Website
+              - textbox "Website" [ref=f56e125]
+          - paragraph [ref=f56e126]:
+            - checkbox "Save my name, email, and website in this browser for the next time I comment." [ref=f56e127]
+            - text: Save my name, email, and website in this browser for the next time I comment.
+          - paragraph [ref=f56e128]:
+            - button "Post Comment" [ref=f56e129] [cursor=pointer]
+    - contentinfo [ref=f56e130]:
+      - region "Footer Widget 2" [ref=f56e135]:
+        - generic [ref=f56e137]:
+          - button "facebook" [ref=f56e139] [cursor=pointer]
+          - button "twitter" [ref=f56e145] [cursor=pointer]
+          - button "pinterest" [ref=f56e151] [cursor=pointer]
+          - button "linkedin" [ref=f56e157] [cursor=pointer]
+          - button "whatsapp" [ref=f56e163] [cursor=pointer]
+      - paragraph [ref=f56e174]: © 2026 allamaiqbal.org
+  - insertion [ref=f56e176]

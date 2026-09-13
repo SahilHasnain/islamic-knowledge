@@ -29,6 +29,15 @@ source's established Urdu or Arabic plural form instead, such as `aayat` / `aaya
 `hadees` / `ahadees`, and `mas'alah` / `masail`, rather than `aayats`, `hadeess`, or
 `mas'alahs`.
 
+In Roman Urdu explanations and translations, address Allah Ta'ala with `Tu` and `Tera`, not
+the Urdu-influenced `Aap` or `Aap ka`. Preserve `ﷺ` as the Arabic honorific for the Beloved
+Prophet ﷺ; do not use `S.A.W.` or similar Latin abbreviations in reproduced poetry or prose.
+
+In Easy Roman Urdu explanations, explain difficult Persian, Arabic, and Urdu words at their
+first meaningful use in simple Roman Urdu, usually in brackets or in the sentence itself.
+Retain the original term when it is important to the source's meaning, poetry, or Islamic
+usage; do not leave difficult vocabulary unexplained and do not replace it with a vague word.
+
 ## Batch translation workflow
 
 ### File size limit

@@ -1,0 +1,321 @@
+- generic [active] [ref=f63e1]:
+  - link "Skip to content" [ref=f63e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f63e3]:
+    - banner [ref=f63e4]:
+      - generic [ref=f63e9]:
+        - link [ref=f63e14] [cursor=pointer]:
+          - /url: https://allamaiqbal.org/
+          - img "allamaiqbal" [ref=f63e15]
+        - navigation "Primary Site Navigation" [ref=f63e21]:
+          - list [ref=f63e23]:
+            - listitem [ref=f63e24]:
+              - link "Home" [ref=f63e25] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/
+            - listitem [ref=f63e26]:
+              - link "Bang-e-Dra" [ref=f63e27] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bang-e-dra/
+            - listitem [ref=f63e28]:
+              - link "Bal-e-Jibril" [ref=f63e29] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bal-e-jibril/
+            - listitem [ref=f63e30]:
+              - link "Zarb-e-Kaleem" [ref=f63e31] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/
+            - listitem [ref=f63e32]:
+              - link "Armaghan-e-Hijaz" [ref=f63e33] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/armaghan-e-hijaz/
+        - generic [ref=f63e34]:
+          - button "Search button" [ref=f63e39] [cursor=pointer]:
+            - generic [ref=f63e40]: Search
+          - generic [ref=f63e46]:
+            - link "Urdu Keyboard" [ref=f63e47] [cursor=pointer]:
+              - /url: https://type-in-urdu.com/
+            - link "YouTube" [ref=f63e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@EagleClawPK
+    - main [ref=f63e58]:
+      - article [ref=f63e59]:
+        - generic [ref=f63e60]:
+          - generic [ref=f63e62]:
+            - heading [level=2] [ref=f63e64]:
+              - strong [ref=f63e65]:
+                - strong [ref=f63e66]: Zarb-e-Kaleem
+            - separator [ref=f63e67]
+            - heading [level=2] [ref=f63e69]:
+              - strong [ref=f63e70]:
+                - strong [ref=f63e71]:
+                  - strong [ref=f63e72]: ضرب کلیم
+          - separator [ref=f63e73]
+          - paragraph [ref=f63e74]: Urdu Tashreeh(Explanation), English Translation, Roman Urduرومن اردو ، انگلش ترجمہ، اردو تشریح
+          - separator [ref=f63e75]
+          - generic [ref=f63e77]:
+            - insertion:
+              - generic:
+                - iframe
+            - separator [ref=f63e78]
+          - list [ref=f63e82]:
+            - listitem [ref=f63e83]: (اعلیحضرت نواب سر حمید اللہ خان فرمان رواے بھوپال کی خدمت میں) Aala’Hazrat Nawab Sir Hameed Ullah Khan Farmanrawaye Bhopal Ki Khidmat Mein
+            - listitem [ref=f63e84]:
+              - link "(ناظرین سے) Nazreen Se" [ref=f63e85] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/nazreen-se-2/
+            - listitem [ref=f63e86]:
+              - link "(تمہید) Tamheed" [ref=f63e87] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/tamheed/
+            - listitem [ref=f63e88]:
+              - link "(اسلام اور مسلمان – صبح) (Islam Aur Musalman – Subah)" [ref=f63e89] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/islam-aur-musalman-subah/
+            - listitem [ref=f63e90]:
+              - link "(لا الہٰ الا للہ) LA ILAHA ILLALLAH" [ref=f63e91] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/la-ilaha-illallah/
+            - listitem [ref=f63e92]:
+              - link "(تن بہ تقدیر) Tan Ba Taqdeer" [ref=f63e93] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/tan-ba-taqdeer/
+            - listitem [ref=f63e94]:
+              - link "(معراج) Miraj" [ref=f63e95] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/miraj/
+            - listitem [ref=f63e96]: (ایک فلسفہ زادہ سید زادے کے نام) Aik Falsafa-zada Syed Zadde Ke Naam
+            - listitem [ref=f63e97]:
+              - link "(زمین و آسمان) Zameen-o-Asman" [ref=f63e98] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/zameen-o-asman/
+            - listitem [ref=f63e99]:
+              - link "(مسلمان کا زوال) Musalman Ka Zawal" [ref=f63e100] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/musalman-ka-zawal/
+            - listitem [ref=f63e101]:
+              - link "(علم و عشق) Ilm-o-Ishq" [ref=f63e102] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ilm-o-ishq/
+            - listitem [ref=f63e103]:
+              - link "(اجتہاد) Ijtihaad" [ref=f63e104] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ijtihaad/
+            - listitem [ref=f63e105]:
+              - link "(شکر و شکایت) Shukar-o-Shikayat" [ref=f63e106] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/shukar-o-shikayat/
+            - listitem [ref=f63e107]:
+              - link "(ذکر و فکر) Zikar-o-Fikar" [ref=f63e108] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/zikar-o-fikar/
+            - listitem [ref=f63e109]:
+              - link "(ملاے حرم) Mullah-e-Haram" [ref=f63e110] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mullah-e-haram/
+            - listitem [ref=f63e111]:
+              - link "(تقدیر) Taqdeer" [ref=f63e112] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/taqdeer/
+            - listitem [ref=f63e113]:
+              - link "(توحید) Touheed" [ref=f63e114] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/touheed/
+            - listitem [ref=f63e115]:
+              - link "(علم اور عرفان) Ilm Aur Irfan" [ref=f63e116] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ilm-aur-irfan/
+            - listitem [ref=f63e117]:
+              - link "(ہندی مسلمان) Hindi Musalman" [ref=f63e118] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/hindi-musalman/
+            - listitem [ref=f63e119]:
+              - link "(آزادی شمشیر کے اعلان پر) Azadi-e-Shamsheer Ke Elan Par" [ref=f63e120] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/azadi-e-shamsheer-ke-alan-par/
+            - listitem [ref=f63e121]: (جہاد) Jihad
+            - listitem [ref=f63e122]: (قوت اور دین) Quwwat Aur Deen
+            - listitem [ref=f63e123]: (فقر و ملوکیت) Faqar-o-Malookiyat
+            - listitem [ref=f63e124]:
+              - link "(اسلام) Islam" [ref=f63e125] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/islam/
+            - listitem [ref=f63e126]: (حیات ابدی) Hayat-e-Abadi
+            - listitem [ref=f63e127]: (سلطانی) Sultani
+            - listitem [ref=f63e128]: (صوفی سے) Sufi Se
+            - listitem [ref=f63e129]: (افرنگ زدہ) Afrang Zada
+            - listitem [ref=f63e130]: (تصوف) Tasawwuf
+            - listitem [ref=f63e131]: (ہندی اسلام) Hindi Islam
+            - listitem [ref=f63e132]: (غزل – دل زندہ نہیں ہے اسے زندہ کر دوبارہ) Ghazal
+            - listitem [ref=f63e133]: (دنیا) Dunya
+            - listitem [ref=f63e134]: (نماز) Namaz
+            - listitem [ref=f63e135]: (وحی) Wahi
+            - listitem [ref=f63e136]: (شکست) Shikast
+            - listitem [ref=f63e137]: (عقل و دل) Aqal-o-Dil
+            - listitem [ref=f63e138]: (مستی کردار) Masti-e-Kirdar
+            - listitem [ref=f63e139]: (قبر) Qabar
+            - listitem [ref=f63e140]: (قلندر کی پہچان) Qalander Ki Pehchan
+            - listitem [ref=f63e141]:
+              - link "(فلسفہ) Falsafa" [ref=f63e142] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/falsafa/
+            - listitem [ref=f63e143]:
+              - link "(مردان خدا) Mardan-e-Khuda" [ref=f63e144] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mardan-e-khuda/
+            - listitem [ref=f63e145]:
+              - link "(کفر و مومن) Kafir-o-Momin" [ref=f63e146] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/kafir-o-momin/
+            - listitem [ref=f63e147]:
+              - link "(مہدی برحق) Mehdi-e-BarHaq" [ref=f63e148] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mahdi-e-barhaq/
+            - listitem [ref=f63e149]:
+              - link "(مومن) Momin" [ref=f63e150] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/momin/
+            - listitem [ref=f63e151]: (محمد علی باب) Muhammad Ali Baab
+            - listitem [ref=f63e152]: (تقدیر – ابلیس و یزداں) Taqdeer (Iblees-o-Yazdan)
+            - listitem [ref=f63e153]: (اے روح محمد صلی الله علیہ وسلم ) Ae Rooh-e-Muhammad (PBUH)
+            - listitem [ref=f63e154]: (مدنیت اسلام) Madniyat-e-Islam
+            - listitem [ref=f63e155]: (امامت) Imamat
+            - listitem [ref=f63e156]: (فقر و راہبی) Faqar-o-Rahbi
+            - listitem [ref=f63e157]: (تیری متاع حیات علم و ہنر کا سرور) Ghazal
+            - listitem [ref=f63e158]: (تسلیم و رضا) Tasleem-o-Raza
+            - listitem [ref=f63e159]: (نکتہ توحید) Nukta-e-Touheed
+            - listitem [ref=f63e160]: (الہام اور آزادی) Ilham Aur Azadi
+            - listitem [ref=f63e161]: (جان و تن) Jaan-o-Tan
+            - listitem [ref=f63e162]: (لاہور و کراچی) Lahore-o-Karachi
+            - listitem [ref=f63e163]: (نبوت) Nabuwwat
+            - listitem [ref=f63e164]: (آدم) Adam
+            - listitem [ref=f63e165]: (مکہ اور جنیوا) Makkah Aur Geneva
+            - listitem [ref=f63e166]: (اے پیر حرم) Ae Pir-e-Haram
+            - listitem [ref=f63e167]: (مہدی) Mehdi
+            - listitem [ref=f63e168]:
+              - link "(مرد مسلمان) Mard-e-Musalman" [ref=f63e169] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mard-e-musalman/
+            - listitem [ref=f63e170]: (پنجابی مسلمان) Punjabi Musalman
+            - listitem [ref=f63e171]: (آزادی) Azadi
+            - listitem [ref=f63e172]: (اشاعت اسلام فرنگستان میں) Ishaat-e-Islam Farangistan Mein
+            - listitem [ref=f63e173]: (لا و الا) La-wa-Illa
+            - listitem [ref=f63e174]: (امراے عرب سے) Umra’ay Arab Se
+            - listitem [ref=f63e175]: (احکام الہی) Ahkam-e-Ellahi
+            - listitem [ref=f63e176]: (موت) Mout
+            - listitem [ref=f63e177]: (قم باذن اللہ) Qum Bi Izinillah
+            - listitem [ref=f63e178]: (تعلیم و تربیت – مقصود) Taleem-o-Tarbiat – Maqsood
+            - listitem [ref=f63e179]: (زمانہ حاضر کا انسان) Zamana-e-Hazir Ka Insan
+            - listitem [ref=f63e180]: (اقوام مشرق) Aqwam-e-Mashriq
+            - listitem [ref=f63e181]: (آگاہی) Agahi
+            - listitem [ref=f63e182]: (مصلحین مشرق) Musliheen-e-Mashriq
+            - listitem [ref=f63e183]: (مغربی تہذیب) Maghrabi Tehzeeb
+            - listitem [ref=f63e184]: (اسرار پیدا) Asrar-e-Paida
+            - listitem [ref=f63e185]: (سلطان ٹیپو کی وصیت) Sultan Tipu Ki Wasiyat
+            - listitem [ref=f63e186]: (غزل – نہ میں عجمی نہ ہندی، نہ عراقی و حجازی) Ghazal
+            - listitem [ref=f63e187]: (بیداری) Baidari
+            - listitem [ref=f63e188]: (خودی کے تربیت) Khudi Ki Tarbiat
+            - listitem [ref=f63e189]: (آزادی فکر) Azadi-e-Fikar
+            - listitem [ref=f63e190]: (خودی کے زندگی) Khudi Ki Zindagi
+            - listitem [ref=f63e191]: (حکومت) Hukumat
+            - listitem [ref=f63e192]: (ہندی مکتب) Hindi Maktab
+            - listitem [ref=f63e193]: (تربیت) Tarbiat
+            - listitem [ref=f63e194]: (خوب و زشت) Khoob-o-Zisht
+            - listitem [ref=f63e195]: (مرگ خودی) Marg-e-Khudi
+            - listitem [ref=f63e196]: (مہمان عزیز) Mehman-e-Aziz
+            - listitem [ref=f63e197]: (عصر حاضر) Asar-e-Hazir
+            - listitem [ref=f63e198]: (طالب علم) Talib-e-Ilm
+            - listitem [ref=f63e199]: (امتحان) Imtihan
+            - listitem [ref=f63e200]: (مدرسہ) Madrasa
+            - listitem [ref=f63e201]: (حکیم نطشہ) Hakeem Natsha
+            - listitem [ref=f63e202]: (اساتذہ) Asatizah
+            - listitem [ref=f63e203]: (غزل – ملے گا منزل مقصود کا اسی کو سراغ) Ghazal
+            - listitem [ref=f63e204]: (دین و تعلیم) Deen-o-Taleem
+            - listitem [ref=f63e205]: (جاوید سے) Javed Se
+            - listitem [ref=f63e206]: (عورت – مرد افرنگ) Aurat – Mard-e-Afrang
+            - listitem [ref=f63e207]: (ایک سوال) Aik Sawal
+            - listitem [ref=f63e208]: (پردہ) Parda
+            - listitem [ref=f63e209]: (خلوت) Khalwat
+            - listitem [ref=f63e210]: (عورت) Aurat
+            - listitem [ref=f63e211]: (آزادی نسواں) Azadi-e-Niswan
+            - listitem [ref=f63e212]: (عورت کی حفاظت) Aurat Ki Hifazat
+            - listitem [ref=f63e213]: (عورت اور تعلیم) Aurat Aur Taleem
+            - listitem [ref=f63e214]: (عورت) Aurat
+            - listitem [ref=f63e215]: (ادبیات – فنون لطیفہ – دین و ہنر) Adabiat Fanoon-e-Latifa – Deen-o-Hunar
+            - listitem [ref=f63e216]: (تخلیق) Takhleeq
+            - listitem [ref=f63e217]: (جنون) Junoon
+            - listitem [ref=f63e218]: (اپنے شعر سے) Apne Shair Se
+            - listitem [ref=f63e219]: (پیرس کی مسجد) Paris Ki Masjid
+            - listitem [ref=f63e220]: (ادبیات) Adabiat
+            - listitem [ref=f63e221]: (نگاہ) Nigah
+            - listitem [ref=f63e222]: (مسجد قوت الاسلام) Masjid-e-Quwwat-ul-Islam
+            - listitem [ref=f63e223]: (تیاتر) Tiyatar
+            - listitem [ref=f63e224]: (شعاع امید) Shua-e-Umeed
+            - listitem [ref=f63e225]: (امید) Umeed
+            - listitem [ref=f63e226]: (نگاہ شوق) Nigah-e-Shauq
+            - listitem [ref=f63e227]: (اہل ہنر سے) Ahle Hunar Se
+            - listitem [ref=f63e228]: (غزل – دریا میں موتی، اے موج بیباک) Ghazal
+            - listitem [ref=f63e229]: (وجود) Wujood
+            - listitem [ref=f63e230]: (سرود) Surood
+            - listitem [ref=f63e231]: (نسیم شبنم) Naseem-o-Shabnam
+            - listitem [ref=f63e232]: (اہرام مصر) Ahram-e-Misar
+            - listitem [ref=f63e233]: (مخلوقات ہنر) Makhlooqat-e-Hunar
+            - listitem [ref=f63e234]: (اقبال) Iqbal
+            - listitem [ref=f63e235]: (فنون لطیفہ) Funoon-e-Latifa
+            - listitem [ref=f63e236]: (صبح چمن) Subah-e-Chaman
+            - listitem [ref=f63e237]: (خاقانی) Khaqani
+            - listitem [ref=f63e238]: (رومی) Rumi
+            - listitem [ref=f63e239]: (جدت) Jiddat
+            - listitem [ref=f63e240]: (مرزا بیدل) Mirza Bedil
+            - listitem [ref=f63e241]: (جلال و جمال) Jalal-o-Jamal
+            - listitem [ref=f63e242]: (مصور) Musawwar
+            - listitem [ref=f63e243]: (سرود حلال) Surood-e-Hilal
+            - listitem [ref=f63e244]: (سرود حرام) Surood-e-Haraam
+            - listitem [ref=f63e245]: (فوارہ) Fawwara
+            - listitem [ref=f63e246]: (شاعر) Shayar
+            - listitem [ref=f63e247]: (شعرعجم) Shayr-e-Ajam
+            - listitem [ref=f63e248]: (ہنروارن ہند) Hunarwaran-e-Hind
+            - listitem [ref=f63e249]: (مرد بزرگ) Mard-e-Buzurg
+            - listitem [ref=f63e250]: (عالم نو) Alam-e-Nau
+            - listitem [ref=f63e251]: (ایجاد معانی) Ejad-e-Ma’ani
+            - listitem [ref=f63e252]: (موسیقی) Mausiqi
+            - listitem [ref=f63e253]: (ذوق نظر) Zauq-e-Nazar
+            - listitem [ref=f63e254]: (شعر) Shair
+            - listitem [ref=f63e255]: (رقص و موسیقی) Raqs-o-Mausiqi
+            - listitem [ref=f63e256]: (ضبط) Zabt
+            - listitem [ref=f63e257]: (رقص) Raqs
+            - listitem [ref=f63e258]: (سیاسیات مشرق و مغرب – اشتراکیت) Siasiyat-e-Mashriq-o-Maghrib – Ishtarakiat
+            - listitem [ref=f63e259]: (کارل مارکس کی آواز) Carl Marx Ki Awaz
+            - listitem [ref=f63e260]: (انقلاب) Inqilab
+            - listitem [ref=f63e261]: (خوشامد) Khushamad
+            - listitem [ref=f63e262]: (مناصب) Manasib
+            - listitem [ref=f63e263]: (یورپ اور یہودی) Yorap Aur Yahood
+            - listitem [ref=f63e264]: (نفسیات غلامی) Nafsiyat-e-Ghulami
+            - listitem [ref=f63e265]: (بلشویک روس) Bolshevik Roos
+            - listitem [ref=f63e266]: (آج اور کل) Aaj Aur Kal
+            - listitem [ref=f63e267]: (مشرق) Mashriq
+            - listitem [ref=f63e268]: (سیاست افرنگ) Siasat-e-Afrang
+            - listitem [ref=f63e269]: (خواجگی) Khawajgi
+            - listitem [ref=f63e270]: (غلاموں کے لئے) Ghulamon Ke Liye
+            - listitem [ref=f63e271]: (اہل مصر) Ahle Misar Se
+            - listitem [ref=f63e272]: (ابی سینیا) Abyssinia
+            - listitem [ref=f63e273]: (ابلیس کا فرمان اپنے سیاسی فرزوندوں کے نام) Ablees Ka Farman Apne Siasi Farzondon Ke Naam
+            - listitem [ref=f63e274]: (جمیعت اقوام مشرق) Jamiat-e-Aqwam-e-Mashriq
+            - listitem [ref=f63e275]: (سلطانی جاوید) Sultani-e-Javed
+            - listitem [ref=f63e276]: (جمہوریت) Jumhooriat
+            - listitem [ref=f63e277]: (یورپ اور سوریا) Yorap Aur Suriya
+            - listitem [ref=f63e278]: (مسولینی) Mussolini
+            - listitem [ref=f63e279]: (گلہ) Gila
+            - listitem [ref=f63e280]: (انتداب) Intadab
+            - listitem [ref=f63e281]: (لا دین سیاست) La Deen Siasat
+            - listitem [ref=f63e282]: (دام تہذیب) Daam-e-Tehzeeb
+            - listitem [ref=f63e283]: (نصیحت) Nasihat
+            - listitem [ref=f63e284]: (ایک بحری قزاق اور سکندر) Aik Behri Qazzaq Aur Sikander
+            - listitem [ref=f63e285]: (جمیعت اقوام) Jamiat-e-Aqwam
+            - listitem [ref=f63e286]: (شام و فلسطین) Sham-o-Falesteen
+            - listitem [ref=f63e287]: (سیاسی پیشوا) Siasi Paishwa
+            - listitem [ref=f63e288]: (نفسیات غلامی) Nafsiyat-e-Ghulami
+            - listitem [ref=f63e289]: (غلاموں کی نماز) Ghulamon Ki Namaz
+            - listitem [ref=f63e290]: (فلسطینی عرب سے) Falesteeni Arab Se
+            - listitem [ref=f63e291]: (مشرق و مغرب) Mashriq-o-Maghrib
+            - listitem [ref=f63e292]: (نفسیات حاکمی) Nafsiyat-e-Hakmi
+            - listitem [ref=f63e293]: (محراب گل افغان کے افکار – میرے کوہستان تجھے چھوڑ کے جاؤں کہاں) Mehrab Gul Afghan Ke Afkar – Mere Kohistan ! Tujhe Chor Ke Jaun Kahan
+            - listitem [ref=f63e294]: (حقیقت ازلی ہے رقابت اقوام) Haqiqat-e-Azali Hai Raqabat-e-Aqwam
+            - listitem [ref=f63e295]: (تیری دعا سے قضا تو بدل نہیں سکتی) Teri Dua Se Qaza Tou Badal Nahin Sakti
+            - listitem [ref=f63e296]: (کیا چرخ کج رو ، کیا مہر، کیا ماہ) Kya Charkh-e-Kaj Ro, Kya Mehar, Kya Mah
+            - listitem [ref=f63e297]: (یہ مدرسہ یہ کھیل یہ غوغاۓ روارو) Ye Madrasa Ye Khail Ye Ghogha’ay Rawa Ro
+            - listitem [ref=f63e298]: (جوعالم ایجاد میں ہے صاحب ایجاد) Jo Alam-e-Ejad Mein Hai Sahib-e-Ejad
+            - listitem [ref=f63e299]: (رومی بدلے، شامی بدلے، بدلا ہندوستان) Rumi Badle, Shami Badle, Badla Hindustan
+            - listitem [ref=f63e300]: (زاغ کہتا ہے نہایت بدنما ہیں تیرے پر) Zagh Kehta Hai Nahayat Badnuma Hain Tere Per
+            - listitem [ref=f63e301]: (عشق طنیت میں فرو مایہ نہیں مثل ہوس) Ishq Tiniat Mein Firo Maya Nahin Misal-e-Hawas
+            - listitem [ref=f63e302]: (وہی جوان ہے قبیلے کی آنکہ کا تارا) Wohi Jawan Hai Qabile Ki Ankh Ka Tara
+            - listitem [ref=f63e303]: (جس کے پرتو سے منور رہی تیری شب دوش) Jis Ke Parto Se Munawwar Rahi Teri Shab-e-Dosh
+            - listitem [ref=f63e304]: (لادینی و لا طینی، کس پیچ میں الجھا ہے تو) La Deeni-o-La Teeni, Kis Paich Mein Uljha Tu
+            - listitem [ref=f63e305]: (مجھ کو تو یہ دنیا نظر اتی ہے دگرگوں) Mujh Ko To Ye Duniya Nazar Ati Hai Digargoon
+            - listitem [ref=f63e306]: (بے جرات رندانہ ہر عشق ہے روباہی) Be Jura’at-e-Rindana Har Ishq Hai Robahi
+            - listitem [ref=f63e307]: (آدم کا ضمیر اس کی حقیقت پہ ہے شاہد) Adam Ka Zameer Uss Ki Haqiqat Pe Hai Shahid
+            - listitem [ref=f63e308]: (قوموں کے لئے موت ہے مرکز سے جدائی) Qaumon Ke Liye Mout Hai Markaz Se Judai
+            - listitem [ref=f63e309]: (آگ اس کی پھونک دیتی ہے برنا و پیر کو) Aag Uss Ki Phoonk Deti Hai Barna-o-Peer Ko
+            - listitem [ref=f63e310]: (یہ نکتہ خوب کہا شیر شاہ سوری نے) Ye Nukta Khoob Kaha Sher Shah Suri Ne
+            - listitem [ref=f63e311]: (نگاہ وہ نہیں جو سرخ و زرد پہچانے) Nigah Woh Nahin Jo Surkh-o-Zard Pehchane
+            - listitem [ref=f63e312]: (فطرت کے مقاصد کی کرتا ہے نگہبانی) Fitrat Ke Maqasid Ki Karta Hai Nigahbani
+          - paragraph
+    - contentinfo [ref=f63e313]:
+      - region "Footer Widget 2" [ref=f63e318]:
+        - generic [ref=f63e320]:
+          - button "facebook" [ref=f63e322] [cursor=pointer]
+          - button "twitter" [ref=f63e328] [cursor=pointer]
+          - button "pinterest" [ref=f63e334] [cursor=pointer]
+          - button "linkedin" [ref=f63e340] [cursor=pointer]
+          - button "whatsapp" [ref=f63e346] [cursor=pointer]
+      - paragraph [ref=f63e357]: © 2026 allamaiqbal.org
+  - insertion [ref=f63e359]

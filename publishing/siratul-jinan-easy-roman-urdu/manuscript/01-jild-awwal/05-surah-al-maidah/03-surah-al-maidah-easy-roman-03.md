@@ -438,7 +438,7 @@ Ahadees mein be-zaroorat sawaalaat karne ki mazammat bayan hui hai. Is silsile m
 
 1. Hazrat Sa'd bin Abi Waqqaas رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai ke Nabi-e-Akram صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshad farmaya: “Musalmanon mein sab se bada mujrim woh hai jis ne aisi cheez ke baare mein sawaal kiya jo haraam nahin ki gayi thi, lekin us ke sawaal karne ki wajah se haraam kar di gayi.” (Bukhari, Kitaab-ul-I'tisaam bil-Kitaab was-Sunnah, Baab Ma Yukrah min Kasrat-is-Su'aal, 4/502, hadees: 7289)
 
-2. Hazrat Abu Tha'labah Khushani رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai ke Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshad farmaya: “Allah Ta'ala ne kuchh hudood muqarrar ki hain, un se aage na badho. Kuchh faraiz laazim farmaye hain, unhein zaya na karo. Kuchh cheezein haraam ki hain, un ki hurmat na todo. Aur tum par rahmat farmate hue kuchh cheezon se baghair bhool ke khamoshi farmayi hai, to un ke baare mein behas na karo.” (Mustadrak, Kitaab-ul-At'imah, Shaan-e-Nuzool Ma Ahallallahu fahuwa Halaal, 5/157, hadees: 7196)
+2. Hazrat Abu Sa'labah Khushani رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai ke Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshad farmaya: “Allah Ta'ala ne kuchh hudood muqarrar ki hain, un se aage na badho. Kuchh faraiz laazim farmaye hain, unhein zaya na karo. Kuchh cheezein haraam ki hain, un ki hurmat na todo. Aur tum par rahmat farmate hue kuchh cheezon se baghair bhool ke khamoshi farmayi hai, to un ke baare mein behas na karo.” (Mustadrak, Kitaab-ul-At'imah, Shaan-e-Nuzool Ma Ahallallahu fahuwa Halaal, 5/157, hadees: 7196)
 
 3. Hazrat Abu Hurairah رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai ke Huzoor-e-Aqdas صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshad farmaya: “Main tumhein jis kaam se rok doon, us se bacho aur jis kaam ka tumhein hukm doon, use apni taaqat ke mutabiq karo. Tum se pehle log zyada sawaalaat karne aur apne Ambiya-e-Kiraam عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام se ikhtilaaf karne ki wajah se halaak ho gaye.” (Muslim, Kitaab-ul-Hajj, Baab Fard-ul-Hajj Marratan fil-Umr, ص 698, hadees: 412 (1337))
 
@@ -595,3 +595,186 @@ Ambiya-e-Kiram عَلَیْہِمُ الصَّلٰوۃُ وَالسَّلَام 
 **Easy Roman Urdu:** **{اِذْ قَالَ اللّٰهُ: Jab Allah farmayega.}** Is aayat mein bhi Qiyamat ke din ka ek maamla bayan kiya gaya hai. Goya farmaya gaya: “Aap us din ko yaad karein jis din Allah Ta'ala Rasoolon ko jama farmayega aur Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se is tarah farmayega.” (Qurtubi, Al-Maidah, tehat-ul-aayat: 110, 3/224, Juz 6)
 
 Yaad rahe ke is aayat-e-mubarakah mein Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par bayan kiye gaye ehsanaat ki tafseeli tafseer Surah Aal-e-Imran ki aayat 37 se 49 ke tehat guzar chuki hai.
+
+## Ayat 5:111
+
+`Source: tafseerId=50833; ayatId=785; surah=5; ayat=111; para=7; volume=3`
+
+**Arabic:** وَ اِذْ اَوْحَیْتُ اِلَى الْحَوَارِیّٖنَ اَنْ اٰمِنُوْا بِیْ وَ بِرَسُوْلِیْۚ-قَالُوْۤا اٰمَنَّا وَ اشْهَدْ بِاَنَّنَا مُسْلِمُوْنَ(111)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur jab main ne Hawariyon ke dil mein yeh baat daali ke mujh par aur mere Rasool par iman lao to unhone kaha: Hum iman laaye aur (Ae Isa!) aap gawah ho jaayen ke hum Musalman hain.
+
+**Easy Roman Urdu:** **{وَ اِذْ اَوْحَیْتُ اِلَى الْحَوَارِیّٖنَ: Aur jab main ne Hawariyon ke dil mein yeh baat daali.}** Hawari Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke khaas aur mukhlis saathiyon ko kaha jaata hai. Allah Ta'ala ne un ke dilon mein apni zaat aur Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام par iman laane ki baat daal di.
+
+**Wahi ka ek ma'na:** Is aayat mein “wahi” ki nisbat Ambiya ke ilawa kisi aur ki taraf hai. Jab wahi ki nisbat Nabi ke ilawa kisi ki taraf ho to is se murad dil mein baat daalna hota hai. Jaise Surah Qasas ki aayat 7 mein hai:
+
+’’ وَاَوْحَیْنَاۤ اِلٰۤی اُمِّ مُوْسٰی ‘‘
+
+Tarjumah-e-Kanz-ul-Irfan: Aur hum ne Musa ki maa ke dil mein baat daal di.
+
+Isi tarah Surah Nahl ki aayat 68 mein hai:
+
+’’ وَ اَوْحٰی رَبُّكَ اِلَی النَّحْلِ ‘‘
+
+Tarjumah-e-Kanz-ul-Irfan: Aur tere Rab ne shehad ki makkhi ke dil mein yeh baat daal di.
+
+## Ayat 5:112
+
+`Source: tafseerId=50834; ayatId=786; surah=5; ayat=112; para=7; volume=3`
+
+**Arabic:** اِذْ قَالَ الْحَوَارِیُّوْنَ یٰعِیْسَى ابْنَ مَرْیَمَ هَلْ یَسْتَطِیْعُ رَبُّكَ اَنْ یُّنَزِّلَ عَلَیْنَا مَآىٕدَةً مِّنَ السَّمَآءِؕ-قَالَ اتَّقُوا اللّٰهَ اِنْ كُنْتُمْ مُّؤْمِنِیْنَ(112)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Yaad karo jab Hawariyon ne kaha: Ae Maryam ke bete Isa! Kya aap ka Rab aisa karega ke hum par aasman se ek dastarkhwan utaar de? Farmaya: Allah se daro agar iman rakhte ho.
+
+**Easy Roman Urdu:** **{اِذْ قَالَ الْحَوَارِیُّوْنَ: Jab Hawariyon ne kaha.}** Hawariyon ne Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se arz ki: Kya aap عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka Rab hum par aasman se ni'maton se bhara hua dastarkhwan utaarega? Un ki murad yeh thi ke kya Allah Ta'ala is maamle mein aap ki dua qabool farmayega? Yeh murad nahin thi ke kya aap ka Rab aisa kar sakta hai ya nahin, kyunke woh Allah Ta'ala ki qudrat par iman rakhte the.
+
+Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne farmaya: Agar iman rakhte ho to Allah Ta'ala se daro aur taqwa ikhtiyar karo, taake tumhara maqsad poora ho jaaye. Baaz mufassireen ne kaha ke is ka ma'na yeh hai: Sab ummaton se alag aur nirala sawal karne mein Allah Ta'ala se daro. Ya is ka ma'na yeh hai ke jab tum Allah Ta'ala ki kamil qudrat par iman rakhte ho to aise sawal na karo jin se shak ya taraddud ka guman ho sakta ho. (Tafseer Qurtubi, Al-Maidah, tehat-ul-aayat: 112, 3/226, Juz 6; Khazin, Al-Maidah, tehat-ul-aayat: 112, 1/539, multaqatan)
+
+## Ayat 5:113
+
+`Source: tafseerId=50835; ayatId=787; surah=5; ayat=113; para=7; volume=3`
+
+**Arabic:** قَالُوْا نُرِیْدُ اَنْ نَّاْكُلَ مِنْهَا وَ تَطْمَىٕنَّ قُلُوْبُنَا وَ نَعْلَمَ اَنْ قَدْ صَدَقْتَنَا وَ نَكُوْنَ عَلَیْهَا مِنَ الشّٰهِدِیْنَٛ    (113)
+
+**Tarjumah-e-Kanz-ul-Irfan:** (Hawariyon ne) kaha: Hum yeh chahte hain ke is mein se khaayen aur hamare dil mutma'in ho jaayen aur hum aankhon se dekh lein ke aap ne hum se sach farmaya hai aur hum is par gawah ho jaayen.
+
+**Easy Roman Urdu:** **{قَالُوْا: Unhone kaha.}** Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne jab unhein Allah se darne aur taqwa ikhtiyar karne ka hukm diya to unhone arz ki: Hum sirf yeh chahte hain ke barkat haasil karne ke liye is aasmani dastarkhwan mein se kuch khaayen, hamare dil aur zyada mutma'in ho jaayen aur jaise hum ne Allah Ta'ala ki qudrat ko daleel se jaana hai, isi tarah mushahide se bhi use mazboot kar lein. Yani ilm-ul-yaqeen se taraqqi karke ain-ul-yaqeen haasil kar lein.
+
+Hawariyon ke is jawab se saaf ho gaya ke unhone Allah Ta'ala ki qudrat mein shak ki wajah se pehle sawal nahin kiya tha, balki un ka maqsad kuch aur tha. Un ki is darkhwast par Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne unhein tees roze rakhne ka hukm diya aur farmaya: Jab tum in rozon se farigh ho jaoge to Allah Ta'ala se jo dua karoge woh qabool hogi. Unhone roze rakh kar aasmani dastarkhwan ke utarne ki dua ki. Us waqt Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne ghusl kiya, mota libaas pehna, do rak'at namaz ada ki, sar-e-mubarak jhukaya aur ro kar woh dua ki jis ka zikr agli aayat mein hai. (Khazin, Al-Maidah, tehat-ul-aayat: 112, 1/539)
+
+## Ayat 5:114
+
+`Source: tafseerId=50836; ayatId=788; surah=5; ayat=114; para=7; volume=3`
+
+**Arabic:** قَالَ عِیْسَى ابْنُ مَرْیَمَ اللّٰهُمَّ رَبَّنَاۤ اَنْزِلْ عَلَیْنَا مَآىٕدَةً مِّنَ السَّمَآءِ تَكُوْنُ لَنَا عِیْدًا لِّاَوَّلِنَا وَ اٰخِرِنَا وَ اٰیَةً مِّنْكَۚ-وَ ارْزُقْنَا وَ اَنْتَ خَیْرُ الرّٰزِقِیْنَ(114)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Isa bin Maryam ne arz ki: Ae Allah! Ae hamare Rab! Hum par aasman se ek dastarkhwan utaar de jo hamare liye aur hamare baad aane walon ke liye Eid aur teri taraf se ek nishani ho jaaye aur hamein rizq ata farma aur Tu sab se behtar rizq dene wala hai.
+
+**Easy Roman Urdu:** **{قَالَ عِیْسَى ابْنُ مَرْیَمَ: Isa bin Maryam ne arz ki.}** Hawariyon ne jab Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke farman par amal kiya to Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne Allah Ta'ala ki bargah mein arz ki: Ae Allah! Ae hamare Rab! Hum par aasman se ek dastarkhwan utaar de jo hamare maujooda logon aur hamare baad aane walon ke liye Allah Ta'ala ki qudrat aur Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki nubuwwat ki daleel ho jaaye. Sab ke liye Eid ho, yani hum us ke utarne ke din ko Eid banaayen, us ki ta'zeem karein, khushiyan manaayen, teri ibadat karein aur tera shukr ada karein.
+
+### Nuzool-e-Rahmat ke din ko Eid banana صالحین ka tareeqa hai
+
+Is aayat se maloom hua ke jis din Allah Ta'ala ki khaas rahmat naazil ho, us din ko Eid banana, khushiyan manana, ibadatein karna aur Allah Ta'ala ka shukr ada karna صالحین ka tareeqa hai. Beshak Tajdaar-e-Risalat صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki tashreef-aawari Allah Ta'ala ki sab se badi ni'mat aur azeem tareen rahmat hai. Is liye Huzoor Pur-Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki wiladat-e-mubarak ke din Eid manana, Milad Shareef parh kar Allah Ta'ala ka shukr ada karna aur khushi ka izhar karna pasandeedah, achha aur Allah Ta'ala ke maqbool bandon ka tareeqa hai.
+
+Hazrat Abdullah bin Abbas رَضِیَ اللہُ تَعَالٰی عَنْہُمَا farmate hain: Jab Sarkar-e-Do Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ Madinah Munawwarah tashreef laaye to dekha ke Yahoodi Ashura ke din roza rakhte hain. Huzoor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne poocha: “Yeh kya hai?” Yahoodiyon ne arz ki: Yeh achha din hai. Is din Allah Ta'ala ne Bani Israeel ko un ke dushman se nijaat di thi, is liye Hazrat Musa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ne is din roza rakha. Huzoor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne farmaya: “Hazrat Musa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se mera ta'alluq tum se zyada hai.” Chunanche Huzoor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne Ashura ka roza rakha aur is din roza rakhne ka hukm diya. (Bukhari, Kitaab-us-Saum, Baab: Siyaam-e-Yaum-e-Ashura, 1/656, hadees: 2004)
+
+Tirmizi Shareef mein hai ke Hazrat Abdullah bin Abbas رَضِیَ اللہُ تَعَالٰی عَنْہُمَا ne ek Yahoodi ki maujoodgi mein yeh aayat parhi:
+
+’’ اَلْیَوْمَ اَكْمَلْتُ لَكُمْ دِیْنَكُمْ وَ اَتْمَمْتُ عَلَیْكُمْ نِعْمَتِیْ وَ رَضِیْتُ لَكُمُ الْاِسْلَامَ دِیْنًا ‘‘
+
+Tarjumah-e-Kanz-ul-Irfan: Aaj main ne tumhara deen kaamil kar diya aur tum par apni ni'mat poori kar di aur tumhare liye Islam ko deen pasand farmaya.
+
+Yeh aayat sun kar Yahoodi ne kaha: Agar yeh aayat hum par naazil hoti to hum is din ko Eid bana lete. Hazrat Abdullah bin Abbas رَضِیَ اللہُ تَعَالٰی عَنْہُمَا ne farmaya: Yeh aayat hamari do Eidon ke din naazil hui, yani Jumu'ah aur Arafah ke din. (Tirmizi, Kitaab-ut-Tafseer, Baab: Wa min Suratil-Maidah, 5/33, hadees: 3055)
+
+Is ki sharh mein mashhoor mufassir, Hakim-ul-Ummat Hazrat Mufti Ahmad Yar Khan رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmate hain: “Is se maloom hua ke jin tareekhon mein Allah Ta'ala ki ni'mat mile, unhein Eid banana shari'at ke mutabiq achha hai.” (Miraat-ul-Manajih, Jumu'ah ka baab, teesri fasl, 2/314, tehat-ul-hadees: 1288)
+
+**Note:** Milad Shareef ke baare mein mazeed maloomat haasil karne ke liye Allamah Ismail Nabahani رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ ki kitaab “Jawahir-ul-Bihar” ki teesri jild ka muta'ala karein.
+
+## Ayat 5:115
+
+`Source: tafseerId=50837; ayatId=789; surah=5; ayat=115; para=7; volume=3`
+
+**Arabic:** قَالَ اللّٰهُ اِنِّیْ مُنَزِّلُهَا عَلَیْكُمْۚ-فَمَنْ یَّكْفُرْ بَعْدُ مِنْكُمْ فَاِنِّیْۤ اُعَذِّبُهٗ عَذَابًا لَّاۤ اُعَذِّبُهٗۤ اَحَدًا مِّنَ الْعٰلَمِیْنَ۠   (115)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Allah ne farmaya: Beshak main woh tum par utaarta hoon, phir is ke baad jo tum mein se kufr karega to beshak main use woh azaab dunga ke saare jahan mein kisi ko na dunga.
+
+**Easy Roman Urdu:** **{قَالَ اللّٰهُ: Allah ne farmaya.}** Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki darkhwast ke baad Allah Ta'ala ne farmaya: Main woh dastarkhwan tum par utaarta hoon. Lekin is ke naazil hone ke baad tum mein se jo kufr karega, main use aisa azaab dunga jo saare jahan mein kisi ko nahin dunga. Chunanche aasman se dastarkhwan naazil hua. Is ke baad un mein se jin logon ne kufr kiya, un ki sooratein masakh karke khinzeer bana di gayin aur woh teen din mein sab halaak ho gaye. (Tafseer Baghawi, Al-Maidah, tehat-ul-aayat: 115, 2/66)
+
+## Ayat 5:116
+
+`Source: tafseerId=50838; ayatId=790; surah=5; ayat=116; para=7; volume=3`
+
+**Arabic:** وَ اِذْ قَالَ اللّٰهُ یٰعِیْسَى ابْنَ مَرْیَمَ ءَاَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُوْنِیْ وَ اُمِّیَ اِلٰهَیْنِ مِنْ دُوْنِ اللّٰهِؕ-قَالَ سُبْحٰنَكَ مَا یَكُوْنُ لِیْۤ اَنْ اَقُوْلَ مَا لَیْسَ لِیْۗ-بِحَقٍّ ﳳ-اِنْ كُنْتُ قُلْتُهٗ فَقَدْ عَلِمْتَهٗؕ-تَعْلَمُ مَا فِیْ نَفْسِیْ وَ لَاۤ اَعْلَمُ مَا فِیْ نَفْسِكَؕ-اِنَّكَ اَنْتَ عَلَّامُ الْغُیُوْبِ(116)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aur jab Allah farmayega: Ae Maryam ke bete Isa! Kya tum ne logon se kaha tha ke Allah ke siwa mujhe aur meri maa ko mabood bana lo? To woh arz karenge: Ae Allah! Tu paak hai. Mere liye hargiz jaa'iz nahin ke main woh baat kahoon jis ka mujhe koi haq nahin. Agar main ne aisi baat kahi hoti to tujhe zaroor maloom hoti. Tu jaanta hai jo mere dil mein hai aur main nahin jaanta jo tere ilm mein hai. Beshak Tu hi sab ghaibon ka khoob jaanne wala hai.
+
+**Easy Roman Urdu:** **{وَ اِذْ قَالَ اللّٰهُ: Aur jab Allah farmayega.}** Yeh Qiyamat ke waqea ka bayan hai. Qiyamat ke din Nasara ki sarzanish ke liye Allah عَزَّوَجَلَّ Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام se farmayega: “Ae Maryam ke bete Isa! Kya tum ne logon se kaha tha ke Allah عَزَّوَجَلَّ ke siwa mujhe aur meri maa ko mabood bana lo?”
+
+Yeh khitab sun kar Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام kaanp uthenge aur arz karenge: “Ae Allah! Tu tamam nuqs o aib se paak hai aur is se bhi paak hai ke koi tera shareek ho sake. Mere liye hargiz jaa'iz nahin ke main woh baat kahoon jis ka mujhe koi haq nahin. Yani jab koi tera shareek ho hi nahin sakta to main logon se yeh kaise keh sakta tha? Agar main ne aisi baat kahi hoti to tujhe zaroor maloom hoti. Tu jaanta hai jo mere dil mein hai aur main nahin jaanta jo tere ilm mein hai. Beshak Tu hi sab ghaibon ka khoob jaanne wala hai.”
+
+Is maqam par ilm ko Allah Ta'ala ki taraf mansoob karna, maamla Allah Ta'ala ke supurd kar dena aur Allah Ta'ala ki azmat ke saamne apni aajizi zahir karna Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ke adab ki shaan hai.
+
+## Ayat 5:117
+
+`Source: tafseerId=50839; ayatId=791; surah=5; ayat=117; para=7; volume=3`
+
+**Arabic:** مَا قُلْتُ لَهُمْ اِلَّا مَاۤ اَمَرْتَنِیْ بِهٖۤ اَنِ اعْبُدُوا اللّٰهَ رَبِّیْ وَ رَبَّكُمْۚ-وَ كُنْتُ عَلَیْهِمْ شَهِیْدًا مَّا دُمْتُ فِیْهِمْۚ-فَلَمَّا تَوَفَّیْتَنِیْ كُنْتَ اَنْتَ الرَّقِیْبَ عَلَیْهِمْؕ-وَ اَنْتَ عَلٰى كُلِّ شَیْءٍ شَهِیْدٌ(117)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Main ne to un se wahi kaha tha jis ka Tu ne mujhe hukm diya tha ke Allah ki ibadat karo jo mera bhi Rab hai aur tumhara bhi Rab hai aur main un par muttali raha jab tak un mein raha, phir jab Tu ne mujhe utha liya to Tu hi un par nigaah rakhta tha aur Tu har cheez par gawah hai.
+
+**Easy Roman Urdu:** **{مَا قُلْتُ لَهُمْ اِلَّا مَاۤ اَمَرْتَنِیْ بِهٖ: Main ne un se wahi kaha jis ka Tu ne mujhe hukm diya tha.}** Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام pehle arz karenge: “Ya Allah عَزَّوَجَلَّ! Tu sab kuch jaanta hai.” Phir arz karenge: “Main ne un se wahi kaha jis ka Tu ne mujhe hukm diya tha ke Allah Ta'ala ki ibadat karo jo mera bhi Rab hai aur tumhara bhi Rab hai. Aur jab tak main un mein raha, main un par gawah aur muttali raha. Phir jab Tu ne mujhe utha liya to Tu hi un par nigaah rakhne wala tha aur Tu har cheez par gawah hai.”
+
+### Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki wafaat ke baare mein Qadiyani nazariye ka radd
+
+Qadiyani is aayat mein aaye hue lafz “تَوَفَّیْتَنِیْ” se Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ki wafaat par daleel laate hain. Un ka yeh istidlaal bilkul ghalat hai. Pehli baat yeh hai ke “تَوَفّٰى” ka lafz sirf maut ke liye khaas nahin, balki kisi cheez ko poori tarah le lene ke ma'na mein bhi aata hai, chahe woh maut ke baghair ho. Jaisa ke Quran-e-Kareem mein irshad hai:
+
+“اَللّٰهُ یَتَوَفَّى الْاَنْفُسَ حِیْنَ مَوْتِهَا وَ الَّتِیْ لَمْ تَمُتْ فِیْ مَنَامِهَا” (Az-Zumar: 42)
+
+Tarjumah-e-Kanz-ul-Irfan: Allah jaanon ko wafaat deta hai un ki maut ke waqt aur jo na marein unhein un ki neend mein.
+
+Doosri baat yeh hai ke yeh sawal aur jawab Qiyamat ke din ka hai. Agar “تَوَفّٰى” ko maut ke ma'na mein bhi maan liya jaaye, tab bhi is se yeh sabit nahin hota ke Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام aasman se zameen par tashreef laane se pehle wafaat paa gaye. Is mas'ale ki mazeed maloomat ke liye Fatawa Razawiyyah ki pandrahween jild mein Ala Hazrat Imam Ahmad Raza Khan رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ ki kitaab “اَلجُرَازُ الدَّیَّانِیْ عَلَی الْمُرْتَدِّالْقَادِیَانِیْ” (Murtad Qadiyani ke radd par risalah) ka muta'ala karein.
+
+## Ayat 5:118
+
+`Source: tafseerId=50840; ayatId=792; surah=5; ayat=118; para=7; volume=3`
+
+**Arabic:** اِنْ تُعَذِّبْهُمْ فَاِنَّهُمْ عِبَادُكَۚ-وَ اِنْ تَغْفِرْ لَهُمْ فَاِنَّكَ اَنْتَ الْعَزِیْزُ الْحَكِیْمُ(118)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Agar Tu unhein azaab de to woh tere bande hain aur agar Tu unhein bakhsh de to beshak Tu hi ghalib, hikmat wala hai.
+
+**Easy Roman Urdu:** **{اِنْ تُعَذِّبْهُمْ: Agar Tu unhein azaab de.}** Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ko maloom hoga ke un ki qaum mein kuch log kufr par jamay rahe aur kuch log iman se musharraf hue. Is liye woh bargah-e-Ilahi mein arz karenge: “Un mein se jo log kufr par qaa'im rahe, agar Tu unhein azaab de to yeh bilkul haq aur adl o insaaf hai, kyunke unhone hujjat poori ho jaane ke baad kufr ikhtiyar kiya. Aur jo iman laaye, agar Tu unhein bakhsh de to yeh tera fazl o karam hai aur tera har kaam hikmat par mabni hai.”
+
+### Ummat-e-Marhoom ke haq mein dua
+
+Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne bhi is aayat ko parh kar Allah عَزَّوَجَلَّ ki bargah mein apni ummat ke liye dua ki. Hazrat Abdullah bin Amr bin al-Aas رَضِیَ اللہُ تَعَالٰی عَنْہُمَا farmate hain: “Sarkar-e-Do Aalam صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne Quran-e-Pak mein Hazrat Ibrahim عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka yeh qawl parha: ‘رَبِّ اِنَّهُنَّ اَضْلَلْنَ كَثِیْرًا مِّنَ النَّاسِۚ-فَمَنْ تَبِعَنِیْ فَاِنَّهٗ مِنِّیْ۔۔۔الآیہ’ Ae mere Rab! In buton ne bahut se logon ko gumrah kar diya hai. Jo meri pairwi karega woh mere raaste par hai.”
+
+Phir Huzoor Pur-Noor صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام ka yeh qawl parha: “اِنْ تُعَذِّبْهُمْ فَاِنَّهُمْ عِبَادُكَۚ-وَ اِنْ تَغْفِرْ لَهُمْ فَاِنَّكَ اَنْتَ الْعَزِیْزُ الْحَكِیْمُ” Ae Allah! Agar Tu unhein azaab de to yeh tere bande hain aur agar Tu unhein bakhsh de to Tu ghalib, hikmat wala hai.
+
+Phir Nabi-e-Rahmat صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne dua ke liye apne dono haath utha diye aur rote hue arz karne lage: “Ae Allah عَزَّوَجَلَّ! Meri ummat, meri ummat.” Allah Ta'ala ne farmaya: “Ae Jibraeel! Muhammad ke paas jao aur un se poochho, halanke Allah Ta'ala khoob jaanta hai, ke un par itna rona kyun taari hai.” Hazrat Jibraeel عَلَیْہِ السَّلَام Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki khidmat mein haazir hue aur pooch kar Allah Ta'ala ki bargah mein jawab arz kar diya. Allah Ta'ala ne Hazrat Jibraeel عَلَیْہِ السَّلَام se farmaya: “Ae Jibraeel! Muhammad ke paas jao aur un se keh do ke tumhari ummat ki maghfirat ke maamle mein hum tumhein raazi kar denge aur tumhein ranjida nahin karenge.” (Muslim, Kitaab-ul-Iman, Baab: Dua-un-Nabi ﷺ li-ummatihi, safha 130, hadees: 346 (202))
+
+### Is hadees se maloom hone wali baatein
+
+(1) Rasool-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ apni ummat par intehaai shafeeq aur mehrbaan the. Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ummat ki bhalai aur behtari ke liye koshish farmate the aur aap ne apni ummat ke liye kisi shart ya qaid ke baghair maghfirat ki dua maangi.
+
+(2) Ummat-e-Marhoom ke liye yeh azeem basharat hai ke Allah Ta'ala is ummat ki maghfirat ke maamle mein apne Habeeb صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ko raazi farmayega.
+
+(3) Allah Ta'ala ki bargah mein us ke Habeeb صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ka maqam bahut buland hai. Sab kuch jaanne ke bawajood Allah Ta'ala ne Hazrat Jibraeel عَلَیْہِ السَّلَام ko Aap صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ki bargah mein bheja aur is se Aap ki azmat aur sharaf zahir farmaya.
+
+(4) Nabi-e-Kareem صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ Allah Ta'ala ki bargah mein maqbooliyat ke itne buland maqam par hain ke Allah Ta'ala Aap ki azmat ko zahir farmata aur Aap ko raazi karta hai. (Mirqat-ul-Mafateeh, Kitaab-ul-Fitan, Baab-ul-Haud wash-Shafa'ah, al-fasl-ul-awwal, 9/530, tehat-ul-hadees: 5577, mulakhkhasan)
+
+Ala Hazrat Imam Ahmad Raza Khan رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ Allah Ta'ala ki bargah mein arz karte hain aur hum bhi unhi ke alfaaz mein arz karte hain:
+
+Hum hain un ke woh hain tere to hue hum tere
+Is se badh kar teri samt aur waseela kya hai
+Un ki ummat mein banaya unhein rahmat bheja
+Yun na farma ke tera rahm mein da'wa kya hai
+Sadaqa pyare ki haya ka ke na le mujh se hisaab
+Bakhsh be-puchhe lajaye ko lajana kya hai
+
+## Ayat 5:119
+
+`Source: tafseerId=50841; ayatId=793; surah=5; ayat=119; para=7; volume=3`
+
+**Arabic:** قَالَ اللّٰهُ هٰذَا یَوْمُ یَنْفَعُ الصّٰدِقِیْنَ صِدْقُهُمْؕ-لَهُمْ جَنّٰتٌ تَجْرِیْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِیْنَ فِیْهَاۤ اَبَدًاؕ-رَضِیَ اللّٰهُ عَنْهُمْ وَ رَضُوْا عَنْهُؕ-ذٰلِكَ الْفَوْزُ الْعَظِیْمُ(119)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Allah ne farmaya: Yeh Qiyamat ka woh din hai jis mein sachon ko un ka sach nafa dega. Un ke liye baagh hain jin ke neeche nehrein jaari hain. Woh hamesha hamesha un mein rahenge. Allah un se raazi hua aur woh Allah se raazi hue. Yahi badi kaamyaabi hai.
+
+**Easy Roman Urdu:** **{هٰذَا یَوْمُ یَنْفَعُ الصّٰدِقِیْنَ صِدْقُهُمْ: Yeh Qiyamat ka woh din hai jis mein sachon ko un ka sach nafa dega.}** Is ka ma'na yeh hai ke jin logon ne duniya mein sach bola, Qiyamat ke din un ka sach un ke kaam aayega aur unhein nafa dega. Amal ki jagah duniya hai, Aakhirat nahin, kyunke Aakhirat to badla milne ka din hai.
+
+### Sachai ki barkat
+
+Allamah Ismaeel Haqqi رَحْمَۃُاللہِ تَعَالٰی عَلَیْہِ farmate hain: “Is aayat se maloom hua ke Qiyamat ke din sach nafa dega, is liye jhoot aur riyaakaari kisi surat mein nafa nahin denge. Aqalmand insan ko chahiye ke sachai ke raaste par chalne ki khoob koshish kare, kyunke iman ke baad sachai ikhtiyar karna bande ko nek aamaal ki taraf raghib karta hai.” (Rooh-ul-Bayan, Al-Maidah, tehat-ul-aayat: 119, 2/467-468)
+
+Hazrat Abdullah bin Masood رَضِیَ اللہُ تَعَالٰی عَنْہُ se riwayat hai, Rasool Allah صَلَّی اللہُ تَعَالٰی عَلَیْہِ وَاٰلِہٖ وَسَلَّمَ ne irshad farmaya: “Sachai ko lazim kar lo, kyunke sachai neki ki taraf le jaati hai aur neki Jannat ka raasta dikhati hai. Aadmi lagataar sach bolta rehta hai aur sach bolne ki koshish karta rehta hai, yahan tak ke Allah Ta'ala ke nazdeek Siddiq likh diya jaata hai. Aur jhoot se bacho, kyunke jhoot fujur ki taraf le jaata hai aur fujur Jahannam ka raasta dikhata hai. Aadmi lagataar jhoot bolta rehta hai aur jhoot bolne ki koshish karta rehta hai, yahan tak ke Allah Ta'ala ke nazdeek kazzab likh diya jaata hai.” (Muslim, Kitaab-ul-Birr was-Silah wal-Aadaab, Baab: Qubh-ul-Kizb wa Husn-us-Sidq wa Fazluhu, safha 1405, hadees: 105 (2607))
+
+Allah Ta'ala hamein sach bolne, sachai ka raasta ikhtiyar karne aur jhoot se bachte rehne ki taufeeq ata farmaye, Aameen.
+
+## Ayat 5:120
+
+`Source: tafseerId=50842; ayatId=794; surah=5; ayat=120; para=7; volume=3`
+
+**Arabic:** لِلّٰهِ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا فِیْهِنَّؕ-وَ هُوَ عَلٰى كُلِّ شَیْءٍ قَدِیْرٌ۠   (120)
+
+**Tarjumah-e-Kanz-ul-Irfan:** Aasmanon aur zameen aur jo kuch un mein hai sab ki saltanat Allah hi ke liye hai aur woh har cheez par Qadir hai.
+
+**Easy Roman Urdu:** **{لِلّٰهِ: Allah hi ke liye hai.}** Is aayat mein un Nasara ka radd bhi hai jo Hazrat Isa عَلَیْہِ الصَّلٰوۃُ وَالسَّلَام aur Hazrat Maryam رَضِیَ اللہُ تَعَالٰی عَنْہَا ko khuda kehte the. Jab aasmanon, zameen aur jo kuch un mein hai sab ka Malik Allah Ta'ala hai, aur yeh dono buzurg bhi Allah Ta'ala ki milkiyat mein aur us ke bande hain, to yeh khuda kaise ho sakte hain? Jo kisi ki milkiyat mein ho aur us ka banda ho, woh hargiz khuda nahin ho sakta.

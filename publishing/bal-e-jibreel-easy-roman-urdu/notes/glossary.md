@@ -1,0 +1,52 @@
+# Glossary
+
+Yeh ibtidaai glossary pehle paanch kalam ki tashreeh mein istemal hone wale alfaaz ke liye hai.
+
+- `Nawa-e-shauq`: shauq aur andarooni talab ki aawaz.
+- `Hareem-e-zaat`: zaat-e-ilahi ka muqaddas aur posheeda maqam.
+- `Ghalghala`: buland shor ya har taraf phailne wali aawaz.
+- `But-kada-e-sifaat`: makhlooq ki zahiri sifat mein ulajhne ka isti'ara; `but-kada` buton ka ghar hota hai.
+- `Tajalliyat`: Allah Ta'ala ki jalwe-numa zahoorat.
+- `Dair-o-haram`: mukhtalif mazhabi markazon ka ishara; shaair ki justuju ki wus'at.
+- `Rustkhaiz`: qayamat jaisa zor-dar inqilab ya hungaama.
+- `Takhaiyulat`: khayalat aur tasavvur.
+- `La-makan`: woh maqam jo makan aur jagah ki hud se pare ho.
+- `Subah-e-azal`: ibtida se pehle ka azal ka waqt.
+- `Raazdan`: raaz jaanne wala.
+- `Harf-e-shireen`: meetha, dil-nasheen lafz.
+- `Tarjuman`: paigham ko samjhane ya bayan karne wala.
+- `Koukab`: sitara.
+- `Zawal`: girawat ya khatme ki taraf jana.
+- `Adam-e-khaki`: mitti se bana hua insaan.
+- `May`: sharab ka isti'ara; yahan roohani kaifiyat ya ilahi faiz ka ishara ho sakta hai.
+- `Saqi`: pilane wala; shaairi mein faiz dene wale mukhatab ka isti'ara.
+- `Razzaqi`: rizq dene ka amal.
+- `Bakheeli`: kanjoosi.
+- `Gaisu-e-tabdar`: chamakdar aur roshan zulfein.
+- `Qalb-o-nazar`: dil aur dekhne wali basirat.
+- `Hijab`: parda ya posheedgi.
+- `Muheet-e-bekaran`: be-had aur har taraf phaila hua.
+- `Aabjoo`: chhoti si nehar ya pani ki dhaar.
+- `Hamkinar`: kinare tak pahuncha dena.
+- `Sadaf`: seep jis mein moti banta hai.
+- `Guhar`: moti.
+- `Khazaf`: mamooli mitti ka tukra ya thikri.
+- `Gohar-e-shahwar`: qeemti aur buland martabe ka moti.
+- `Dam-e-neem-souz`: aadha jalta hua, kamzor sa saans ya naghma.
+- `Taeerak-e-bahar`: bahar ka chhota parinda.
+- `Daftar-e-amal`: aamaal ka record.
+- `Faryad`: dard bhari pukar.
+- `Banda-e-azad`: aisa banda jo ghair-Allah ki ghulami se azaad ho.
+- `Musht-e-khaak`: mitti ki ek muthi.
+- `Sar-sar`: tez aur sarsarahati hawa.
+- `Wus'at-e-aflak`: aasman ki wasi duniya.
+- `Lazzat-e-ijad`: paida karne ki khushi ya dilchasp anand.
+- `Khaima-e-gul`: phool ka naazuk aur aarzi thikana.
+- `Baad-e-murad`: tamanna ke mutabiq chalne wali hawa.
+- `Ghareeb-ud-diyar`: apne watan se door shakhs.
+- `Kharaba`: ujra hua maqam ya bigri hui duniya.
+- `Jafa-talabi`: mushkil aur sakht tajurbe ki talab.
+- `Dasht-e-sada`: seedha, saada aur be-aasra sehra.
+- `Khatar-pasand`: khatre ko pasand karne wali.
+- `Sayyad`: shikari.
+- `Qudsiyan`: muqaddas farishte.

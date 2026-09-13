@@ -375,6 +375,12 @@ standalone `tafseerId=null` entry with exact Arabic and its `trans_type=2` trans
 file `01-surah-al-maidah-easy-roman-01.md` contains 551 lines. Exact Arabic, translations,
 complete tafseer, citations, honorifics, and source order were preserved.
 
+The next twenty-ayat session covered Al-Ma'idah Ayat 5:101–5:120 in four verified five-ayat
+batches. All twenty ayat had complete Sirat-ul-Jinan tafseer rows. Ayat 5:101–5:105 and
+5:106–5:120 were appended to `03-surah-al-maidah-easy-roman-03.md`, which now contains 780
+lines. Exact Arabic, translations, complete tafseer, citations, honorifics, and source order
+were preserved.
+
 The next twenty-ayat session covered Al-Ma'idah Ayat 5:81–5:100 in four verified five-ayat
 batches. Missing tafseer entries were added as translation-only records for Ayat 5:85, 5:86,
 and 5:88, each with `tafseerId=null`, exact Arabic, and its `trans_type=2` translation.
@@ -409,3 +415,46 @@ Arabic and their `trans_type=2` translations. Ayat 5:87, 5:89, and 5:90 use the 
 source adaptations from the extracted batch. All five entries were added at complete boundaries
 to `03-surah-al-maidah-easy-roman-03.md`, which contains 213 lines. Exact Arabic, translations,
 complete tafseer content, citations, honorifics, and source order were preserved.
+
+The next twenty-ayat session covered Al-An'am Ayat 6:21–6:40 in four verified five-ayat
+batches. Ayat 6:23, 6:24, and 6:30 had no tafseer rows and were added as standalone
+`tafseerId=null` entries with exact Arabic and their `trans_type=2` translations. Ayat 6:21–6:40
+were appended to `01-surah-al-anam-easy-roman-01.md`, which now contains 649 lines. Exact
+Arabic, translations, complete tafseer, citations, honorifics, and source order were preserved.
+
+The next twenty-ayat session covered Al-An'am Ayat 6:1–6:20 in four verified five-ayat
+batches. Ayat 6:15, 6:16, and 6:18 had no tafseer rows and were added as standalone
+`tafseerId=null` entries with exact Arabic and their `trans_type=2` translations. Ayat 6:1–6:20
+were added to `01-surah-al-anam-easy-roman-01.md`, which contains 341 lines. Exact Arabic,
+translations, complete tafseer, citations, honorifics, and source order were preserved.
+
+The next five-ayat batch covered Al-An'am Ayat 6:41–6:45. Ayat 6:41 (`ayatId=836`) and
+6:44 (`ayatId=839`) had no Sirat-ul-Jinan tafseer rows and were added as standalone
+`tafseerId=null` entries with exact Arabic and their `trans_type=2` translations. Ayat 6:42,
+6:43, and 6:45 use the complete source adaptations from `tafseerId=50877`, `50878`, and
+`50879`. All five entries were appended to `01-surah-al-anam-easy-roman-01.md`, which now
+contains 741 lines. Exact Arabic, translations, complete explanations, citations, honorifics,
+and source order were preserved; the active file remains below the 1,000-line limit.
+
+The next five-ayat batch covered Al-An'am Ayat 6:46–6:50. Ayat 6:49 (`ayatId=844`) had no
+Sirat-ul-Jinan tafseer row and was added as a standalone `tafseerId=null` entry with exact
+Arabic and its `trans_type=2` translation. Ayat 6:46, 6:47, 6:48, and 6:50 use the complete
+source adaptations from `tafseerId=50880`, `50881`, `50882`, and `50883`. All five entries
+were appended to `01-surah-al-anam-easy-roman-01.md`, which now contains 831 lines. Exact
+Arabic, translations, complete explanations, citations, honorifics, and source order were
+preserved; the active file remains below the 1,000-line limit.
+
+The next twenty-ayat session covered Al-An'am Ayat 6:61–6:80 in four verified five-ayat
+batches. Ayat 6:64, 6:72, 6:73, 6:77, and 6:78 had no Sirat-ul-Jinan tafseer rows and were
+added as standalone `tafseerId=null` entries with exact Arabic and their `trans_type=2`
+translations. Ayat 6:61–6:80 were appended to `02-surah-al-anam-easy-roman-02.md`, which now
+contains 500 lines. Exact Arabic, translations, complete explanations, citations, honorifics,
+and source order were preserved.
+
+The next twenty-ayat session covered Al-An'am Ayat 6:41–6:60 in four verified five-ayat
+batches. Ayat 6:41, 6:44, 6:49, and 6:58 had no Sirat-ul-Jinan tafseer rows and were added
+as standalone `tafseerId=null` entries with exact Arabic and their `trans_type=2` translations.
+Ayat 6:41–6:51 were completed in `01-surah-al-anam-easy-roman-01.md`, which reached 855 lines;
+the next complete boundary began `02-surah-al-anam-easy-roman-02.md`, which now contains Ayat
+6:52–6:60 in 149 lines. Exact Arabic, translations, complete explanations, citations,
+honorifics, and source order were preserved.

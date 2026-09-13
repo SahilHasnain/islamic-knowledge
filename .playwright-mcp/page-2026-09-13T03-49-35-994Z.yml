@@ -1,0 +1,337 @@
+- generic [active] [ref=f79e1]:
+  - link "Skip to content" [ref=f79e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f79e3]:
+    - banner [ref=f79e4]:
+      - generic [ref=f79e9]:
+        - link [ref=f79e14] [cursor=pointer]:
+          - /url: https://allamaiqbal.org/
+          - img "allamaiqbal" [ref=f79e15]
+        - navigation "Primary Site Navigation" [ref=f79e21]:
+          - list [ref=f79e23]:
+            - listitem [ref=f79e24]:
+              - link "Home" [ref=f79e25] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/
+            - listitem [ref=f79e26]:
+              - link "Bang-e-Dra" [ref=f79e27] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bang-e-dra/
+            - listitem [ref=f79e28]:
+              - link "Bal-e-Jibril" [ref=f79e29] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bal-e-jibril/
+            - listitem [ref=f79e30]:
+              - link "Zarb-e-Kaleem" [ref=f79e31] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/
+            - listitem [ref=f79e32]:
+              - link "Armaghan-e-Hijaz" [ref=f79e33] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/armaghan-e-hijaz/
+        - generic [ref=f79e34]:
+          - button "Search button" [ref=f79e39] [cursor=pointer]:
+            - generic [ref=f79e40]: Search
+          - generic [ref=f79e46]:
+            - link "Urdu Keyboard" [ref=f79e47] [cursor=pointer]:
+              - /url: https://type-in-urdu.com/
+            - link "YouTube" [ref=f79e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@EagleClawPK
+    - main [ref=f79e58]:
+      - article [ref=f79e59]:
+        - generic [ref=f79e60]:
+          - generic [ref=f79e62]:
+            - heading [level=2] [ref=f79e64]:
+              - strong [ref=f79e65]:
+                - strong [ref=f79e66]: Zarb-e-Kaleem
+            - separator [ref=f79e67]
+            - heading [level=2] [ref=f79e69]:
+              - strong [ref=f79e70]:
+                - strong [ref=f79e71]:
+                  - strong [ref=f79e72]: ضرب کلیم
+          - separator [ref=f79e73]
+          - paragraph [ref=f79e74]: Urdu Tashreeh(Explanation), English Translation, Roman Urduرومن اردو ، انگلش ترجمہ، اردو تشریح
+          - separator [ref=f79e75]
+          - generic [ref=f79e77]:
+            - insertion [ref=f79e78]:
+              - iframe [ref=f79e80]:
+                - generic [ref=f82e1]:
+                  - generic [ref=f82e6]:
+                    - generic [ref=f82e7]:
+                      - generic "Gemini Notebook" [ref=f82e9]:
+                        - link "Free for students" [ref=f82e10] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CER67TB2mao7kIoqTpt8P0LWUmQvGuc7LiQGpte23rxbExZ3jxg8QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgTwAU_Q47WLv81dZwFOB78iY4-6tbKt3qXH-Vef4hPNv0E3b1yW9lEU0hpWU9zJix5ggdPppu6_XyO6LSILTW_wEJKizgbllOTg1sAKWwcj4l6cydi--qDFlk_rifLGwNTyTMN_rYwLwZIt_s5ffMrC90Pps-7fyvokK2DSCt4eskiR2GCSrqF0mk3Bsn8WyZnBCYSc_cjcqb9yFAoE78yMrHQ6SwZeb4sFdFTbd9WEWsoLYGoHE_CQglmSkd5589hYxy07If1C2WUdh5ZXRQHf0bP3NM5N_5Muffqs2jNwt3nz6_7hoYo5xX_kEKvzrimEuMAEt4Po3egFiAXo787FWYAHx82RnxmoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WKy-xKTT6pYDYAGxCXm51WZOnLf6gAoBmAsByAsBogxTYhcKFWNvbS5nb29nbGUuTm90ZWJvb2tMTWowCi5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5sYWJzLmxhbmd1YWdlLnRhaWx3aW5keAGIAQGQAQGqDQJJTsgNAeoNEwjAv8ak0-qWAxWKiekFHdAaJbPwDQKIDgmwDqDFq48Z2BMM0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKNTE0NjYxMjk4NVAGuhcCOAGqGBcJAAAAAPCvAEESCjUxNDY2MTI5ODUYAbIYCRICm18YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE&num=1&cid=CAQS9QEAQM4h3HsF_dxydktwIIrfeB267QYVtFyeoj4QxvRZXpxDHUw3NxsZ-T9MUDqVJHh0XOXr1qyyaSDMq6RonXXxrUh5QmmSvzyBgCCVgSa1kZFguDmUJiKFhyuLKTLE8HD679_wec5Tn5GdfhEnhenwM-upzC2piR3lmSOLNN29Zm31JHzojdM3GJur9CQz8q7X_FYDrPIkMGqlfje8eoatwl65UhWbw2UqvFW--G7z6PMiWAbQNtxgDbI1BCGDF6pMz11aJSNf5JXXvrHug2Kebu8mJqdCrVB6XB5Sbc9N76SEL-lq96jm0lwtDGFo2guDjlZ69BgB&sig=AOD64_0WF3hHcIiUixLoHOoEcmHt0e0qsw&client=ca-pub-7480625869080470&rf=1&nb=0&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE
+                      - generic [ref=f82e11]:
+                        - link "We built the AI, they got the A." [ref=f82e13] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CER67TB2mao7kIoqTpt8P0LWUmQvGuc7LiQGpte23rxbExZ3jxg8QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgTwAU_Q47WLv81dZwFOB78iY4-6tbKt3qXH-Vef4hPNv0E3b1yW9lEU0hpWU9zJix5ggdPppu6_XyO6LSILTW_wEJKizgbllOTg1sAKWwcj4l6cydi--qDFlk_rifLGwNTyTMN_rYwLwZIt_s5ffMrC90Pps-7fyvokK2DSCt4eskiR2GCSrqF0mk3Bsn8WyZnBCYSc_cjcqb9yFAoE78yMrHQ6SwZeb4sFdFTbd9WEWsoLYGoHE_CQglmSkd5589hYxy07If1C2WUdh5ZXRQHf0bP3NM5N_5Muffqs2jNwt3nz6_7hoYo5xX_kEKvzrimEuMAEt4Po3egFiAXo787FWYAHx82RnxmoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WKy-xKTT6pYDYAGxCXm51WZOnLf6gAoBmAsByAsBogxTYhcKFWNvbS5nb29nbGUuTm90ZWJvb2tMTWowCi5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5sYWJzLmxhbmd1YWdlLnRhaWx3aW5keAGIAQGQAQGqDQJJTsgNAeoNEwjAv8ak0-qWAxWKiekFHdAaJbPwDQKIDgmwDqDFq48Z2BMM0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKNTE0NjYxMjk4NVAGuhcCOAGqGBcJAAAAAPCvAEESCjUxNDY2MTI5ODUYAbIYCRICm18YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE&num=1&cid=CAQS9QEAQM4h3HsF_dxydktwIIrfeB267QYVtFyeoj4QxvRZXpxDHUw3NxsZ-T9MUDqVJHh0XOXr1qyyaSDMq6RonXXxrUh5QmmSvzyBgCCVgSa1kZFguDmUJiKFhyuLKTLE8HD679_wec5Tn5GdfhEnhenwM-upzC2piR3lmSOLNN29Zm31JHzojdM3GJur9CQz8q7X_FYDrPIkMGqlfje8eoatwl65UhWbw2UqvFW--G7z6PMiWAbQNtxgDbI1BCGDF6pMz11aJSNf5JXXvrHug2Kebu8mJqdCrVB6XB5Sbc9N76SEL-lq96jm0lwtDGFo2guDjlZ69BgB&sig=AOD64_0WF3hHcIiUixLoHOoEcmHt0e0qsw&client=ca-pub-7480625869080470&rf=1&nb=7&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE
+                        - link [ref=f82e14] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CER67TB2mao7kIoqTpt8P0LWUmQvGuc7LiQGpte23rxbExZ3jxg8QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgTwAU_Q47WLv81dZwFOB78iY4-6tbKt3qXH-Vef4hPNv0E3b1yW9lEU0hpWU9zJix5ggdPppu6_XyO6LSILTW_wEJKizgbllOTg1sAKWwcj4l6cydi--qDFlk_rifLGwNTyTMN_rYwLwZIt_s5ffMrC90Pps-7fyvokK2DSCt4eskiR2GCSrqF0mk3Bsn8WyZnBCYSc_cjcqb9yFAoE78yMrHQ6SwZeb4sFdFTbd9WEWsoLYGoHE_CQglmSkd5589hYxy07If1C2WUdh5ZXRQHf0bP3NM5N_5Muffqs2jNwt3nz6_7hoYo5xX_kEKvzrimEuMAEt4Po3egFiAXo787FWYAHx82RnxmoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WKy-xKTT6pYDYAGxCXm51WZOnLf6gAoBmAsByAsBogxTYhcKFWNvbS5nb29nbGUuTm90ZWJvb2tMTWowCi5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5sYWJzLmxhbmd1YWdlLnRhaWx3aW5keAGIAQGQAQGqDQJJTsgNAeoNEwjAv8ak0-qWAxWKiekFHdAaJbPwDQKIDgmwDqDFq48Z2BMM0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKNTE0NjYxMjk4NVAGuhcCOAGqGBcJAAAAAPCvAEESCjUxNDY2MTI5ODUYAbIYCRICm18YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE&num=1&cid=CAQS9QEAQM4h3HsF_dxydktwIIrfeB267QYVtFyeoj4QxvRZXpxDHUw3NxsZ-T9MUDqVJHh0XOXr1qyyaSDMq6RonXXxrUh5QmmSvzyBgCCVgSa1kZFguDmUJiKFhyuLKTLE8HD679_wec5Tn5GdfhEnhenwM-upzC2piR3lmSOLNN29Zm31JHzojdM3GJur9CQz8q7X_FYDrPIkMGqlfje8eoatwl65UhWbw2UqvFW--G7z6PMiWAbQNtxgDbI1BCGDF6pMz11aJSNf5JXXvrHug2Kebu8mJqdCrVB6XB5Sbc9N76SEL-lq96jm0lwtDGFo2guDjlZ69BgB&sig=AOD64_0WF3hHcIiUixLoHOoEcmHt0e0qsw&client=ca-pub-7480625869080470&rf=1&nb=8&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE
+                    - generic "Gemini Notebook" [ref=f82e17]:
+                      - link "Gemini Notebook" [ref=f82e18] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CER67TB2mao7kIoqTpt8P0LWUmQvGuc7LiQGpte23rxbExZ3jxg8QASCXuM9AYOWi5IPkKaABx5XBvz7IAQGoAwHIA8sEqgTwAU_Q47WLv81dZwFOB78iY4-6tbKt3qXH-Vef4hPNv0E3b1yW9lEU0hpWU9zJix5ggdPppu6_XyO6LSILTW_wEJKizgbllOTg1sAKWwcj4l6cydi--qDFlk_rifLGwNTyTMN_rYwLwZIt_s5ffMrC90Pps-7fyvokK2DSCt4eskiR2GCSrqF0mk3Bsn8WyZnBCYSc_cjcqb9yFAoE78yMrHQ6SwZeb4sFdFTbd9WEWsoLYGoHE_CQglmSkd5589hYxy07If1C2WUdh5ZXRQHf0bP3NM5N_5Muffqs2jNwt3nz6_7hoYo5xX_kEKvzrimEuMAEt4Po3egFiAXo787FWYAHx82RnxmoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WKy-xKTT6pYDYAGxCXm51WZOnLf6gAoBmAsByAsBogxTYhcKFWNvbS5nb29nbGUuTm90ZWJvb2tMTWowCi5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5sYWJzLmxhbmd1YWdlLnRhaWx3aW5keAGIAQGQAQGqDQJJTsgNAeoNEwjAv8ak0-qWAxWKiekFHdAaJbPwDQKIDgmwDqDFq48Z2BMM0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKNTE0NjYxMjk4NVAGuhcCOAGqGBcJAAAAAPCvAEESCjUxNDY2MTI5ODUYAbIYCRICm18YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE&num=1&cid=CAQS9QEAQM4h3HsF_dxydktwIIrfeB267QYVtFyeoj4QxvRZXpxDHUw3NxsZ-T9MUDqVJHh0XOXr1qyyaSDMq6RonXXxrUh5QmmSvzyBgCCVgSa1kZFguDmUJiKFhyuLKTLE8HD679_wec5Tn5GdfhEnhenwM-upzC2piR3lmSOLNN29Zm31JHzojdM3GJur9CQz8q7X_FYDrPIkMGqlfje8eoatwl65UhWbw2UqvFW--G7z6PMiWAbQNtxgDbI1BCGDF6pMz11aJSNf5JXXvrHug2Kebu8mJqdCrVB6XB5Sbc9N76SEL-lq96jm0lwtDGFo2guDjlZ69BgB&sig=AOD64_0WF3hHcIiUixLoHOoEcmHt0e0qsw&client=ca-pub-7480625869080470&rf=1&nb=1&adurl=https://notebook.google/%3Fgad_source%3D5%26gad_campaignid%3D24036751336%26gclid%3DEAIaIQobChMIjrrGpNPqlgMVionpBR3QGiWzEAEYASAAEgKOYfD_BwE
+                  - generic [ref=f82e19] [cursor=pointer]
+                  - button [ref=f82e24] [cursor=pointer]
+                  - iframe
+            - separator [ref=f79e81]
+          - list [ref=f79e85]:
+            - listitem [ref=f79e86]: (اعلیحضرت نواب سر حمید اللہ خان فرمان رواے بھوپال کی خدمت میں) Aala’Hazrat Nawab Sir Hameed Ullah Khan Farmanrawaye Bhopal Ki Khidmat Mein
+            - listitem [ref=f79e87]:
+              - link "(ناظرین سے) Nazreen Se" [ref=f79e88] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/nazreen-se-2/
+            - listitem [ref=f79e89]:
+              - link "(تمہید) Tamheed" [ref=f79e90] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/tamheed/
+            - listitem [ref=f79e91]:
+              - link "(اسلام اور مسلمان – صبح) (Islam Aur Musalman – Subah)" [ref=f79e92] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/islam-aur-musalman-subah/
+            - listitem [ref=f79e93]:
+              - link "(لا الہٰ الا للہ) LA ILAHA ILLALLAH" [ref=f79e94] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/la-ilaha-illallah/
+            - listitem [ref=f79e95]:
+              - link "(تن بہ تقدیر) Tan Ba Taqdeer" [ref=f79e96] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/tan-ba-taqdeer/
+            - listitem [ref=f79e97]:
+              - link "(معراج) Miraj" [ref=f79e98] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/miraj/
+            - listitem [ref=f79e99]: (ایک فلسفہ زادہ سید زادے کے نام) Aik Falsafa-zada Syed Zadde Ke Naam
+            - listitem [ref=f79e100]:
+              - link "(زمین و آسمان) Zameen-o-Asman" [ref=f79e101] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/zameen-o-asman/
+            - listitem [ref=f79e102]:
+              - link "(مسلمان کا زوال) Musalman Ka Zawal" [ref=f79e103] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/musalman-ka-zawal/
+            - listitem [ref=f79e104]:
+              - link "(علم و عشق) Ilm-o-Ishq" [ref=f79e105] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ilm-o-ishq/
+            - listitem [ref=f79e106]:
+              - link "(اجتہاد) Ijtihaad" [ref=f79e107] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ijtihaad/
+            - listitem [ref=f79e108]:
+              - link "(شکر و شکایت) Shukar-o-Shikayat" [ref=f79e109] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/shukar-o-shikayat/
+            - listitem [ref=f79e110]:
+              - link "(ذکر و فکر) Zikar-o-Fikar" [ref=f79e111] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/zikar-o-fikar/
+            - listitem [ref=f79e112]:
+              - link "(ملاے حرم) Mullah-e-Haram" [ref=f79e113] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mullah-e-haram/
+            - listitem [ref=f79e114]:
+              - link "(تقدیر) Taqdeer" [ref=f79e115] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/taqdeer/
+            - listitem [ref=f79e116]:
+              - link "(توحید) Touheed" [ref=f79e117] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/touheed/
+            - listitem [ref=f79e118]:
+              - link "(علم اور عرفان) Ilm Aur Irfan" [ref=f79e119] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/ilm-aur-irfan/
+            - listitem [ref=f79e120]:
+              - link "(ہندی مسلمان) Hindi Musalman" [ref=f79e121] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/hindi-musalman/
+            - listitem [ref=f79e122]:
+              - link "(آزادی شمشیر کے اعلان پر) Azadi-e-Shamsheer Ke Elan Par" [ref=f79e123] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/azadi-e-shamsheer-ke-alan-par/
+            - listitem [ref=f79e124]: (جہاد) Jihad
+            - listitem [ref=f79e125]: (قوت اور دین) Quwwat Aur Deen
+            - listitem [ref=f79e126]: (فقر و ملوکیت) Faqar-o-Malookiyat
+            - listitem [ref=f79e127]:
+              - link "(اسلام) Islam" [ref=f79e128] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/islam/
+            - listitem [ref=f79e129]: (حیات ابدی) Hayat-e-Abadi
+            - listitem [ref=f79e130]: (سلطانی) Sultani
+            - listitem [ref=f79e131]: (صوفی سے) Sufi Se
+            - listitem [ref=f79e132]: (افرنگ زدہ) Afrang Zada
+            - listitem [ref=f79e133]: (تصوف) Tasawwuf
+            - listitem [ref=f79e134]: (ہندی اسلام) Hindi Islam
+            - listitem [ref=f79e135]: (غزل – دل زندہ نہیں ہے اسے زندہ کر دوبارہ) Ghazal
+            - listitem [ref=f79e136]: (دنیا) Dunya
+            - listitem [ref=f79e137]: (نماز) Namaz
+            - listitem [ref=f79e138]: (وحی) Wahi
+            - listitem [ref=f79e139]: (شکست) Shikast
+            - listitem [ref=f79e140]: (عقل و دل) Aqal-o-Dil
+            - listitem [ref=f79e141]: (مستی کردار) Masti-e-Kirdar
+            - listitem [ref=f79e142]: (قبر) Qabar
+            - listitem [ref=f79e143]: (قلندر کی پہچان) Qalander Ki Pehchan
+            - listitem [ref=f79e144]:
+              - link "(فلسفہ) Falsafa" [ref=f79e145] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/falsafa/
+            - listitem [ref=f79e146]:
+              - link "(مردان خدا) Mardan-e-Khuda" [ref=f79e147] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mardan-e-khuda/
+            - listitem [ref=f79e148]:
+              - link "(کفر و مومن) Kafir-o-Momin" [ref=f79e149] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/kafir-o-momin/
+            - listitem [ref=f79e150]:
+              - link "(مہدی برحق) Mehdi-e-BarHaq" [ref=f79e151] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mahdi-e-barhaq/
+            - listitem [ref=f79e152]:
+              - link "(مومن) Momin" [ref=f79e153] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/momin/
+            - listitem [ref=f79e154]: (محمد علی باب) Muhammad Ali Baab
+            - listitem [ref=f79e155]: (تقدیر – ابلیس و یزداں) Taqdeer (Iblees-o-Yazdan)
+            - listitem [ref=f79e156]: (اے روح محمد صلی الله علیہ وسلم ) Ae Rooh-e-Muhammad (PBUH)
+            - listitem [ref=f79e157]: (مدنیت اسلام) Madniyat-e-Islam
+            - listitem [ref=f79e158]: (امامت) Imamat
+            - listitem [ref=f79e159]: (فقر و راہبی) Faqar-o-Rahbi
+            - listitem [ref=f79e160]: (تیری متاع حیات علم و ہنر کا سرور) Ghazal
+            - listitem [ref=f79e161]: (تسلیم و رضا) Tasleem-o-Raza
+            - listitem [ref=f79e162]: (نکتہ توحید) Nukta-e-Touheed
+            - listitem [ref=f79e163]: (الہام اور آزادی) Ilham Aur Azadi
+            - listitem [ref=f79e164]: (جان و تن) Jaan-o-Tan
+            - listitem [ref=f79e165]: (لاہور و کراچی) Lahore-o-Karachi
+            - listitem [ref=f79e166]: (نبوت) Nabuwwat
+            - listitem [ref=f79e167]: (آدم) Adam
+            - listitem [ref=f79e168]: (مکہ اور جنیوا) Makkah Aur Geneva
+            - listitem [ref=f79e169]: (اے پیر حرم) Ae Pir-e-Haram
+            - listitem [ref=f79e170]: (مہدی) Mehdi
+            - listitem [ref=f79e171]:
+              - link "(مرد مسلمان) Mard-e-Musalman" [ref=f79e172] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/mard-e-musalman/
+            - listitem [ref=f79e173]: (پنجابی مسلمان) Punjabi Musalman
+            - listitem [ref=f79e174]: (آزادی) Azadi
+            - listitem [ref=f79e175]: (اشاعت اسلام فرنگستان میں) Ishaat-e-Islam Farangistan Mein
+            - listitem [ref=f79e176]: (لا و الا) La-wa-Illa
+            - listitem [ref=f79e177]: (امراے عرب سے) Umra’ay Arab Se
+            - listitem [ref=f79e178]: (احکام الہی) Ahkam-e-Ellahi
+            - listitem [ref=f79e179]: (موت) Mout
+            - listitem [ref=f79e180]: (قم باذن اللہ) Qum Bi Izinillah
+            - listitem [ref=f79e181]: (تعلیم و تربیت – مقصود) Taleem-o-Tarbiat – Maqsood
+            - listitem [ref=f79e182]: (زمانہ حاضر کا انسان) Zamana-e-Hazir Ka Insan
+            - listitem [ref=f79e183]: (اقوام مشرق) Aqwam-e-Mashriq
+            - listitem [ref=f79e184]: (آگاہی) Agahi
+            - listitem [ref=f79e185]: (مصلحین مشرق) Musliheen-e-Mashriq
+            - listitem [ref=f79e186]: (مغربی تہذیب) Maghrabi Tehzeeb
+            - listitem [ref=f79e187]: (اسرار پیدا) Asrar-e-Paida
+            - listitem [ref=f79e188]: (سلطان ٹیپو کی وصیت) Sultan Tipu Ki Wasiyat
+            - listitem [ref=f79e189]: (غزل – نہ میں عجمی نہ ہندی، نہ عراقی و حجازی) Ghazal
+            - listitem [ref=f79e190]: (بیداری) Baidari
+            - listitem [ref=f79e191]: (خودی کے تربیت) Khudi Ki Tarbiat
+            - listitem [ref=f79e192]: (آزادی فکر) Azadi-e-Fikar
+            - listitem [ref=f79e193]: (خودی کے زندگی) Khudi Ki Zindagi
+            - listitem [ref=f79e194]: (حکومت) Hukumat
+            - listitem [ref=f79e195]: (ہندی مکتب) Hindi Maktab
+            - listitem [ref=f79e196]: (تربیت) Tarbiat
+            - listitem [ref=f79e197]: (خوب و زشت) Khoob-o-Zisht
+            - listitem [ref=f79e198]: (مرگ خودی) Marg-e-Khudi
+            - listitem [ref=f79e199]: (مہمان عزیز) Mehman-e-Aziz
+            - listitem [ref=f79e200]: (عصر حاضر) Asar-e-Hazir
+            - listitem [ref=f79e201]: (طالب علم) Talib-e-Ilm
+            - listitem [ref=f79e202]: (امتحان) Imtihan
+            - listitem [ref=f79e203]: (مدرسہ) Madrasa
+            - listitem [ref=f79e204]: (حکیم نطشہ) Hakeem Natsha
+            - listitem [ref=f79e205]: (اساتذہ) Asatizah
+            - listitem [ref=f79e206]: (غزل – ملے گا منزل مقصود کا اسی کو سراغ) Ghazal
+            - listitem [ref=f79e207]: (دین و تعلیم) Deen-o-Taleem
+            - listitem [ref=f79e208]: (جاوید سے) Javed Se
+            - listitem [ref=f79e209]: (عورت – مرد افرنگ) Aurat – Mard-e-Afrang
+            - listitem [ref=f79e210]: (ایک سوال) Aik Sawal
+            - listitem [ref=f79e211]: (پردہ) Parda
+            - listitem [ref=f79e212]: (خلوت) Khalwat
+            - listitem [ref=f79e213]: (عورت) Aurat
+            - listitem [ref=f79e214]: (آزادی نسواں) Azadi-e-Niswan
+            - listitem [ref=f79e215]: (عورت کی حفاظت) Aurat Ki Hifazat
+            - listitem [ref=f79e216]: (عورت اور تعلیم) Aurat Aur Taleem
+            - listitem [ref=f79e217]: (عورت) Aurat
+            - listitem [ref=f79e218]: (ادبیات – فنون لطیفہ – دین و ہنر) Adabiat Fanoon-e-Latifa – Deen-o-Hunar
+            - listitem [ref=f79e219]: (تخلیق) Takhleeq
+            - listitem [ref=f79e220]: (جنون) Junoon
+            - listitem [ref=f79e221]: (اپنے شعر سے) Apne Shair Se
+            - listitem [ref=f79e222]: (پیرس کی مسجد) Paris Ki Masjid
+            - listitem [ref=f79e223]: (ادبیات) Adabiat
+            - listitem [ref=f79e224]: (نگاہ) Nigah
+            - listitem [ref=f79e225]: (مسجد قوت الاسلام) Masjid-e-Quwwat-ul-Islam
+            - listitem [ref=f79e226]: (تیاتر) Tiyatar
+            - listitem [ref=f79e227]: (شعاع امید) Shua-e-Umeed
+            - listitem [ref=f79e228]: (امید) Umeed
+            - listitem [ref=f79e229]: (نگاہ شوق) Nigah-e-Shauq
+            - listitem [ref=f79e230]: (اہل ہنر سے) Ahle Hunar Se
+            - listitem [ref=f79e231]: (غزل – دریا میں موتی، اے موج بیباک) Ghazal
+            - listitem [ref=f79e232]: (وجود) Wujood
+            - listitem [ref=f79e233]: (سرود) Surood
+            - listitem [ref=f79e234]: (نسیم شبنم) Naseem-o-Shabnam
+            - listitem [ref=f79e235]: (اہرام مصر) Ahram-e-Misar
+            - listitem [ref=f79e236]: (مخلوقات ہنر) Makhlooqat-e-Hunar
+            - listitem [ref=f79e237]: (اقبال) Iqbal
+            - listitem [ref=f79e238]: (فنون لطیفہ) Funoon-e-Latifa
+            - listitem [ref=f79e239]: (صبح چمن) Subah-e-Chaman
+            - listitem [ref=f79e240]: (خاقانی) Khaqani
+            - listitem [ref=f79e241]: (رومی) Rumi
+            - listitem [ref=f79e242]: (جدت) Jiddat
+            - listitem [ref=f79e243]: (مرزا بیدل) Mirza Bedil
+            - listitem [ref=f79e244]: (جلال و جمال) Jalal-o-Jamal
+            - listitem [ref=f79e245]: (مصور) Musawwar
+            - listitem [ref=f79e246]: (سرود حلال) Surood-e-Hilal
+            - listitem [ref=f79e247]: (سرود حرام) Surood-e-Haraam
+            - listitem [ref=f79e248]: (فوارہ) Fawwara
+            - listitem [ref=f79e249]: (شاعر) Shayar
+            - listitem [ref=f79e250]: (شعرعجم) Shayr-e-Ajam
+            - listitem [ref=f79e251]: (ہنروارن ہند) Hunarwaran-e-Hind
+            - listitem [ref=f79e252]: (مرد بزرگ) Mard-e-Buzurg
+            - listitem [ref=f79e253]: (عالم نو) Alam-e-Nau
+            - listitem [ref=f79e254]: (ایجاد معانی) Ejad-e-Ma’ani
+            - listitem [ref=f79e255]: (موسیقی) Mausiqi
+            - listitem [ref=f79e256]: (ذوق نظر) Zauq-e-Nazar
+            - listitem [ref=f79e257]: (شعر) Shair
+            - listitem [ref=f79e258]: (رقص و موسیقی) Raqs-o-Mausiqi
+            - listitem [ref=f79e259]: (ضبط) Zabt
+            - listitem [ref=f79e260]: (رقص) Raqs
+            - listitem [ref=f79e261]: (سیاسیات مشرق و مغرب – اشتراکیت) Siasiyat-e-Mashriq-o-Maghrib – Ishtarakiat
+            - listitem [ref=f79e262]: (کارل مارکس کی آواز) Carl Marx Ki Awaz
+            - listitem [ref=f79e263]: (انقلاب) Inqilab
+            - listitem [ref=f79e264]: (خوشامد) Khushamad
+            - listitem [ref=f79e265]: (مناصب) Manasib
+            - listitem [ref=f79e266]: (یورپ اور یہودی) Yorap Aur Yahood
+            - listitem [ref=f79e267]: (نفسیات غلامی) Nafsiyat-e-Ghulami
+            - listitem [ref=f79e268]: (بلشویک روس) Bolshevik Roos
+            - listitem [ref=f79e269]: (آج اور کل) Aaj Aur Kal
+            - listitem [ref=f79e270]: (مشرق) Mashriq
+            - listitem [ref=f79e271]: (سیاست افرنگ) Siasat-e-Afrang
+            - listitem [ref=f79e272]: (خواجگی) Khawajgi
+            - listitem [ref=f79e273]: (غلاموں کے لئے) Ghulamon Ke Liye
+            - listitem [ref=f79e274]: (اہل مصر) Ahle Misar Se
+            - listitem [ref=f79e275]: (ابی سینیا) Abyssinia
+            - listitem [ref=f79e276]: (ابلیس کا فرمان اپنے سیاسی فرزوندوں کے نام) Ablees Ka Farman Apne Siasi Farzondon Ke Naam
+            - listitem [ref=f79e277]: (جمیعت اقوام مشرق) Jamiat-e-Aqwam-e-Mashriq
+            - listitem [ref=f79e278]: (سلطانی جاوید) Sultani-e-Javed
+            - listitem [ref=f79e279]: (جمہوریت) Jumhooriat
+            - listitem [ref=f79e280]: (یورپ اور سوریا) Yorap Aur Suriya
+            - listitem [ref=f79e281]: (مسولینی) Mussolini
+            - listitem [ref=f79e282]: (گلہ) Gila
+            - listitem [ref=f79e283]: (انتداب) Intadab
+            - listitem [ref=f79e284]: (لا دین سیاست) La Deen Siasat
+            - listitem [ref=f79e285]: (دام تہذیب) Daam-e-Tehzeeb
+            - listitem [ref=f79e286]: (نصیحت) Nasihat
+            - listitem [ref=f79e287]: (ایک بحری قزاق اور سکندر) Aik Behri Qazzaq Aur Sikander
+            - listitem [ref=f79e288]: (جمیعت اقوام) Jamiat-e-Aqwam
+            - listitem [ref=f79e289]: (شام و فلسطین) Sham-o-Falesteen
+            - listitem [ref=f79e290]: (سیاسی پیشوا) Siasi Paishwa
+            - listitem [ref=f79e291]: (نفسیات غلامی) Nafsiyat-e-Ghulami
+            - listitem [ref=f79e292]: (غلاموں کی نماز) Ghulamon Ki Namaz
+            - listitem [ref=f79e293]: (فلسطینی عرب سے) Falesteeni Arab Se
+            - listitem [ref=f79e294]: (مشرق و مغرب) Mashriq-o-Maghrib
+            - listitem [ref=f79e295]: (نفسیات حاکمی) Nafsiyat-e-Hakmi
+            - listitem [ref=f79e296]: (محراب گل افغان کے افکار – میرے کوہستان تجھے چھوڑ کے جاؤں کہاں) Mehrab Gul Afghan Ke Afkar – Mere Kohistan ! Tujhe Chor Ke Jaun Kahan
+            - listitem [ref=f79e297]: (حقیقت ازلی ہے رقابت اقوام) Haqiqat-e-Azali Hai Raqabat-e-Aqwam
+            - listitem [ref=f79e298]: (تیری دعا سے قضا تو بدل نہیں سکتی) Teri Dua Se Qaza Tou Badal Nahin Sakti
+            - listitem [ref=f79e299]: (کیا چرخ کج رو ، کیا مہر، کیا ماہ) Kya Charkh-e-Kaj Ro, Kya Mehar, Kya Mah
+            - listitem [ref=f79e300]: (یہ مدرسہ یہ کھیل یہ غوغاۓ روارو) Ye Madrasa Ye Khail Ye Ghogha’ay Rawa Ro
+            - listitem [ref=f79e301]: (جوعالم ایجاد میں ہے صاحب ایجاد) Jo Alam-e-Ejad Mein Hai Sahib-e-Ejad
+            - listitem [ref=f79e302]: (رومی بدلے، شامی بدلے، بدلا ہندوستان) Rumi Badle, Shami Badle, Badla Hindustan
+            - listitem [ref=f79e303]: (زاغ کہتا ہے نہایت بدنما ہیں تیرے پر) Zagh Kehta Hai Nahayat Badnuma Hain Tere Per
+            - listitem [ref=f79e304]: (عشق طنیت میں فرو مایہ نہیں مثل ہوس) Ishq Tiniat Mein Firo Maya Nahin Misal-e-Hawas
+            - listitem [ref=f79e305]: (وہی جوان ہے قبیلے کی آنکہ کا تارا) Wohi Jawan Hai Qabile Ki Ankh Ka Tara
+            - listitem [ref=f79e306]: (جس کے پرتو سے منور رہی تیری شب دوش) Jis Ke Parto Se Munawwar Rahi Teri Shab-e-Dosh
+            - listitem [ref=f79e307]: (لادینی و لا طینی، کس پیچ میں الجھا ہے تو) La Deeni-o-La Teeni, Kis Paich Mein Uljha Tu
+            - listitem [ref=f79e308]: (مجھ کو تو یہ دنیا نظر اتی ہے دگرگوں) Mujh Ko To Ye Duniya Nazar Ati Hai Digargoon
+            - listitem [ref=f79e309]: (بے جرات رندانہ ہر عشق ہے روباہی) Be Jura’at-e-Rindana Har Ishq Hai Robahi
+            - listitem [ref=f79e310]: (آدم کا ضمیر اس کی حقیقت پہ ہے شاہد) Adam Ka Zameer Uss Ki Haqiqat Pe Hai Shahid
+            - listitem [ref=f79e311]: (قوموں کے لئے موت ہے مرکز سے جدائی) Qaumon Ke Liye Mout Hai Markaz Se Judai
+            - listitem [ref=f79e312]: (آگ اس کی پھونک دیتی ہے برنا و پیر کو) Aag Uss Ki Phoonk Deti Hai Barna-o-Peer Ko
+            - listitem [ref=f79e313]: (یہ نکتہ خوب کہا شیر شاہ سوری نے) Ye Nukta Khoob Kaha Sher Shah Suri Ne
+            - listitem [ref=f79e314]: (نگاہ وہ نہیں جو سرخ و زرد پہچانے) Nigah Woh Nahin Jo Surkh-o-Zard Pehchane
+            - listitem [ref=f79e315]: (فطرت کے مقاصد کی کرتا ہے نگہبانی) Fitrat Ke Maqasid Ki Karta Hai Nigahbani
+          - paragraph
+    - contentinfo [ref=f79e316]:
+      - region "Footer Widget 2" [ref=f79e321]:
+        - generic [ref=f79e323]:
+          - button "facebook" [ref=f79e325] [cursor=pointer]
+          - button "twitter" [ref=f79e331] [cursor=pointer]
+          - button "pinterest" [ref=f79e337] [cursor=pointer]
+          - button "linkedin" [ref=f79e343] [cursor=pointer]
+          - button "whatsapp" [ref=f79e349] [cursor=pointer]
+      - paragraph [ref=f79e360]: © 2026 allamaiqbal.org
+  - insertion [ref=f79e362]

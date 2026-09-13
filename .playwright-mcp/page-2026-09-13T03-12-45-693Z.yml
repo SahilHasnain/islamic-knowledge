@@ -1,0 +1,162 @@
+- generic [active] [ref=f17e1]:
+  - link "Skip to content" [ref=f17e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f17e3]:
+    - banner [ref=f17e4]:
+      - generic [ref=f17e9]:
+        - link [ref=f17e14] [cursor=pointer]:
+          - /url: https://allamaiqbal.org/
+          - img "allamaiqbal" [ref=f17e15]
+        - navigation "Primary Site Navigation" [ref=f17e21]:
+          - list [ref=f17e23]:
+            - listitem [ref=f17e24]:
+              - link "Home" [ref=f17e25] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/
+            - listitem [ref=f17e26]:
+              - link "Bang-e-Dra" [ref=f17e27] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bang-e-dra/
+            - listitem [ref=f17e28]:
+              - link "Bal-e-Jibril" [ref=f17e29] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/bal-e-jibril/
+            - listitem [ref=f17e30]:
+              - link "Zarb-e-Kaleem" [ref=f17e31] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/zarb-e-kaleem/
+            - listitem [ref=f17e32]:
+              - link "Armaghan-e-Hijaz" [ref=f17e33] [cursor=pointer]:
+                - /url: https://allamaiqbal.org/armaghan-e-hijaz/
+        - generic [ref=f17e34]:
+          - button "Search button" [ref=f17e39] [cursor=pointer]:
+            - generic [ref=f17e40]: Search
+          - generic [ref=f17e46]:
+            - link "Urdu Keyboard" [ref=f17e47] [cursor=pointer]:
+              - /url: https://type-in-urdu.com/
+            - link "YouTube" [ref=f17e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@EagleClawPK
+    - main [ref=f17e58]:
+      - article [ref=f17e59]:
+        - generic [ref=f17e60]:
+          - generic [ref=f17e63]:
+            - heading [level=1] [ref=f17e64]:
+              - strong [ref=f17e65]:
+                - strong [ref=f17e66]: میری نوائے شوق سے
+            - paragraph [ref=f17e68]:
+              - strong [ref=f17e69]: Meri Nawa’ay Shauq Se
+          - separator [ref=f17e70]
+          - paragraph [ref=f17e71]: Allama Iqbal Poetry Urdu Tashreeh(Explanation), English Translation, Roman Urduرومن اردو ، انگلش ترجمہ، اردو تشریح
+          - separator [ref=f17e72]
+          - generic [ref=f17e74]:
+            - heading "اردو" [level=2] [ref=f17e78]
+            - generic [ref=f17e79]: میری نوائے شوق سے شور حریمِ ذات میںغلغلہ ہائے الاماں بُت کدۂ صفات میں حُور و فرشتہ ہیں اسیر میرے تخیّلات میںمیری نگاہ سے خلل تیری تجلّیات میںگرچہ ہے میری جُستجو دَیر و حرم کی نقش بندمیری فغاں سے رستخیز کعبہ و سومنات میںگاہ مری نگاہِ تیز چِیر گئی دلِ وجُودگاہ اُلجھ کے رہ گئی میرے توہّمات میںتُو نے یہ کیا غضب کِیا، مجھ کو بھی فاش کر دیامَیں ہی تو ایک راز تھا سینۂ کائنات میں!
+            - heading "Transliteration" [level=4] [ref=f17e83]
+            - generic [ref=f17e84]: Meri Nawa’ay Shauq Se Shor Hareem-e-Zaat MeinGhalghala Ha’ay Al-Aman But Kada’ay Sifaat MeinHoor-o-Farishta Hain Aseer Mere Takhaiyulat MeinMeri Nigah Se Khalal Teri Tajalliyat MeinGarche Hai Meri Justujoo Dair-o-Haram Ki Naqsh BandMeri Faghan Se Rustkhaiz Kaaba-o-Somanat MeinGah Meri Nigah-e-Taiz Cheer Gyi Dil-e-WujoodGah Uljah Ke Reh Gyi Meri Touwahamaat MeinTu Ne Ye Kya Ghazab Kiya, Mujh Ko Bhi Fash Kar DiyaMain Hi Tou Aik Raaz Tha Sina’ay Kainat Mein !
+            - heading "Urdu Tashreeh & translation" [level=4] [ref=f17e88]
+            - region "Slider" [ref=f17e91]:
+              - generic [ref=f17e102]:
+                - note [ref=f17e103]: Coming soon
+                - generic [ref=f17e104]: Coming Soon – جلد ہی
+            - separator [ref=f17e109]
+            - list [ref=f17e110]:
+              - listitem [ref=f17e111]:
+                - img "D0e961a3a92a5033d0b1bca32941f940" [ref=f17e112]
+                - article [ref=f17e113]:
+                  - generic [ref=f17e114]:
+                    - link "digital banking" [ref=f17e115] [cursor=pointer]:
+                      - /url: https://fintechbase.icu/
+                    - text: "on"
+                    - link "Ehad-e-Tifli" [ref=f17e116] [cursor=pointer]:
+                      - /url: https://allamaiqbal.org/bang-e-dra/ehad-e-tifli/#comment-26
+                    - time [ref=f17e117]: January 20, 2026
+                  - paragraph [ref=f17e119]: I love what you guys tend to be up too. Such clever work and exposure! Keep up the wonderful works…
+              - listitem [ref=f17e120]:
+                - img "Cbf1b5c927fbd480c2c8821b3c13d445" [ref=f17e121]
+                - article [ref=f17e122]:
+                  - generic [ref=f17e123]:
+                    - link "digital banking" [ref=f17e124] [cursor=pointer]:
+                      - /url: https://fintechbase.icu/
+                    - text: "on"
+                    - link "Aik Pahar Aur Gulehri" [ref=f17e125] [cursor=pointer]:
+                      - /url: https://allamaiqbal.org/bang-e-dra/aik-pahar-aur-gulehri/#comment-25
+                    - time [ref=f17e126]: January 20, 2026
+                  - paragraph [ref=f17e128]: Write more, thats all I have to say. Literally, it seems as though you relied on the video to make…
+              - listitem [ref=f17e129]:
+                - img "7bafc2359315da002bcefc988ca17bc2" [ref=f17e130]
+                - article [ref=f17e131]:
+                  - generic [ref=f17e132]:
+                    - link "digital banking" [ref=f17e133] [cursor=pointer]:
+                      - /url: https://fintechbase.icu/
+                    - text: "on"
+                    - link "Dard-e-Ishq" [ref=f17e134] [cursor=pointer]:
+                      - /url: https://allamaiqbal.org/bang-e-dra/dard-e-ishq/#comment-24
+                    - time [ref=f17e135]: January 20, 2026
+                  - paragraph [ref=f17e137]: Undeniably believe that that you stated. Your favorite reason seemed to be on the internet the simplest thing to keep…
+              - listitem [ref=f17e138]:
+                - img "0c3e82a16e5ea6b6096c8aa8eab97ce0" [ref=f17e139]
+                - article [ref=f17e140]:
+                  - generic [ref=f17e141]:
+                    - link "trading platform" [ref=f17e142] [cursor=pointer]:
+                      - /url: https://fintechbase.icu/
+                    - text: "on"
+                    - link "Mullah-e-Haram" [ref=f17e143] [cursor=pointer]:
+                      - /url: https://allamaiqbal.org/zarb-e-kaleem/mullah-e-haram/#comment-23
+                    - time [ref=f17e144]: January 20, 2026
+                  - paragraph [ref=f17e146]: Fantastic beat ! I wish to apprentice while you amend your site, how could i subscribe for a blog website?…
+              - listitem [ref=f17e147]:
+                - img "4400d563bbaf338d2c3e2558cf46e5d5" [ref=f17e148]
+                - article [ref=f17e149]:
+                  - generic [ref=f17e150]:
+                    - link "fintechbase" [ref=f17e151] [cursor=pointer]:
+                      - /url: https://fintechbase.icu/
+                    - text: "on"
+                    - link "Hamdardi" [ref=f17e152] [cursor=pointer]:
+                      - /url: https://allamaiqbal.org/bang-e-dra/hamdardi/#comment-22
+                    - time [ref=f17e153]: January 20, 2026
+                  - paragraph [ref=f17e155]: I love looking through a post that will make people think. Also, thank you for permitting me to comment!
+      - generic [ref=f17e156]:
+        - heading "1 thought on “Meri Nawa-e-Shauk Se Shor Hareem-e-Zaat Mein”" [level=3] [ref=f17e157]
+        - list [ref=f17e158]:
+          - listitem [ref=f17e159]:
+            - article [ref=f17e160]:
+              - generic [ref=f17e163]:
+                - generic [ref=f17e164]: Kiran rao
+                - link [ref=f17e168] [cursor=pointer]:
+                  - /url: https://allamaiqbal.org/bal-e-jibril/meri-nawa-e-shauk/#comment-3
+                  - time [ref=f17e169]: August 24, 2025 at 2:54 pm
+              - generic [ref=f17e170]:
+                - paragraph [ref=f17e171]: Outstanding work keep it up sir 😍😍😍😍
+                - link "Reply to Kiran rao" [ref=f17e174] [cursor=pointer]:
+                  - /url: "#comment-3"
+                  - text: Reply
+        - generic [ref=f17e175]:
+          - heading "Leave a Reply" [level=3] [ref=f17e176]
+          - generic [ref=f17e177]:
+            - paragraph [ref=f17e178]:
+              - text: Your email address will not be published.
+              - generic [ref=f17e179]: Required fields are marked *
+            - paragraph [ref=f17e180]:
+              - generic [ref=f17e181]: Comment *
+              - textbox "Comment *" [ref=f17e182]
+            - generic:
+              - paragraph [ref=f17e183]:
+                - generic [ref=f17e184]: Name*
+                - textbox "Name*" [ref=f17e185]
+              - paragraph [ref=f17e186]:
+                - generic [ref=f17e187]: Email*
+                - textbox "Email*" [ref=f17e188]
+              - paragraph [ref=f17e189]:
+                - generic [ref=f17e190]: Website
+                - textbox "Website" [ref=f17e191]
+            - paragraph [ref=f17e192]:
+              - checkbox "Save my name, email, and website in this browser for the next time I comment." [ref=f17e193]
+              - text: Save my name, email, and website in this browser for the next time I comment.
+            - paragraph [ref=f17e194]:
+              - button "Post Comment" [ref=f17e195] [cursor=pointer]
+    - contentinfo [ref=f17e196]:
+      - region "Footer Widget 2" [ref=f17e201]:
+        - generic [ref=f17e203]:
+          - button "facebook" [ref=f17e205] [cursor=pointer]
+          - button "twitter" [ref=f17e211] [cursor=pointer]
+          - button "pinterest" [ref=f17e217] [cursor=pointer]
+          - button "linkedin" [ref=f17e223] [cursor=pointer]
+          - button "whatsapp" [ref=f17e229] [cursor=pointer]
+      - paragraph [ref=f17e240]: © 2026 allamaiqbal.org
+  - insertion [ref=f17e242]
