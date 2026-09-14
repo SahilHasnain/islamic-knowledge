@@ -1,0 +1,50 @@
+# Glossary
+
+These decisions apply to kalams 001-010 and keep key poetic and Islamic images consistent.
+
+- `Nawa-e-shauq`: song or voice of longing.
+- `Hareem-e-zaat`: the Sanctuary of the Divine Essence.
+- `Ghalghala-e-al-aman`: a tumultuous cry for refuge.
+- `But-kada-e-sifaat`: the idol-house of attributes, contrasting outward forms with the Divine Essence.
+- `Tajalliyat`: divine revelations or manifestations.
+- `Dair-o-haram`: temple and Sanctuary, representing the breadth of the seeker's quest.
+- `Rustkhaiz`: resurrection-like upheaval.
+- `La-makan`: the placeless realm, beyond spatial limitation.
+- `Subah-e-azal`: the Dawn of Eternity.
+- `Raazdan`: keeper or knower of secrets.
+- `Harf-e-shireen tarjuman`: the sweet word that interprets or gives voice to meaning.
+- `Koukab`: star, with a possible suggestion of radiance and guidance.
+- `Adam-e-khaki`: earth-born Adam, or humanity formed from dust.
+- `Saqi`: the giver who pours spiritual or life-giving wine; retained as an established poetic term.
+- `Razzaqi`: the act of providing sustenance.
+- `Gaisu-e-tabdar`: radiant, shining tresses.
+- `Qalb-o-nazar`: heart and vision, including inward sight.
+- `Hijab`: veil or concealment.
+- `Muheet-e-bekaran`: the shoreless, all-encompassing vastness.
+- `Aabjoo`: a little stream.
+- `Hamkinar`: brought to the shore or made to reach a bank.
+- `Sadaf`: shell that holds a pearl.
+- `Guhar`: pearl.
+- `Khazaf`: potsherd or worthless shard.
+- `Gohar-e-shahwar`: a royal, exceptionally precious pearl.
+- `Dam-e-neem-souz`: a half-burning breath, faint ember, or unfinished song.
+- `Daftar-e-amal`: book or record of deeds.
+- `Faryad`: a cry of pain or complaint.
+- `Banda-e-azad`: a free servant, free from subjection to other than Allah.
+- `Musht-e-khaak`: handful of dust.
+- `Sar-sar`: rushing desert wind.
+- `Wus'at-e-aflak`: vastness of the heavens.
+- `Lazzat-e-ijad`: the delight of creation.
+- `Khaima-e-gul`: the flower's fragile tent or dwelling.
+- `Baad-e-murad`: the wind of fulfillment or desired outcome.
+- `Ghareeb-ud-diyar`: a stranger far from home.
+- `Kharaba`: ruined realm or desolate habitation.
+- `Jafa-talabi`: a desire for hardship or testing.
+- `Dasht-e-sada`: the simple, unadorned wilderness.
+- `Khatar-pasand`: danger-loving or risk-embracing.
+- `Qudsiyan`: the holy ones, especially sanctified beings.
+- `Ajam`: the Persian lands or the non-Arab East, here associated with Iran.
+- `Firdous`: Paradise.
+- `Hind`: India.
+- `Mah-e-kaamil`: the full or perfect moon.
+- `Parviz`: the sovereign Khosrow Parviz, used as an image of royal wealth.
