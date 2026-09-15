@@ -451,6 +451,14 @@ translations. Ayat 6:61–6:80 were appended to `02-surah-al-anam-easy-roman-02.
 contains 500 lines. Exact Arabic, translations, complete explanations, citations, honorifics,
 and source order were preserved.
 
+The next twenty-ayat session covered Al-An'am Ayat 6:81–6:100 in four verified five-ayat
+batches. Ayat 6:85, 6:87, and 6:98 had no Sirat-ul-Jinan tafseer rows and were added as
+standalone `tafseerId=null` entries with exact Arabic and their `trans_type=2` translations.
+Ayat 6:81–6:100 were appended to `02-surah-al-anam-easy-roman-02.md`, which now contains 802
+lines. During verification, the Arabic in the existing 6:87 entry was corrected to match
+QuranDB exactly. Exact Arabic, translations, complete explanations, citations, honorifics,
+and source order were preserved.
+
 The next twenty-ayat session covered Al-An'am Ayat 6:41–6:60 in four verified five-ayat
 batches. Ayat 6:41, 6:44, 6:49, and 6:58 had no Sirat-ul-Jinan tafseer rows and were added
 as standalone `tafseerId=null` entries with exact Arabic and their `trans_type=2` translations.
