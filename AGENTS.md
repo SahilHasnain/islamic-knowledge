@@ -17,8 +17,9 @@ For translated manuscripts, metadata must be written in the translated language 
 5. **Vocative address** — Where the Arabic has `قُلْ`, `يَا أَيُّهَا النَّبِيُّ`, or similar, render as *"Say (O Beloved)"* or *"O Prophet"*, not a bare *"Say:"*. This maintains reverent direct address.
 6. **Elevated epithets** — Prefer honorific renderings consistent with Ahlus-Sunnah convention (e.g., *"Present Eyewitness (Haazir and Naazir)"* for *shahidan*, *"distinctive bondsman of Ours"* for *abdina*).
 7. **Reference** — When uncertain about adab, compare against `content/books/kanzul-iman-english.json` (Kanzul Iman English) as the benchmark for appropriate reverence.
-8. **Rendering of ummi** — Never translate the term *ummi* as *"unlettered"* for the final prophet. Render it as *"unschooled"*. For roman urdu, the alternative is bepadha .
-9. **Anpadh** can be used for ordinary person like disbelievers .
+8. **Rendering of ummi for the Final Prophet ﷺ** — When *ummi* describes the Final Prophet ﷺ, always render it as *"unschooled"*, never *"unlettered"*. For Roman Urdu, use *bepadha*.
+9. **Rendering of ummi for ordinary people** — When *ummi* describes ordinary people, a community, or non-prophetic persons, render it as *"unlettered"* (or *"illiterate"* where the context specifically means inability to read and write). Do not use *"unschooled"* for ordinary people merely because the Arabic word is *ummi*.
+10. **Mandatory distinction** — *Unschooled* is reserved for the Final Prophet ﷺ; *unlettered* is the default for ordinary people. Preserve an exact published Quran translation when it uses different wording, but follow this distinction in translated tafseer prose.
 
 ### Roman Urdu transliteration or translation preference
 
@@ -28,6 +29,12 @@ Do not form Roman Urdu plurals by adding the English suffix `-s` to a singular w
 source's established Urdu or Arabic plural form instead, such as `aayat` / `aayaat`,
 `hadees` / `ahadees`, and `mas'alah` / `masail`, rather than `aayats`, `hadeess`, or
 `mas'alahs`.
+
+When handling Urdu poetry, do not translate the poem; transliterate it into Roman Urdu while
+preserving its complete line structure, speaker, addressee, devotional context, radif, qafiyah,
+and meaning. Determine pronouns from the complete poetic meaning rather than translating each
+isolated word mechanically. Urdu honorific plural forms may refer to one revered person; retain
+the intended pronoun in the transliteration and do not force one from an isolated verb.
 
 In Easy Roman Urdu explanations, explain difficult Persian, Arabic, and Urdu words at their
 first meaningful use in simple Roman Urdu, usually in brackets or in the sentence itself.

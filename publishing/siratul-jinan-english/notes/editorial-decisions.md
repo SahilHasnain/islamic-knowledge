@@ -26,8 +26,12 @@ Eligible surahs are processed by increasing number of aayaat, with surah number 
 
 ## Poetry
 
-Poetry is translated as poetry in standard English rather than flattened into prose. The
-translation should preserve the original poem's line count, praise, emotional force, devotional
-tone, and poetic architecture. Where present, the English rendering must consciously reproduce
-the source's radif (repeated refrain) and qafiyah (rhyme pattern), or use an equally consistent
-English refrain and rhyme scheme when the original sounds cannot be carried over literally.
+Poetry is not translated into English. It is transliterated into Roman Urdu, preserving the
+original poem's line count, praise, emotional force, devotional tone, poetic architecture, radif
+(repeated refrain), and qafiyah (rhyme pattern).
+
+### Pronouns and Meaning
+
+Poetic pronouns must be preserved according to the complete meaning, speaker, addressee, and
+devotional context. Do not select pronouns by translating each isolated Urdu word. Respectful
+plural verb forms may refer to one revered person; retain the intended pronoun in Roman Urdu.
