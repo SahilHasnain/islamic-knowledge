@@ -8,3 +8,4 @@ Record approved terminology and translation decisions here before reusing them a
 | نبی کریم ﷺ | the Noble Prophet ﷺ | Preserve the honorific |
 | قرآن مجید | the Holy Quran | Use consistently in prose |
 | اُمّی | unschooled | Required for the Final Prophet |
+| اُمّی (ordinary people) | unlettered | Use in tafseer prose for ordinary communities and non-prophetic persons |

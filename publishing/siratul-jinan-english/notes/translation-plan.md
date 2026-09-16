@@ -117,3 +117,23 @@ split at a complete entry boundary.
   corrections to exact Arabic `حَاضِرًاؕ` in the preserved quotation and `Sayyiduna Abu Darda`.
 - Next eligible surah, determined from the database's sorted eligible list: 63, Al-Munafiqun,
   11 aayaat.
+- Surah 63, Al-Munafiqun, was completed in
+  `manuscript/21-surah-al-munafiqun/01-surah-al-munafiqun-english-01.md`. It contains 206 lines
+  and all 11 aayaat. Ayat 63:3 has no Sirat-ul-Jinan tafseer row and is preserved as a standalone
+  `tafseerId=null` translation-only entry. Source-completeness review confirmed that all database
+  aayaat and available tafseer content are present in source order. QuranDB verification confirmed
+  exact Arabic, English Kanz-ul-Iman translations (`language_code='en'`, `trans_type='3'`), metadata,
+  ordering, missing-tafseer handling, script hygiene, and the line limit.
+- Next eligible surah, determined from the database's sorted eligible list: 93, Ad Duha,
+  11 aayaat.
+- Surah 93, Ad-Duha, was completed in
+  `manuscript/22-surah-ad-duha/01-surah-ad-duha-english-01.md`. It contains 310 lines and
+  all 11 aayaat. Ayat 93:2 has no Sirat-ul-Jinan tafseer row and is preserved as a standalone
+  `tafseerId=null` translation-only entry. Source-completeness review confirmed that all
+  database aayaat and available tafseer content are present in source order. QuranDB
+  verification confirmed exact Arabic, English Kanz-ul-Iman translations
+  (`language_code='en'`, `trans_type='3'`), metadata, ordering, missing-tafseer handling,
+  script hygiene, and the line limit. Poetry review confirmed that the English renderings
+  preserve the source poems' line structure, devotional tone, and poetic form.
+- Next eligible surah, determined from the database's sorted eligible list: 100, Al-Adiyat,
+  11 aayaat.
