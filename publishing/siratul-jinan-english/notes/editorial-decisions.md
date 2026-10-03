@@ -34,4 +34,12 @@ original poem's line count, praise, emotional force, devotional tone, poetic arc
 
 Poetic pronouns must be preserved according to the complete meaning, speaker, addressee, and
 devotional context. Do not select pronouns by translating each isolated Urdu word. Respectful
-plural verb forms may refer to one revered person; retain the intended pronoun in Roman Urdu.
+ plural verb forms may refer to one revered person; retain the intended pronoun in Roman Urdu.
+
+## Session Batching
+
+Each production session covers four consecutive eligible surahs. The work uses four parallel
+translation subagents, one per surah, followed by four independent review subagents, one per
+surah. Surah manuscript files remain separate and are never edited concurrently by multiple
+agents. A session is complete only after all four surahs pass review and final cross-session
+verification.

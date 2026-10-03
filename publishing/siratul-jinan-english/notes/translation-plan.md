@@ -137,3 +137,14 @@ split at a complete entry boundary.
   preserve the source poems' line structure, devotional tone, and poetic form.
 - Next eligible surah, determined from the database's sorted eligible list: 100, Al-Adiyat,
   11 aayaat.
+- Surah 100, Al-Adiyat, was completed in
+  `manuscript/23-surah-al-adiyat/01-surah-al-adiyat-english-01.md`. It contains 150 lines and
+  all 11 aayaat. Tafseer IDs 54471–54474 cover 100:1, 100:3, 100:6, and 100:8, while 100:2,
+  100:4, 100:5, 100:7, and 100:9–11 have no Sirat-ul-Jinan tafseer rows and are preserved as
+  standalone `tafseerId=null` translation-only entries. Source-completeness review confirmed that
+  all database aayaat and available tafseer content are present in source order. QuranDB
+  verification confirmed exact Arabic, English Kanz-ul-Iman translations (`language_code='en'`,
+  `trans_type='3'`), metadata, ordering, missing-tafseer handling, script hygiene, and the line
+  limit.
+- Next eligible surah, determined from the database's sorted eligible list: 101, Al Qariah,
+  11 aayaat.

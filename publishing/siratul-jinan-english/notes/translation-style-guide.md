@@ -40,3 +40,14 @@
   Urdu honorific plural forms may refer to one revered person; retain the intended pronoun in
   the Roman Urdu transliteration.
 - Keep each manuscript file below 1,000 lines and split only at complete entry boundaries.
+
+## Session Workflow
+
+- Process four consecutive eligible surahs per session, following the database ordering rule.
+- Extract each complete surah source before translation; never translate from previews or summaries.
+- Use one translation subagent per surah. Each translator writes only that surah's manuscript file.
+- After all four translations finish, use one independent review subagent per surah.
+- Reviewers verify source completeness, Arabic, QuranDB translations, metadata, tafseer IDs,
+  missing-tafseer entries, adab, poetry, script hygiene, and line limits.
+- The main agent applies or coordinates corrections only after review and performs the final
+  cross-session verification. Update the translation plan only after all four surahs pass.
