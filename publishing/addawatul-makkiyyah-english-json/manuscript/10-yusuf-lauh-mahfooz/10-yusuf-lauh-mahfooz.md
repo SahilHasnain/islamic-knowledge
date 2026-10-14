@@ -1,8 +1,6 @@
 # The Knowledge of Sayyiduna Yusuf and the Preserved Tablet
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 90–98 (printed pages 86–94), ending before the next section, “Dusra Hissa.”
-
-## Printed Page 86 — Sayyiduna Yusuf’s News to the Egyptians
+## Sayyiduna Yusuf’s News to the Egyptians
 
 Allah’s Prophet Sayyiduna Yusuf عَلَيْهِ السَّلَام told the Egyptians:
 
@@ -10,7 +8,7 @@ Allah’s Prophet Sayyiduna Yusuf عَلَيْهِ السَّلَام told the E
 
 I continue to relate the details of these incidents, although such events are beyond number and will continue to occur until the Day of Judgement. In particular, Allah Almighty has granted His servants such knowledge of the five matters of the unseen that it needs no proof. No person of reason or wisdom disputes it. All these unseen matters are written in the Preserved Tablet, and angels and Awliya are also informed of what is in the Preserved Tablet. The station of the Prophets—and especially that of the Leader of the Prophets ﷺ—is exalted and supreme. Only one deprived of reason and faith would deny these perfections.
 
-## Printed Page 87 — The Clear Tablet
+## The Clear Tablet
 
 Allah Almighty has described the Tablet with the word “Mubeen” (clear) (Ya-Sin: 2). A thing is *mubeen* when it is clear and manifest, with no ambiguity. If the Preserved Tablet were hidden from Allah’s creation, in what sense would it be a “Clear Tablet”?
 
@@ -26,7 +24,7 @@ Hazrat Mulla Ali Qari رَحْمَةُ اللّٰهِ تَعَالَى عَلَ�
 
 Imam Qastalani said that Allah Almighty informed His Prophets and Awliya of some of His unseen matters, and made His Noble Beloved ﷺ aware of the five matters of the unseen. We shall shortly present the illuminating views of Allama Bayjuri, Allama Shanwani, and Hazrat Abdul Aziz Dabbagh رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ on this subject. I shall then explain the views of such eminent figures as Allama Madabighi and the learned knower of Allah, Allama Fazil Ishmawi, and establish through their decisive proofs that Allah Almighty bestowed knowledge of the unseen upon His Noble Beloved ﷺ. I shall also explain that the angels were granted knowledge of the blowing of the Trumpet before the Day of Judgement, and present the proofs of Imam Fakhruddin Razi on this introductory point.
 
-## Printed Page 89 — The Prophet ﷺ as the Source of Knowledge
+## The Prophet ﷺ as the Fountainhead of Knowledge
 
 We have already stated that all created beings received knowledge through the means of the Noble Prophet ﷺ, and that the Noble Prophet’s ﷺ blessed being is the fountainhead of every kind of knowledge. It is also established that the one who gives knowledge must himself be knowledgeable and more learned.
 
@@ -34,7 +32,7 @@ Therefore, the Noble Prophet ﷺ knowing what will happen before the Day of Judg
 
 There is no doubt that both these statements and views are found among the scholars, and the eminent Imams did not reject them. Imam Jalaluddin Suyuti رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ devoted an entire chapter to the knowledge of Mustafa ﷺ in his world-renowned *Khasa'is al-Kubra*. There he commented on the views of the scholars: Was the Prophet ﷺ also granted knowledge of the five matters, knowledge of the Hour, and knowledge of the soul? Was he ﷺ commanded to conceal it?
 
-## Printed Page 90 — Whether the Prophet ﷺ Was Commanded to Conceal It
+## Whether the Prophet ﷺ Was Commanded to Conceal It
 
 Allama Muhammad ibn Sayyid Allama Abdul Rasul Barzanji Madani رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ mentioned both views. He said that the knowledge of the Hour is momentous, and Allah Almighty reserved knowledge of it for Himself and did not disclose it to any of creation. He taught it only to the Noble Prophet ﷺ, while forbidding him ﷺ to inform others, so that the fear and awe of the Hour would remain. He stated:
 
@@ -48,7 +46,7 @@ The Wahhabis wrote a treatise on this subject and published it under the name of
 
 It is their habit that when they cannot manage without presenting evidence, they publish fabricated books and appear as warriors in falsehood. For a time, they present their statements as equal to those of the just, truthful, and reliable scholars; but the time comes when their lies are exposed. They sometimes falsely attribute their corrupt ideas to Mulla Ali Qari, sometimes to Ibn Kathir, sometimes to Ismail Haqqi رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ, and sometimes babble by citing a treatise of Allama Suyuti. These are fabrications against Imam Ahmad ibn Hanbal and lies against Imam Jalaluddin Suyuti. In this way, they also fabricate statements against Allama Mulla Ali Qari.
 
-## Printed Page 91 — The Wisdom of Advance Knowledge of the Preserved Tablet
+## The Wisdom of Advance Knowledge of the Preserved Tablet
 
 The summary of the statements of Imam Jalaluddin Suyuti has been presented. They also openly lie against Allama Mulla Ali Qari.
 
@@ -66,7 +64,7 @@ Imam Shatnufi and other Imams have related with an authentic chain that the son 
 
 Allah Almighty distributes wise matters on Laylat al-Qadr by His command. This establishes that, apart from knowledge of the Hour, four kinds of knowledge are distributed among the angels before the Day of Judgement, because the angels have tasks to carry out.
 
-## Printed Page 92 — Israfil and the Trumpet
+## Israfil and the Trumpet
 
 Sayyiduna Israfil عَلَيْهِ السَّلَام is informed of his duty to blow the Trumpet before the Day of Judgement so that he can blow it as soon as the command arrives. Israfil عَلَيْهِ السَّلَام folded one wing when the Noble Prophet ﷺ came into this world; he will spread the other when the command to blow the Trumpet is given.
 
@@ -78,7 +76,7 @@ If such knowledge is necessary for a near angel, then how could it be impossible
 
 [^4]: The author adds that this proof came to his mind while writing the book. A few days later, while reading the commentary on Surah al-Jinn in *Tafsir al-Kabir*, he found the Mu'tazilah using these verses to deny miracles of the Awliya. In *Sharh al-Maqasid*, the Allama answers that “the unseen” in these verses is not general but absolute or specific—namely, the time of the Hour—and the context points to this. It is not impossible that some angels, some people, and especially some noble Prophets عَلَيْهِمُ السَّلَام be granted knowledge of it. It is certain that Messengers receive knowledge of the unseen, though opinions differ concerning the Awliya. Imam Qastalani says in *Irshad al-Bari*, commentary on Sahih Bukhari, that no one besides Allah knows when the Hour will come, but Allah opens the doors of the unseen to whichever chosen Messenger He is pleased with; a Wali follows a Messenger and receives knowledge through him. Shah Waliullah, the honoured father of Shah Abdul Aziz Dehlawi, wrote in *Tafhimat-e-Ilahiyyah* that in a special spiritual event he was shown the time when the Day of Judgement would be established and the heavens would split. But after he returned to wakefulness, the vision felt like a dream. (Ahmad Raza Khan, Madinah Munawwarah)
 
-## Printed Page 93 — The Mu'tazilah’s Interpretation
+## The Mu'tazilah’s Interpretation
 
 The Mu'tazilah also use these verses as proof to deny miracles of the Awliya. In *Sharh al-Maqasid*, the Allama answers the Mu'tazilah that “the unseen” here is not general but absolute or specific—that is, the time of the Day of Judgement—and there is a contextual indicator in the noble verse, for it mentions the Hour. It is not impossible that some angels, some people, and especially some noble Prophets عَلَيْهِمُ السَّلَام be granted knowledge of it.
 
@@ -86,7 +84,7 @@ It is established that Messengers are given knowledge of the unseen, though opin
 
 Shah Abdul Aziz Dehlawi’s revered father, Shah Waliullah قُدِّسَ سِرُّهُ, recorded his own experience in *Tafhimat-e-Ilahiyyah*: in a particular spiritual event, he was shown the time when the Day of Judgement would be established and the heavens would split.
 
-## Printed Page 94 — Further Testimony
+## Further Testimony
 
 When he returned to the world of wakefulness, the event felt like a dream. If such conditions are disclosed to Awliya, then—Glory be to Allah!—where does the Noble Prophet ﷺ stand, and where does his knowledge stand?
 

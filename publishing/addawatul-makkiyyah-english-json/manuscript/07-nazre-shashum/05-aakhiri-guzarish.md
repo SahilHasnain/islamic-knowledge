@@ -1,9 +1,5 @@
 # A Final Request
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 76–77 (printed pages 72–73), from the heading “Aakhiri Guzarish” through the paragraph before “Huzoor ke Ummatiyo par Ghuyoob ke Inamaat.”
-
-## Printed Page 72
-
 These five matters of the unseen that we have discussed are among the manifest knowledge of the unseen. Their number is known to Allah Almighty—or to whomever He has taught this knowledge. The Noble Prophet ﷺ was never miserly in sharing these unseen matters.
 
 In *Jami' al-Nihayah*, this narration is stated clearly: Allah Almighty did not call His Prophet ﷺ back from this world until He had informed him of everything.

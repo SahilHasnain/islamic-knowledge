@@ -1,8 +1,6 @@
 # The Fifth View
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 45–62 (printed pages 41–58), ending before the heading “Nazre Shashum.”
-
-## Printed Page 41 — The Knowledge of the Prophet ﷺ in the Quran, Hadith, and Sayings of the Companions
+## The Knowledge of the Prophet ﷺ in the Quran, Hadith, and Sayings of the Companions
 
 Dear readers, from my preceding requests you will have understood the reality of this matter and reached the conclusion that expressing the knowledge of the Noble Prophet ﷺ neither suggests equality with Allah’s knowledge nor raises any suspicion of shirk. We acknowledge all the knowledge of the Noble Prophet ﷺ as bestowed by Allah Almighty; it was not acquired independently. Allah granted it to him and bestowed tremendous favour upon him.
 
@@ -26,7 +24,7 @@ Then also read:
 
 I am certain that your heartfelt desire will be fulfilled and your faith renewed.
 
-## Printed Page 42 — Reports of the Events of the World
+## Reports of the Events of the World
 
 Sahih Bukhari relates from Sayyiduna Umar Faruq رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ:
 
@@ -54,7 +52,7 @@ At another place, he ﷺ said:
 
 In a Hadith with an authentic chain, this is reported from Sayyiduna Abu Dharr Ghifari رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ in *Musnad Imam Ahmad*, *Tabaqat Ibn Sa'd*, and *Al-Mu'jam al-Kabir* of At-Tabarani. It is also reported from Sayyiduna Abu Darda رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ in Abu Ya'la, Ibn Muni', and At-Tabarani that:
 
-## Printed Page 43 — Knowledge of Every Bird and Creature
+## Knowledge of Every Bird and Creature
 
 > “The Noble Prophet ﷺ left us in a state in which there was no bird beating its wings in the air whose condition he had not mentioned to us.”
 
@@ -68,7 +66,7 @@ Besides this blessed Hadith, countless other Hadith exist. The Hadith scholars, 
 
 > من علومك علم اللوح والقلم
 
-The Roman Urdu rendering given in the source is preserved as poetry:
+In Roman Urdu:
 
 > Aapke ilm ke samne lauho qalam ka ilm ek zarra hai
 
@@ -76,7 +74,7 @@ The Roman Urdu rendering given in the source is preserved as poetry:
 
 After presenting the explanation of Mulla Ali Qari رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ, we now offer to the readers the statements of Shaykh Muhaddith Dehlawi رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ, who wrote in his commentary on *Mishkat Sharif* that the statement of the Noble Prophet ﷺ, “I came to know whatever is between the earth and the heavens,” conveys that he ﷺ knew all universal and particular forms of knowledge and encompassed all knowledge relating to the earth and the heavens.
 
-## Printed Page 44 — The Knowledge of All Birds and All People
+## The Knowledge of All Birds and All People
 
 In his commentary on *Shifa Sharif*, Allama Khifaji writes—and Allama Zurqani writes in his commentary on *Mawahib* while explaining the narrations of Sayyiduna Abu Dharr and Sayyiduna Abu Darda رَضِیَ اللّٰہُ تَعَالٰی عَنْہُمَا—that there is no bird between the heavens and the earth whose circumstances and details the Noble Prophet ﷺ did not tell us. This proves that the Noble Prophet ﷺ explained every particle of the heavens and the earth; no matter, whether general or detailed, remained that he had not explained.
 
@@ -84,13 +82,13 @@ Imam Ahmad Qastalani says that there can be not the slightest doubt that Allah A
 
 > وسع العالمين علما وحكما
 
-The Roman Urdu rendering in the source is preserved as poetry:
+In Roman Urdu:
 
 > Muheet jumla aalam, Ilme Mustafai hai
 
 Imam Ibn Hajar Makki writes:
 
-## Printed Page 45 — The Knowledge of Every Person, Past and Future
+## The Knowledge of Every Person, Past and Future
 
 > “When Allah Almighty granted the Noble Prophet ﷺ knowledge of the whole world, he ﷺ came to know the circumstances of all people who had passed and all who were yet to come.”
 
@@ -106,7 +104,7 @@ Allah Almighty states:
 
 > “O Prophet, the Knower of the unseen! We have sent you as a Present Eyewitness (Haazir and Naazir), a bearer of glad tidings, and a warner.” (Al-Ahzab: 45)
 
-## Printed Page 46 — The Pure Soul of the Prophet ﷺ in the Homes of Muslims
+## The Pure Soul of the Prophet ﷺ in the Homes of Muslims
 
 Qadi Iyad writes in *Shifa Sharif* that when you enter an empty house, offer salutations to the Prophet ﷺ. Allama Mulla Ali Qari writes in his commentary that the pure soul of the Noble Messenger ﷺ is present in the homes of all Muslims.
 
@@ -118,7 +116,7 @@ The knowledge of the Noble Prophet ﷺ was made so vast that, besides Allah Almi
 
 > “Above every person of knowledge is One who knows more.” (Yusuf: 76)
 
-## Printed Page 47 — The Generality of Quranic Knowledge
+## The Generality of Quranic Knowledge
 
 The noble verse mentioned above is general; it does not specify any particular person. If it is understood to apply to all possessors of knowledge, then our Noble Prophet ﷺ is the highest and most worthy of them all. In the earthly world, every learned person may be distinguished above another, but higher and greater than our Prophet ﷺ is only the Noble Being of Allah. The term “possessor of knowledge” cannot be applied to Allah’s Being in this sense, because its indefinite form indicates “some”; therefore, no further specification is required.
 
@@ -130,7 +128,7 @@ In the preceding lines, we have presented various stations of the knowledge of t
 
 To explain, there must be one who explains—and that is Allah Almighty—and one about whom the explanation is given: those to whom the Holy Quran was revealed, our Master and Patron, Muhammad, the Messenger of Allah ﷺ.
 
-## Printed Page 48 — Every Particular Is Included
+## Every Particular Is Included
 
 According to Ahl-e-Sunnat, everything that exists is a “thing,” and this includes all existent beings: from the lowest earth to the Throne, from east to west, essences, states, movements and stillness, the flutter of an eyelid, the reach or failure of a glance, the conditions and thoughts of hearts, intentions and purposes—in short, everything that has happened and everything that will happen. All the treasures and every single thing recorded in the Preserved Tablet are contained in the Quran. The Quran mentions these matters clearly and in detail; the One Who revealed the Quran knows every inscription of the Tablet.
 
@@ -142,7 +140,7 @@ All these things descended upon the Noble Prophet ﷺ in the form of the Quran.
 
 Besides the verses mentioned above, the treasures of Hadith are filled with the knowledge of the Noble Prophet ﷺ. Everything that will happen from the beginning to the end is recorded in the Preserved Tablet; all conditions until eternity are contained therein. In *Tafsir Baydawi* it is stated that the matter from pre-eternity to eternity is finite, because infinite things and all their details cannot fit within the measure of pre-eternity and eternity.[^1]
 
-## Printed Page 49 — Generality and Definitive Proof
+## Generality and Definitive Proof
 
 This is not hidden from people of insight and faith: this is what is meant by *maa kaana wa maa yakoon* (what has happened and what will happen). In the principles of jurisprudence, it is made clear that an indefinite noun in a negative context is general. It is therefore impermissible to say that Allah Almighty left anything out of His speech. The word “all” is even more explicit in its generality than any other text, so it is not permissible that anything remain absent from a clear statement and detailed explanation.
 
@@ -150,11 +148,9 @@ This is not hidden from people of insight and faith: this is what is meant by *m
 
 The principles of jurisprudence distinguish between *qatiyyat-e-kalami* (theological definitiveness) and *qatiyyat-e-usooli* (definitiveness in legal principles). General definitiveness in legal principles is subject to juristic reasoning; before theological definitiveness, it carries little weight.[^2]
 
-[^1]: The source has an explanatory footnote: “This subject has already been explained more clearly in the First View: the Throne and the earth are two limits, and the first and last day are also limits; all these things are contained within times and places and are finite. Some people are surprised at how the Preserved Tablet, the Throne and the earth, and pre-eternity and eternity can encompass all things. But those who understand the concept of Allah’s infinite knowledge have no hesitation. The Holy Quran is one Book, one drop, in comparison with the boundless oceans of Allah Almighty’s knowledge. In terms of its words, it is a finite treasure from His infinite treasures. Some people stop at this point; their intellects fail them. The Quran mentions the five unseen matters and the record of the Preserved Tablet; all these finite matters are a portion of the Noble Prophet’s ﷺ knowledge. The Quran is finite in its descent, and its verses point to finite matters. The mind cannot grasp this point until it understands infinite knowledge. In truth, it needs no further explanation, but people stop short of recognizing reality because, through their limited understanding, they imagine the finite knowledge of the Noble Prophet ﷺ to be infinite.” (Ahmad Raza Khan)
+[^1]: I explained this subject more fully in the First View: the Throne and the earth are two limits, and the first and last day are also limits; all these things are contained within times and places and are finite. Some people are surprised at how the Preserved Tablet, the Throne and the earth, and pre-eternity and eternity can encompass all things. But those who understand the concept of Allah’s infinite knowledge have no hesitation. The Holy Quran is one Book, one drop, in comparison with the boundless oceans of Allah Almighty’s knowledge. In terms of its words, it is a finite treasure from His infinite treasures. Some people stop at this point; their intellects fail them. The Quran mentions the five unseen matters and the record of the Preserved Tablet; all these finite matters are a portion of the Noble Prophet’s ﷺ knowledge. The Quran is finite in its descent, and its verses point to finite matters. The mind cannot grasp this point until it understands infinite knowledge. In truth, it needs no further explanation, but people stop short of recognizing reality because, through their limited understanding, they imagine the finite knowledge of the Noble Prophet ﷺ to be infinite.” (Ahmad Raza Khan)
 
-[^2]: The source begins the discussion of the distinction between definitive theological and legal proofs here; the following argument continues on the next source pages.
-
-## Printed Page 50 — The Quran’s Revelation and the Growth of Knowledge
+## The Quran’s Revelation and the Growth of Knowledge
 
 A Hanafi’s use of the generality of a Quranic text, and the fact that it is decisive according to his school, neither permits him to make an absolute judgement about the Divine intent nor takes him outside the scope of interpretation.
 
@@ -164,17 +160,17 @@ The entire Quran—with all its Surahs, verses, and sections—did not descend a
 
 Before the Quran was revealed, the accounts of earlier Prophets were given briefly and not in detail; then the events of those great Messengers began to be disclosed in detail. Although the hypocrites secretly spoke insolently about the knowledge of the Noble Prophet ﷺ, whenever he ﷺ paused or deliberated over a matter, they would look at one another and say that the Noble Prophet ﷺ—Allah forbid—was unaware. Then revelation would come, and his knowledge would increase. This is neither proof of a deficiency in the Prophet’s ﷺ knowledge nor contrary to a Quranic verse.
 
-## Printed Page 51 — The Prophet’s ﷺ Deliberation Is Not Proof of Ignorance
+## The Prophet’s ﷺ Deliberation Is Not Proof of Ignorance
 
 The Wahhabis offer various proofs to claim deficiencies in the knowledge of the Noble Prophet ﷺ. Whenever they find an incident or story in which he ﷺ chose silence or deliberated, they infer that he was unaware. This is their foolish and ignorant habit, whereas interpreting such incidents as unawareness on the Prophet’s ﷺ part is itself a sign of ignorance.
 
 We praise Allah Almighty. The proofs the Wahhabis bring when speaking of deficiencies in the knowledge of the Noble Prophet ﷺ are weightless and useless. Even if, by an impossible supposition, an incident occurred in which the Noble Prophet ﷺ remained silent after revelation had descended, it still would not be decisive proof of a deficiency in his knowledge.[^3]
 
-If I were to present here all the proofs of the Imams from the books of jurisprudential principles, they would be beyond counting. Today, the leader of the Wahhabis in India, Rashid Ahmad Gangohi, wrote in *Baraheen-e-Qati'ah*—a book he attributes to his student Khalil Ahmad Ambethwi—...
+If I were to present here all the proofs of the Imams from the books of jurisprudential principles, they would be beyond counting. The leader of the Wahhabis in India, Rashid Ahmad Gangohi, wrote in *Baraheen-e-Qati'ah*—a book he attributes to his student Khalil Ahmad Ambethwi—:
 
-[^3]: The source explains that one proof of the Wahhabis’ ignorance is their use of the Hadith of Intercession: “Then I shall raise my head and praise and glorify my Lord, and He will teach me.” It asks what evidence this gives of ignorance. Rather, it shows a further increase in the knowledge and excellence of our Master and Patron, for on the Day of Judgement Divine Attributes will be manifested to the Noble Prophet ﷺ and secrets will be disclosed to him that were not manifested during his outward worldly life. This is no cause for blame. As explained earlier, the knowledge of the Noble Prophet ﷺ does not encompass the Essence and Attributes of Allah Almighty; the finite cannot encompass the infinite. His new knowledge concerning the Divine Essence and Attributes will continue to increase until eternity, yet it will never encompass them: whatever knowledge is received is finite, while what remains is infinite. This contradicts neither our claim nor indicates any deficiency in the Prophet’s ﷺ knowledge. (Ahmad Raza Khan)
+[^2]: One proof of the Wahhabis’ ignorance is their use of the Hadith of Intercession: “Then I shall raise my head and praise and glorify my Lord, and He will teach me.” What in this is evidence of ignorance? Rather, it shows a further increase in the knowledge and excellence of our Master and Patron: on the Day of Judgement, Divine Attributes will be manifested to the Noble Prophet ﷺ, and secrets will be disclosed to him that were not manifested during his outward worldly life. This is no cause for blame. As explained earlier, the knowledge of the Noble Prophet ﷺ does not encompass the Essence and Attributes of Allah Almighty; the finite cannot encompass the infinite. His new knowledge concerning the Divine Essence and Attributes will continue to increase until eternity, yet it will never encompass them: whatever knowledge is received is finite, while what remains is infinite. This contradicts neither our claim nor indicates any deficiency in the Prophet’s ﷺ knowledge. (Ahmad Raza Khan)
 
-## Printed Page 52 — Gangohi’s Statement on Bestowed Knowledge
+## Gangohi’s Statement on Bestowed Knowledge
 
 Gangohi himself acknowledged that Allah Almighty bestowed knowledge of the unseen upon the Noble Prophet ﷺ, but he wrote this accepted truth in guarded and evasive words:
 
@@ -184,7 +180,7 @@ Gangohi’s position is now fully exposed, and the truth is clear. We say with c
 
 It is a separate matter if the Noble Prophet ﷺ knew something but did not state it, because he ﷺ had thousands and hundreds of thousands of kinds of knowledge that he knew but was not commanded to disclose. It is possible that some knowledge slipped from his mind while his blessed attention was directed to a more important and momentous matter. Forgetting something is not proof that the knowledge was absent.
 
-## Printed Page 53 — A Challenge to Produce Decisive Proof
+## A Challenge to Produce Decisive Proof
 
 We say to the Wahhabis of India: bring a proof, any proof, that negates the knowledge of the Noble Prophet ﷺ, if you are truthful. If you have not been able to produce such proof until now, we tell you that you will never be able to produce it. Know that Allah never permits deceivers to continue scheming and misleading people.
 
@@ -192,7 +188,7 @@ It is astonishing that the aforementioned Gangohi classifies the excellence of t
 
 We appeal to the believers’ zeal for Islam and wish to make this clear: these people harbour grave doubts about the Noble Prophet ﷺ. They acknowledge his knowledge, but not on the basis of definitive texts; they accept it only through Hadiths about virtues. They do not accept the reliable, authentic Hadiths of the two Sahih collections, and to refute them they bring forward every fallen, false, and fabricated report. Can such people claim Islam? Never—never!
 
-## Printed Page 54 — *Baraheen-e-Qati'ah* and *Taqdis-ul-Wakil*
+## *Baraheen-e-Qati'ah* and *Taqdis-ul-Wakil*
 
 You may recall *Baraheen-e-Qati'ah*, attributed to Khalil Ahmad Ambethwi, who came this year to perform Hajj and is still in Makkah Mukarramah. His teacher Rashid Ahmad Gangohi wrote an endorsement supporting the book and declared every word of it correct.
 
@@ -206,7 +202,7 @@ Our master, the Shaykh of the scholars and Mufti of the Shafi'is in Makkah, Maul
 
 The current Mufti of the Malikis, the distinguished Muhammad Abid ibn the late Shaykh Husain, praised those who refuted *Baraheen-e-Qati'ah* and called its author the tribulation of the age. The Hanafi Mufti of the Hanbalis, Maulana Khalaf ibn Ibrahim, said that those who refute the author of *Baraheen-e-Qati'ah* and his supporters are upon righteousness.
 
-## Printed Page 55 — Further Testimony of the Scholars
+## Further Testimony of the Scholars
 
 The Hanafi Mufti of Madinah Munawwarah, Maulana Ajmal Usman ibn Abdus Salam, said:
 
@@ -218,7 +214,7 @@ The book then compares the Noble Prophet’s ﷺ gathering to celebrate his birt
 
 This insolent cleric compared all the ceremonies for the Noble Prophet’s ﷺ birth to “Kanhaiyya’s birth,” and described the gathering for the Prophet’s ﷺ birth as even worse than those polytheistic practices. He says:
 
-## Printed Page 56 — The Milad Gathering and Deobandi Scholars
+## The Milad Gathering and Deobandi Scholars
 
 > “Hindus set a particular date, but these Muslims are not bound to any date for celebrating the day of Milad; whenever they wish, they continue performing these absurd practices.”
 

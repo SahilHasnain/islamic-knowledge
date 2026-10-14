@@ -1,8 +1,6 @@
 # Bahjat-ul-Asrar and Its Author
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 84–89 (printed pages 80–85), ending before the heading “Kis Zameen Par Inteqal Hoga?”
-
-## Printed Page 80 — Bahjat-ul-Asrar and Its Author
+## Bahjat-ul-Asrar and Its Author
 
 The eminent Imam, the most excellent knower of Allah, the perfected Wali, Shaykh of the reciters, support of the scholars, and choice of the *Urafa* (knowers of Allah), Sayyiduna Imam Abdul Hasan Ali ibn Yusuf ibn Jarir al-Misri قُدِّسَ سِرُّهُ, had the honour of being a student of the eminent Imam Abul Khair Shamsuddin Muhammad ibn Muhammad ibn Muhammad ibn Muhammad al-Jariri, author of *Hisn-ul-Hasin*.
 
@@ -32,9 +30,9 @@ Shaykh ibn Shaykh Abil Majad Mubarak ibn Ahmad al-Baghdadi al-Harimi al-Hanbali 
 >
 > ‘The fifth will be a fair-skinned Yemeni Christian. He will wear a *zunnar* (a distinctive girdle) beneath his clothing. He left his country three years ago and does not disclose his religion to anyone. He is spying to learn about the condition of the Muslims.’”
 
-## Printed Pages 81–82 — The Five Visitors Arrive
+## The Five Visitors Arrive
 
-It was only a short time before these people came into the service of Hazrat Ghaus-ul-Azam. The non-Arab asked for roasted meat; the Iraqi asked for *chawak*[^1] and duck meat; the Syrian asked for Syrian apples; and the Yemeni asked for a soft-boiled egg. None of them had told the others what he wanted. While we watched, the foods they desired were brought to them, and they began eating.
+It was only a short time before these people came into the service of Hazrat Ghaus-ul-Azam. The non-Arab asked for roasted meat; the Iraqi asked for *chawak* (a game bird) and duck meat; the Syrian asked for Syrian apples; and the Yemeni asked for a soft-boiled egg. None of them had told the others what he wanted. While we watched, the foods they desired were brought to them, and they began eating.
 
 Abul Majad said:
 
@@ -46,7 +44,7 @@ As soon as he heard this, the man leapt up with a cry and accepted Islam. His Em
 
 The man passed away exactly as the Shaykh had foretold—not a moment earlier or later. The Iraqi remained ill for a month and died there, in a corner of one of the Shaykh’s lodges; I myself performed his funeral prayer. The Syrian passed away in my presence in the Haram. His death occurred precisely seven years, three months, and seven days later, just as the Shaykh had said.
 
-## Printed Page 83 — The Ghaus’s Foreknowledge of Seventy-Two Matters
+## The Ghaus’s Foreknowledge of Seventy-Two Matters
 
 This is an account that no sensible person can deny. Hazrat Ghaus-ul-Azam رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ is a devoted servant among the servants of the Noble Prophet ﷺ, a servant of his ﷺ servants’ servants. He disclosed seventy-two matters of the unseen concerning one man: secrets hidden in hearts, the place and time of death, its causes, what a person would do the next day, and many other unseen matters. There is no doubt or uncertainty about this.
 
@@ -56,7 +54,7 @@ Eleven unseen matters were disclosed concerning the non-Arab: he would be fair w
 
 Likewise, eleven unseen matters were disclosed concerning the Iraqi: he would be fair, with a reddish hue; he would have a defect in one eye; he would be lame in his foot; he would desire duck and eat it with rice; he would become ill; remain ill for a month; die of that illness; die there; and die one month later.
 
-## Printed Page 84 — Further Details of the Predictions
+## Further Details of the Predictions
 
 Fifteen unseen matters were disclosed concerning the Egyptian: he would be wheat-coloured; have a squint; have six fingers on his left hand; have a wound that had not fully healed, an old wound from thirty years earlier; desire honey—not merely honey, but honey mixed with ghee; engage in trade; conduct his business in India; continue trading there for twenty years; die in India; and pass away after twenty years.
 
@@ -65,5 +63,3 @@ Nine unseen matters were disclosed concerning the Syrian: he would be wheat-colo
 Eight unseen matters were disclosed concerning the Yemeni: he would be fair and wheat-coloured; be a Christian; have a cross beneath his clothing; have left his country to test the Muslims; have spent three years in this work; concealed his intention from both his family and his townspeople; desire an egg; and ask for it soft-boiled.
 
 These were the sixty-two unseen matters that Hazrat Ghaus-ul-Azam رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ disclosed before these people arrived. In addition, he disclosed five more unseen matters: none of them had told the others what he desired or intended, yet each of the five wished to receive a particular item. These seventy-two matters of the unseen were made manifest through the words of Hazrat Ghaus Pak رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ.
-
-[^1]: The source uses the word *chawak* for this meat; the exact bird species is unclear in the JSON.

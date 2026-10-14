@@ -1,8 +1,6 @@
 # The Third View
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 31–38 (printed pages 27–34), ending before the next section heading, “Nazre Chaharum.”
-
-## Printed Page 27 — Opening of the Third View
+## Opening of the Third View
 
 They have made finite knowledge equal to Allah Almighty’s knowledge, which is unlimited and infinite. By doing so, they testify to disbelief, claiming that the knowledge of Allah and the knowledge of creation are the same—Allah forbid!
 
@@ -14,13 +12,13 @@ O Allah, have mercy! Darkness has spread, shadows have grown exceedingly dense, 
 
 If some confused person were to imagine, “Then what distinction is there between us and our Prophet ﷺ? Whatever knowledge the Noble Prophet ﷺ has, all the Prophets have the same; and we, too, have that same knowledge. Whatever we do not know, neither do they; therefore, you and we are equal”—such a thought could not enter even the mind or imagination of a scholar, let alone an ignorant person. Yet it is no surprise from the Wahhabis, for they are an irrational people and a crooked sect. Among them is not even one scholar who has the capacity to acknowledge the perfections of the Noble Prophet ﷺ.
 
-## Printed Page 28 — A Crooked-Minded Indian
+## A Crooked-Minded Indian
 
 It so happened that, during those days, an old man from this sect—crooked-minded and obsessed with calling himself a Sufi—kept making loud claims. He was an arrogant, conceited, stubborn Indian. Recently, he had written a short treatise. Its wording was so base and insolent that it seemed as if the seven heavens would split apart. He had named his treatise *Hifz-ul-Iman* (“Safeguarding Faith”), although its wording was *Khifz-ul-Iman* (“destroying faith”). He writes:
 
 > “The claim that knowledge of the unseen belongs to your sacred person—if, according to Zaid, it is correct—raises the question: by ‘the unseen,’ is some of the unseen meant, or all of it? If some knowledge of the unseen is meant, then what distinction is there for the Noble Prophet? Such knowledge of the unseen is available to Zaid and Amr, indeed to every child and madman, and even to all animals and beasts. But if all knowledge of the unseen is meant, so that not a single individual is excluded, then its impossibility is established by rational and transmitted proofs.”
 
-## Printed Page 29 — The Claim That Bestowed Knowledge Is Specific to the Prophets
+## The Claim That Bestowed Knowledge Is Specific to the Prophets
 
 This stubborn old man does not even know that absolute bestowed knowledge is, in essence, specific to the Prophets عَلَيْهِمُ السَّلَام. For this reason, our Generous Lord has stated:
 
@@ -38,8 +36,6 @@ Allah Almighty states:
 
 At-Tabarani in *Al-Mu'jam al-Kabir*, Nu'aym ibn Hammad in *Kitab al-Fitan*, and Abu Nu'aym in *Hilyat al-Awliya* narrate from Abdullah ibn Amr رَضِیَ اللّٰہُ تَعَالٰی عَنْہُمَا that the Noble Prophet ﷺ said:
 
-## Printed Page 30
-
 > “Indeed, Allah Almighty laid the world before me. I see it, and the events that will occur in it up to the Day of Judgement, as I see my own palm. It is as though I see a light upon my palm. This is a light Allah has made radiant for His Prophet; a similar light was also given to the Prophets before me.”
 
 The old man we have been discussing set up two categories: “all” and “some.” He says that the first category, “all,” does not exist; but in the second category, “some,” he includes everyone, then concludes: “What distinction is there in your knowledge?” Yet the knowledge, forbearance, and wisdom of the Messenger of Allah ﷺ encompass the whole world. Allah Almighty has honoured him with immeasurable knowledge and bestowed upon him immense favour.
@@ -48,13 +44,13 @@ All the knowledge of those who came before and those who will come after stands 
 
 He does not even understand that the word “some,” which he uses to diminish the knowledge of Mustafa ﷺ, is so vast that it encompasses everything from an immeasurably tiny drop to hundreds of thousands and millions of surging oceans. No one has fathomed the depth or extent of this “some.” These oceans have neither shore nor end; all of them are still only “some” of his knowledge. Who, then, can encompass this “some”? The knowledge of Mustafa ﷺ is as vast as Allah wills.
 
-## Printed Page 31 — Continuing the “Some” Argument
+## Continuing the “Some” Argument
 
 Only such crooked arguments devise standards of equality and likeness, or of negation and deficiency, from the word “some.” These people might as well say—Allah forbid!—that Allah Almighty’s power is equal to the power of Zaid, Amr, a child, an animal, or a quadruped. After all, every animal has power to perform some action or movement, even though its power is not creative; yet the word “some” would apply here too. Allah Almighty is exalted above such comparison and possesses power through His own Noble Being; otherwise, He would be subject to another’s power.
 
 Could it not then be possible to ask whether God exists or not? Whatever exists through power is brought into existence. Whatever is brought into existence was previously nonexistent. Here too, the word “some” could be applied; this does not encompass all things either. Would not equality and every other objection then follow?
 
-### A King and an Ungrateful Beggar — Printed Pages 31–33
+### A King and an Ungrateful Beggar
 
 To show the standing of someone who holds this view, we present an example.
 
@@ -66,7 +62,7 @@ The Chief Deputy distributed the treasures to all the nawabs and chiefs, and the
 
 Among those needy people was an unfortunate man with a vile character and filthy mentality. He quarrelled with the king and his nawabs and showed regard for no one. He respected and honoured nobody, even though he himself was in need of a day’s bread. Because of his stubbornness, he could not obtain even one rupee. He kept saying, “The Chief Deputy and I are equal in wealth and dominion. If you mean ownership of all the wealth, even the deputy cannot obtain that. If you mean ownership of some of it, what is so special about the Chief Deputy? I am an equal owner too.”
 
-### Applying the King’s Example — Printed Pages 33–34
+### Applying the King’s Example
 
 This ungrateful, wretched pauper neither acknowledged the authority of the Caliph and the Chief Deputy nor respected the office of the Caliphate. In his view, the occupied treasuries, counterfeit coins, and treasures still buried in the earth were all the same. He paid no regard to the power of the king of the age, nor to his greatness and majesty; he considered the king equally entitled to distribute everything. In the end, he fell victim to the king’s majesty: instead of receiving a share of worldly treasure, he lost his life.
 

@@ -1,8 +1,6 @@
 # The Fourth View
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 38–44 (printed pages 34–40), ending before the next section heading, “Nazre Panjum.”
-
-## Printed Page 34 — Pursuing the Wahhabis’ False Statements
+## Pursuing the Wahhabis’ False Statements
 
 When the Wahhabis become helpless and despairing, they look for ways to protect themselves, although the time for escape has passed. They say that Allah bestowed some knowledge upon the Noble Prophet ﷺ in a miraculous manner, and that he knew only what was granted to him in that miracle. They say: “So hold only this belief, so that disagreements may end and mutual agreement may be achieved.”
 
@@ -24,8 +22,6 @@ Their elder from Gangoh wrote in *Baraheen-e-Qati'ah*:
 
 He then shamelessly presented this statement as a Hadith of the Noble Prophet ﷺ and attributed it to Shaykh Abdul Haq Muhaddith Dehlawi رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ, whereas the Shaykh had mentioned it only as a point under examination and had written:
 
-## Printed Page 35
-
 > “This is neither a Hadith nor an authentic narration.”
 
 He clarified this in his book *Madarij-un-Nubuwwah*. What standing does the Wahhabis’ allegation have when examined against the verses of the Holy Quran, Prophetic Hadith, the statements of the Imams of religion, and the words of the earlier scholars? The whole world bears witness that the Noble Prophet ﷺ knew the knowledge of those before and after him; he was informed of events of the past and future. Everything Allah created was illuminated for him, and every particle was before him.
@@ -38,7 +34,7 @@ They compare the Noble Prophet ﷺ to their own vile selves. This old habit was 
 
 > “You are only human beings like us.” (Ya-Sin: 15)
 
-## Printed Page 36 — The Prophets Are Not Like Ordinary People
+## The Prophets Are Not Like Ordinary People
 
 In view of this, the Wahhabis hold views worse than those of the ancient polytheists. The polytheists rejected Prophethood outright. Regarding the noble Prophets as ordinary people, they used to say, “You are only human beings like us,” and challenge them: “Why do you boast of your knowledge?” But the Wahhabis, even after believing in Prophethood and acknowledging the Noble Prophet ﷺ as the Seal of the Prophets and the most excellent of the Messengers, still call the Messengers people like themselves.
 
@@ -46,15 +42,15 @@ We glorify Allah, Who changes hearts and grants sight to eyes. This ideological 
 
 We are the true group of Ahl-e-Sunnat. We acknowledge that everything that passed from pre-eternity and everything that will come until the Last Day is not the entirety of our Prophet’s ﷺ knowledge; it is but a particle of his knowledge. Allah Almighty’s revealed text states:
 
-> “Allah taught you what you did not know, and this is a tremendous favour from Allah upon you.” (An-Nisa: 13, as cited in the source)
+> “Allah taught you what you did not know, and this is a tremendous favour from Allah upon you.” (An-Nisa: 13)
 
-## Printed Page 37 — “Now Hear My Request”
+## “Now Hear My Request”
 
 In this noble verse, Allah Almighty declares His favour upon His Beloved ﷺ: “I taught you what you did not know.” After declaring this favour, He says that it is a tremendous favour from Allah. The gift of knowledge of *maa kaana wa maa yakoon* (what has happened and what will happen) was no ordinary matter. Every word of *maa kaana wa maa yakoon* was present in the Preserved Tablet. Allah Almighty granted the Noble Prophet ﷺ knowledge of the Preserved Tablet, then gave him knowledge of this world and the Hereafter, as well as knowledge of the events that will occur when the Day of Judgement is established.
 
 In the language of the Quran, all the things in the universe are “a little provision” (An-Nisa: 197). After granting knowledge of all these things, it would not have been remarkable for Allah Almighty to mention His favour to His Beloved ﷺ. Kings do not usually speak of a favour when they give a small gift; such mention is appropriate when the gift is extraordinary and abundant. Thus, the Noble Prophet ﷺ was granted abundant knowledge of the Resurrection and the Hereafter, and knowledge of all the stages and degrees of the gathering, the reckoning, the accounting, reward and punishment. People will reach their respective places in Paradise and Hell; Allah Almighty also granted His Noble Beloved ﷺ knowledge of what lies beyond those places.
 
-## Printed Page 38 — Knowledge of the Preserved Tablet and the Pen
+## Knowledge of the Preserved Tablet and the Pen
 
 The Noble Prophet ﷺ recognized his Lord through His Being and Attributes—knowledge of which no mind besides God’s can conceive. Allah Almighty bestowed these gifts upon His Beloved, then declared His favour and tremendous grace.
 
@@ -62,17 +58,17 @@ It is thereby established that all the knowledge of the Preserved Tablet is but 
 
 > فإن من جودك الدنيا وضرتها ومن علومك علم اللوح والقلم
 
-The Roman Urdu rendering given in the source is preserved as poetry:
+In Roman Urdu:
 
 > Aap ki bakhshish ka dunya aur aur iske\
 > lawazimaat to ek hissa hain, aur aapke uloom ke\
 > saamne lauho qalam ek zarra hain
 
-## Printed Page 39 — The Significance of “Min”
+## The Significance of “Min”
 
 Imam Busiri used the word *min* (“from”), which indicates “some.” Now will these people, who measure the knowledge of the Noble Prophet ﷺ by limited and finite standards, express fury and rage against Imam Busiri’s faith and burn with anger?
 
-## Printed Page 40 — Mulla Ali Qari’s Explanation
+## Mulla Ali Qari’s Explanation
 
 In explaining this couplet, Mulla Ali Qari رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ says that “knowledge of the Tablet” means the sacred inscriptions and unseen forms recorded upon it. “Knowledge of the Pen” refers to those trusts of Allah Almighty that He has kept preserved according to His Will.
 

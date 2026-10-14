@@ -20,6 +20,7 @@ For translated manuscripts, metadata must be written in the translated language 
 8. **Rendering of ummi for the Final Prophet ﷺ** — When *ummi* describes the Final Prophet ﷺ, always render it as *"unschooled"*, never *"unlettered"*. For Roman Urdu, use *bepadha*.
 9. **Rendering of ummi for ordinary people** — When *ummi* describes ordinary people, a community, or non-prophetic persons, render it as *"unlettered"* (or *"illiterate"* where the context specifically means inability to read and write). Do not use *"unschooled"* for ordinary people merely because the Arabic word is *ummi*.
 10. **Mandatory distinction** — *Unschooled* is reserved for the Final Prophet ﷺ; *unlettered* is the default for ordinary people. Preserve an exact published Quran translation when it uses different wording, but follow this distinction in translated tafseer prose.
+11. **“Lord” is reserved for Allah Almighty** — In all translations, use “Lord” only for Allah Almighty. Never use “Lord” as a title for the Prophet ﷺ or any created person, even when the source uses *mawla*. Choose a reverent context-appropriate alternative such as “Master,” “Patron,” or “Beloved.” Preserve an exact published Quran translation when it uses “Lord” for Allah.
 
 ### Roman Urdu transliteration or translation preference
 

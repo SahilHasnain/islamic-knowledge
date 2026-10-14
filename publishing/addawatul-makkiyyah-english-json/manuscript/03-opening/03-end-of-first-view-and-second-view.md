@@ -1,9 +1,5 @@
 # First View: Conclusion and Second View
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 27–31 (printed pages 23–27). This batch begins after the already translated paragraph on JSON page 27 and ends with the complete paragraph before the source heading “Nazre Siwum.”
-
-## Printed Page 23 — Continuation of the First View
-
 In 1318 AH, these people sent me a similar questionnaire in Delhi. In response, I wrote a book entitled:
 
 > **"انباء المصطفى بحال سر و اخفى"**
@@ -11,8 +7,6 @@ In 1318 AH, these people sent me a similar questionnaire in Delhi. In response, 
 That book brought a calamity upon the Wahhabis. They were denying what Allah Almighty had stated in the Quran, even though their claims negated their own faith and stood as clear testimony to their loss. Because of these blasphemous statements, they became unbelievers and apostates.
 
 Then the Wahhabis committed an enormous act of disbelief concerning the Leader of the Prophets ﷺ. They said that the Prophet ﷺ had not known the circumstances of his own end, nor the end of his Ummah. This, too, is a denial of verses that are perfectly clear:
-
-## Printed Page 24
 
 1. “Indeed, your Hereafter is better for you than your worldly life.” (Ad-Duha: 4)
 2. “Indeed, soon your Lord will give you so much that you will be pleased.” (Ad-Duha: 5)
@@ -25,7 +19,7 @@ Then the Wahhabis committed an enormous act of disbelief concerning the Leader o
 
 Countless Hadith, transmitted successively with a single meaning, have come concerning the interpretation and explanation of these verses. They form an ocean without shore, and it would be difficult to enumerate them. But after the Word of Allah and the Hadith of the Noble Prophet ﷺ, what speech is there upon which one should place faith?
 
-## Printed Page 25 — The Second View
+## The Second View
 
 ### The Difference Between Intrinsic and Bestowed Knowledge
 

@@ -1,14 +1,12 @@
 # My Request
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 71–75 (printed pages 67–71), ending before “Maut wa Hayaat ka Ilm.”
-
-## Printed Page 67 — The Intercession of the Prophet ﷺ
+## The Intercession of the Prophet ﷺ
 
 Sayyiduna Sawad ibn Qarib رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ first denied everything besides Allah. Second, he affirmed that the Noble Prophet ﷺ certainly possesses knowledge of the unseen. Third, he believed that the Prophet ﷺ intercedes. The Noble Prophet ﷺ said:
 
 > “I have been granted the gift of intercession.”
 
-## Printed Page 68 — Intercession in This World
+## Intercession in This World
 
 This Hadith is recorded in Sahih Muslim.
 
@@ -30,7 +28,7 @@ Sayyiduna Sawad ibn Qarib رَضِیَ اللّٰہُ تَعَالٰی عَنْ�
 
 The Noble Prophet ﷺ is closest to Allah Almighty in intercession.
 
-## Printed Page 69 — The Intercession of the Prophet ﷺ
+## The Intercession of the Prophet ﷺ
 
 All other intercessors will intercede through him ﷺ. This is why Sayyiduna Sawad ibn Qarib appealed to the court of the Noble Prophet ﷺ.
 
@@ -46,7 +44,7 @@ All the thoughts mentioned above belong to a Companion who was a lover of the No
 
 Those unaware of the station of Mustafa ﷺ cite this verse concerning the Prophet’s ﷺ—Allah forbid—lack of knowledge:
 
-## Printed Pages 70–71 — The Messengers’ Knowledge and Divine Grant
+## The Messengers’ Knowledge and Divine Grant
 
 > “On the Day when Allah gathers the Messengers, He will say, ‘What response did you receive?’ They will say, ‘We have no knowledge.’” (Al-Ma'idah: 109)
 

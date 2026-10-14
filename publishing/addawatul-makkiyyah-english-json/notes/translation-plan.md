@@ -11,6 +11,10 @@
 
 ## Progress
 
+- Publication-preparation pass: removed JSON/source headers, translator-facing source notes, and
+  raw “Printed Page” labels from reader-facing manuscripts. Kept source mappings and unresolved
+  wording decisions here in the internal plan, and retained natural section headings and paragraph
+  structure in the manuscript.
 - Opening batch: JSON pages 13–17 (printed pages 9–13), in
   `manuscript/01-opening/01-pages-13-17.md`. It covers the author's opening remarks and the
   beginning of “The First Discussion: The Foundation of Religion,” through the examples of the
@@ -63,6 +67,10 @@
   (Haazir and Naazir)” form. The technical distinction between theological and legal
   definitiveness is kept explicit, and the source's phrase on *ahad* authentic Hadith is rendered
   as “authentic solitary Hadith.”
+- Global adab rule updated: “Lord” is reserved for Allah Almighty and is not used as a title for
+  the Prophet ﷺ or any created person. Auditing the current English manuscripts found one
+  non-divine use in the opening pages; it has been changed to “Master and Patron.” Other reviewed
+  uses of “Lord” refer to Allah Almighty, including in quoted Quranic translations.
 - Completed the opening subsection of “Nazre Shashum” in
   `manuscript/07-nazre-shashum/07-nazre-shashum-01-five-things.md`, covering JSON pages 63–65
   (printed pages 59–61), through the complete question about what exclusivity Allah Almighty

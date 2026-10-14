@@ -1,9 +1,5 @@
 # The Sixth View
 
-**Source:** `content/books/addawatul-makkiyyah.json`, JSON pages 63–65 (printed pages 59–61), ending before the next source heading, “The Wisdom Behind the Exclusivity of Five Matters.”
-
-## Printed Page 59
-
 ### Knowledge of Five Matters
 
 Some scholars have appeared who cannot even distinguish between the general and particular portions of textual proofs. They have begun to say: “You claim that your Prophet ﷺ knew everything that has happened and will happen, from pre-eternity to the end. That would include the five matters that no one knows except Allah. How, then, can it be correct to attribute to the Prophet knowledge that is exclusive to Allah?”
@@ -14,8 +10,6 @@ We do not attribute knowledge of what has happened and what will happen to the P
 
 What can the Deobandi scholars present against all these proofs? What has happened to them? What thoughts and beliefs are they clinging to? Do Allah Almighty’s verses refute one another? You read the Quran—use your reason and listen with awareness. We have already explained that Allah Almighty made a negation that cannot be invalidated, and established the matter in a way that leaves no room for denial.
 
-## Printed Page 60
-
 The reconciliation between the two verses is clear; you yourselves know the ways in which they are reconciled. It is as though you have ears but are deprived of hearing, and eyes but cannot see.
 
 Suppose it were accepted that Allah Almighty reserved knowledge of only five matters for Himself, while forbidding others from being given such knowledge—even though Allah Almighty continually grants various kinds of knowledge of the unseen to His servants, and there is nothing wrong in this granting.
@@ -25,8 +19,6 @@ There is no need to rush to a conclusion. Consider the matter calmly and thought
 > “Indeed, with Allah is the knowledge of the Hour. He sends down rain and knows what is in the wombs. No soul knows what it will earn tomorrow, and no soul knows in what land it will die. Indeed, Allah is All-Knowing, All-Aware.” (Luqman: 34)
 
 How does mentioning these five matters establish that they are exclusive to Allah? What specific quality of exclusivity is found in them?
-
-## Printed Page 61
 
 On reflection, some of these matters have no exclusive quality at all. For example, Allah Almighty sends down rain and knows what is inside the womb—but we do not accept that merely mentioning something in a context of praise necessarily makes it absolutely exclusive to Him. Allah Almighty has described His own Attributes as All-Hearing and All-Seeing, yet He has also granted His servants a plentiful share of these qualities. He states:
 
