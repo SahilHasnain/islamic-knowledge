@@ -15,6 +15,12 @@
 - Urdu poetry must be transliterated into Roman Urdu, not translated. Preserve line structure,
   speaker, addressee, devotional meaning, radif, and qafiyah; resolve pronouns from the whole poem.
 - Preserve quotations as quotations and retain bibliographic details as given.
+- Format the manuscript as a readable book, not as raw continuous text: use headings that follow
+  the source's section structure, keep separate source paragraphs separate, and set Quranic
+  translations and other quoted material apart from the author's prose. Use numbered or bulleted
+  lists only where the source itself enumerates points. Do not turn argument into a summary list.
+- Translate every assertion and qualification. Preserve technical distinctions, repetitions that
+  are meaningful in the source, rhetorical questions, examples, and the author's shifts in voice.
 
 ## Adab and Terminology
 

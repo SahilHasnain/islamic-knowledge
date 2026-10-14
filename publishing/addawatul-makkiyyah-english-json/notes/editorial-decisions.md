@@ -13,3 +13,8 @@ English project is unrelated and is not a source, reference, or style authority 
 - Keep Arabic quotations and honorifics exactly as present in the JSON.
 - Transliterating Urdu poetry into Roman Urdu is required; poetry is not translated into English.
 - Keep print-page references and JSON page numbers traceable in manuscript metadata/headers.
+- The source phrase “Basharte lashe” at JSON page 24 appears textually unclear. Retain it as
+  transliterated wording with an explicit note that its intended technical sense is unclear;
+  do not silently normalize or supply an interpretation.
+- The divination terms `tehare` and `haanse` on JSON page 68 are unclear in the source record.
+  Preserve them transliterated and flag the uncertainty rather than assigning meanings.
