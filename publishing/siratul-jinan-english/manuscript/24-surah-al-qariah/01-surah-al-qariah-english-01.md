@@ -86,7 +86,7 @@ However, the researched position concerning this is that Allah Almighty will adm
 
 2. Establishing the Scale on the Day of Judgement and weighing deeds is true. Allah Almighty states:
 
-“وَالْوَزْنُ یَوْمَىٕذِ ﹰالْحَقُّۚ- فَمَنْ ثَقُلَتْ مَوَازِیْنُهٗ فَاُولٰٓىٕكَ هُمُ الْمُفْلِحُوْنَ(۸)وَ مَنْ خَفَّتْ مَوَازِیْنُهٗ فَاُولٰٓىٕكَ الَّذِیْنَ خَسِرُوْۤا اَنْفُسَهُمْ بِمَا كَانُوْا بِاٰیٰتِنَا یَظْلِمُوْنَ” (Al-A'raf: 8–9)
+“وَ الْوَزْنُ یَوْمَىٕذِ ﹰالْحَقُّۚ- فَمَنْ ثَقُلَتْ مَوَازِیْنُهٗ فَاُولٰٓىٕكَ هُمُ الْمُفْلِحُوْنَ(۸)وَ مَنْ خَفَّتْ مَوَازِیْنُهٗ فَاُولٰٓىٕكَ الَّذِیْنَ خَسِرُوْۤا اَنْفُسَهُمْ بِمَا كَانُوْا بِاٰیٰتِنَا یَظْلِمُوْنَ” (Al-A'raf: 8–9)
 
 Kanz-ul-Irfan translation: “And weighing on that Day is certainly true. So those whose scales are heavy, they are the successful. And those whose scales are light, they are the ones who have put themselves into loss because they used to wrong Our signs.”
 
@@ -120,7 +120,7 @@ Kanz-ul-Irfan translation: “And weighing on that Day is certainly true. So tho
 
 **Arabic:** وَ مَاۤ اَدْرٰىكَ مَاهِیَهْﭤ(10)
 
-**Kanz-ul-Iman English translation:** And what have you understood what is the causer  of disgrace?
+**Kanz-ul-Iman English translation:** And what have you understood what is the causer of disgrace?
 
 ## Ayat 101:11
 

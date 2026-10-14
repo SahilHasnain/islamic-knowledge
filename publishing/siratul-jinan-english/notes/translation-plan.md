@@ -148,3 +148,32 @@ split at a complete entry boundary.
   limit.
 - Next eligible surah, determined from the database's sorted eligible list: 101, Al Qariah,
   11 aayaat.
+- Four-surah session workflow approved: process four consecutive eligible surahs with one
+  translation subagent per surah, followed by one independent review subagent per surah. Keep
+  source extraction, manuscript files, and reviews separate by surah; update this plan only
+  after the complete session passes cross-session verification.
+- Surah 101, Al-Qariah, was completed in
+  `manuscript/24-surah-al-qariah/01-surah-al-qariah-english-01.md`. It contains 131 lines and
+  all 11 aayaat. Tafseer IDs 54475–54478 cover 101:1, 101:4–6, while 101:2–3 and 101:7–11
+  are preserved as standalone `tafseerId=null` translation-only entries. Source and database
+  reviews passed after correcting the preserved Arabic quotation spacing and a minor spacing
+  issue in the Quran translation.
+- Surah 65, At-Talaq, was completed in
+  `manuscript/25-surah-at-talaq/01-surah-at-talaq-english-01.md`. It contains 251 lines and
+  all 12 aayaat. Tafseer IDs 54063–54071 cover the available tafseer rows; 65:7, 65:9, and
+  65:11 are preserved as standalone `tafseerId=null` translation-only entries. Source and
+  database reviews confirmed complete coverage, exact QuranDB text, metadata, and adab.
+- Surah 66, At-Tahrim, was completed in
+  `manuscript/26-surah-at-tahrim/01-surah-at-tahrim-english-01.md`. It contains 249 lines and
+  all 12 aayaat. Tafseer IDs 54072–54083 cover every aayat. Review found and corrected one
+  omitted source clause in the explanation of 66:8 and the spelling of Sayyidatuna Hafsah.
+- Surah 60, Al-Mumtahanah, was completed in
+  `manuscript/27-surah-al-mumtahanah/01-surah-al-mumtahanah-english-01.md`. It contains 285
+  lines and all 13 aayaat. Tafseer IDs 54006–54016 cover the available tafseer rows; 60:5 and
+  60:9 are preserved as standalone `tafseerId=null` translation-only entries. Review found and
+  corrected one QuranDB-prescribed spacing difference in the 60:8 translation.
+- The four-surah session passed source-completeness, QuranDB, metadata, script-hygiene,
+  Prophet-adab, line-limit, and `git diff --check` verification. No poetry occurred in these
+  four source batches.
+- Next eligible surah, determined from the database's sorted eligible list: 61, As-Saff,
+  14 aayaat.

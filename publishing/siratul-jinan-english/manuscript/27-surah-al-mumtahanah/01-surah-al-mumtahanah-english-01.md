@@ -147,7 +147,7 @@ The summary is: O believers! It is near that Allah Almighty will create such lov
 
 **Arabic:** لَا یَنْهٰىكُمُ اللّٰهُ عَنِ الَّذِیْنَ لَمْ یُقَاتِلُوْكُمْ فِی الدِّیْنِ وَ لَمْ یُخْرِجُوْكُمْ مِّنْ دِیَارِكُمْ اَنْ تَبَرُّوْهُمْ وَ تُقْسِطُوْۤا اِلَیْهِمْؕ-اِنَّ اللّٰهَ یُحِبُّ الْمُقْسِطِیْنَ(8)
 
-**Kanz-ul-Iman English translation:** Allah does not forbid you from those who did not fight against you on account of (your) religion and (they) did not drive you out from your homes, that you may be favourable towards them and deal with them fairly; indeed, the just ones are the beloveds of Allah.
+**Kanz-ul-Iman English translation:** Allah does not forbid you  from those who did not fight against you on account of (your) religion and (they) did not drive you out from your homes, that you may be favourable towards them and deal with them fairly; indeed, the just ones are the beloveds of Allah.
 
 {لَا یَنْهٰىكُمُ اللّٰهُ عَنِ الَّذِیْنَ لَمْ یُقَاتِلُوْكُمْ فِی الدِّیْنِ: Allah does not forbid you from those who did not fight against you on account of your religion.} There are many statements and differences of opinion in the exegesis of this verse, and more than a hundred practical cases to which it applies. Therefore, only one preferred summary is presented here. For details, study the treatise of Imam Ahmad Raza Khan رَحْمَۃُاللّٰہِ تَعَالٰی عَلَیْہِ in the fourteenth volume of Fatawa Razawiyyah, entitled “اَلْمَحَجَّۃُ الْمُؤْتَمِنَۃ فِی اٰیَۃِ الْمُمْتَحِنَہ”.
 
