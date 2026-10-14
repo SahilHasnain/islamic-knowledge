@@ -1,0 +1,5 @@
+title: Addawatul Makkiyyah — Independent English Translation from Source JSON
+source: content/books/addawatul-makkiyyah.json
+source_language: Roman Urdu and preserved Arabic quotations
+target_language: English
+workflow: Independent translation from source JSON records only
