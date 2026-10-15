@@ -78,5 +78,4 @@ At this point, the difference between more and less in faith will become clear, 
 
 Allah Almighty has commanded you to tell the people that what has been revealed to you is for the whole universe. Imam Busiri writes in the *Qasidah Burdah*:
 
-> Ya RasoolAllah! tujh se maangta hai har\
-> bada chhota
+> O Messenger of Allah! All—great and small—ask of you.

@@ -42,7 +42,7 @@ We glorify Allah, Who changes hearts and grants sight to eyes. This ideological 
 
 We are the true group of Ahl-e-Sunnat. We acknowledge that everything that passed from pre-eternity and everything that will come until the Last Day is not the entirety of our Prophet’s ﷺ knowledge; it is but a particle of his knowledge. Allah Almighty’s revealed text states:
 
-> “Allah taught you what you did not know, and this is a tremendous favour from Allah upon you.” (An-Nisa: 13)
+> “Allah taught you what you did not know, and this is a tremendous favour from Allah upon you.” (An-Nisa: 113)
 
 ## “Now Hear My Request”
 
@@ -58,11 +58,8 @@ It is thereby established that all the knowledge of the Preserved Tablet is but 
 
 > فإن من جودك الدنيا وضرتها ومن علومك علم اللوح والقلم
 
-In Roman Urdu:
-
-> Aap ki bakhshish ka dunya aur aur iske\
-> lawazimaat to ek hissa hain, aur aapke uloom ke\
-> saamne lauho qalam ek zarra hain
+> The world and all that pertains to it are but a portion of your generosity;\
+> Before your knowledge, the Tablet and Pen are but a particle.
 
 ## The Significance of “Min”
 

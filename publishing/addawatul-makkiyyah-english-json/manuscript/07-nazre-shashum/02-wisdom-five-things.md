@@ -64,15 +64,14 @@ For ordinary people, “There is no deity except Allah” means that there is no
 
 All these meanings are correct and true. Faith rests upon the first meaning, righteousness upon the second, the spiritual path upon the third, and arrival unto Allah upon the fourth. May Allah Almighty grant us a share in all these meanings.
 
-Sayyiduna Sawad ibn Qarib رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ presented these verses before the Noble Prophet ﷺ. In Roman Urdu:
+Sayyiduna Sawad ibn Qarib رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ presented these verses before the Noble Prophet ﷺ:
 
-> Main gawahi deta hoon ke beshak Allah hai\
-> aur uske siwa koi nahin aur beshak aap tamam\
-> mugheebaat ke ameen hain, beshak aap ateeb aur tahir\
-> aaba-o-ummahaat ke farzand hain, tamam rasoolo se\
-> zyada shafa'at karne waale hain aur Allah ke qareeb\
-> hain, Aap mere sifarashi ban jaaiye, us din aapke\
-> baghair koi shafa'at nahin kar sakega aur Sawaad bin\
-> Qaarib ko koi nafa nahin pahunch sakega
+> I bear witness that Allah truly is, and none is God besides Him;\
+> And truly, you are entrusted with all matters of the unseen.\
+> Pure and wholesome, born of pure fathers and mothers,\
+> Of all the Messengers, you are the greatest in intercession and near to Allah.\
+> So be my intercessor; on that Day, apart from you,\
+> No one will be able to intercede,\
+> And Sawad ibn Qarib will gain no benefit.
 
 This narration is also reported in *Musnad Imam Ahmad*.

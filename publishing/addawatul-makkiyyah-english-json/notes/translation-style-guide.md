@@ -14,8 +14,10 @@
 - Preserve exact Arabic Quranic quotations, hadith, duas, honorifics, and `ﷺ` from the JSON.
 - Where the source gives a published Quran translation in Roman Urdu, translate its wording
   faithfully into English and identify the cited surah/verse. Do not substitute another version.
-- Urdu poetry must be transliterated into Roman Urdu, not translated. Preserve line structure,
-  speaker, addressee, devotional meaning, radif, and qafiyah; resolve pronouns from the whole poem.
+- For this English edition, translate Urdu and Roman Urdu poetry into English; do not leave
+  Roman Urdu poem text in the reader-facing manuscript. Preserve the complete line structure,
+  speaker, addressee, devotional meaning, poetic repetition and rhyme where feasible, and resolve
+  pronouns from the whole poem rather than isolated words.
 - Preserve quotations as quotations and retain bibliographic details as given.
 - Format the manuscript as a readable book, not as raw continuous text: use headings that follow
   the source's section structure, keep separate source paragraphs separate, and set Quranic

@@ -15,6 +15,10 @@
   raw “Printed Page” labels from reader-facing manuscripts. Kept source mappings and unresolved
   wording decisions here in the internal plan, and retained natural section headings and paragraph
   structure in the manuscript.
+- Roman Urdu poetic renderings previously retained in four passages were translated into English:
+  the Sawad ibn Qarib verses, the two Imam Busiri couplets in the First/Fourth views, and the
+  Burdah line in the Fifth View. The project style guide now requires English translation of
+  Urdu/Roman Urdu poetry, preserving speaker, addressee, devotional meaning, and line structure.
 - Opening batch: JSON pages 13–17 (printed pages 9–13), in
   `manuscript/01-opening/01-pages-13-17.md`. It covers the author's opening remarks and the
   beginning of “The First Discussion: The Foundation of Religion,” through the examples of the
@@ -71,6 +75,10 @@
   the Prophet ﷺ or any created person. Auditing the current English manuscripts found one
   non-divine use in the opening pages; it has been changed to “Master and Patron.” Other reviewed
   uses of “Lord” refer to Allah Almighty, including in quoted Quranic translations.
+- Confidence-based uncertainty fixes applied: the missing JSON word at p. 20 remains translated as
+  the likely “existence” (explicitly marked as an internal reconstruction), and the Quran citation
+  at p. 42 is corrected to An-Nisa:113. The source's inconsistent seventy-two count remains as
+  written rather than being editorially changed.
 - Completed the opening subsection of “Nazre Shashum” in
   `manuscript/07-nazre-shashum/07-nazre-shashum-01-five-things.md`, covering JSON pages 63–65
   (printed pages 59–61), through the complete question about what exclusivity Allah Almighty

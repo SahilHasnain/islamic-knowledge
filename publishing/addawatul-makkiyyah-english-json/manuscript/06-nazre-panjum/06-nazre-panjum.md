@@ -66,9 +66,7 @@ Besides this blessed Hadith, countless other Hadith exist. The Hadith scholars, 
 
 > من علومك علم اللوح والقلم
 
-In Roman Urdu:
-
-> Aapke ilm ke samne lauho qalam ka ilm ek zarra hai
+> Before your knowledge, the knowledge of the Tablet and Pen is but a particle.
 
 ### The Comprehensive Knowledge of the Earth and Heavens
 
@@ -82,9 +80,7 @@ Imam Ahmad Qastalani says that there can be not the slightest doubt that Allah A
 
 > وسع العالمين علما وحكما
 
-In Roman Urdu:
-
-> Muheet jumla aalam, Ilme Mustafai hai
+> Mustafa’s knowledge encompasses all the worlds.
 
 Imam Ibn Hajar Makki writes:
 
