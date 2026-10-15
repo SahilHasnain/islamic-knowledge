@@ -142,8 +142,8 @@ function markdownToHtml(markdown, headings) {
 const toc = sections.flatMap(section => section.headings.filter(h => h.level <= 2));
 
 const tocHtml = `<nav class="contents"><h1>Contents</h1><ol>${toc.map(x => `<li><a href="#${x.id}">${inline(x.title)}</a></li>`).join("\n")}</ol></nav>`;
-const titleHtml = `<section class="title-page"><div class="title-ornament">✦　✦　✦</div><h1>${escapeHtml(config.title)}</h1><p class="subtitle">${escapeHtml(config.subtitle)}</p><p class="author">${escapeHtml(config.author)}</p><p class="edition-note">${escapeHtml(config.editionNote)}</p></section>`;
-const bodyHtml = sections.map(s => `<section class="manuscript-section" data-source-file="${escapeHtml(s.rel)}">${s.html}</section>`).join("\n");
+const titleHtml = `<section class="title-page"><div class="title-ornament">✦　✦　✦</div><h1>${escapeHtml(config.title)}</h1><p class="subtitle">${escapeHtml(config.subtitle)}</p><p class="author">${escapeHtml(config.author)}</p></section>`;
+const bodyHtml = sections.map(s => `<section class="manuscript-section">${s.html}</section>`).join("\n");
 const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${escapeHtml(config.title)} — Digital English Edition</title><style>${themeCss}</style></head><body><main class="book">${titleHtml}${tocHtml}${bodyHtml}</main></body></html>`;
 
 fs.mkdirSync(htmlDir, { recursive: true });

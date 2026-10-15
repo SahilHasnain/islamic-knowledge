@@ -2,7 +2,6 @@
   "title": "Addawatul Makkiyyah",
   "subtitle": "An English Translation",
   "author": "Imam Ahmad Raza Khan Barelvi",
-  "editionNote": "Translated from the Roman Urdu edition",
   "theme": "warm-amber.css",
   "formats": ["html", "digital-pdf", "epub", "docx"],
   "pdf": {
