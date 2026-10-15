@@ -80,7 +80,7 @@
   at p. 42 is corrected to An-Nisa:113. The source's inconsistent seventy-two count remains as
   written rather than being editorially changed.
 - Completed the opening subsection of “Nazre Shashum” in
-  `manuscript/07-nazre-shashum/07-nazre-shashum-01-five-things.md`, covering JSON pages 63–65
+  `manuscript/07-nazre-shashum/01-five-things.md`, covering JSON pages 63–65
   (printed pages 59–61), through the complete question about what exclusivity Allah Almighty
   stated in the five matters. The Quranic translation wording and references follow the JSON;
   the examples concerning hearing, sight, error, and injustice remain in the source's sequence.
@@ -90,7 +90,7 @@
   62–67) through the Sawaad ibn Qarib narration and before the next heading, “Meri Guzarish.” The
   discussion includes differing Hadith counts, the role of soothsayers and astrologers, the
   reasoning about the five unseen matters, and the levels of meaning of the declaration of Divine
-  Unity. The source’s Roman Urdu poetic rendering of Sawaad’s verses remains Roman Urdu. Coverage
+  Unity. Sawaad’s verses are translated into English in line with the updated poetry policy. Coverage
   was checked against all six complete JSON records. The divination terms `tehare` and `haanse`
   on JSON page 68 remain transliterated because their exact meanings are unclear in the source.
 - Completed “Meri Guzarish” in

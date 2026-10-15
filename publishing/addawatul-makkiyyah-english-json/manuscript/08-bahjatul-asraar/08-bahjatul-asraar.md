@@ -1,7 +1,5 @@
 # Bahjat-ul-Asrar and Its Author
 
-## Bahjat-ul-Asrar and Its Author
-
 The eminent Imam, the most excellent knower of Allah, the perfected Wali, Shaykh of the reciters, support of the scholars, and choice of the *Urafa* (knowers of Allah), Sayyiduna Imam Abdul Hasan Ali ibn Yusuf ibn Jarir al-Misri قُدِّسَ سِرُّهُ, had the honour of being a student of the eminent Imam Abul Khair Shamsuddin Muhammad ibn Muhammad ibn Muhammad ibn Muhammad al-Jariri, author of *Hisn-ul-Hasin*.
 
 Shams-ul-Ulama al-Dhahabi, an Imam in the science of Hadith transmitters and author of *Mizan-ul-I'tidal*, attended his gathering, mentioned him in *Tabaqat al-Qurra*, and offered praise for his person. The eminent Imam and knower of Allah, Sayyiduna Abdullah ibn As'ad al-Yafi'i al-Shafi'i رَضِیَ اللّٰہُ تَعَالٰی عَنْہُ, remembered him in his famous book *Mir'at-ul-Jinan* with lofty titles and honorifics. Imam Jalaluddin Suyuti رَحْمَةُ اللّٰهِ تَعَالَى عَلَيْهِ called him “the Unique Imam.”

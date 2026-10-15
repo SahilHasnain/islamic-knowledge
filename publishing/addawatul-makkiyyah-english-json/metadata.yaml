@@ -3,3 +3,6 @@ source: content/books/addawatul-makkiyyah.json
 source_language: Roman Urdu and preserved Arabic quotations
 target_language: English
 workflow: Independent translation from source JSON records only
+export: Digital PDF only
+theme: layout/warm-amber.css
+status: Draft; translation in progress

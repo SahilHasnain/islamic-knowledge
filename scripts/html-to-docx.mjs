@@ -93,10 +93,10 @@ export default async function htmlToDocx(html, theme) {
     if (tag === "section" && cls.includes("title-page")) {
       const title = $el.find("h1");
       if (title.length) children.push(mkHeading(1, 48, t.accentWarm, collectRuns(title[0])));
-      $el.find(".subtitle, .author, .translator").each((_, e) => {
+      $el.find(".subtitle, .author, .translator, .edition-note, .draft-mark").each((_, e) => {
         const $e = $(e);
         const runs = collectRuns(e);
-        const hp = $e.hasClass("subtitle") ? 20 : $e.hasClass("author") ? 22 : 18;
+        const hp = $e.hasClass("subtitle") ? 20 : $e.hasClass("author") ? 22 : $e.hasClass("draft-mark") ? 14 : 18;
         children.push(new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 160, after: 160 },

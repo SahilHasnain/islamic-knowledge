@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs"
+    "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs",
+    "export:addawatul:json": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs",
+    "export:addawatul:json:digital": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs"
   },
   "dependencies": {
     "adm-zip": "^0.5.17",
