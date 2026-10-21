@@ -11,6 +11,11 @@
 
 ## Progress
 
+- Mobile database rebuilt with matching section-based organization: `Roman Urdu` contains the
+  seven-page front-matter entry and the source JSON's 71 named sections; `English` contains the 15
+  completed independent translation sections and is marked `in progress`. No PDF page-based source
+  schema or unrelated English edition content is used. Build instructions and app queries are in
+  `database/README.md`.
 - Publication-preparation pass: removed JSON/source headers, translator-facing source notes, and
   raw “Printed Page” labels from reader-facing manuscripts. Kept source mappings and unresolved
   wording decisions here in the internal plan, and retained natural section headings and paragraph
