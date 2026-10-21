@@ -14,10 +14,6 @@
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
-
 # production
 /build
 
@@ -34,9 +30,6 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
-# vercel
-.vercel
-
 # local publishing references and analysis artifacts
 /publishing/references/
 
@@ -48,10 +41,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
-
-.vercel
-
 # python
 __pycache__/
 .opencode

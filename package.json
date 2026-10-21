@@ -3,10 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
     "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs",
     "export:addawatul:json": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs",
     "export:addawatul:json:digital": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs"
@@ -15,21 +11,7 @@
     "adm-zip": "^0.5.17",
     "cheerio": "^1.2.0",
     "docx": "^9.7.1",
-    "next": "16.2.7",
     "pdf-lib": "^1.17.1",
-    "pdf-parse": "^2.4.5",
-    "playwright": "^1.60.0",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.7",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "playwright": "^1.60.0"
   }
 }

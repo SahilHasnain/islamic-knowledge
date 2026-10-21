@@ -16,6 +16,7 @@ CATALOGUE_PATTERN = re.compile(
 )
 HONORIFIC_PATTERN = re.compile(r"مَی[\s\u0600-\u06ff]{0,160}صَلَّی?")
 TOC_LINE_PATTERN = re.compile(r"^\s*(.*?)\s*\.{3,}\s*(\d{1,3})\s*$")
+TOC_SPACED_LINE_PATTERN = re.compile(r"^\s*(.*?)(?:\s{1,}|(?<=[?.!:]))(\d{1,3})\s*$")
 TOC_PAGE_GLUE_PATTERN = re.compile(r"\s*\.{0,}\s*(\d{1,3})\s+(?=(?:Note\b|Hadees\b))", re.IGNORECASE)
 
 
@@ -177,6 +178,69 @@ def parse_toc(pages: list[dict], legacy: dict | None, first_body_pdf_page: int) 
                 pending_title = line.strip()
         if page_has_entries:
             contents_pages.add(page["pdfPage"])
+    if not toc:
+        # A few PDFs use right-aligned page numbers instead of dot leaders;
+        # headings may wrap, with the page number on a line of its own.
+        contents_started = False
+        toc_start_page = None
+        no_entry_pages = 0
+        pending_title = []
+        for page in pages[:45]:
+            lines = page["text"].splitlines()
+            if toc and toc_start_page is not None and page["pdfPage"] > toc_start_page:
+                first_heading = normalized(toc[0]["title"])
+                if first_heading and first_heading in normalized(page["text"]):
+                    break
+            if not contents_started:
+                if any(re.search(r"\b(contents|fehrist|fahrist)\b", line, re.IGNORECASE) for line in lines):
+                    contents_started = True
+                    toc_start_page = page["pdfPage"]
+                else:
+                    continue
+            page_has_entries = False
+            # These publisher PDFs repeat the book title in the page header.
+            for line in lines[1:]:
+                stripped = line.strip()
+                if not stripped:
+                    continue
+                if re.search(r"\b(contents|fehrist|fahrist)\b", stripped, re.IGNORECASE):
+                    pending_title = []
+                    continue
+                match = TOC_SPACED_LINE_PATTERN.fullmatch(line)
+                if match and match.group(1).strip():
+                    heading = " ".join(pending_title + [match.group(1).strip()])
+                    pending_title = []
+                    toc.append({
+                        "title": clean_toc_title(heading, int(match.group(2))),
+                        "matchTitle": clean_toc_title(heading, int(match.group(2))),
+                        "printedPage": int(match.group(2)),
+                        "pdfPage": None,
+                    })
+                    page_has_entries = True
+                elif re.fullmatch(r"\s*\d{1,3}\s*", line) and int(stripped) == page["pdfPage"] - 4:
+                    # Printed contents folio, not the referenced book page.
+                    continue
+                elif re.fullmatch(r"\s*\d{1,3}\s*", line) and pending_title:
+                    printed = int(stripped)
+                    heading = " ".join(pending_title)
+                    pending_title = []
+                    toc.append({
+                        "title": clean_toc_title(heading, printed),
+                        "matchTitle": clean_toc_title(heading, printed),
+                        "printedPage": printed,
+                        "pdfPage": None,
+                        "tocStartPdfPage": page["pdfPage"],
+                    })
+                    page_has_entries = True
+                elif not re.search(r"\b(contents|fehrist|fahrist)\b", stripped, re.IGNORECASE):
+                    pending_title.append(stripped)
+            if page_has_entries:
+                contents_pages.add(page["pdfPage"])
+                no_entry_pages = 0
+            else:
+                no_entry_pages += 1
+                if no_entry_pages >= 2:
+                    break
     return toc, contents_pages
 
 
@@ -265,7 +329,16 @@ def locate_headings(pages: list[dict], toc: list[dict], offset: int) -> list[tup
                 )
                 if fallback_page is None:
                     raise ValueError(f"Could not locate TOC heading {section_no}/{len(toc)}: {title}")
-                match = (fallback_page, 0)
+                if fallback_page == last_page and fallback_page in page_cache:
+                    offsets_for_page = page_cache[fallback_page][1]
+                    fallback_position = (
+                        offsets_for_page[min(last_normalized_position, len(offsets_for_page) - 1)]
+                        if offsets_for_page and last_normalized_position > 0
+                        else 0
+                    )
+                else:
+                    fallback_position = 0
+                match = (fallback_page, fallback_position)
                 display_title = title.encode("ascii", "backslashreplace").decode("ascii")
                 print(f"TOC heading text not found; using start of source page {fallback_page}: {display_title}")
 
@@ -285,11 +358,35 @@ def discover_offset(pages: list[dict], toc: list[dict]) -> int:
         if entry.get("pdfPage") is not None and entry.get("printedPage") is not None
     ]
     if not offsets:
+        footer_offsets = []
+        for page in pages:
+            lines = [line.strip() for line in page["text"].splitlines() if line.strip()]
+            for line in lines[-5:]:
+                if re.fullmatch(r"\d{1,4}", line):
+                    printed = int(line)
+                    if 0 < printed < page["pdfPage"]:
+                        footer_offsets.append(page["pdfPage"] - printed)
+        if footer_offsets:
+            offsets = footer_offsets
+    if not offsets:
         offsets = [
             page["pdfPage"] - page["printedPage"]
             for page in pages
             if page.get("printedPage") is not None
         ]
+    if not offsets:
+        # Some editions put the printed folio in a layout element PyMuPDF does
+        # not return as text. Derive the offset from TOC headings that can be
+        # located directly in the extracted page text instead.
+        for entry in toc:
+            printed = entry.get("printedPage")
+            needle = normalized(entry.get("matchTitle", entry["title"]))
+            if printed is None or len(needle) < 5:
+                continue
+            for page in pages:
+                if needle in normalized(page["text"]):
+                    offsets.append(page["pdfPage"] - printed)
+                    break
     if not offsets:
         raise ValueError("Could not establish the printed-page to PDF-page mapping.")
     return Counter(offsets).most_common(1)[0][0]
