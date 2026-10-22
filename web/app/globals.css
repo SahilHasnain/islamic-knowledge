@@ -67,6 +67,8 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .featured-art { position: relative; display: grid; place-items: center; min-height: 340px; overflow: hidden; background: var(--surface-muted); }
 .featured-art::before { content: ""; position: absolute; width: 240px; height: 240px; border: 1px solid var(--accent-soft); border-radius: 50%; }
 .featured-cover { z-index: 1; width: 132px; height: 190px; position: relative; display: grid; place-items: center; background: var(--ink-green); box-shadow: 10px 11px 0 color-mix(in srgb, var(--foreground) 15%, transparent); }
+.featured-cover img,.book-cover,.recent-cover { display: block; object-fit: cover; }
+.featured-cover img { width: 100%; height: 100%; }
 .featured-cover::before { content: ""; position: absolute; inset: 9px; border: 1px solid var(--accent-soft); }
 .featured-cover span { color: var(--accent-soft); font-size: 45px; }
 .featured-cover i { position: absolute; bottom: 35px; width: 42px; height: 1px; background: var(--accent-soft); }
@@ -85,9 +87,7 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .recent-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
 .recent-card { min-width: 0; display: flex; align-items: center; gap: 14px; padding: 14px; border: 1px solid var(--line); background: var(--surface); transition: border-color .2s ease, transform .2s ease; }
 .recent-card:hover { border-color: var(--accent-soft); transform: translateY(-2px); }
-.recent-card .book-mark { flex: 0 0 43px; width: 43px; height: 62px; box-shadow: 3px 3px 0 color-mix(in srgb, var(--foreground) 10%, transparent); }
-.recent-card .book-mark:before { inset: 4px; }
-.recent-card .book-mark span { font-size: 23px; }
+.recent-cover { flex: 0 0 43px; width: 43px; height: 62px; box-shadow: 3px 3px 0 color-mix(in srgb, var(--foreground) 10%, transparent); }
 .recent-card-copy { display: grid; gap: 6px; min-width: 0; flex: 1; }
 .recent-card-copy strong { overflow: hidden; color: var(--foreground); font: 15px/1.25 Georgia, "Times New Roman", serif; text-overflow: ellipsis; white-space: nowrap; }
 .recent-card-copy > span:not(.recent-progress) { color: var(--muted); font-size: 9px; }
@@ -112,6 +112,8 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .book-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px 21px; }
 .book-card { min-width: 0; }
 .book-card-art { height: 230px; position: relative; display: grid; place-items: center; overflow: hidden; background: var(--surface-muted); }
+.book-cover { width: 155px; height: 205px; box-shadow: 7px 7px 0 color-mix(in srgb, var(--foreground) 13%, transparent); transition: transform .25s ease; }
+.book-card:hover .book-cover { transform: translateY(-5px) rotate(-1deg); }
 .book-card:nth-child(3n+2) .book-card-art { background: color-mix(in srgb, var(--accent-soft) 48%, var(--surface)); }
 .book-card:nth-child(3n) .book-card-art { background: color-mix(in srgb, var(--ink-green) 13%, var(--surface)); }
 .book-mark { width: 110px; height: 155px; display: grid; place-items: center; background: var(--ink-green); box-shadow: 7px 7px 0 color-mix(in srgb, var(--foreground) 13%, transparent); position: relative; transition: transform .25s ease; }

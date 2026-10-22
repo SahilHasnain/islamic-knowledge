@@ -62,3 +62,8 @@ export function getBookDescription(book: Book): string {
   const firstText = book.sections?.flatMap((section) => section.blocks ?? []).find((block) => block.text?.trim())?.text;
   return firstText?.replace(/\s+/g, " ").trim().slice(0, 150) || `${book.language || "A treasured work"} · ${book.pageCount ? `${book.pageCount} pages` : "Read in the library"}`;
 }
+
+export function getBookCover(book: Book): string {
+  const coverSlug = book.slug.replace(/-(?:english|hindi)$/, "");
+  return `/covers/${coverSlug}.png`;
+}

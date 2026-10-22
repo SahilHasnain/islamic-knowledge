@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getBookDescription, getBooks } from "@/lib/books";
+import { getBookCover, getBookDescription, getBooks } from "@/lib/books";
 import LibraryCollection, { type LibraryBook } from "./library-collection";
 import HomeScreenScrollbar from "./home-screen-scrollbar";
 
@@ -8,6 +8,7 @@ export default function Home() {
   const books: LibraryBook[] = sourceBooks.map((book) => ({
     slug: book.slug,
     title: book.title,
+    cover: getBookCover(book),
     author: book.author || "A work of Islamic knowledge",
     language: book.language || "Islamic literature",
     pageCount: book.pageCount,
@@ -43,7 +44,7 @@ export default function Home() {
       </section>
 
       {featuredBook && <section className="featured-section" aria-labelledby="featured-title">
-        <div className="featured-art" aria-hidden="true"><div className="featured-cover"><span>۞</span><i /></div><span className="featured-art-label">A BOOK TO RETURN TO</span></div>
+        <div className="featured-art"><div className="featured-cover"><img src={featuredBook.cover} alt="" /></div><span className="featured-art-label">A BOOK TO RETURN TO</span></div>
         <div className="featured-copy"><p className="eyebrow"><span className="eyebrow-line" /> SELECTED FOR YOU</p><h2 id="featured-title">A place to <em>begin.</em></h2><p className="featured-label">FEATURED BOOK</p><h3>{featuredBook.title}</h3><p className="featured-author">{featuredBook.author} · {featuredBook.language}</p><p className="featured-description">{featuredBook.description}</p><Link className="primary-link" href={`/books/${featuredBook.slug}`}>Start reading <span>↗</span></Link></div>
       </section>}
 

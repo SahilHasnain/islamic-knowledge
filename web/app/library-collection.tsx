@@ -6,6 +6,7 @@ import { useEffect, useMemo, useState } from "react";
 export type LibraryBook = {
   slug: string;
   title: string;
+  cover: string;
   author: string;
   language: string;
   pageCount?: number;
@@ -16,14 +17,10 @@ export type LibraryBook = {
 type Props = { books: LibraryBook[] };
 type RecentBook = { slug: string; updatedAt: number; progress: number };
 
-function BookMark({ index }: { index: number }) {
-  return <div className={`book-mark book-mark-${index % 5}`} aria-hidden="true"><span>۞</span></div>;
-}
-
-function BookCard({ book, index }: { book: LibraryBook; index: number }) {
+function BookCard({ book }: { book: LibraryBook }) {
   return (
     <Link className="book-card" href={`/books/${book.slug}`}>
-      <div className="book-card-art"><BookMark index={index} /><span className="card-open" aria-hidden="true">↗</span><span className="book-language">{book.language}</span></div>
+      <div className="book-card-art"><img className="book-cover" src={book.cover} alt="" /><span className="card-open" aria-hidden="true">↗</span><span className="book-language">{book.language}</span></div>
       <div className="book-card-info"><div><h3>{book.title}</h3><p>{book.author}</p></div><span className="card-arrow">→</span></div>
       <p className="book-description">{book.description}</p>
     </Link>
@@ -71,7 +68,7 @@ export default function LibraryCollection({ books }: Props) {
             const book = books.find((item) => item.slug === recent.slug);
             if (!book) return null;
             return <Link className="recent-card" href={`/books/${book.slug}`} key={book.slug}>
-              <BookMark index={books.findIndex((item) => item.slug === book.slug)} />
+              <img className="recent-cover" src={book.cover} alt="" />
               <span className="recent-card-copy"><strong>{book.title}</strong><span>{recent.progress}% read</span><span className="recent-progress"><i style={{ width: `${recent.progress}%` }} /></span></span>
               <span className="recent-arrow" aria-hidden="true">↗</span>
             </Link>;
@@ -86,7 +83,7 @@ export default function LibraryCollection({ books }: Props) {
           <label className="language-filter"><span>LANGUAGE</span><select value={language} onChange={(event) => setLanguage(event.target.value)} aria-label="Filter books by language"><option value="all">All languages</option>{languages.map((item) => <option key={item} value={item}>{item}</option>)}</select></label>
         </div>
         {filteredBooks.length ? <div className="book-grid">
-          {filteredBooks.map((book) => <BookCard book={book} index={books.indexOf(book)} key={book.slug} />)}
+          {filteredBooks.map((book) => <BookCard book={book} key={book.slug} />)}
         </div> : <div className="empty-library"><p>No books match that search.</p><button type="button" onClick={() => { setQuery(""); setLanguage("all"); }}>Clear filters</button></div>}
       </section>
     </>

@@ -6,7 +6,7 @@
     "web"
   ],
   "scripts": {
-    "build": "npm run build --workspace web",
+    "build": "node scripts/prepare-web-assets.mjs && npm run build --workspace web",
     "build:web": "npm run build --workspace web",
     "build:published-books": "node scripts/build_published_books.mjs",
     "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs",
