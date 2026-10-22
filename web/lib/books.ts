@@ -27,9 +27,12 @@ export type Book = {
   sections?: BookSection[];
 };
 
+const repositoryRoot = path.basename(process.cwd()) === "web"
+  ? path.resolve(process.cwd(), "..")
+  : process.cwd();
 const booksDirectories = [
-  path.resolve(process.cwd(), "../content/books"),
-  path.resolve(process.cwd(), "../content/published-books"),
+  path.join(repositoryRoot, "content/books"),
+  path.join(repositoryRoot, "content/published-books"),
 ];
 
 function readBooksFrom(directory: string): Book[] {
