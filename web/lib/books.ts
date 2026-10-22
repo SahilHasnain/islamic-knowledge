@@ -65,6 +65,6 @@ export function getBookDescription(book: Book): string {
 
 export function getBookCover(book: Book): string | undefined {
   return existsSync(path.join(repositoryRoot, "content/covers", `${book.slug}.png`))
-    ? `/covers/${book.slug}.png`
+    ? `/covers/${book.slug}`
     : undefined;
 }
