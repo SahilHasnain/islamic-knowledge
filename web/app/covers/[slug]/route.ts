@@ -5,14 +5,15 @@ type Props = { params: Promise<{ slug: string }> };
 
 export async function GET(_request: Request, { params }: Props) {
   const { slug } = await params;
-  if (!/^[a-z0-9-]+$/.test(slug)) {
+  const coverName = slug.match(/^([a-z0-9-]+)\.png$/)?.[1];
+  if (!coverName) {
     return new Response("Not found", { status: 404 });
   }
 
   const repositoryRoot = path.basename(process.cwd()) === "web"
     ? path.resolve(process.cwd(), "..")
     : process.cwd();
-  const coverPath = path.join(repositoryRoot, "content", "covers", `${slug}.png`);
+  const coverPath = path.join(repositoryRoot, "content", "covers", `${coverName}.png`);
 
   try {
     const cover = await readFile(coverPath);

@@ -1,0 +1,20 @@
+const assetLinks = [
+  {
+    relation: ["delegate_permission/common.handle_all_urls"],
+    target: {
+      namespace: "android_app",
+      package_name: "com.darulkutub",
+      sha256_cert_fingerprints: [
+        "1E:14:81:6C:ED:3E:4C:0C:CA:44:5A:ED:0E:7C:6C:5E:4E:FA:2A:50:F8:26:CF:0C:C3:DA:51:F3:33:E3:8B:0A",
+      ],
+    },
+  },
+];
+
+export function GET() {
+  return Response.json(assetLinks, {
+    headers: {
+      "Cache-Control": "public, max-age=3600",
+    },
+  });
+}
