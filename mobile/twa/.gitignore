@@ -1,0 +1,18 @@
+# Keep private signing material and generated build output out of version control.
+*.keystore
+*.jks
+*.pem
+*.p12
+*.pfx
+*.key
+*.aab
+*.apk
+*.zip
+android.keystore
+android.keystore.password
+android.key.password
+.secrets/
+build/
+app/build/
+local.properties
+decompressed/
