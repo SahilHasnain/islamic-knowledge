@@ -17,6 +17,9 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  outputFileTracingIncludes: {
+    "/*": ["../content/covers/**/*"],
+  },
 };
 
 export default nextConfig;
