@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "build:published-books": "node scripts/build_published_books.mjs",
     "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs",
     "export:addawatul:json": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs",
     "export:addawatul:json:digital": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs"

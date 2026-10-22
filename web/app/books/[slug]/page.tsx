@@ -2,10 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBook, getBooks } from "@/lib/books";
-import ReaderProgress from "./reader-progress";
-import FormattedText from "./formatted-text";
+import FormattedText, { InlineText } from "./formatted-text";
+import ReaderExperience from "./reader-experience";
 
 type Props = { params: Promise<{ slug: string }> };
+
+// This reader resolves the selected book from the URL before rendering its content.
+export const instant = false;
 
 export function generateStaticParams() {
   return getBooks().map((book) => ({ slug: book.slug }));
@@ -24,12 +27,7 @@ export default async function BookReader({ params }: Props) {
   const sections = book.sections ?? [];
 
   return (
-    <main className="reader-page min-h-screen bg-background text-foreground">
-      <ReaderProgress />
-      <header className="site-header reader-header">
-        <Link className="brand" href="/"><span className="brand-mark">د</span><span>dar al-kutub</span></Link>
-        <Link className="header-link back-link" href="/"><span>←</span> Back to library</Link>
-      </header>
+    <ReaderExperience slug={book.slug}>
       <div className="reader-layout">
         <aside className="reader-sidebar">
           <p className="eyebrow">IN THIS BOOK</p>
@@ -44,13 +42,13 @@ export default async function BookReader({ params }: Props) {
         </aside>
 
         <article className="reader-content">
-          <div className="reader-intro"><p className="eyebrow">A BOOK TO SPEND TIME WITH</p><h1>{book.title}</h1><p className="reader-byline">{book.author || "A work of Islamic knowledge"}</p><div className="reader-rule"><span>۞</span></div></div>
+          <div className="reader-intro"><p className="eyebrow">A BOOK TO SPEND TIME WITH</p><h1>{book.title}</h1><p className="reader-byline">{book.subtitle ? `${book.subtitle} · ` : ""}{book.author || "A work of Islamic knowledge"}</p>{book.editionStatus && <p className="reader-edition-status">{book.editionStatus}</p>}<div className="reader-rule"><span>۞</span></div></div>
           {sections.map((section, index) => (
             <section id={`section-${index + 1}`} className="reader-section" key={`${section.slug ?? section.sectionNo}-${index}`}>
-              <div className="reader-section-heading"><span>{String(index + 1).padStart(2, "0")}</span><h2>{section.title || `Section ${index + 1}`}</h2></div>
+              <div className="reader-section-heading"><span>{String(index + 1).padStart(2, "0")}</span><h2>{section.titleRuns?.length ? <InlineText runs={section.titleRuns} /> : section.title || `Section ${index + 1}`}</h2></div>
               {(section.blocks ?? []).map((block, blockIndex) => block.text?.trim() ? (
                 <div key={blockIndex} className={`reader-block ${block.blockType === "heading" ? "reader-block-heading" : ""}`}>
-                  {block.blockType === "heading" ? <h3>{block.text}</h3> : <FormattedText text={block.text} />}
+                  {block.blockType === "heading" ? <h3>{block.runs?.length ? <InlineText runs={block.runs} /> : block.text}</h3> : block.blockType === "quote" ? <blockquote className="reader-quote"><FormattedText text={block.text} runs={block.runs} /></blockquote> : <FormattedText text={block.text} runs={block.runs} items={block.items} listType={block.listType} />}
                 </div>
               ) : null)}
             </section>
@@ -59,6 +57,6 @@ export default async function BookReader({ params }: Props) {
           <div className="reader-end"><span>۞</span><p>May this knowledge bring benefit.</p><Link href="/">Return to the library <span>↗</span></Link></div>
         </article>
       </div>
-    </main>
+    </ReaderExperience>
   );
 }

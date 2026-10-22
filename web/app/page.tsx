@@ -1,20 +1,30 @@
 import Link from "next/link";
 import { getBookDescription, getBooks } from "@/lib/books";
-
-function BookMark({ index }: { index: number }) {
-  return <div className={`book-mark book-mark-${index % 5}`} aria-hidden="true"><span>۞</span></div>;
-}
+import LibraryCollection, { type LibraryBook } from "./library-collection";
+import HomeScreenScrollbar from "./home-screen-scrollbar";
 
 export default function Home() {
-  const books = getBooks();
+  const sourceBooks = getBooks();
+  const books: LibraryBook[] = sourceBooks.map((book) => ({
+    slug: book.slug,
+    title: book.title,
+    author: book.author || "A work of Islamic knowledge",
+    language: book.language || "Islamic literature",
+    pageCount: book.pageCount,
+    description: getBookDescription(book),
+    sectionTitles: (book.sections ?? []).map((section) => section.title ?? ""),
+  }));
+  const featuredBook = books[0];
 
   return (
-    <main className="min-h-screen bg-background text-foreground">
-      <header className="site-header">
+    <main className="home-main min-h-screen bg-background text-foreground">
+      <HomeScreenScrollbar />
+      <header className="site-header home-header" style={{ position: "fixed", top: 0, left: 0, right: 0, zIndex: 20, backgroundColor: "var(--background)" }}>
         <Link className="brand" href="/" aria-label="Dar al-Kutub home"><span className="brand-mark">د</span><span>dar al-kutub</span></Link>
         <span className="header-note">A quiet place for knowledge</span>
         <a className="header-link" href="#collection">The collection <span>↘</span></a>
       </header>
+      <div className="home-header-spacer" aria-hidden="true" style={{ height: 76 }} />
 
       <section className="hero">
         <div className="hero-copy">
@@ -32,18 +42,12 @@ export default function Home() {
         <div className="hero-bottom"><span>EST. IN THE SPIRIT OF SEEKING</span><span>01 — THE LIBRARY</span></div>
       </section>
 
-      <section id="collection" className="collection-section">
-        <div className="section-heading"><div><p className="eyebrow">A GROWING COLLECTION</p><h2>Find your next <em>read.</em></h2></div><span className="book-count">{String(books.length).padStart(2, "0")} <span>BOOKS</span></span></div>
-        <div className="book-grid">
-          {books.map((book, index) => (
-            <Link className="book-card" href={`/books/${book.slug}`} key={book.slug}>
-              <div className="book-card-art"><BookMark index={index} /><span className="card-open" aria-hidden="true">↗</span><span className="book-language">{book.language || "Islamic literature"}</span></div>
-              <div className="book-card-info"><div><h3>{book.title}</h3><p>{book.author || "A work of Islamic knowledge"}</p></div><span className="card-arrow">→</span></div>
-              <p className="book-description">{getBookDescription(book)}</p>
-            </Link>
-          ))}
-        </div>
-      </section>
+      {featuredBook && <section className="featured-section" aria-labelledby="featured-title">
+        <div className="featured-art" aria-hidden="true"><div className="featured-cover"><span>۞</span><i /></div><span className="featured-art-label">A BOOK TO RETURN TO</span></div>
+        <div className="featured-copy"><p className="eyebrow"><span className="eyebrow-line" /> SELECTED FOR YOU</p><h2 id="featured-title">A place to <em>begin.</em></h2><p className="featured-label">FEATURED BOOK</p><h3>{featuredBook.title}</h3><p className="featured-author">{featuredBook.author} · {featuredBook.language}</p><p className="featured-description">{featuredBook.description}</p><Link className="primary-link" href={`/books/${featuredBook.slug}`}>Start reading <span>↗</span></Link></div>
+      </section>}
+
+      <LibraryCollection books={books} />
       <footer className="site-footer"><Link className="brand" href="/"><span className="brand-mark">د</span><span>dar al-kutub</span></Link><span>Made for the love of knowledge.</span><a href="#collection">BACK TO TOP ↑</a></footer>
     </main>
   );
