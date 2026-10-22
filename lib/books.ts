@@ -27,12 +27,9 @@ export type Book = {
   sections?: BookSection[];
 };
 
-const repositoryRoot = path.basename(process.cwd()) === "web"
-  ? path.resolve(process.cwd(), "..")
-  : process.cwd();
 const booksDirectories = [
-  path.join(repositoryRoot, "content/books"),
-  path.join(repositoryRoot, "content/published-books"),
+  path.join(process.cwd(), "content/books"),
+  path.join(process.cwd(), "content/published-books"),
 ];
 
 function readBooksFrom(directory: string): Book[] {
@@ -64,7 +61,7 @@ export function getBookDescription(book: Book): string {
 }
 
 export function getBookCover(book: Book): string | undefined {
-  return existsSync(path.join(repositoryRoot, "content/covers", `${book.slug}.png`))
-    ? `/covers/${book.slug}`
+  return existsSync(path.join(process.cwd(), "content/covers", `${book.slug}.png`))
+    ? `/covers/${book.slug}.png`
     : undefined;
 }
