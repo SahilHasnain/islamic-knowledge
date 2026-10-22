@@ -12,6 +12,7 @@ android.keystore
 android.keystore.password
 android.key.password
 .secrets/
+.bootstrap/
 build/
 app/build/
 local.properties
