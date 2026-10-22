@@ -1,6 +1,7 @@
 """Migrate page-based book JSON files to the logical book schema v2."""
 
 import json
+import argparse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -40,8 +41,8 @@ def write_book(path: Path, book: dict) -> None:
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def migrate(path: Path) -> dict:
-    old = json.loads(path.read_text(encoding="utf-8"))
+def migrate(path: Path, source_path: Path | None = None) -> dict:
+    old = json.loads((source_path or path).read_text(encoding="utf-8"))
     printed_by_page = {}
     sections = []
 
@@ -53,16 +54,15 @@ def migrate(path: Path) -> dict:
             if printed_page is not None:
                 printed_by_page.setdefault(pdf_page, printed_page)
             text = old_page.get("text", "")
-            if text:
-                blocks.append(
-                    {
-                        "sequenceNo": len(blocks) + 1,
-                        "blockType": "content",
-                        "pdfPage": pdf_page,
-                        "printedPage": printed_page,
-                        "text": text,
-                    }
-                )
+            blocks.append(
+                {
+                    "sequenceNo": len(blocks) + 1,
+                    "blockType": "content",
+                    "pdfPage": pdf_page,
+                    "printedPage": printed_page,
+                    "text": text,
+                }
+            )
         if not blocks:
             raise ValueError(f"{path.name}: empty logical section {old_section['title']!r}")
         sections.append(
@@ -106,6 +106,8 @@ def migrate(path: Path) -> dict:
     if not sections:
         blocks = []
         for old_page in old_pages:
+            if old_page["pageNumber"] < 2:
+                continue
             text = old_page.get("text", "")
             if not text:
                 continue
@@ -132,7 +134,7 @@ def migrate(path: Path) -> dict:
                 "blocks": blocks,
             }
         ]
-        first_content_page = blocks[0]["pdfPage"]
+        first_content_page = 2 if old["pageCount"] > 1 else blocks[0]["pdfPage"]
 
     old_pages_by_number = {page["pageNumber"]: page for page in old_pages}
     front_matter = [
@@ -184,8 +186,17 @@ def migrate(path: Path) -> dict:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--source-dir",
+        type=Path,
+        help="Read legacy JSON from this directory and write the migrated files to content/books/.",
+    )
+    args = parser.parse_args()
     for filename in LEGACY_BOOKS:
-        book = migrate(BOOKS / filename)
+        path = BOOKS / filename
+        source_path = args.source_dir / filename if args.source_dir else path
+        book = migrate(path, source_path)
         print(
             f"{filename}: schema v2; {book['pageCount']} pages; "
             f"{len(book['sections'])} sections; {len(book['toc'])} TOC records"
