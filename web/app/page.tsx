@@ -44,7 +44,7 @@ export default function Home() {
       </section>
 
       {featuredBook && <section className="featured-section" aria-labelledby="featured-title">
-        <div className="featured-art"><div className="featured-cover"><img src={featuredBook.cover} alt="" /></div><span className="featured-art-label">A BOOK TO RETURN TO</span></div>
+        <div className="featured-art"><div className="featured-cover">{featuredBook.cover ? <img src={featuredBook.cover} alt="" /> : <><span>۞</span><i /></>}</div><span className="featured-art-label">A BOOK TO RETURN TO</span></div>
         <div className="featured-copy"><p className="eyebrow"><span className="eyebrow-line" /> SELECTED FOR YOU</p><h2 id="featured-title">A place to <em>begin.</em></h2><p className="featured-label">FEATURED BOOK</p><h3>{featuredBook.title}</h3><p className="featured-author">{featuredBook.author} · {featuredBook.language}</p><p className="featured-description">{featuredBook.description}</p><Link className="primary-link" href={`/books/${featuredBook.slug}`}>Start reading <span>↗</span></Link></div>
       </section>}
 

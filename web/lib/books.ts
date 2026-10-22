@@ -63,7 +63,8 @@ export function getBookDescription(book: Book): string {
   return firstText?.replace(/\s+/g, " ").trim().slice(0, 150) || `${book.language || "A treasured work"} · ${book.pageCount ? `${book.pageCount} pages` : "Read in the library"}`;
 }
 
-export function getBookCover(book: Book): string {
-  const coverSlug = book.slug.replace(/-(?:english|hindi)$/, "");
-  return `/covers/${coverSlug}.png`;
+export function getBookCover(book: Book): string | undefined {
+  return existsSync(path.join(repositoryRoot, "content/covers", `${book.slug}.png`))
+    ? `/covers/${book.slug}.png`
+    : undefined;
 }
