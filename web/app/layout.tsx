@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { Viewport } from "next";
 import PwaRegistration from "./pwa-registration";
 import "./globals.css";
 
@@ -9,6 +10,18 @@ export const metadata: Metadata = {
     icon: "/twa-icon.svg",
     shortcut: "/twa-icon.svg",
   },
+  appleWebApp: {
+    capable: true,
+    title: "Dar al-Kutub",
+    statusBarStyle: "default",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#fbf8f1",
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
