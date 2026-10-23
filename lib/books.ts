@@ -21,7 +21,6 @@ export type Book = {
   author?: string;
   language?: string;
   subtitle?: string;
-  editionStatus?: string;
   pageCount?: number;
   toc?: { title?: string; printedPage?: number }[];
   sections?: BookSection[];

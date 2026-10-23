@@ -42,7 +42,7 @@ export default async function BookReader({ params }: Props) {
         </aside>
 
         <article className="reader-content">
-          <div className="reader-intro"><p className="eyebrow">A BOOK TO SPEND TIME WITH</p><h1>{book.title}</h1><p className="reader-byline">{book.subtitle ? `${book.subtitle} · ` : ""}{book.author || "A work of Islamic knowledge"}</p>{book.editionStatus && <p className="reader-edition-status">{book.editionStatus}</p>}<div className="reader-rule"><span>۞</span></div></div>
+          <div className="reader-intro"><p className="eyebrow">A BOOK TO SPEND TIME WITH</p><h1>{book.title}</h1><p className="reader-byline">{book.subtitle ? `${book.subtitle} · ` : ""}{book.author || "A work of Islamic knowledge"}</p><div className="reader-rule"><span>۞</span></div></div>
           {sections.map((section, index) => (
             <section id={`section-${index + 1}`} className="reader-section" key={`${section.slug ?? section.sectionNo}-${index}`}>
               <div className="reader-section-heading"><span>{String(index + 1).padStart(2, "0")}</span><h2>{section.titleRuns?.length ? <InlineText runs={section.titleRuns} /> : section.title || `Section ${index + 1}`}</h2></div>

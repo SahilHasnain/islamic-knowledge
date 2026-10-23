@@ -12,7 +12,6 @@ const editions = [
     subtitle: "English Translation",
     author: "Imam Ahmad Raza Khan Barelvi",
     language: "English",
-    status: "Draft — translation in progress",
     manuscript: "publishing/addawatul-makkiyyah-english-json/manuscript",
   },
   {
@@ -21,7 +20,6 @@ const editions = [
     subtitle: "English Translation",
     author: "Imam Qadi Iyad",
     language: "English",
-    status: "Draft",
     manuscript: "publishing/shifa-shareef-english/manuscript",
   },
   {
@@ -30,7 +28,6 @@ const editions = [
     subtitle: "English Translation",
     author: "Imran Raza Attari",
     language: "English",
-    status: "Draft",
     manuscript: "publishing/ikhteyarate-mustafa-english/manuscript",
   },
   {
@@ -39,7 +36,6 @@ const editions = [
     subtitle: "Hindi Transliteration",
     author: "Imran Raza Attari",
     language: "Hindi",
-    status: "Draft — manual transliteration in progress",
     manuscript: "publishing/ikhteyarate-mustafa-hindi/manuscript",
   },
   {
@@ -48,7 +44,6 @@ const editions = [
     subtitle: "Easy Roman Urdu",
     author: "Sadr-ush-Shariah",
     language: "Roman Urdu",
-    status: "Draft — translation in progress",
     manuscript: "publishing/bahar-e-shariat-easy-roman-urdu/manuscript",
   },
   {
@@ -57,7 +52,6 @@ const editions = [
     subtitle: "Easy Roman Urdu",
     author: "Mufti Ahmad Yar Khan Naeemi",
     language: "Roman Urdu",
-    status: "Draft — translation in progress",
     manuscript: "publishing/mirat-ul-manajih-easy-roman-urdu/manuscript",
   },
   {
@@ -66,26 +60,31 @@ const editions = [
     subtitle: "English Translation",
     author: "Jamaat-e-Islami",
     language: "English",
-    status: "Draft — translation in progress",
     manuscript: "publishing/muntakhab-ahadees-english/manuscript",
   },
   {
     slug: "siratul-jinan-easy-roman-urdu",
     title: "Siratul Jinan",
     subtitle: "Easy Roman Urdu",
-    author: "A group of scholars",
+    author: "Mufti Qasim Attari",
     language: "Roman Urdu",
-    status: "Draft — translation in progress",
     manuscript: "publishing/siratul-jinan-easy-roman-urdu/manuscript",
   },
   {
     slug: "siratul-jinan-english",
     title: "Siratul Jinan",
     subtitle: "English Translation",
-    author: "A group of scholars",
+    author: "Mufti Qasim Attari",
     language: "English",
-    status: "Draft — translation in progress",
     manuscript: "publishing/siratul-jinan-english/manuscript",
+  },
+  {
+    slug: "siratul-jinan-al-fatihah-english",
+    title: "Siratul Jinan — Surah Al-Fatihah",
+    subtitle: "English Translation",
+    author: "Mufti Qasim Attari",
+    language: "English",
+    manuscript: "publishing/siratul-jinan-english/manuscript/12-surah-al-fatihah/01-surah-al-fatihah-english-01.md",
   },
   {
     slug: "tadbir-e-falah-w-najat-w-islah-english",
@@ -93,7 +92,6 @@ const editions = [
     subtitle: "English Translation",
     author: "Maktaba-tul-Madina",
     language: "English",
-    status: "Draft — translation in progress",
     manuscript: "publishing/tadbir-e-falah-w-najat-w-islah/english/manuscript",
   },
   {
@@ -102,7 +100,6 @@ const editions = [
     subtitle: "Easy Roman Urdu",
     author: "Maktaba-tul-Madina",
     language: "Roman Urdu",
-    status: "Draft — translation in progress",
     manuscript: "publishing/tadbir-e-falah-w-najat-w-islah/easy-roman-urdu/manuscript",
   },
   {
@@ -111,12 +108,12 @@ const editions = [
     subtitle: "The Missing Peace in the Journey of Life",
     author: "Shaykh Faheem",
     language: "Roman Urdu",
-    status: "Draft — translation in progress",
     manuscript: "publishing/tawakkul-the-missing-peace/manuscript",
   },
 ];
 
 async function markdownFiles(directory) {
+  if (directory.endsWith(".md")) return [directory];
   const entries = await readdir(directory, { withFileTypes: true });
   const files = [];
   for (const entry of entries.sort((a, b) => a.name.localeCompare(b.name))) {
@@ -276,7 +273,18 @@ async function buildEdition(edition) {
   const sections = [];
   for (const file of files) {
     const relativeSource = path.relative(repoRoot, file).split(path.sep).join("/");
-    const parsed = parseMarkdown(await readFile(file, "utf8"), path.basename(file, ".md").replace(/^\d+-/, "").replaceAll("-", " "));
+    let markdown = await readFile(file, "utf8");
+    if (edition.contentStart) {
+      const start = markdown.indexOf(edition.contentStart);
+      if (start < 0) throw new Error(`Could not find content start marker in ${relativeSource}`);
+      markdown = markdown.slice(start);
+    }
+    if (edition.contentEnd) {
+      const end = markdown.indexOf(edition.contentEnd);
+      if (end >= 0) markdown = markdown.slice(0, end);
+    }
+    if (edition.prependMarkdown) markdown = `${edition.prependMarkdown}${markdown}`;
+    const parsed = parseMarkdown(markdown, path.basename(file, ".md").replace(/^\d+-/, "").replaceAll("-", " "));
     if (!parsed.blocks.length && !parsed.title) continue;
     sections.push({
       sectionNo: sections.length + 1,
@@ -295,7 +303,6 @@ async function buildEdition(edition) {
     subtitle: edition.subtitle,
     author: edition.author,
     language: edition.language,
-    editionStatus: edition.status,
     sourceType: "publishing-markdown",
     sections,
   };
@@ -304,4 +311,10 @@ async function buildEdition(edition) {
 }
 
 await mkdir(outputDirectory, { recursive: true });
-for (const edition of editions) await buildEdition(edition);
+const requestedSlugs = process.argv.slice(2);
+const selectedEditions = requestedSlugs.length
+  ? editions.filter((edition) => requestedSlugs.includes(edition.slug))
+  : editions;
+const unknownSlugs = requestedSlugs.filter((slug) => !editions.some((edition) => edition.slug === slug));
+if (unknownSlugs.length) throw new Error(`Unknown edition slug(s): ${unknownSlugs.join(", ")}`);
+for (const edition of selectedEditions) await buildEdition(edition);

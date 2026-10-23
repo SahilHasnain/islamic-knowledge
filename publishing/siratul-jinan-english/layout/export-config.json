@@ -1,0 +1,18 @@
+{
+  "title": "Siratul Jinan — Surah Al-Fatihah",
+  "subtitle": "English Translation",
+  "author": "A group of scholars",
+  "theme": "warm-amber.css",
+  "formats": ["html", "digital-pdf", "epub", "docx"],
+  "pdf": {
+    "format": "A5",
+    "margin": {
+      "top": "17mm",
+      "right": "15mm",
+      "bottom": "18mm",
+      "left": "15mm"
+    },
+    "tagged": true,
+    "outline": true
+  }
+}

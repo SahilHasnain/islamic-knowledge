@@ -88,6 +88,9 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .recent-card { min-width: 0; display: flex; align-items: center; gap: 14px; padding: 14px; border: 1px solid var(--line); background: var(--surface); transition: border-color .2s ease, transform .2s ease; }
 .recent-card:hover { border-color: var(--accent-soft); transform: translateY(-2px); }
 .recent-cover { flex: 0 0 43px; width: 43px; height: 62px; box-shadow: 3px 3px 0 color-mix(in srgb, var(--foreground) 10%, transparent); }
+.recent-card > .book-mark { flex: 0 0 43px; width: 43px; height: 62px; transform: none; box-shadow: 3px 3px 0 color-mix(in srgb, var(--foreground) 10%, transparent); }
+.recent-card > .book-mark:before { inset: 4px; }
+.recent-card > .book-mark span { font-size: 20px; }
 .recent-card-copy { display: grid; gap: 6px; min-width: 0; flex: 1; }
 .recent-card-copy strong { overflow: hidden; color: var(--foreground); font: 15px/1.25 Georgia, "Times New Roman", serif; text-overflow: ellipsis; white-space: nowrap; }
 .recent-card-copy > span:not(.recent-progress) { color: var(--muted); font-size: 9px; }

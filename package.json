@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "build:published-books": "node scripts/build_published_books.mjs",
+    "build:siratul-jinan-fatihah": "node scripts/build_published_books.mjs siratul-jinan-al-fatihah-english",
+    "export:siratul-jinan:fatihah": "node publishing/siratul-jinan-english/tools/export-al-fatihah.mjs",
     "export:ikhteyarate:hindi": "node scripts/export_ikhteyarate_mustafa_hindi.mjs",
     "export:addawatul:json": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs",
     "export:addawatul:json:digital": "node publishing/addawatul-makkiyyah-english-json/tools/export-digital-pdf.mjs"
