@@ -125,7 +125,7 @@ export default function ReaderExperience({ slug, children }: Props) {
         <div className="reader-progress-fill" style={{ transform: `scaleX(${progress / 100})` }} />
       </div>
       <header className="site-header reader-header">
-        <Link className="brand" href="/"><span className="brand-mark">د</span><span>dar al-kutub</span></Link>
+        <Link className="brand" href="/"><span className="brand-mark">د</span><span>Darul Kutub</span></Link>
         <div className="reader-settings">
           <button className="reader-settings-trigger" type="button" aria-expanded={settingsOpen} aria-controls="reader-settings-menu" onClick={() => setSettingsOpen((open) => !open)}>
             <span className="settings-type-icon">Aa</span><span>Reading settings</span><span className="settings-chevron">{settingsOpen ? "⌃" : "⌄"}</span>

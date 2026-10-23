@@ -21,7 +21,7 @@ export default function Home() {
     <main className="home-main min-h-screen bg-background text-foreground">
       <HomeScreenScrollbar />
       <header className="site-header home-header" style={{ position: "fixed", top: 0, left: 0, right: 0, zIndex: 20, backgroundColor: "var(--background)" }}>
-        <Link className="brand" href="/" aria-label="Dar al-Kutub home"><span className="brand-mark">د</span><span>dar al-kutub</span></Link>
+        <Link className="brand" href="/" aria-label="Darul Kutub home"><span className="brand-mark">د</span><span>Darul Kutub</span></Link>
         <span className="header-note">A quiet place for knowledge</span>
         <a className="header-link" href="#collection">The collection <span>↘</span></a>
       </header>
@@ -49,7 +49,7 @@ export default function Home() {
       </section>}
 
       <LibraryCollection books={books} />
-      <footer className="site-footer"><Link className="brand" href="/"><span className="brand-mark">د</span><span>dar al-kutub</span></Link><span>Made for the love of knowledge.</span><a href="#collection">BACK TO TOP ↑</a></footer>
+      <footer className="site-footer"><Link className="brand" href="/"><span className="brand-mark">د</span><span>Darul Kutub</span></Link><p className="footer-note">Made for the love of knowledge. <Link href="/privacy">Privacy policy</Link></p><a href="#collection">BACK TO TOP ↑</a></footer>
     </main>
   );
 }

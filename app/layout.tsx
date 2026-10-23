@@ -4,15 +4,15 @@ import PwaRegistration from "./pwa-registration";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Dar al-Kutub — The Digital Islamic Library",
+  title: "Darul Kutub — The Digital Islamic Library",
   description: "A quiet place to explore a considered collection of Islamic books.",
   icons: {
-    icon: "/twa-icon.svg",
-    shortcut: "/twa-icon.svg",
+    icon: "/icons/icon-192.png",
+    shortcut: "/icons/icon-192.png",
   },
   appleWebApp: {
     capable: true,
-    title: "Dar al-Kutub",
+    title: "Darul Kutub",
     statusBarStyle: "default",
   },
 };

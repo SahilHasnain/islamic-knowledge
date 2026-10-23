@@ -136,6 +136,8 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .site-footer .brand { color: var(--foreground); font-size: 15px; }
 .site-footer .brand-mark { width: 25px; height: 25px; font-size: 15px; }
 .site-footer > a:last-child { color: var(--accent-strong); font-size: 9px; letter-spacing: .12em; }
+.footer-note { margin: 0; color: var(--muted); font-size: 10px; }
+.footer-note a { color: var(--accent-strong); text-decoration: underline; text-decoration-color: var(--accent-soft); text-underline-offset: .18em; }
 
 .reader-header { position: sticky; top: 0; background: var(--background); }
 .reader-progress-track { height: 5px; position: fixed; z-index: 20; top: 0; left: 0; right: 0; background: var(--accent-soft); }
@@ -196,6 +198,24 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
 .reader-end a { display: inline-flex; gap: 13px; margin-top: 13px; color: var(--accent-strong); font-size: 11px; }
 .empty-reader { color: var(--muted); text-align: center; padding: 70px 0; }
 
+.legal-page { display: flex; flex-direction: column; }
+.legal-content { width: min(100%, 760px); margin: 0 auto; padding: 66px 6% 84px; flex: 1; }
+.legal-intro { text-align: center; padding-bottom: 20px; }
+.legal-intro h1 { font: 400 clamp(38px, 5.5vw, 60px)/1.06 Georgia, "Times New Roman", serif; letter-spacing: -2px; margin: 21px 0 16px; }
+.legal-intro h1 em { color: var(--accent); font-weight: 400; }
+.legal-lead { max-width: 540px; margin: 0 auto; color: var(--muted); font: 14px/1.85 Georgia, "Times New Roman", serif; }
+.legal-effective { margin: 20px 0 0; color: var(--accent-strong); font-size: 9px; letter-spacing: .14em; text-transform: uppercase; }
+.legal-section { padding: 30px 0 32px; border-bottom: 1px solid var(--line); }
+.legal-section-heading { display: flex; align-items: baseline; gap: 12px; margin-bottom: 18px; }
+.legal-section-heading > span { color: var(--accent); font: 10px Arial, sans-serif; letter-spacing: .08em; }
+.legal-section-heading h2 { font: 400 24px/1.3 Georgia, "Times New Roman", serif; margin: 0; }
+.legal-body p { margin: 0 0 15px; color: color-mix(in srgb, var(--foreground) 86%, var(--muted)); font: 15px/1.9 Georgia, "Times New Roman", serif; }
+.legal-body p:last-child { margin-bottom: 0; }
+.legal-body strong { color: var(--foreground); font-weight: 600; }
+.legal-list { display: grid; gap: 7px; margin: 0 0 15px; padding-left: 21px; color: color-mix(in srgb, var(--foreground) 86%, var(--muted)); font: 15px/1.8 Georgia, "Times New Roman", serif; }
+.legal-list li::marker { color: var(--accent); }
+.legal-list strong { color: var(--foreground); font-weight: 600; }
+
 @media (min-width: 1440px) { .hero,.collection-section { padding-left: max(7.1%, calc((100% - 1235px) / 2)); padding-right: max(7.1%, calc((100% - 1235px) / 2)); } }
 @media (max-width: 760px) {
   .site-header { height: 64px; padding: 0 6%; }
@@ -227,8 +247,8 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
   .book-mark { transform: scale(.88); }
   .book-card:hover .book-mark { transform: scale(.88) translateY(-5px) rotate(-1deg); }
   .book-card-info h3 { font-size: 17px; }
-  .site-footer { padding: 18px 6%; }
-  .site-footer > span { display: none; }
+  .site-footer { padding: 18px 6%; gap: 12px; flex-wrap: wrap; }
+  .footer-note { order: 3; flex: 1 0 100%; font-size: 9px; }
   .reader-layout { display: block; }
   .reader-header { gap: 8px; padding: 0 4%; }
   .reader-header .brand { gap: 7px; font-size: 16px; white-space: nowrap; }
@@ -252,5 +272,9 @@ html:has(.home-main)::-webkit-scrollbar { display: none; }
   .reader-content { padding: 36px 7% 70px; }
   .reader-intro { padding-bottom: 33px; }
   .reader-block p { font-size: 15px; }
+  .legal-content { padding: 44px 6% 64px; }
+  .legal-section { padding: 25px 0 27px; }
+  .legal-body p,.legal-list { font-size: 14.5px; line-height: 1.85; }
+  .legal-section-heading h2 { font-size: 21px; }
 }
 @media (max-width: 420px) { .book-grid { grid-template-columns: 1fr; }.book-card-art { height: 230px; }.section-heading h2 { font-size: 36px; }.book-count { font-size: 22px; }.recent-grid { grid-template-columns: 1fr; }.recent-card-copy strong { max-width: 220px; } }

@@ -3,8 +3,8 @@ import type { MetadataRoute } from "next";
 export default function manifest(): MetadataRoute.Manifest {
   return {
     id: "/",
-    name: "Dar al-Kutub — The Digital Islamic Library",
-    short_name: "Dar al-Kutub",
+    name: "Darul Kutub — The Digital Islamic Library",
+    short_name: "Darul Kutub",
     description: "A quiet place to explore a considered collection of Islamic books.",
     lang: "en",
     start_url: "/",

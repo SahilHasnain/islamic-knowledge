@@ -8,7 +8,7 @@ bundled/offline copy of the site.
 ## What's prepared
 
 - `web/app/manifest.ts` exposes the PWA manifest at `/manifest.webmanifest`.
-- `web/public/twa-icon.svg` is used for the favicon.
+- Web and Android icons are generated from `public/icon.png` by `scripts/generate-app-icons.py`.
 - `web/public/icons/` contains the matching 192px, 512px, and maskable 512px PNG install icons.
 - A root-scoped service worker provides a small offline page for failed navigations. It does not
   cache book pages or reader data.

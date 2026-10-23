@@ -17,7 +17,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const book = getBook(slug);
-  return { title: book ? `${book.title} — Dar al-Kutub` : "Book not found" };
+  return { title: book ? `${book.title} — Darul Kutub` : "Book not found" };
 }
 
 export default async function BookReader({ params }: Props) {
