@@ -28,6 +28,7 @@ project. It is separate from the literal-transliteration glossary.
 | خوش طبعی | khush-mizaaji | Natural Roman Urdu wording for a cheerful and pleasant nature |
 | کدورتیں | rooh ki mail | Simpler wording for spiritual impurities in easy explanatory prose |
 | اولیاء | Auliya | Preserve this established Islamic term instead of replacing it with `Allah ke mehboob bande` |
+| المسیح الدجال | Maseeh-e-Dajjaal | Use this spelling to distinguish the false messiah from Isa عَلَیْہِ السَّلَام |
 
 ## Decision Log
 
