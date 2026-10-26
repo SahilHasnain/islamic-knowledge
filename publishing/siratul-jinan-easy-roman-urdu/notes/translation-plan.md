@@ -1,5 +1,39 @@
 ﻿# Sirat-ul-Jinan Easy Roman Urdu Adaptation Plan
 
+## Surah Ordering Decision
+
+From the continuation after the currently completed long-surah work, untranslated surahs are
+processed by increasing total number of aayaat; surahs with the same length follow canonical
+surah-number order. Complete surah boundaries take priority over the usual twenty-aayat session
+target.
+
+## Current Status
+
+- **Al-An'am (Surah 6):** In progress; completed through Ayat 6:100. Its remaining aayaat
+  are paused while the untranslated surahs are processed in increasing aayah-count order.
+- **Surah Al-Fatihah (1:1–7):** Completed as an explicit priority before resuming the
+  length-ordered queue; 1:7 is a standalone `tafseerId=null` entry.
+
+Surah Al-'Asr (103:1–3) was completed first among the untranslated three-aayat surahs, with
+standalone `tafseerId=null` entries for 103:2–3. Surah Al-Kawthar (108:1–3) followed, with
+standalone `tafseerId=null` entries for 108:2–3. Both manuscripts were verified for exact
+Arabic, metadata, ordering, and script hygiene.
+
+After Al-Fatihah, the length-ordered queue continued with Al-Kafirun (109:1–6), An-Nas
+(114:1–6), and Al-Ma'un (107:1–7). These manuscripts were completed with standalone
+translation-only entries for every missing tafseer row and verified against QuranDB.
+
+The next eight-aayat group was completed in parallel: Al-Inshirah (94:1–8), At-Tin (95:1–8),
+Al-Bayyinah (98:1–8), Az-Zalzalah (99:1–8), and At-Takathur (102:1–8). All missing tafseer
+rows were added as standalone `tafseerId=null` entries, with exact Arabic, translations,
+metadata, ordering, and script hygiene verified.
+
+Surah Al-Humazah (104:1–9) was then completed, with standalone translation-only entries for
+104:4–9. The next eleven-aayat group was completed in parallel: Al-Jumu'ah (62:1–11),
+Al-Munafiqun (63:1–11), Ad-Duha (93:1–11), Al-'Adiyat (100:1–11), and Al-Qari'ah (101:1–11).
+All missing tafseer rows were added as standalone `tafseerId=null` entries and verified against
+QuranDB for Arabic, metadata, ordering, and script hygiene.
+
 ## Objective
 
 Rewrite the Urdu tafseer of _Sirat-ul-Jinan fi Tafseer-il-Quran_ into simple, readable
