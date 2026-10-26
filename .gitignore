@@ -30,7 +30,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # local publishing references and analysis artifacts
 /publishing/references/
@@ -47,3 +46,4 @@ yarn-error.log*
 __pycache__/
 .opencode
 .next
+config.bat
